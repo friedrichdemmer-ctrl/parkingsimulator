@@ -1,0 +1,22 @@
+id,name,facility_id,hourly_rate_eur,daily_cap_eur,tariff_notes,source_confirmed
+QP01,Apollo,2b72584d-cd01-4c16-a096-362fc0534cd3,3.00,25.00,"Flat €3.00/60min, no day/night variation. Lost-ticket fee €75.",yes
+QP02,Barbarossaplatz (Park One),95eef11f-8e31-485d-8f58-4b22ef92a2f0,4.00,32.00,"Flat €4.00/60min, no variation noted.",yes
+QP03,Cäcilienstraße,1391ae3c-576f-46f4-aef6-0cf945137ae8,1.80,16.00,"Mo-Sa 07:00-19:00: first hour billed in 20-min increments at €0.60 (=€1.80/hr effective), further hours €1.80/60min. Mo-Fr 19:00-07:00 & Sun/holidays: max €4.00, €1.80/60min. Daily cap €16.00 (Tageshöchstgebühr).",yes
+QP04,Carsch-Haus,1082c0d0-908e-40d9-bee5-ee9a01add772,3.50,30.00,"€3.50/60min. Night max tariff (Mo-So 22:00-07:00) capped at €7.00. Lost-ticket fee €90.",yes
+QP05,"Dreicubenhaus, Gartenstraße (Park One)",b5ac4e69-e058-4df0-919e-dddab0c9e5d6,3.50,25.00,"Flat €3.50/60min, no variation noted.",yes
+QP06,düwell,44158f9e-0dbd-4d2f-85dc-388f1a5cd4a5,3.00,30.00,"€3.00/60min (per 24h cap €30). Q-Park App rate identical to standard rate. Lost-ticket fee €90.",yes
+QP07,EUREF Campus,6f2e79d7-1d6c-47ee-b471-ee99b4513eb6,3.00,60.00,"€3.00/60min but unusually high daily cap of €60 (highest of all 21) — likely airport-area / long-stay pricing.",yes
+QP08,Flughafen Bahnhof,c51ddce7-8cb6-490f-b1fe-b7418c641a90,3.00,15.00,"Flat €3.00/60min, daily cap €15.00 (0:00-24:00).",yes
+QP09,Friedrichstraße (Park One),88074e30-666d-4448-844c-2e769456cf67,3.00,24.00,"Flat €3.00/60min, no variation noted.",yes
+QP10,Grafenberger Allee (Park One),8440d27a-cfbf-45e2-8512-aafc6eaf651a,3.00,30.00,"Flat €3.00/60min, no variation noted.",yes
+QP11,Immermannhof (Park One),b8fea7da-5013-4bec-9fb2-7ff64b69b219,3.00,25.00,"Flat €3.00/60min, no variation noted.",yes
+QP12,Kaiserpark,1f0ed47a-279e-49e7-9ad7-fa3e794c7fca,2.20,22.00,"Flat €2.20/60min, daily cap €22.00 (00:00-24:00).",yes
+QP13,Kaufhof Wehrhahn,7a45ef39-6af3-4b2f-aa3b-65efcb744c56,2.50,25.00,"Tiered: 1st hour €2.50, 2nd hour €2.50, each further hour €3.00. Daily cap €25.00. Separate discounted 'Kaufhof-Kunden' tariff: 1st hr €1.00, 2nd hr €2.00, further €3.00/hr. Lost-ticket fee €25.",yes
+QP14,Kirchplatz,03b0ea02-7f42-48a4-8b15-f0634f15b2aa,3.00,24.00,"€3.00/60min. Daily cap €24.00 Mon-Fri, but only €5.50 Sat/Sun (much lower weekend cap). Lost-ticket fee €72.",yes
+QP15,KÖ Galerie,1405ed30-008e-438e-889d-fd2dee2402af,3.50,30.00,"Flat €3.50/60min, no variation noted. Q-Park App rate identical to standard.",yes
+QP16,KÖ59,dbbd98dc-4222-477f-9971-88c16e752860,3.50,40.00,"Flat €3.50/60min, daily cap €40.00 (0:00-24:00). Q-Park App rate identical to standard.",yes
+QP17,Medienhafen / Kino,8c88038d-9b99-4fb4-8150-cace75984a84,2.00,17.00,"€2.00/60min. Night tariff (19:30-07:30) capped at €5.00. Daily cap €17.00. Lost-ticket fee €51.",yes
+QP18,Schlossgarage,62c36edf-f188-4872-8345-aa317cc45ba7,1.50,6.00,"€1.50/60min. No single 24h 'Tageshöchstgebühr' published — instead a day-period max €6.00 (06:00-20:30) and a separate night max €3.00 (20:30-06:00). daily_cap_eur uses the day-period max as closest analog; effective worst-case 24h combined could reach ~€9.",yes
+QP19,Stadtmitte (ehemals Karstadt),6eda7db1-8afa-4ea1-ae65-415f1507b3f5,3.00,18.00,"€3.00/60min. Fri/Sat 10:00-20:00 max €12.00; Sun-Thu 10:00-20:00 max €10.00. Overall daily cap €18.00. (Pre-confirmed in task brief; re-verified here.)",yes
+QP20,Technisches Rathaus,9687b1e1-2d92-4003-99cb-c1771cc99d26,1.70,13.40,"Tiered first hour (06:00-18:00): first 30min €0.70, second 30min €1.00 (=€1.70 for hour 1); each further hour €1.70. Evening (18:00-24:00), night (00:00-06:00), and Sat/Sun/holiday all charged a flat €1.70 per parking session instead. Daily cap €13.40. Lost-ticket fee €30.",yes
+QP21,YORCKS,9b88c09c-8bea-4a48-bbae-598df8e7e27f,3.00,6.50,"€3.00/60min but unusually low daily cap of €6.50 per calendar day (cap reached after ~2.2 hours) — lowest cap-to-rate ratio of all 21, worth spot-checking against the live page.",yes

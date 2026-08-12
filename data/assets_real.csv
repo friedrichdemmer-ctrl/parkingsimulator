@@ -1,0 +1,43 @@
+id,name,operator,lat,lon,capacity,zone,hourly_rate,daily_cap,member_discount_pct,has_app,has_anpr,has_ev,quality_score,address,source_url
+QP01,Apollo,Q-Park,51.2189912,6.7680482,190,neighbourhood,,,,,,,,"Neusserstraße 14, 40213 Düsseldorf",https://www.q-park.de/de-de/staedte/d%C3%BCsseldorf/apollo/
+QP02,Barbarossaplatz (Park One),Q-Park,51.2310925,6.7533686,352,neighbourhood,,,,,,,,"Luegallee 65, 40545 Düsseldorf",https://www.q-park.de/de-de/staedte/d%C3%BCsseldorf/barbarossaplatz/
+QP03,Cäcilienstraße,Q-Park,51.1659473,6.8738241,352,fringe,,,,,,True,,"Cäcilienstraße 30, 40597 Düsseldorf",https://www.q-park.de/de-de/staedte/d%C3%BCsseldorf/c%C3%A4cilienstra%C3%9Fe/
+QP04,Carsch-Haus,Q-Park,51.2241118,6.7760629,524,cbd_core,,,,,,,,"Kasernenstraße 10, 40213 Düsseldorf",https://www.q-park.de/de-de/staedte/d%C3%BCsseldorf/carsch-haus/
+QP05,Dreicubenhaus | Gartenstraße (Park One),Q-Park,51.2314309,6.7811321,300,neighbourhood,,,,,,True,,"Gartenstraße 2, 40479 Düsseldorf","https://www.q-park.de/de-de/staedte/d%C3%BCsseldorf/dreicubenhaus-,-p-,gartenstra%C3%9Fe/"
+QP06,düwell,Q-Park,51.2210608,6.7808771,464,cbd_core,,,,,,,,"Grünstraße 15, 40212 Düsseldorf",https://www.q-park.de/de-de/staedte/d%C3%BCsseldorf/d%C3%BCwell/
+QP07,EUREF Campus,Q-Park,51.2911893,6.7884689,687,fringe,,,,,,,,"Ahrensplatz, 40472 Düsseldorf",https://www.q-park.de/de-de/staedte/d%C3%BCsseldorf/euref-campus/
+QP08,Flughafen Bahnhof,Q-Park,51.2911893,6.7884689,228,fringe,,,,,,,,"Ahrensplatz, 40472 Düsseldorf",https://www.q-park.de/de-de/staedte/d%C3%BCsseldorf/flughafen-bahnhof/
+QP09,Friedrichstraße (Park One),Q-Park,51.2154993,6.7774135,388,neighbourhood,,,,,,,,"Herzogstraße 15, 40217 Düsseldorf",https://www.q-park.de/de-de/staedte/d%C3%BCsseldorf/friedrichstra%C3%9Fe/
+QP10,Grafenberger Allee (Park One),Q-Park,51.2305490,6.8001087,56,neighbourhood,,,,,,,,"Grafenberger Allee 56, 40237 Düsseldorf",https://www.q-park.de/de-de/staedte/d%C3%BCsseldorf/grafenberger-allee/
+QP11,Immermannhof (Park One),Q-Park,51.2217636,6.7910114,300,cbd_east_station,,,,,,True,,"Karlstraße 76, 40210 Düsseldorf",https://www.q-park.de/de-de/staedte/d%C3%BCsseldorf/immermannhof/
+QP12,Kaiserpark,Q-Park,51.2381918,6.7770774,332,fringe,,,,,,True,,"Kaiserswerther Straße 26, 40477 Düsseldorf",https://www.q-park.de/de-de/staedte/d%C3%BCsseldorf/kaiserpark/
+QP13,Kaufhof Wehrhahn,Q-Park,51.2252536,6.7883675,437,cbd_core,,,,,,,,"Oststraße 19, 40211 Düsseldorf",https://www.q-park.de/de-de/staedte/d%C3%BCsseldorf/kaufhof-wehrhahn/
+QP14,Kirchplatz,Q-Park,51.2136033,6.7761212,345,neighbourhood,,,,,,True,,"Fürstenwall 111, 40217 Düsseldorf",https://www.q-park.de/de-de/staedte/d%C3%BCsseldorf/kirchplatz/
+QP15,KÖ Galerie,Q-Park,51.2214705,6.7818628,794,cbd_core,,,,,,,,"Grünstraße 10, 40212 Düsseldorf",https://www.q-park.de/de-de/staedte/d%C3%BCsseldorf/k%C3%B6-galerie/
+QP16,KÖ59,Q-Park,51.2237277,6.7770550,307,cbd_core,,,,,,,,"Breite Straße 40, 40213 Düsseldorf",https://www.q-park.de/de-de/staedte/d%C3%BCsseldorf/k%C3%B659/
+QP17,Medienhafen / Kino,Q-Park,51.2134631,6.7517716,455,neighbourhood,,,,,,,,"Zollhof 30, 40221 Düsseldorf",https://www.q-park.de/de-de/staedte/d%C3%BCsseldorf/medienhafen-/-kino/
+QP18,Schlossgarage,Q-Park,51.1616747,6.8751882,210,fringe,,,,,,,,"Paulistraße 12, 40597 Düsseldorf",https://www.q-park.de/de-de/staedte/d%C3%BCsseldorf/schlossgarage/
+QP19,Stadtmitte (ehemals Karstadt),Q-Park,51.2260927,6.7874034,519,cbd_core,,,,,,,,"Liesegangstraße 14, 40211 Düsseldorf",https://www.q-park.de/de-de/staedte/d%C3%BCsseldorf/stadtmitte/
+QP20,Technisches Rathaus,Q-Park,51.2031595,6.7869092,77,fringe,,,,,,,,"Brinckmannstraße 5, 40225 Düsseldorf",https://www.q-park.de/de-de/staedte/d%C3%BCsseldorf/technisches-rathaus/
+QP21,YORCKS,Q-Park,51.2451445,6.7928207,392,fringe,,,,,,,,"Yorckstraße 29, 40476 Düsseldorf",https://www.q-park.de/de-de/staedte/d%C3%BCsseldorf/yorcks/
+AP01,Tiefgarage Fürstenwall,APCOA,51.2159288,6.7650896,194,neighbourhood,3.00,25.00,,,,,,"Fürstenwall 23, 40219 Düsseldorf",https://www.apcoa.de/einmal-parken/standorte/duesseldorf/fuerstenwall
+AP02,Tiefgarage Dieterich-Karree,APCOA,51.2364152,6.7833616,644,fringe,2.20,20.00,,,,,,"Nettelbeckstraße 8, 40477 Düsseldorf",https://www.apcoa.de/einmal-parken/standorte/duesseldorf/dieterich-karree
+AP03,Sevens,APCOA,51.2226251,6.7799959,294,cbd_core,3.50,30.00,,,,,,"Königsallee 56, 40212 Düsseldorf",https://www.apcoa.de/einmal-parken/standorte/duesseldorf/sevens
+AP04,Deutsch Japanisches Center,APCOA,51.2226055,6.7892761,580,cbd_east_station,3.80,30.00,,,,True,,"Immermannstraße 45, 40210 Düsseldorf",https://www.apcoa.de/einmal-parken/standorte/duesseldorf/deutsch-japanisches-center
+AP05,Kö-Bogen,APCOA,51.2270690,6.7810536,405,cbd_core,3.20,33.00,,,,,,"Königsallee 2, 40212 Düsseldorf",https://www.apcoa.de/einmal-parken/standorte/duesseldorf/koe-bogen
+AP06,KII / Schauspielhaus,APCOA,51.2281900,6.7834904,668,cbd_core,3.59,30.99,,,,True,,"Gustaf-Gründgens-Platz, 40211 Düsseldorf",https://www.apcoa.de/einmal-parken/standorte/duesseldorf/kii-/-schauspielhaus
+AP07,Hotel-Trio am Hauptbahnhof,APCOA,51.2191396,6.7910094,237,cbd_east_station,4.09,39.99,,,,True,,"Harkortstraße 14a, 40210 Düsseldorf",https://www.apcoa.de/einmal-parken/standorte/duesseldorf/hotel-trio-am-hauptbahnhof
+AP08,Medical Center Düsseldorf,APCOA,51.2347233,6.8208559,296,fringe,3.50,35.00,,,,True,,"Luise-Rainer-Straße 6-10, 40235 Düsseldorf",https://www.apcoa.de/einmal-parken/standorte/duesseldorf/medical-center-duesseldorf
+CP01,Parkhaus Bendemannstraße,Contipark,51.2231500,6.7918498,340,cbd_east_station,3.20,24.00,,,,,,"Bendemannstraße 5, 40210 Düsseldorf",https://www.contipark.de/de/parken/duesseldorf/parkhaus-bendemannstrasse/
+CP02,Parkhaus Düsseldorf Arcaden,Contipark,51.2089626,6.7735023,832,neighbourhood,1.60,13.00,,,,,,"Bachstraße 141, 40217 Düsseldorf",https://www.contipark.de/de/parken/duesseldorf/parkhaus-duesseldorf-arcaden/
+CP03,Parkhaus Grupellostraße,Contipark,51.2202178,6.7885926,154,cbd_east_station,3.20,24.00,,,,,,"Grupellostraße 34, 40210 Düsseldorf",https://www.contipark.de/de/parken/duesseldorf/parkhaus-grupellostrasse/
+CP04,Parkhaus Hauptbahnhof P3,Contipark,51.2174572,6.7937566,558,cbd_east_station,3.20,26.00,,,,,,"Willi-Becker-Allee, 40227 Düsseldorf",https://www.contipark.de/de/parken/duesseldorf/parkhaus-hauptbahnhof-p3/
+CP05,Parkplatz Hauptbahnhof Uhrenturm P2,Contipark,51.2193828,6.7941702,32,cbd_east_station,5.00,33.00,,,,True,,"Konrad-Adenauer-Platz 14, 40227 Düsseldorf",https://www.contipark.de/de/parken/duesseldorf/parkplatz-hauptbahnhof-uhrenturm-p2/
+CP06,Parkplatz Hauptbahnhof Vorplatz P1,Contipark,51.2195721,6.7912116,34,cbd_east_station,5.00,33.00,,,,,,"Konrad-Adenauer-Platz 13-14, 40227 Düsseldorf",https://www.contipark.de/de/parken/duesseldorf/parkplatz-hauptbahnhof-vorplatz-p1-duesseldorf/
+CP07,Tiefgarage Altstadt Rheinufer,Contipark,51.2233086,6.7690122,964,cbd_core,5.00,42.00,,,,True,,"Rheinufertunnel, 40213 Düsseldorf",https://www.contipark.de/de/parken/duesseldorf/tiefgarage-altstadt-rheinufer/
+CP08,Tiefgarage Fürstenplatz Quartiersgarage,Contipark,51.2135684,6.7858141,216,neighbourhood,,,,,,,,"Fürstenplatz 17a, 40215 Düsseldorf",https://www.contipark.de/de/parken/duesseldorf/tiefgarage-fuerstenplatz-quartiersgarage/
+CP09,Tiefgarage Leo-Statz-Platz Quartiersgarage,Contipark,51.2143735,6.7695831,183,neighbourhood,,,,,,,,"Fürstenwall 74a, 40219 Düsseldorf",https://www.contipark.de/de/parken/duesseldorf/tiefgarage-leo-statz-platz-quartiersgarage/
+CP10,Tiefgarage Momentum,Contipark,51.2273600,6.7899062,488,cbd_core,3.00,19.00,,,,True,,"Oststraße 10, 40211 Düsseldorf",https://www.contipark.de/de/parken/duesseldorf/tiefgarage-momentum/
+BB01,Parkhaus Scheibenstraße,B+B Parkhaus,51.2349156,6.7773830,190,neighbourhood,2.60,28.00,,,,True,,"Scheibenstraße 2, 40479 Düsseldorf",https://www.bb-parkhaus.de/staedte/duesseldorf/parkhaus-scheibenstrasse
+BB02,Parkhaus Ratinger Tor,B+B Parkhaus,51.2299707,6.7764996,245,cbd_core,3.20,30.00,,,,True,,"Ratinger Straße 50, 40213 Düsseldorf",https://www.bb-parkhaus.de/staedte/duesseldorf/parkhaus-ratinger-tor
+BB03,Parkhaus Konkordiastraße,B+B Parkhaus,51.2143477,6.7679049,205,neighbourhood,,,,,,True,,"Konkordiastraße 49, 40219 Düsseldorf",https://www.bb-parkhaus.de/staedte/duesseldorf/parkhaus-konkordiastrasse
