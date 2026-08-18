@@ -24,7 +24,12 @@ def build_scenarios():
         segment_demand_multiplier={"ev_driver": 1.8, "commuter": 0.9},
     )
 
-    return [baseline, price_up, regulation_shock]
+    capacity_shock_cbd = ScenarioOverlay(
+        name="capacity_shock_cbd",
+        capacity_multiplier_by_zone={"cbd_core": 0.7},
+    )
+
+    return [baseline, price_up, regulation_shock, capacity_shock_cbd]
 
 
 def print_kpis(kpis):

@@ -32,6 +32,16 @@
       "total_capacity": 15468,
       "revenue_per_space": 14.31,
       "garages": 42
+    },
+    {
+      "scenario": "capacity_shock_cbd",
+      "revenue": 226444.29,
+      "sessions": 15148,
+      "abandoned": 0,
+      "avg_occupancy_pct": 34.57,
+      "total_capacity": 13638,
+      "revenue_per_space": 16.6,
+      "garages": 42
     }
   ],
   "zone_breakdown": {
@@ -87,6 +97,24 @@
       "cbd_core": {
         "revenue": 94627.07,
         "sessions": 6905
+      }
+    },
+    "capacity_shock_cbd": {
+      "cbd_east_station": {
+        "revenue": 48414.91,
+        "sessions": 2627
+      },
+      "neighbourhood": {
+        "revenue": 58859.74,
+        "sessions": 4303
+      },
+      "fringe": {
+        "revenue": 21333.45,
+        "sessions": 2124
+      },
+      "cbd_core": {
+        "revenue": 97836.19,
+        "sessions": 6094
       }
     }
   }
