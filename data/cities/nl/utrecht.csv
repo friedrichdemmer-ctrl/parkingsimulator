@@ -1,0 +1,42 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Galgenwaard,Q-Park,52.078431,5.14378,1008,3.6,31.5,True,"Herculesplein 290, 3584 AA Utrecht",https://www.q-park.nl/nl-nl/parkeren/utrecht/galgenwaard/
+QP02,Galgenwaard Noord,Q-Park,52.07887,5.146519,248,3.6,31.5,,"Herculesplein 241, 3584 AA Utrecht",https://www.q-park.nl/nl-nl/parkeren/utrecht/galgenwaard-noord/
+QP03,Galgenwaard West,Q-Park,52.07847,5.14394,151,,,,"Herculesplein t.h.v. 357, 3584 AA Utrecht",https://www.q-park.nl/nl-nl/parkeren/utrecht/galgenwaard-west/
+QP04,La Vie,Q-Park,52.094072,5.114951,344,6.0,52.5,True,"Sint Jacobsstraat 1, 3511 BR Utrecht",https://www.q-park.nl/nl-nl/parkeren/utrecht/la-vie/
+GU01,Berlijnplein,Gemeente Utrecht,52.0976918,5.0690244,620,3.0,30.03,True,"Berlijnplein 4, 3541 CM Utrecht",https://www.utrecht.nl/wonen-en-leven/parkeren/bezoeker/parkeergarages-in-utrecht
+GU02,Croeselaan,Gemeente Utrecht,52.0870796,5.1079064,778,5.08,50.8,True,"Croeselaan 14P, 3521 CA Utrecht",https://www.utrecht.nl/wonen-en-leven/parkeren/bezoeker/parkeergarages-in-utrecht
+GU03,De Grifthoek,Gemeente Utrecht,52.0985032,5.1259555,320,2.85,28.53,True,"Wittevrouwensingel 96, 3514 AL Utrecht",https://www.utrecht.nl/wonen-en-leven/parkeren/bezoeker/parkeergarages-in-utrecht
+GU04,Kop van Lombok,Gemeente Utrecht,52.0924996,5.1039946,230,3.58,35.79,True,"Vleutenseweg 44, 3532 HL Utrecht",https://www.utrecht.nl/wonen-en-leven/parkeren/bezoeker/parkeergarages-in-utrecht
+GU05,Kruisstraat,Gemeente Utrecht,52.0937908,5.1292996,105,4.68,46.8,True,"Kruisstraat 2, 3581 GK Utrecht",https://www.utrecht.nl/wonen-en-leven/parkeren/bezoeker/parkeergarages-in-utrecht
+GU06,Springweg,Gemeente Utrecht,52.0889707,5.1204337,410,7.12,71.23,,"Strosteeg 83, 3510 VK Utrecht",https://www.utrecht.nl/wonen-en-leven/parkeren/bezoeker/parkeergarages-in-utrecht
+GU07,Vaartsche Rijn,Gemeente Utrecht,52.0781908,5.1233862,224,3.58,35.79,True,"Baden Powellweg 103, 3523 CA Utrecht",https://www.utrecht.nl/wonen-en-leven/parkeren/bezoeker/parkeergarages-in-utrecht
+PB01,Courtyard Orteliuslaan,ParkBee,52.066829,5.0834,,,,,"Orteliuslaan 1000, 3528 BD Utrecht",https://parkbee.com/en/city/utrecht
+PB02,Da Costakade,ParkBee,52.07988,5.116129,,,,True,"Da Costakade 45, 3521 VS Utrecht",https://parkbee.com/en/city/utrecht
+PB03,Daalseplein 101,ParkBee,52.093425,5.108022,,,,,"Daalseplein 101, 3511 SX Utrecht",https://parkbee.com/en/city/utrecht
+PB04,Daalsesingel A,ParkBee,52.09389,5.10916,,,,,"Knipstraat 9, 3511 SX Utrecht",https://parkbee.com/en/city/utrecht
+PB05,Daalsesingel B,ParkBee,52.093763,5.109174,,,,,"Knipstraat 1, 3511 SX Utrecht",https://parkbee.com/en/city/utrecht
+PB06,Daltonlaan,ParkBee,52.087144,5.160712,,,,,"Daltonlaan 300, 3584 BK Utrecht",https://parkbee.com/en/city/utrecht
+PB07,De Goeman,ParkBee,52.103148,5.114141,,,,,"Goeman Borgesiuslaan 77, 3515 ET Utrecht",https://parkbee.com/en/city/utrecht
+PB08,Euclideslaan,ParkBee,52.089912,5.148952,,,,,"Euclideslaan 1, 3584 BL Utrecht",https://parkbee.com/en/city/utrecht
+PB09,Franz Lisztplantsoen,ParkBee,52.084815,5.096413,,,,,"Franz-Lisztplantsoen 100, 3533 JG Utrecht",https://parkbee.com/en/city/utrecht
+PB10,Groeneweg,ParkBee,52.093682,5.090764,,,,,"Groeneweg 2, 3533 VE Utrecht",https://parkbee.com/en/city/utrecht
+PB11,Hengeveldstraat,ParkBee,52.102586,5.131625,,,,,"Hengeveldstraat 130, 3572KJ Utrecht",https://parkbee.com/en/city/utrecht
+PB12,Hondiuslaan,ParkBee,52.06592,5.079834,,,,,"Hondiuslaan 40-46, 3528 AB Utrecht",https://parkbee.com/en/city/utrecht
+PB13,Jansdam,ParkBee,52.092589,5.12275,,,,,"Jansdam 14, 3512 HA Utrecht",https://parkbee.com/en/city/utrecht
+PB14,Janssoniuslaan,ParkBee,52.065171,5.082884,,,,,"Janssoniuslaan 71, 3528 AH Utrecht",https://parkbee.com/en/city/utrecht
+PB15,Knipstraat,ParkBee,52.09427,5.10966,,,,,"Daalsesingel 9, 3511 SX Utrecht",https://parkbee.com/en/city/utrecht
+PB16,Kroonstraat,ParkBee,52.095599,5.111874,,,,,"Kroonstraat, 3511 RV Utrecht",https://parkbee.com/en/city/utrecht
+PB17,Lange Nieuwstraat,ParkBee,52.085266,5.124451,,,,,"Lange Nieuwstraat 119, 3512 PG Utrecht",https://parkbee.com/en/city/utrecht
+PB18,Nieuwe Vaart,ParkBee,52.080631,5.119611,,,,,"Arthur van Schendelstraat 500, 3511 MH Utrecht",https://parkbee.com/en/city/utrecht
+PB19,Oudlaan,ParkBee,52.103594,5.113822,,,,,"Oudlaan, 3515GA Utrecht",https://parkbee.com/en/city/utrecht
+PB20,Parking Wisselspoor,ParkBee,52.099491,5.098281,,,,,"Concordiastraat 80, 3551 EM Utrecht",https://parkbee.com/en/city/utrecht
+PB21,Pythagoraslaan A,ParkBee,52.0916,5.151315,,,,,"Pythagoraslaan 18, 3584BB Utrecht",https://parkbee.com/en/city/utrecht
+PB22,Pythagoraslaan B,ParkBee,52.091749,5.150523,,,,,"Pythagoraslaan 18, 3584 BB Utrecht",https://parkbee.com/en/city/utrecht
+PB23,Rotsoord,ParkBee,52.073421,5.120802,,,,,"Rotsoord 19, 3523 CL Utrecht",https://parkbee.com/en/city/utrecht
+PB24,Van Heuven Goedhartplein,ParkBee,52.080044,5.091059,,,,,"Van Heuven Goedhartplein 695, 3527 DZ Utrecht",https://parkbee.com/en/city/utrecht
+PB25,Van Lieflandlaan,ParkBee,52.10684,5.118101,,,,,"Van Lieflandlaan 3, 3571 AA Utrecht",https://parkbee.com/en/city/utrecht
+PB26,Van Weerden Poelmanlaan,ParkBee,52.079895,5.093101,,,,,"Van Weerden Poelmanlaan 184, 3527 KT Utrecht",https://parkbee.com/en/city/utrecht
+PB27,Weg der Verenigde Naties,ParkBee,52.084898,5.096672,,,,,"Weg der verenigde naties 1, 3527 KT Utrecht",https://parkbee.com/en/city/utrecht
+PB28,Westerdijk,ParkBee,52.099487,5.110805,,,,,"Westerdijk 12A, 3513 EW Utrecht",https://parkbee.com/en/city/utrecht
+PB29,Winthontlaan 30,ParkBee,52.056715,5.104125,,,,,"Winthontlaan 30, 3526KV Utrecht",https://parkbee.com/en/city/utrecht
+PB30,Wolvenplein,ParkBee,52.097013,5.125764,,,,,"Wolvenplein 27, 3512 CK Utrecht",https://parkbee.com/en/city/utrecht

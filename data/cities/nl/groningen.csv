@@ -1,0 +1,25 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Oosterpoort,Q-Park,53.213752,6.574809,268,3.95,19.50,,"Trompsingel 23, 9724 DA Groningen",https://www.q-park.nl/nl-nl/parkeren/groningen/oosterpoort/
+QP02,Rademarkt,Q-Park,53.215336,6.571788,359,,27.00,True,"Rademarkt 27, 9711 CS Groningen",https://www.q-park.nl/nl-nl/parkeren/groningen/rademarkt/
+QP03,Museum Centrum,Q-Park,53.214154,6.567052,222,4.09,23.00,True,"Herepoortenmolendrift 2, 9711 DG Groningen",https://www.q-park.nl/nl-nl/parkeren/groningen/museum-centrum/
+QP04,P+R Hoofdstation,Q-Park,53.211584,6.560898,258,3.69,21.00,,"Cascade, 9726 AD Groningen",https://www.q-park.nl/nl-nl/parkeren/groningen/p-r-hoofdstation/
+QP05,Ossenmarkt,Q-Park,53.221705,6.563257,320,,28.00,True,"Spilsluizen 25, 9712 NR Groningen",https://www.q-park.nl/nl-nl/parkeren/groningen/ossenmarkt/
+QP06,Westerhaven,Q-Park,53.214630,6.556392,734,4.29,24.00,True,"Westerhaven 17, 9718 AC Groningen",https://www.q-park.nl/nl-nl/parkeren/groningen/westerhaven/
+PB01,Emmaplein 5,ParkBee,53.212828,6.562656,,,,True,"Emmaplein 5, 9711 AP Groningen",https://parkbee.com/en/city/groningen
+PB02,Steenhouwerskade,ParkBee,53.214381,6.557191,,,,,"Steenhouwerskade 22, 9718 DH Groningen",https://parkbee.com/en/city/groningen
+PB03,Lissabonstraat,ParkBee,53.214701,6.555228,,,,,"Lissabonstraat 168, 9718 AV Groningen",https://parkbee.com/en/city/groningen
+PB04,Damstersingel,ParkBee,53.217628,6.580008,,,,,"Damstersingel 6, 9713 EV Groningen",https://parkbee.com/en/city/groningen
+PB05,Eendrachtskade,ParkBee,53.213874,6.555059,,,,,"Eendrachtskade 2, 9726 CW Groningen",https://parkbee.com/en/city/groningen
+PB06,Barkmolenstraat,ParkBee,53.214967,6.581114,,,,True,"Barkmolenstraat 239, 9723 DG Groningen",https://parkbee.com/en/city/groningen
+PB07,Theodorus Niemeyerstraat,ParkBee,53.211084,6.557554,,,,,"Theodorus Niemeyerstraat 1, 9726 CE Groningen",https://parkbee.com/en/city/groningen
+PB08,Hoendiep,ParkBee,53.214952,6.547652,,,,,"Hoendiep 1, 9718 TA Groningen",https://parkbee.com/en/city/groningen
+PB09,Koeriersterweg,ParkBee,53.209823,6.552796,,,,,"Koeriersterweg 26, 9727 AC Groningen",https://parkbee.com/en/city/groningen
+PB10,Oosterhamrikkade,ParkBee,53.230219,6.578166,,,,,"Oosterhamrikkade 103-107, 9713 KC Groningen",https://parkbee.com/en/city/groningen
+PB11,Damsport,ParkBee,53.192994,6.556167,,,,,"Damsport 199, 9728 PS Groningen",https://parkbee.com/en/city/groningen
+GG01,Damsterdiep,Gemeente Groningen,53.218019,6.577161,508,3.33,22.00,True,"Damsterplein 5, 9711 SX Groningen",https://www.parkeren050.nl/parkeren-groningen/parkeergarage-damsterdiep
+GG02,Boterdiep,Gemeente Groningen,53.223885,6.565069,1200,3.00,16.00,True,"Boterdiep 85, 9712 LT Groningen",https://www.parkeren050.nl/parkeren-groningen/parkeergarage-boterdiep
+GG03,Circus,Gemeente Groningen,53.227108,6.562181,300,2.61,12.00,True,"Korreweg 9, 9714 AA Groningen",https://www.parkeren050.nl/parkeren-groningen/parkeergarage-circus
+GG04,Euroborg,Gemeente Groningen,53.206966,6.592262,919,2.14,20.00,True,"Boumaboulevard 115, 9723 ZS Groningen",https://www.parkeren050.nl/parkeren-groningen/parkeergarage-euroborg
+GG05,Station Europapark,Gemeente Groningen,53.205624,6.585823,216,2.14,20.00,True,"Verlengde Lodewijkstraat 300, 9723 AK Groningen",https://www.parkeren050.nl/parkeren-groningen/parkeergarage-station-europapark
+IP01,Forum,Interparking,53.219192,6.570766,382,4.00,24.00,True,"Schoolstraat 16, 9712 JS Groningen",https://www.interparking.nl/en/parkings/groningen/forum/
+IP02,Bios,Interparking,53.214361,6.566565,90,2.20,22.00,,"Ruiterstraat 12, 9711 CD Groningen",https://www.interparking.nl/en/parkings/groningen/biosparking/

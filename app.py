@@ -10,17 +10,36 @@ from src.geo import haversine_km
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 CITIES_DIR = os.path.join(DATA_DIR, "cities")
+DE_DIR = os.path.join(CITIES_DIR, "de")
+NL_DIR = os.path.join(CITIES_DIR, "nl")
 
-CITIES = {
-    "Düsseldorf": os.path.join(DATA_DIR, "assets.csv"),
-    "Berlin": os.path.join(CITIES_DIR, "berlin.csv"),
-    "Frankfurt": os.path.join(CITIES_DIR, "frankfurt.csv"),
-    "Hamburg": os.path.join(CITIES_DIR, "hamburg.csv"),
-    "Hannover": os.path.join(CITIES_DIR, "hannover.csv"),
-    "Köln": os.path.join(CITIES_DIR, "koeln.csv"),
-    "München": os.path.join(CITIES_DIR, "muenchen.csv"),
-    "Nürnberg": os.path.join(CITIES_DIR, "nuernberg.csv"),
-    "Stuttgart": os.path.join(CITIES_DIR, "stuttgart.csv"),
+COUNTRIES = {
+    "Germany": {
+        "Düsseldorf": os.path.join(DATA_DIR, "assets.csv"),
+        "Berlin": os.path.join(DE_DIR, "berlin.csv"),
+        "Frankfurt": os.path.join(DE_DIR, "frankfurt.csv"),
+        "Hamburg": os.path.join(DE_DIR, "hamburg.csv"),
+        "Hannover": os.path.join(DE_DIR, "hannover.csv"),
+        "Köln": os.path.join(DE_DIR, "koeln.csv"),
+        "München": os.path.join(DE_DIR, "muenchen.csv"),
+        "Nürnberg": os.path.join(DE_DIR, "nuernberg.csv"),
+        "Stuttgart": os.path.join(DE_DIR, "stuttgart.csv"),
+    },
+    "Netherlands": {
+        "Amsterdam": os.path.join(NL_DIR, "amsterdam.csv"),
+        "Rotterdam": os.path.join(NL_DIR, "rotterdam.csv"),
+        "Den Haag": os.path.join(NL_DIR, "denhaag.csv"),
+        "Utrecht": os.path.join(NL_DIR, "utrecht.csv"),
+        "Eindhoven": os.path.join(NL_DIR, "eindhoven.csv"),
+        "Groningen": os.path.join(NL_DIR, "groningen.csv"),
+        "Breda": os.path.join(NL_DIR, "breda.csv"),
+        "Nijmegen": os.path.join(NL_DIR, "nijmegen.csv"),
+        "Arnhem": os.path.join(NL_DIR, "arnhem.csv"),
+        "Maastricht": os.path.join(NL_DIR, "maastricht.csv"),
+        "Zwolle": os.path.join(NL_DIR, "zwolle.csv"),
+        "Den Bosch": os.path.join(NL_DIR, "denbosch.csv"),
+        "Enschede": os.path.join(NL_DIR, "enschede.csv"),
+    },
 }
 
 NEIGHBOR_RADIUS_KM = 0.5
@@ -147,8 +166,16 @@ def format_price(v):
 
 st.title("Parking Competitive Analysis")
 
-city = st.selectbox("City", list(CITIES.keys()), index=0)
-garages_df = load_garages(CITIES[city])
+country_col, city_col = st.columns(2)
+with country_col:
+    country = st.selectbox("Country", list(COUNTRIES.keys()), index=0)
+cities_in_country = COUNTRIES[country]
+if not cities_in_country:
+    st.info(f"No cities researched yet for {country}.")
+    st.stop()
+with city_col:
+    city = st.selectbox("City", list(cities_in_country.keys()), index=0)
+garages_df = load_garages(cities_in_country[city])
 garages_df["_size"] = bubble_sizes(garages_df["capacity"])
 
 total_capacity = garages_df["capacity"].sum()

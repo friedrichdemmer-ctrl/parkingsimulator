@@ -1,0 +1,12 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Triavium,Q-Park,51.821986,5.789065,466,2.4,9.5,,"Van Rosenburgweg 2, 6537 TM Nijmegen",https://www.q-park.nl/nl-nl/parkeren/nijmegen/triavium/
+QP02,P+R Eerste Oude Heselaan,Q-Park,51.844697,5.851244,90,1.5,8.5,,"Eerste Oude Heselaan, 6541 PA Nijmegen",https://www.q-park.nl/nl-nl/parkeren/nijmegen/p-r-eerste-oude-heselaan/
+GN01,Keizer Karel,Gemeente Nijmegen,51.842478,5.857364,684,3.9,16,,"Van Schaeck Mathonsingel 22, 6512 AR Nijmegen",https://www.nijmegen.nl/diensten/parkeren-verkeer-en-vervoer/parkeergarages/
+GN02,Eiermarkt,Gemeente Nijmegen,51.847448,5.866588,350,3.9,16,True,"Eiermarkt 20, 6511 TP Nijmegen",https://www.nijmegen.nl/diensten/parkeren-verkeer-en-vervoer/parkeergarages/
+GN03,Kelfkensbos,Gemeente Nijmegen,51.846398,5.870452,600,3.9,,True,"Voerweg 2, 6511 RT Nijmegen",https://www.nijmegen.nl/diensten/parkeren-verkeer-en-vervoer/parkeergarages/
+GN04,Mariënburg,Gemeente Nijmegen,51.844839,5.866103,300,3.9,16,,"Arsenaalgas 8, 6511 PE Nijmegen",https://www.nijmegen.nl/diensten/parkeren-verkeer-en-vervoer/parkeergarages/
+GN05,Dukenburg,Gemeente Nijmegen,51.82235,5.795843,740,,7.5,True,"Zwanenveld 6626, 6538 RZ Nijmegen",https://www.nijmegen.nl/diensten/parkeren-verkeer-en-vervoer/parkeergarages/
+GN06,Casino,Gemeente Nijmegen,51.84862,5.867863,,3.1,11,,"Groene Balkon 1, 6511 VL Nijmegen",https://www.nijmegen.nl/diensten/parkeren-verkeer-en-vervoer/parkeergarages/
+PB01,Guesthouse Vertoef,ParkBee,51.843416,5.857599,,,,,"Nassausingel 3, 6511 EV Nijmegen",https://parkbee.com/en/city/nijmegen
+PB02,Van Trieststraat,ParkBee,51.840475,5.85956,,,,True,"Van Trieststraat 2-10, 6512 CX Nijmegen",https://parkbee.com/en/city/nijmegen
+PY01,Lentse Plas,ParkingYou,51.8798408,5.8615081,335,3.3,21.5,,"Willem van Arenbergstraat 4, 6515 AT Nijmegen",https://parkingyou.nl/en/locaties/regio-gelderland/parking-lentse-plas/id=59

@@ -1,0 +1,12 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Centrum,Q-Park,51.58571,4.772487,360,,21.00,True,"Markendaalseweg 62, 4811 KC Breda",https://www.q-park.nl/nl-nl/parkeren/breda/centrum/
+QP02,P+R Station,Q-Park,51.59614,4.7774,720,3.29,18.50,True,"Stationslaan, 4811 BN Breda",https://www.q-park.nl/nl-nl/parkeren/breda/p-r-station/
+QP03,P+R Stationsweg,Q-Park,51.595068,4.781971,89,3.95,22.50,,"Stationsweg, 4811 EH Breda",https://www.q-park.nl/nl-nl/parkeren/breda/p-r-stationsweg/
+IP01,Barones,Interparking,51.5873816,4.7725040,510,2.36,14.00,True,"Nieuweweg 79, 4811 KA Breda",https://www.breda.nl/parkeergarage-barones
+IP02,Chassé Parking,Interparking,51.5866597,4.7832781,620,2.36,14.00,True,"Coulissen 2, 4811 DX Breda",https://www.breda.nl/parkeergarage-chasse-parking
+IP03,Oranje Zuid,Interparking,51.5843340,4.7755108,455,2.36,14.00,True,"Concordiastraat 13, 4811 NA Breda",https://www.breda.nl/parkeergarage-oranje-zuid
+IP04,Het Turfschip,Interparking,51.5893385,4.7851819,600,2.36,14.00,True,"Chasséveld 15c, 4811 DH Breda",https://www.breda.nl/parkeergarage-het-turfschip
+IP05,De Prins,Interparking,51.5910607,4.7703855,470,2.36,14.00,True,"Middellaan 60, 4811 VM Breda",https://www.breda.nl/parkeergarage-de-prins
+PB01,Nieuwe Leuvenaarstraat,ParkBee,51.588706,4.766937,,,,,"Nieuwe Leuvenaarstraat 225, 4811 VJ Breda",https://parkbee.com/en/city/breda
+PB02,Emmastraat,ParkBee,51.594243,4.77847,,,,,"Emmastraat 2-6, 4811 AG Breda",https://parkbee.com/en/city/breda
+PB03,Smederijstraat,ParkBee,51.5910762,4.7655439,,,,True,"Smederijstraat 2, 4814 AB Breda",https://parkbee.com/en/city/breda

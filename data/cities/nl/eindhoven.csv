@@ -1,0 +1,34 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Centrum De Admirant,Q-Park,51.440285,5.476405,358,,25.00,True,"Emmasingel 29, 5611 AZ Eindhoven",https://www.q-park.nl/nl-nl/parkeren/eindhoven/centrum-de-admirant/
+QP02,de Bijenkorf,Q-Park,51.442917,5.475693,510,,25.00,True,"Schimmelt 50, 5611 ZX Eindhoven",https://www.q-park.nl/nl-nl/parkeren/eindhoven/de-bijenkorf/
+QP03,Heuvel,Q-Park,51.437992,5.481229,1140,,27.50,True,"Ten Hagestraat 6 A, 5611 EG Eindhoven",https://www.q-park.nl/nl-nl/parkeren/eindhoven/heuvel/
+QP04,Hooghuis,Q-Park,51.437690,5.477000,150,4.00,26.00,True,"Keizersgracht 9 a, 5611 GC Eindhoven",https://www.q-park.nl/nl-nl/parkeren/eindhoven/hooghuis/
+QP05,Kennedyplein,Q-Park,51.443810,5.479980,804,4.00,26.00,True,"Kennedyplein 400, 5611 ZV Eindhoven",https://www.q-park.nl/nl-nl/parkeren/eindhoven/kennedyplein/
+QP06,Mathildelaan,Q-Park,51.441324,5.473441,1150,4.00,26.00,True,"Mathildelaan 2 A, 5611 BL Eindhoven",https://www.q-park.nl/nl-nl/parkeren/eindhoven/mathildelaan/
+QP07,P+R Fuutlaan,Q-Park,51.442368,5.485547,150,2.70,12.00,,"Fuutlaan, 5613 AB Eindhoven",https://www.q-park.nl/nl-nl/parkeren/eindhoven/p-r-fuutlaan/
+QP08,Stadhuisplein,Q-Park,51.435444,5.480290,306,4.00,25.00,True,"Stadhuisplein 1 A, 5611 EM Eindhoven",https://www.q-park.nl/nl-nl/parkeren/eindhoven/stadhuisplein/
+QP09,Witte Dame,Q-Park,51.440316,5.474495,246,4.00,26.00,True,"Emmasingel 2 a, 5611 AZ Eindhoven",https://www.q-park.nl/nl-nl/parkeren/eindhoven/witte-dame/
+PY01,Parking DLL (Garage),ParkingYou,51.438203,5.484445,284,3.00,15.00,True,"Kanaalstraat 2, 5611 CT Eindhoven",https://parkingyou.nl/en/locaties/eindhoven/parking-dll-garage/id=5
+PY02,Parking DLL parkeerdek (centrum),ParkingYou,51.438203,5.484445,250,3.00,15.00,,"Kanaalstraat 2, 5611 CT Eindhoven",https://parkingyou.nl/en/locaties/eindhoven/parking-dll-parkeerdek-centrum/id=101
+PY03,Parking Philips Bedrijfsschool,ParkingYou,51.442882,5.459082,,3.00,12.50,True,"Frederiklaan 60a, 5616 NJ Eindhoven",https://parkingyou.nl/en/locaties/eindhoven/parking-philips-bedrijfsschool/id=31
+PY04,Parking Philips Stadion,ParkingYou,51.442797,5.464680,,3.00,15.00,,"Anton Philipslaan, 5616 LX Eindhoven",https://parkingyou.nl/en/locaties/eindhoven/parking-philips-stadion/id=7
+PY05,Parking Evoluon,ParkingYou,51.443611,5.446814,,,7.50,True,"Noord Brabantlaan 1A, 5652 LA Eindhoven",https://parkingyou.nl/en/locaties/eindhoven/parking-evoluon/id=103
+PY06,Parking TD-gebouw,ParkingYou,51.433378,5.477220,180,3.00,12.50,,"Frederik van Eedenplein 1, 5611 KT Eindhoven",https://parkingyou.nl/en/locaties/eindhoven/parking-td-gebouw/id=17
+PY07,Parking Victoriapark,ParkingYou,51.440858,5.472613,44,4.00,30.00,True,"Victoriapark 753, 5611 BH Eindhoven",https://parkingyou.nl/en/locaties/eindhoven/parking-victoriapark/id=25
+PY08,Parking The Beech,ParkingYou,51.441269,5.450345,,,,,"Beukenlaan, 5616 VE Eindhoven",https://parkingyou.nl/en/locaties/eindhoven/parking-the-beech/id=81
+PY09,Parking Mauritsstraat,ParkingYou,51.434665,5.472086,,,,,"Mauritsstraat 214, 5611 KG Eindhoven",https://parkingyou.nl/en/locaties/eindhoven/parking-mauritsstraat/id=83
+PY10,Parking BD7,ParkingYou,51.444452,5.471295,,,,,"Boschdijk 7, 5612 HA Eindhoven",https://parkingyou.nl/en/locaties/eindhoven/parking-bd7-/id=85
+PY11,Parking Cornelis Paradise,ParkingYou,51.433378,5.477220,,,,True,"Frederik van Eedenplein 1, 5611 KT Eindhoven",https://parkingyou.nl/en/locaties/eindhoven/parking-cornelis-paradise/id=87
+PY12,Parking City Tower,ParkingYou,51.445274,5.474566,,,,,"Pastoor Petersstraat 178, 5612 LW Eindhoven",https://parkingyou.nl/en/locaties/eindhoven/parking-city-tower/id=91
+PY13,Parking Lichttoren,ParkingYou,51.440799,5.474930,,,,,"Lichttoren 1, 5611 AZ Eindhoven",https://parkingyou.nl/en/locaties/eindhoven/parking-lichttoren/id=93
+PY14,Parking Hoog Bergen,ParkingYou,51.434400,5.472494,,,,,"Hoogstraat 39, 5615 PA Eindhoven",https://parkingyou.nl/en/locaties/eindhoven/parking-hoog-bergen/id=95
+PY15,Parking Hoog Stratum,ParkingYou,51.432537,5.481835,,,,,"Jan Smitzlaan, 5611 LE Eindhoven",https://parkingyou.nl/en/locaties/eindhoven/parking-hoog-stratum/id=97
+PY16,Parking Paradijslaan,ParkingYou,51.435304,5.478005,,,,,"Paradijslaan 20, 5611 KN Eindhoven",https://parkingyou.nl/en/locaties/eindhoven/parking-paradijslaan/id=99
+PB01,Don Boscostraat,ParkBee,51.434432,5.476639,,,,,"Don Boscostraat 4, 5611 KW Eindhoven",https://www.parkerenindestad.nl/eindhoven/parkeergarages/don-boscostraat
+PB02,Tongelresestraat,ParkBee,51.435392,5.488282,,,,,"Tongelresestraat 30, 5611 VK Eindhoven",https://www.parkerenindestad.nl/eindhoven/parkeergarages/tongelresestraat
+PB03,Geldropseweg,ParkBee,51.434518,5.485346,,,,,"Geldropseweg 8, 5611 SM Eindhoven",https://www.parkerenindestad.nl/eindhoven/parkeergarages/geldropseweg
+P101,P+R Meerhoven,P1,51.438118,5.423400,231,1.50,4.00,True,"Sliffertsestraat 304, 5657 AS Eindhoven",https://www.p1.nl/parkeerplaats/pr-meerhoven-eindhoven/
+P102,Parkeergarage Veemgebouw,P1,51.448052,5.453967,50,,,,"Torenallee 86-02, 5617 BE Eindhoven",https://www.p1.nl/parkeerplaats/parkeergarage-veemgebouw/
+P103,Parkeerterrein Veemgebouw,P1,51.448052,5.453967,48,4.00,,,"Torenallee 86-02, 5617 BE Eindhoven",https://www.p1.nl/parkeerplaats/parkeerterrein-veemgebouw/
+P104,Parking De Grijze Generaal,P1,51.466953,5.478181,344,1.50,5.50,True,"Generaal Bradleylaan 2, 5623 KM Eindhoven",https://www.p1.nl/parkeerplaats/parking-de-grijze-generaal/
+GE01,P+R Genneper Parken,Gemeente Eindhoven,51.407951,5.480749,641,1.50,4.00,True,"Aalsterweg 316, 5644 RL Eindhoven",https://www.eindhoven.nl/stad-en-wonen/verkeer/eindhoven-bereikbaar/pr-genneper-parken

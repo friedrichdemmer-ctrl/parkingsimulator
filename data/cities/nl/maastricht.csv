@@ -1,0 +1,25 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Bassin,Q-Park,50.85396,5.693128,397,3.60,28.50,True,"Maastrichter Grachtstraat 21, 6211 BG Maastricht",https://www.q-park.nl/nl-nl/parkeren/maastricht/bassin/
+QP02,Bonnefantenmuseum,Q-Park,50.840771,5.702516,297,1.80,21.00,True,"Serpentilunet 1, 6221 KW Maastricht",https://www.q-park.nl/nl-nl/parkeren/maastricht/bonnefantenmuseum/
+QP03,De Colonel,Q-Park,50.847627,5.705981,289,2.81,18.00,True,"Stationsplein 17, 6221 BT Maastricht",https://www.q-park.nl/nl-nl/parkeren/maastricht/de-colonel/
+QP04,De Griend,Q-Park,50.855796,5.698578,346,2.81,18.00,True,"Griend 4, 6221 AJ Maastricht",https://www.q-park.nl/nl-nl/parkeren/maastricht/de-griend/
+QP05,Entre Deux,Q-Park,50.850228,5.689018,199,,,True,"Helmstraat 3, 6211 TA Maastricht",https://www.q-park.nl/nl-nl/parkeren/maastricht/entre-deux/
+QP06,Frontenpark,Q-Park,50.855806,5.685981,1308,2.81,18.00,True,"Frontensingel, 6219 PE Maastricht",https://www.q-park.nl/nl-nl/parkeren/maastricht/frontenpark/
+QP07,Mosae Forum,Q-Park,50.851407,5.694072,1089,3.60,28.50,True,"Maasboulevard 40, 6211 JW Maastricht",https://www.q-park.nl/nl-nl/parkeren/maastricht/mosae-forum/
+QP08,O.L. Vrouweparking,Q-Park,50.846997,5.69478,354,3.60,28.50,True,"Maasboulevard 80, 6211 JW Maastricht",https://www.q-park.nl/nl-nl/parkeren/maastricht/ol-vrouweparking/
+QP09,P+R Meerssenerweg,Q-Park,50.85098,5.706545,66,2.86,18.00,,"Meerssenerweg, 6224 AK Maastricht",https://www.q-park.nl/nl-nl/parkeren/maastricht/p-r-meerssenerweg/
+QP10,P+R Station,Q-Park,50.853226,5.702877,340,2.86,18.00,,"Parallelweg 15, 6221 BD Maastricht",https://www.q-park.nl/nl-nl/parkeren/maastricht/p-r-station/
+QP11,Plein 1992,Q-Park,50.845709,5.700772,449,2.81,18.00,True,"Sonnevillelunet, 6221 KN Maastricht",https://www.q-park.nl/nl-nl/parkeren/maastricht/plein-1992/
+QP12,Stadspark I,Q-Park,50.843443,5.697151,234,1.80,14.00,True,"Maasboulevard 101, 6211 JW Maastricht",https://www.q-park.nl/nl-nl/parkeren/maastricht/stadspark-i/
+QP13,Stadspark II,Q-Park,50.842891,5.695955,84,1.80,14.00,,"Prins Bisschopsingel, 6211 JX Maastricht",https://www.q-park.nl/nl-nl/parkeren/maastricht/stadspark-ii/
+QP14,Stadspark III,Q-Park,50.841421,5.696483,79,1.80,14.00,,"Parkweg 1, 6212 XN Maastricht",https://www.q-park.nl/nl-nl/parkeren/maastricht/stadspark-iii/
+QP15,Vrijthof,Q-Park,50.849761,5.688021,447,5.63,35.00,True,"Vrijthof 100, 6211 LE Maastricht",https://www.q-park.nl/nl-nl/parkeren/maastricht/vrijthof/
+PB01,Maasboulevard,ParkBee,50.854885,5.694027,,,,,"Maasboulevard, 6211 JW Maastricht",https://parkbee.com/en/city/maastricht
+PB02,Abtstraat,ParkBee,50.847381,5.683923,,,,,"Abtstraat, 6211 LS Maastricht",https://parkbee.com/en/city/maastricht
+PB03,Parking Maastricht Cabergerweg,ParkBee,50.855657,5.68122,,,,,"Cabergerweg 10, 6217 SC Maastricht",https://parkbee.com/en/city/maastricht
+PB04,Townhouse Hotel Parking,ParkBee,50.851836,5.70368,,,,,"Parallelweg 40, 6221 BD Maastricht",https://parkbee.com/en/city/maastricht
+PB05,D'Artagnanlaan,ParkBee,50.841006,5.672807,,,,,"D'Artagnanlaan 43, 6213 CC Maastricht",https://parkbee.com/en/city/maastricht
+PB06,Duboisdomein,ParkBee,50.838434,5.706939,,,,,"Leidenlaan 14, 6229 EZ Maastricht",https://parkbee.com/en/city/maastricht
+PB07,Vijverdalseweg 8,ParkBee,50.849801,5.73135,,,,,"Vijverdalseweg 8, 6226 NB Maastricht",https://parkbee.com/en/city/maastricht
+P101,Brusselse Poort,P1,50.849671,5.665647,550,1.00,14.00,True,"Mercatorplein, 6216 CL Maastricht",https://www.p1.nl/parkeerplaats/brusselse-poort/
+P102,Parkeerterrein Sphinx,P1,50.857095,5.688178,400,2.81,18.00,True,"Frontensingel, 6211 SC Maastricht",https://www.p1.nl/parkeerplaats/parkeerterrein-sphinx/

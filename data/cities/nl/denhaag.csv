@@ -1,0 +1,70 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Binck City Park,Q-Park,52.0676,4.33607,232,3.33,27.5,True,"Uranusstraat 188, 2516 CL Den Haag",https://www.q-park.nl/nl-nl/parkeren/den-haag/binck-city-park/
+QP02,Centrum,Q-Park,52.075873,4.315964,712,5.2,33.0,True,"Amsterdamse Veerkade 30, 2512 AJ Den Haag",https://www.q-park.nl/nl-nl/parkeren/den-haag/centrum/
+QP03,City Parking,Q-Park,52.075926,4.30792,223,6.23,35.0,True,"Laan 7, 2512 GM Den Haag",https://www.q-park.nl/nl-nl/parkeren/den-haag/city-parking/
+QP04,CS New Babylon,Q-Park,52.081919,4.325362,1248,5.56,36.0,True,"Prinses Irenestraat 1, 2595 BD Den Haag",https://www.q-park.nl/nl-nl/parkeren/den-haag/cs-new-babylon/
+QP05,de Bijenkorf,Q-Park,52.07611,4.31355,35,5.8,,True,"Gedempte Gracht 28, 2512 AL Den Haag",https://www.q-park.nl/nl-nl/parkeren/den-haag/de-bijenkorf/
+QP06,De Kroon,Q-Park,52.07859,4.3217,211,,,True,"Schedeldoekshaven 548, 2511 EP Den Haag",https://www.q-park.nl/nl-nl/parkeren/den-haag/de-kroon/
+QP07,Grote Markt,Q-Park,52.077981,4.316035,390,6.2,40.0,True,"Kalvermarkt 32 G, 2511 CB Den Haag",https://www.q-park.nl/nl-nl/parkeren/den-haag/grote-markt/
+QP08,Haagse Markt,Q-Park,52.064128,4.300243,454,3.53,17.0,True,"De Heemstraat 301, 2525 ET Den Haag",https://www.q-park.nl/nl-nl/parkeren/den-haag/haagse-markt/
+QP09,Kurhaus,Q-Park,52.1119939,4.2815669,250,6.0,45.0,True,"Gevers Deynootplein 189, 2586 CS Den Haag, Scheveningen","https://www.q-park.nl/nl-nl/parkeren/den-haag,-scheveningen/kurhaus/"
+QP10,Laakhaven,Q-Park,52.069285,4.3264189,1338,5.29,35.0,True,"Rijswijkseweg 27, 2516 ED Den Haag",https://www.q-park.nl/nl-nl/parkeren/den-haag/laakhaven/
+QP11,Leyenburg,Q-Park,52.0579368,4.263824,842,2.8,15.0,True,"Escamplaan 874, 2547 EX Den Haag",https://www.q-park.nl/nl-nl/parkeren/den-haag/leyenburg/
+QP12,Leyweg 1,Q-Park,52.0465736,4.2790461,588,1.6,10.0,,"Leyweg 791, 2545 GM Den Haag",https://www.q-park.nl/nl-nl/parkeren/den-haag/leyweg-1/
+QP13,Lutherse Burgwal,Q-Park,52.074778,4.310122,282,5.2,33.0,True,"Lutherse Burgwal 25, 2512 CB Den Haag",https://www.q-park.nl/nl-nl/parkeren/den-haag/lutherse-burgwal/
+QP14,Maanweg,Q-Park,52.06814,4.35176,170,3.33,27.5,True,"Maanplein 20, 2516 CK Den Haag",https://www.q-park.nl/nl-nl/parkeren/den-haag/maanweg/
+QP15,Malieveld,Q-Park,52.084623,4.317566,600,4.29,33.0,True,"Koningskade 64, 2596AA Den Haag",https://www.q-park.nl/nl-nl/parkeren/den-haag/malieveld/
+QP16,Mauritskade,Q-Park,52.08428,4.3050547,187,5.22,36.0,True,"Zeestraat 39, 2514 HD Den Haag",https://www.q-park.nl/nl-nl/parkeren/den-haag/mauritskade/
+QP17,Muzenplein,Q-Park,52.079446,4.318668,343,5.71,36.0,True,"Fluwelen Burgwal 46, 2511 CJ Den Haag",https://www.q-park.nl/nl-nl/parkeren/den-haag/muzenplein/
+QP18,Nieuwe Parklaan,Q-Park,52.1111858,4.2839393,631,5.3,39.5,True,"Nieuwe Parklaan 248, 2587 BZ Den Haag, Scheveningen","https://www.q-park.nl/nl-nl/parkeren/den-haag,-scheveningen/nieuwe-parklaan/"
+QP19,Noordeinde,Q-Park,52.080887,4.308288,98,6.2,,True,"Heulstraat 23, 2514ER Den Haag",https://www.q-park.nl/nl-nl/parkeren/den-haag/noordeinde/
+QP20,P+R Laan van NOI,Q-Park,52.080046,4.344105,155,3.59,20.5,,"Van Alphenstraat 102 t.o., 2274 NE Den Haag",https://www.q-park.nl/nl-nl/parkeren/den-haag/p-r-laan-van-noi/
+QP21,P+R Ypenburg,Q-Park,52.0550841,4.3900893,222,,,,"Pr. Máximastraat, 2496 XA Den Haag",https://www.q-park.nl/nl-nl/parkeren/den-haag/p-r-ypenburg/
+QP22,Rijnstraat,Q-Park,52.078714,4.323696,213,4.61,33.5,True,"Rijnstraat 8, 2515 XP Den Haag",https://www.q-park.nl/nl-nl/parkeren/den-haag/rijnstraat/
+QP23,Saturnus,Q-Park,52.067461,4.348277,411,3.33,27.5,True,"Saturnusstraat 18, 2516 AH Den Haag",https://www.q-park.nl/nl-nl/parkeren/den-haag/saturnus/
+QP24,Spui,Q-Park,52.0775059,4.319722,199,6.0,37.0,True,"Spui 160, 2511 BW Den Haag",https://www.q-park.nl/nl-nl/parkeren/den-haag/spui/
+QP25,Strand,Q-Park,52.1132639,4.2933292,2030,4.2,32.5,True,"Zwolsestraat 426, 2587 VK Den Haag, Scheveningen","https://www.q-park.nl/nl-nl/parkeren/den-haag,-scheveningen/strand/"
+QP26,Strandweg,Q-Park,52.10268,4.26387,840,5.25,35.0,True,"Strand Noord 2 B, 2586 ZZ Den Haag, Scheveningen","https://www.q-park.nl/nl-nl/parkeren/den-haag,-scheveningen/strandweg/"
+QP27,Torengarage,Q-Park,52.078158,4.304519,286,5.33,30.0,True,"Geest 1, 2513 VA Den Haag",https://www.q-park.nl/nl-nl/parkeren/den-haag/torengarage/
+PB01,Alexanderveld,ParkBee,52.088093,4.301347,,,,,"Alexanderveld 5, 2585 AN Den Haag",https://parkbee.com/nl/city/den-haag
+PB02,Berkenbosch Blokstraat,ParkBee,52.108483,4.285856,,,,,"Berkenbosch Blokstraat 20, 2586 HG Den Haag",https://parkbee.com/nl/city/den-haag
+PB03,Buitenom 167,ParkBee,52.071257,4.301354,,,,,"Buitenom 167, 2512 XD Den Haag",https://parkbee.com/nl/city/den-haag
+PB04,Buitenom 18,ParkBee,52.072261,4.303944,,,,,"Buitenom 18, 2512 XA Den Haag",https://parkbee.com/nl/city/den-haag
+PB05,De Haagsche Zwaan Buiten,ParkBee,52.077976,4.334699,,,,,"Schenkkade 50, 2595 AR Den Haag",https://parkbee.com/nl/city/den-haag
+PB06,Den Haag Binnenstad,ParkBee,52.074835,4.31019,,,,,"Lutherse Burgwal 12, 2512 CB Den Haag",https://parkbee.com/nl/city/den-haag
+PB07,Eisenhowerlaan,ParkBee,52.0950364,4.2835662,,,,,"Eisenhowerlaan 150, 2517 KP Den Haag",https://parkbee.com/nl/city/den-haag
+PB08,Haagsche Hof,ParkBee,52.083431,4.307743,,,,True,"Parkstraat 83, 2514 JK Den Haag",https://parkbee.com/nl/city/den-haag
+PB09,HMC Bronovo,ParkBee,52.10274,4.317207,,,,,"Bronovolaan 5, 2597 AX Den Haag",https://parkbee.com/nl/city/den-haag
+PB10,HMC Westeinde,ParkBee,52.074618,4.301369,,,,,"Warmoezierstraat 52, 2512 VJ Den Haag",https://parkbee.com/nl/city/den-haag
+PB11,Johan de Wittlaan,ParkBee,52.093111,4.285083,,,,,"Willem Lodewijklaan 16, 2517 JT Den Haag",https://parkbee.com/nl/city/den-haag
+PB12,Koninginnegracht,ParkBee,52.087882,4.313386,,,,True,"Koninginnegracht 19, 2514AB Den Haag",https://parkbee.com/nl/city/den-haag
+PB13,Koninginnegracht 5,ParkBee,52.0859707,4.3139024,,,,,"Laan van Roos en Doorn 23, 2514 BC Den Haag",https://parkbee.com/nl/city/den-haag
+PB14,Laan 3D,ParkBee,52.0764255,4.307929,,,,,"Laan 3D, 2512 GM Den Haag",https://parkbee.com/nl/city/den-haag
+PB15,Leonardo Royal Hotel Den Haag Promenade,ParkBee,52.096753,4.286671,,,,,"Van Stolkweg 1, 2585 JL Den Haag",https://parkbee.com/nl/city/den-haag
+PB16,Loire,ParkBee,52.0710614,4.397169599999999,,,,,"Loire 142, 2491 AK Den Haag",https://parkbee.com/nl/city/den-haag
+PB17,Novotel Den Haag City Centre,ParkBee,52.078066,4.312272,,,,,"Achterom 75, 2511AH Den Haag",https://parkbee.com/nl/city/den-haag
+PB18,Parking Holland Spoor,ParkBee,52.068332,4.321357,,,,,"Waldorpstraat 40, 2521 EM Den Haag",https://parkbee.com/nl/city/den-haag
+PB19,Parkstraat 32,ParkBee,52.083736,4.305861,,,,,"Amaliastraat 15, 2514JC Den Haag",https://parkbee.com/nl/city/den-haag
+PB20,Paviljoensgracht,ParkBee,52.074387,4.310388,,,,,"Herderstraat 4, 2512 CV Den Haag",https://parkbee.com/nl/city/den-haag
+PB21,President Kennedylaan,ParkBee,52.086517,4.275716,,,,,"President Kennedylaan 19, 2517 JK Den Haag",https://parkbee.com/nl/city/den-haag
+PB22,Scheldestraat,ParkBee,52.074112,4.323539,,,,,"Scheldestraat 13, 2515 TA Den Haag",https://parkbee.com/nl/city/den-haag
+PB23,Snoekstraat,ParkBee,52.078953,4.302975,,,,,"Snoekstraat 84, 2513 TW Den Haag",https://parkbee.com/nl/city/den-haag
+PB24,Spaarwaterhof,ParkBee,52.0893871,4.339452,,,,,"Spaarwaterstraat 180, 2593 RS Den Haag",https://parkbee.com/nl/city/den-haag
+PB25,Spaces Rode Olifant,ParkBee,52.088398,4.319472,,,,,"Zuid Hollandlaan 7, 2596 AL Den Haag",https://parkbee.com/nl/city/den-haag
+PB26,Staybridge Suites The Hague,ParkBee,52.081426,4.31201,,,,True,"Hoge Nieuwstraat 19, 2514 EK Den Haag",https://parkbee.com/nl/city/den-haag
+PB27,The Hague Marriott Hotel,ParkBee,52.090296,4.282882,,,,True,"Johan de Wittlaan 30, 2517 JR Den Haag",https://parkbee.com/nl/city/den-haag
+PB28,The Hague Teleport Hotel,ParkBee,52.068019,4.337289,,,,,"Binckhorstlaan 131, 2516 BA Den Haag",https://parkbee.com/nl/city/den-haag
+PB29,Van Bylandt Huis,ParkBee,52.090193,4.324991,,,,True,"Benoordenhoutseweg 46, 2596 BC Den Haag",https://parkbee.com/nl/city/den-haag
+PB30,Waldorpstraat 441,ParkBee,52.059596,4.310343,,,,,"Waldorpstraat 441, 2521 CJ Den Haag",https://parkbee.com/nl/city/den-haag
+PB31,Waldorpstraat 47,ParkBee,52.066477,4.317321,,,,,"Waldorpstraat 47, 2521 CA Den Haag",https://parkbee.com/nl/city/den-haag
+PB32,Wijnhaven,ParkBee,52.07781,4.32028,,,,,"Schedeldoekshaven 200, 2511 EP Den Haag",https://parkbee.com/nl/city/den-haag
+PB33,World Forum Parking A,ParkBee,52.093734,4.283591,,,,True,"Churchillplein 10, 2517 JW Den Haag",https://parkbee.com/nl/city/den-haag
+IP01,Boulevard - Scheveningen,Interparking,52.117243,4.287077,686,6.0,38.0,True,"Strandweg 179, 2586 JM Den Haag",https://www.interparking.nl/en/parkings/the-hague/boulevard/
+IP02,Helicon,Interparking,52.079989,4.321585,226,5.6,35.0,True,"Zwarteweg 40, 2511 VS Den Haag",https://www.interparking.nl/en/parkings/the-hague/helicon/
+IP03,Leidschenhof,Interparking,52.062768,4.403608,207,0.5,10.0,,"Emmy Belinfantedreef 66, 2492 JV Den Haag",https://www.interparking.nl/en/parkings/the-hague/leidschenhof/
+IP04,Megastores,Interparking,52.065204,4.318099,1796,1.0,10.0,,"Van der Kunststraat, 2521 BB Den Haag",https://www.interparking.nl/en/parkings/the-hague/megastores/
+IP05,Museumkwartier,Interparking,52.082411,4.315674,321,6.3,45.0,True,"Korte Voorhout 2P, 2511 EK Den Haag",https://www.interparking.nl/en/parkings/the-hague/museumkwartier/
+IP06,Shopping Center Leidschenveen,Interparking,52.063907,4.402726,220,3.5,25.0,,"Jaap Hoekdreef 58, 2492 JR Den Haag",https://www.interparking.nl/en/parkings/the-hague/wc-leidschenveen/
+IP07,Station Leidschenveen garage,Interparking,52.067451,4.39805,170,1.5,15.0,,"Vaz Diasdreef 30, 2492 JJ Den Haag",https://www.interparking.nl/en/parkings/the-hague/station-leidschenveen-garage/
+IP08,Station Leidschenveen terrein,Interparking,52.067265,4.397443,169,1.5,15.0,,"Henri Faasdreef, 2492 JV Den Haag",https://www.interparking.nl/en/parkings/the-hague/station-leidschenveen-terrein/
+IP09,WTC The Hague,Interparking,52.08022,4.336035,925,5.0,50.0,True,"Prinses Marijkestraat 5-7, 2595 AM Den Haag",https://www.interparking.nl/en/parkings/the-hague/wtcthehague/

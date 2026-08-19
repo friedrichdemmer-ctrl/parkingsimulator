@@ -1,0 +1,18 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Arena,Q-Park,51.69168,5.30442,479,,23.00,True,"Arena 119, 5211 XT Den Bosch",https://www.q-park.nl/nl-nl/parkeren/den-bosch/arena/
+QP02,Tolbrug,Q-Park,51.69001,5.304443,399,3.00,22.00,,"Burg. Loeffplein 70, 5211 RX Den Bosch",https://www.q-park.nl/nl-nl/parkeren/den-bosch/tolbrug/
+QP03,P+R Magistratenlaan,Q-Park,51.6903537,5.2928315,163,4.29,23.50,,"Magistratenlaan, 5223 MA Den Bosch",https://www.q-park.nl/nl-nl/parkeren/den-bosch/p-r-magistratenlaan/
+QP04,P+R Station 's-Hertogenbosch,Q-Park,51.6858333,5.2924999,816,4.50,25.00,True,"Mayweg, 5211 AA Den Bosch",https://www.q-park.nl/nl-nl/parkeren/den-bosch/p-r-station-shertogenbosch/
+GM01,Sint Jan,Gemeente 's-Hertogenbosch,51.6853238,5.3142762,1040,3.32,20.00,True,"Hekellaan 25, 's-Hertogenbosch",https://www.parkeren-denbosch.nl/parkeergarages
+GM02,Paleiskwartier,Gemeente 's-Hertogenbosch,51.6892464,5.2900727,1059,3.32,20.00,True,"Hugo de Grootlaan 84, 5223 LC 's-Hertogenbosch",https://www.parkeren-denbosch.nl/parkeergarages
+GM03,Stationsplein,Gemeente 's-Hertogenbosch,51.6904566,5.2949907,161,3.32,20.00,,"Stationsplein, 's-Hertogenbosch",https://www.parkeren-denbosch.nl/parkeergarages
+GM04,Wolvenhoek,Gemeente 's-Hertogenbosch,51.6866571,5.3031560,467,4.01,20.00,True,"Wolvenhoek, 5211 HH 's-Hertogenbosch",https://www.parkeren-denbosch.nl/parkeergarages
+GM05,Sint Josephstraat,Gemeente 's-Hertogenbosch,51.6891610,5.3078016,175,4.01,20.00,,"Sint Josephstraat, 5211 NK 's-Hertogenbosch",https://www.parkeren-denbosch.nl/parkeergarages
+GM06,Visstraat,Gemeente 's-Hertogenbosch,51.6905267,5.3005639,,,,,"Smalle Haven 15, 5211 TJ 's-Hertogenbosch",https://lokaleregelgeving.overheid.nl/CVDR698192
+GM07,Keizerstraat,Gemeente 's-Hertogenbosch,51.6861108,5.3026320,,,,,"Keizerstraat, 5211 HG 's-Hertogenbosch",https://lokaleregelgeving.overheid.nl/CVDR698192
+GM08,Museumkwartier,Gemeente 's-Hertogenbosch,51.6863888,5.3126066,,,,,"Museumkwartier (Bethaniestraat), 5211 LH 's-Hertogenbosch",https://lokaleregelgeving.overheid.nl/CVDR698192
+GM09,Transferium De Vliert,Gemeente 's-Hertogenbosch,51.6999473,5.3221955,700,,5.10,True,"Stadionlaan 9, 5213 JH 's-Hertogenbosch",https://www.s-hertogenbosch.nl/transferium-en-ov/
+GM10,Transferium Deutersestraat,Gemeente 's-Hertogenbosch,51.6846900,5.2771905,1100,,5.10,True,"Deutersestraat 2d, 's-Hertogenbosch",https://www.s-hertogenbosch.nl/transferium-en-ov/
+GM11,Transferium Pettelaarpark,Gemeente 's-Hertogenbosch,51.6778641,5.3359633,450,,5.10,True,"Pettelaarpark 59, 5216 PP 's-Hertogenbosch",https://www.s-hertogenbosch.nl/transferium-en-ov/
+IP01,Willemspoort,Interparking,51.684659,5.279163,349,2.80,9.75,True,"Henri Dunantstraat 2, 5223 GZ Den Bosch",https://www.interparking.nl/en/parkings/den-bosch/willemspoort/
+IP02,Jeroen Bosch Ziekenhuis,Interparking,51.685421,5.279639,650,2.80,9.75,True,"Henri Dunantstraat 1a, 5223 Den Bosch",https://www.interparking.nl/en/parkings/den-bosch/jeroenboschziekenhuis/

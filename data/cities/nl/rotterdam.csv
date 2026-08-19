@@ -1,0 +1,62 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Alexandrium Megastores,Q-Park,51.951177,4.560513,180,1.73,25.0,,"Watermanweg 1 E, 3067 GA Rotterdam",https://www.q-park.nl/nl-nl/parkeren/rotterdam/alexandrium-megastores/
+QP02,Boston & Seattle Terrein,Q-Park,51.90687,4.492037,270,5.0,40.0,,"Posthumalaan 35, 3072 ME Rotterdam",https://www.q-park.nl/nl-nl/parkeren/rotterdam/parkeerterrein-boston-seattle/
+QP03,Coolsingel,Q-Park,51.921829,4.477859,290,5.0,30.0,True,"Sint-Luciastraat 59, 3012 ET Rotterdam",https://www.q-park.nl/nl-nl/parkeren/rotterdam/coolsingel/
+QP04,de Bijenkorf,Q-Park,51.920973,4.47813,449,5.0,30.0,True,"Aert van Nesstraat 16, 3012 CA Rotterdam",https://www.q-park.nl/nl-nl/parkeren/rotterdam/de-bijenkorf/
+QP05,De Rotterdam,Q-Park,51.906331,4.487947,659,5.0,40.0,True,"Wilhelminakade 201, 3072 AR Rotterdam",https://www.q-park.nl/nl-nl/parkeren/rotterdam/de-rotterdam/
+QP06,Fenix,Q-Park,51.901604,4.488232,234,5.0,37.5,True,"Veerlaan 9, 3072ZP Rotterdam",https://www.q-park.nl/nl-nl/parkeren/rotterdam/fenix/
+QP07,Hart van Zuid,Q-Park,51.885776,4.48916,105,3.75,18.0,True,"Twentestraat 104, 3083 BD Rotterdam",https://www.q-park.nl/nl-nl/parkeren/rotterdam/hart-van-zuid/
+QP08,Ikazia,Q-Park,51.885272,4.492979,432,2.86,10.5,True,"Casimirstraat 9, 3083 AB Rotterdam",https://www.q-park.nl/nl-nl/parkeren/rotterdam/ikazia/
+QP09,Koopgoot,Q-Park,51.919227,4.481458,435,5.29,32.0,True,"Bulgersteyn 5, 3011 AB Rotterdam",https://www.q-park.nl/nl-nl/parkeren/rotterdam/koopgoot/
+QP10,Maastoren,Q-Park,51.908477,4.493311,629,5.0,40.0,True,"Wilhelminakade 101, 3072 AP Rotterdam",https://www.q-park.nl/nl-nl/parkeren/rotterdam/maastoren/
+QP11,P+R Proveniersplein,Q-Park,51.92614,4.469805,102,3.12,19.5,,"Proveniersplein, 3033 EC Rotterdam",https://www.q-park.nl/nl-nl/parkeren/rotterdam/p-r-proveniersplein/
+QP12,Rijnhaven,Q-Park,51.9027529,4.4929062,452,4.0,25.0,,"Pudongstraat 4, 3072 AJ Rotterdam",https://www.q-park.nl/nl-nl/parkeren/rotterdam/rijnhaven/
+QP13,Scheepvaartkwartier,Q-Park,51.910286,4.4769025,196,4.0,25.0,True,"Van Vollenhovenstraat 5 G, 3016 BE Rotterdam",https://www.q-park.nl/nl-nl/parkeren/rotterdam/scheepvaartkwartier/
+QP14,Schiecentrale,Q-Park,51.904129,4.458429,387,2.5,23.0,True,"Schiehavenkade 120, 3024 EZ Rotterdam",https://www.q-park.nl/nl-nl/parkeren/rotterdam/schiecentrale/
+QP15,Weena,Q-Park,51.922698,4.473551,480,5.29,32.0,True,"Karel Doormanstraat 10, 3012 GJ Rotterdam",https://www.q-park.nl/nl-nl/parkeren/rotterdam/weena/
+QP16,Westblaak,Q-Park,51.9165037,4.4779307,650,5.29,32.5,True,"Hartmanstraat 35, 3012 VA Rotterdam",https://www.q-park.nl/nl-nl/parkeren/rotterdam/westblaak/
+QP17,Woonmall Alexandrium,Q-Park,51.951177,4.560513,1004,1.73,10.0,,"Watermanweg 231, 3067 GA Rotterdam",https://www.q-park.nl/nl-nl/parkeren/rotterdam/woonmall-alexandrium/
+QP18,Zorgboulevard,Q-Park,51.879844,4.532951,1774,3.53,11.0,True,"Krimpenerstraat, 3079 DZ Rotterdam",https://www.q-park.nl/nl-nl/parkeren/rotterdam/zorgboulevard/
+QP19,Zorgboulevard Terrein,Q-Park,51.879844,4.532951,111,3.53,11.0,,"Schoonhovenstraat, 3079 DZ Rotterdam",https://www.q-park.nl/nl-nl/parkeren/rotterdam/zorgboulevard-terrein/
+QP20,Zuidplein 1,Q-Park,51.88715,4.49136,1345,3.95,19.0,True,"Meierijstraat 3, 3083BA Rotterdam",https://www.q-park.nl/nl-nl/parkeren/rotterdam/zuidplein-1/
+QP21,Zuidplein 2,Q-Park,51.8874931,4.4899524,209,3.95,19.0,True,"Sallandweg, 3083BC Rotterdam",https://www.q-park.nl/nl-nl/parkeren/rotterdam/zuidplein-2/
+PB01,Arrivals,ParkBee,51.921441,4.46896,,,,True,"Diergaardesingel 80B, 3014 AG Rotterdam",https://parkbee.com/en/city/rotterdam
+PB02,Baan 74,ParkBee,51.913591,4.480615,,,,,"Baan 74, 3011 CD Rotterdam",https://parkbee.com/en/city/rotterdam
+PB03,Carnissesingel,ParkBee,51.885437,4.486576,,,,,"Carnissesingel 51, 3083 JA Rotterdam",https://parkbee.com/en/city/rotterdam
+PB04,Dynamostraat,ParkBee,51.886977,4.49567,,,,,"Dynamostraat 20, 3083AK Rotterdam",https://parkbee.com/en/city/rotterdam
+PB05,Edam 1,ParkBee,51.9062825,4.48896,,,,,"Edam 1, 3072 MB Rotterdam",https://parkbee.com/en/city/rotterdam
+PB06,George Hintzenweg,ParkBee,51.95299,4.55897,,,,True,"George Hintzenweg 73 - 85, 3068 AX Rotterdam",https://parkbee.com/en/city/rotterdam
+PB07,HNK Rotterdam Alexander,ParkBee,51.95264,4.553115,,,,,"Marten Meesweg 101, 3068 AV Rotterdam",https://parkbee.com/en/city/rotterdam
+PB08,Heiman Dullaertplein,ParkBee,51.90494,4.454764,,,,,"Heiman Dullaertplein 4, 3024 CA Rotterdam",https://parkbee.com/en/city/rotterdam
+PB09,Hilton Rotterdam,ParkBee,51.92317,4.476463,,,,True,"Kruiskade 11, 3012 EE Rotterdam",https://parkbee.com/en/city/rotterdam
+PB10,Hofplein,ParkBee,51.925499,4.478797,,,,,"Hofplein 20 Rotterdam, 3032 AC Rotterdam",https://parkbee.com/en/city/rotterdam
+PB11,Holiday Inn Express Rotterdam,ParkBee,51.924883,4.475801,,,,,"Delftsestraat 26, 3013 CJ Rotterdam",https://parkbee.com/en/city/rotterdam
+PB12,Korte Bajonet,ParkBee,51.919049,4.464643,,,,True,"Korte Bajonetstraat 4a, 3014 ZS Rotterdam",https://parkbee.com/en/city/rotterdam
+PB13,Maastoren,ParkBee,51.90895948,4.493608454,,,,,"Wilhelminakade 101, 3072AP Rotterdam",https://parkbee.com/en/city/rotterdam
+PB14,Parking Botersloot,ParkBee,51.9224949,4.4867015,,,,,"Librijesteeg 18, 3011HN Rotterdam",https://parkbee.com/en/city/rotterdam
+PB15,Parking Europoint ,ParkBee,51.9124141,4.4286088,,,,,"Marconistraat 16, 3029 AK Rotterdam",https://parkbee.com/en/city/rotterdam
+PB16,Parking Oostplein,ParkBee,51.921939,4.495758,,,,,"Burgemeester van Walsumweg 360, 3011 MZ Rotterdam",https://parkbee.com/en/city/rotterdam
+PB17,Parking Wijnstraat 100,ParkBee,51.91764,4.484081,,,,True,"Wijnstraat 100, 3011 TR Rotterdam",https://parkbee.com/en/city/rotterdam
+PB18,Parking Wijnstraat 78,ParkBee,51.917984,4.486104,,,,True,"Wijnstraat 78, 3011 TP Rotterdam",https://parkbee.com/en/city/rotterdam
+PB19,Scheepsvaartkwartier,ParkBee,51.910181,4.476906528,,,,,"Van Vollenhovenstraat 5g, 3016BE Rotterdam",https://parkbee.com/en/city/rotterdam
+PB20,Struisenburgdwarsstraat,ParkBee,51.919628,4.512217,,,,,"Struisenburgdwarsstraat 22, 3063BV Rotterdam",https://parkbee.com/en/city/rotterdam
+PB21,Tiendplein,ParkBee,51.920198,4.466209,,,,,"Coolsestraat 155, 3014 LH Rotterdam",https://parkbee.com/en/city/rotterdam
+PB22,Van Speykstraat,ParkBee,51.918974,4.466358,,,,,"Van Speykstraat 38, 3014 VM Rotterdam",https://parkbee.com/en/city/rotterdam
+PB23,Watermanweg ,ParkBee,51.9508839,4.5559232,,,,,"Watermanweg 120, 3067 GG Rotterdam",https://parkbee.com/en/city/rotterdam
+PB24,Witte de With,ParkBee,51.915914,4.476581,,,,,"Kromme Elleboog 37, 3012 VM Rotterdam",https://parkbee.com/en/city/rotterdam
+GR01,Benthuizerstraat,Gemeente Rotterdam,51.9366296,4.4803685,115,1.67,16.0,,"Bloklandstraat 154, 3036 TS Rotterdam",https://www.rotterdam.nl/parkeergarage-benthuizerstraat
+GR02,Boulevard Zuid,Gemeente Rotterdam,51.8969512,4.5096629,189,1.67,16.0,,"Polderstraat 10, 3074 XJ Rotterdam",https://www.rotterdam.nl/parkeergarage-boulevard-zuid
+GR03,Colosseumweg,Gemeente Rotterdam,51.8991927,4.5124815,203,1.67,16.0,,"Colosseumweg 13, 3074 SN Rotterdam",https://www.rotterdam.nl/parkeergarage-colosseumweg
+GR04,De Boompjes,Gemeente Rotterdam,51.9137633,4.4851717,623,4.29,41.0,True,"Terwenakker 18, 3011 XS Rotterdam",https://www.rotterdam.nl/parkeergarage-de-boompjes
+GR05,Erasmusbrug,Gemeente Rotterdam,51.9113538,4.4822965,327,4.29,41.0,True,"Willemsplein 100, 3016 DR Rotterdam",https://www.rotterdam.nl/parkeergarage-erasmusbrug
+GR06,Hoogvliet Centrum,Gemeente Rotterdam,51.8659938,4.3580770,257,1.67,16.0,,"Klencke 74, 3191 VK Hoogvliet",https://www.rotterdam.nl/parkeergarage-hoogvliet-centrum
+GR07,Kiphof,Gemeente Rotterdam,51.9216850,4.4917833,339,4.29,41.0,True,"Kipstraat 177, 3011 ZX Rotterdam",https://www.rotterdam.nl/parkeergarage-kiphof
+GR08,Lusthofstraat,Gemeente Rotterdam,51.9251228,4.5093174,222,1.67,16.0,,"Chris Bennekerslaan 25 c, 3061 EB Rotterdam",https://www.rotterdam.nl/parkeergarage-lusthofstraat
+GR09,Mathenesserplein,Gemeente Rotterdam,51.9172526,4.4442666,156,1.67,16.0,,"Aelbrechtskade 67, 3022 HP Rotterdam",https://www.rotterdam.nl/parkeergarage-mathenesserplein
+GR10,Meent,Gemeente Rotterdam,51.9241816,4.4823924,480,4.29,41.0,True,"Binnenrotte 15, 3011 HB Rotterdam",https://www.rotterdam.nl/parkeergarage-meent
+GR11,Museumpark,Gemeente Rotterdam,51.9126701,4.4714204,1162,4.29,41.0,True,"Museumpark 32, 3015 CX Rotterdam",https://www.rotterdam.nl/parkeergarage-museumpark
+GR12,Nieuwe Binnenweg 1,Gemeente Rotterdam,51.9113188,4.4528144,115,1.67,16.0,True,"Nieuwe Binnenweg 388 c, 3023 ET Rotterdam",https://www.rotterdam.nl/parkeergarage-nieuwe-binnenweg-1
+GR13,Oude Haven,Gemeente Rotterdam,51.9208865,4.4929135,229,4.29,41.0,,"Burgemeester van Walsumweg 718, 3011 MZ Rotterdam",https://www.rotterdam.nl/parkeergarage-oude-haven
+GR14,Schouwburgplein 1,Gemeente Rotterdam,51.9203381,4.4736777,704,4.29,41.0,True,"Schouwburgplein 22, 3012 CL Rotterdam",https://www.rotterdam.nl/parkeergarage-schouwburgplein-1
+GR15,Schouwburgplein 2,Gemeente Rotterdam,51.9226517,4.4684440,771,4.29,41.0,True,"Weenatunnel 50, 3013 AL Rotterdam",https://www.rotterdam.nl/parkeergarage-schouwburgplein-2
+GR16,Veranda,Gemeente Rotterdam,51.8967816,4.5277232,589,1.67,16.0,,"Siem Heidenstraat 6, 3077 MS Rotterdam",https://www.rotterdam.nl/parkeergarage-veranda

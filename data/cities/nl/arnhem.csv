@@ -1,0 +1,15 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Broerenstraat,Q-Park,51.979676,5.911528,427,,28.50,True,"Broerenstraat 51, 6811 EB Arnhem",https://www.q-park.nl/nl-nl/parkeren/arnhem/broerenstraat/
+P101,Centraal,P1,51.983836,5.900403,1050,4.20,24.00,True,"Willemstunnel 1, 6811 KZ Arnhem",https://www.p1.nl/parkeerplaats/parkeergarage-centraal/
+P102,Musis,P1,51.982369,5.912629,690,4.20,24.00,True,"Velperbinnensingel 2, 6811 BP Arnhem",https://www.p1.nl/parkeerplaats/parkeergarage-musis/
+P103,Rozet,P1,51.979696,5.905858,450,4.20,24.00,,"Langstraat 10, 6811 JA Arnhem",https://www.p1.nl/parkeerplaats/parkeergarage-rozet/
+GE01,Velperpoort,Gemeente Arnhem,51.985003,5.918577,125,1.90,10.95,,"Ingenieur J.P. van Muijlwijkstraat 175, 6828 BN Arnhem",https://www.arnhem.nl/alle-onderwerpen/parkeren/parkeergarages-parkeerterreinen-en-pr/
+GE02,Prinsenhof,Gemeente Arnhem,51.977736,5.912102,,4.60,,,"Prinsenhof 3, Arnhem",https://www.arnhem.nl/alle-onderwerpen/parkeren/parkeergarages-parkeerterreinen-en-pr/
+GE03,Stadhuis (Broerenstraat),Gemeente Arnhem,51.979382,5.907861,,4.60,,,"Broerenstraat (achter stadhuis), Arnhem",https://www.arnhem.nl/alle-onderwerpen/parkeren/parkeergarages-parkeerterreinen-en-pr/
+GE04,Blauwe Golven (Roermondsplein),Gemeente Arnhem,51.981336,5.900385,,4.60,,,"Roermondsplein, Arnhem",https://www.arnhem.nl/alle-onderwerpen/parkeren/parkeergarages-parkeerterreinen-en-pr/
+GE05,De Trans,Gemeente Arnhem,51.978608,5.905887,,4.60,,True,"Trans 35, Arnhem",https://www.arnhem.nl/alle-onderwerpen/parkeren/parkeergarages-parkeerterreinen-en-pr/
+GE06,P+R GelreDome,Gemeente Arnhem,51.962458,5.874203,,,,,"Batavierenweg, Arnhem",https://www.arnhem.nl/alle-onderwerpen/parkeren/parkeergarages-parkeerterreinen-en-pr/
+GE07,P+R Station Arnhem Zuid,Gemeente Arnhem,51.954262,5.851964,,,,,"Metamorfosenallee 75, Arnhem",https://www.arnhem.nl/alle-onderwerpen/parkeren/parkeergarages-parkeerterreinen-en-pr/
+GE08,P+R Carpool Arnhem-Noord A12,Gemeente Arnhem,52.019034,5.926404,,,,,"Apeldoornseweg 450, Arnhem",https://www.arnhem.nl/alle-onderwerpen/parkeren/parkeergarages-parkeerterreinen-en-pr/
+HB01,Velperplein,Holleman Beheer,51.984030,5.913101,140,3.00,20.00,True,"Velperplein 13, 6811 AG Arnhem",https://velperplein.nl/tarieven/
+PB01,Remisestraat,ParkBee,51.977018,5.916190,,,,,"Remisestraat 4, 6828 KZ Arnhem",https://parkbee.com/en/city/arnhem/poi/remisestraat

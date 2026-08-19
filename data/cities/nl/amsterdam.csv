@@ -1,0 +1,218 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Albert Heijn Science Park,Q-Park,52.357365,4.940762,75,4.0,75.0,,"Molukkenstraat 308, 1098 TW Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/albert-heijn-science-park/
+QP02,Amst,Q-Park,52.34669,4.92081,116,4.0,34.0,True,"Bertrand Russellstraat 1 E, 1097 HL Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/amst/
+QP03,Amstel,Q-Park,52.345362,4.9188005,171,4.09,35.0,True,"Julianaplein 1, 1097 DN Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/amstel/
+QP04,Amsterdam Centraal,Q-Park,52.3787,4.89682,410,,65.0,True,"Prins Hendrikkade 20 A, 1012 TL Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/amsterdam-centraal/
+QP05,Amsterdamse Poort P21,Q-Park,52.313428,4.954625,244,2.1,20.0,True,"Bijlmerplein 101, 1102 BP Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/amsterdamse-poort-p21/
+QP06,Amsterdamse Poort P22,Q-Park,52.313428,4.954625,413,2.1,20.0,True,"Bijlmerdreef 109, 1102 BW Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/amsterdamse-poort-p22/
+QP07,Amsterdamse Poort P23,Q-Park,52.313428,4.954625,346,2.1,20.0,True,"Bijlmerdreef 250, 1102 AB Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/amsterdamse-poort-p23/
+QP08,Antarctica,Q-Park,52.3100524,4.9470289,668,3.0,25.0,True,"Hoogoorddreef 3, 1101 BA Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/antarctica/
+QP09,Bos en Lommer,Q-Park,52.379247,4.845362,497,4.29,18.0,True,"Leeuwendalersweg 23 B, 1055 JE Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/bos-en-lommer/
+QP10,Byzantium,Q-Park,52.362231,4.880226,446,,68.0,True,"Tesselschadestraat 1 G, 1054 ET Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/byzantium/
+QP11,Centrum Oost,Q-Park,52.359191,4.909757,255,7.5,37.5,,"Tweede Boerhaavestraat 20, 1091 AN Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/centrum-oost/
+QP12,de Bijenkorf,Q-Park,52.373903,4.895128,468,,65.0,True,"Beursplein 15, 1012 JW Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/de-bijenkorf/
+QP13,Eurocenter,Q-Park,52.335378,4.888465,476,10.0,65.0,True,"Barbara Strozzilaan 342, 1083 HN Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/eurocenter/
+QP14,Europaplein,Q-Park,52.3402388,4.893075,170,5.25,36.0,True,"Gelrestraat 2, 1079 MZ Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/europaplein/
+QP15,Europarking,Q-Park,52.370071,4.877091,710,,55.0,True,"Marnixstraat 250, 1016 TL Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/europarking/
+QP16,Gelderlandplein,Q-Park,52.331258,4.8752851,764,5.0,100.0,,"Van Leijenberghlaan 43, 1082 GC Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/gelderlandplein/
+QP17,Heinekenplein,Q-Park,52.3571798,4.8924763,259,9.2,60.0,True,"Eerste van der Helststraat 6, 1072 NV Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/heinekenplein/
+QP18,IJhaven,Q-Park,52.3764528,4.9237716,446,4.8,35.0,True,"Veembroederhof 208, 1019 HC Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/ijhaven/
+QP19,Kalverstraat,Q-Park,52.367426,4.8923292,122,9.0,95.0,,"Singel 451 C, 1012 WP Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/kalverstraat/
+QP20,Mahler,Q-Park,52.337306,4.872093,1763,12.0,80.0,True,"Aaron Coplandstraat 8, 1082 MG Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/mahler/
+QP21,Molukkenstraat,Q-Park,52.361518,4.9376571,80,4.0,85.0,,"Molukkenstraat 190, 1098 TW Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/molukkenstraat/
+QP22,Museumplein Bus,Q-Park,52.359235,4.882575,26,17.0,100.0,,"Paulus Potterstraat 1, 1071 CX Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/museumplein-bus/
+QP23,Museumplein,Q-Park,52.356825,4.879573,573,,60.0,True,"Van Baerlestraat 33 B, 1071 AP Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/museumplein/
+QP24,NDSM,Q-Park,52.4041015,4.88984,525,2.7,17.5,True,"Mt. Lincolnweg 31, 1033 SN Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/ndsm/
+QP25,Nieuwendijk,Q-Park,52.37675,4.89419,360,,65.0,True,"Nieuwezijds Voorburgwal 40, 1012 SB Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/nieuwendijk/
+QP26,Oostenburg,Q-Park,52.372933,4.930282,704,5.45,49.0,True,"Dijksgracht, 1018 PL Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/oostenburg/
+QP27,Oostpoort,Q-Park,52.357394,4.927811,867,4.29,32.0,True,"Polderweg 92, 1093 KP Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/oostpoort/
+QP28,Osdorpplein,Q-Park,52.358499,4.8038882,456,4.0,85.0,,"Osdorpplein 249, 1068 SW Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/osdorpplein/
+QP29,Prins & Keizer,Q-Park,52.3624867,4.8913059,140,9.2,65.0,True,"Prinsengracht 927, 1017 HL Amsterdam","https://www.q-park.nl/nl-nl/parkeren/amsterdam/prins-,-a-,-keizer/"
+QP30,Ravel,Q-Park,52.337008,4.884276,356,10.59,65.0,True,"Antonio Vivaldistraat 103, 1083HP Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/ravel/
+QP31,Spaklerweg,Q-Park,52.335135,4.9209351,438,4.0,75.0,,"Spaklerweg 44 A, 1096 BA Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/spaklerweg/
+QP32,Symphony,Q-Park,52.336014,4.875204,537,12.0,80.0,True,"Leo Smitstraat 4, 1082 MP Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/symphony/
+QP33,Valley,Q-Park,52.336849,4.877841,376,12.0,80.0,True,"Beethovenstraat 301, 1082LC Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/valley/
+QP34,Waterlooplein,Q-Park,52.36905,4.90348,195,,65.0,True,"Valkenburgerstraat 238, 1011 ND Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/waterlooplein/
+QP35,Weesperplein,Q-Park,52.35853,4.908315,114,7.5,37.5,,"Eerste Boerhaavestraat 29, 1091 GM Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/weesperplein/
+QP36,Westergasfabriek,Q-Park,52.384537,4.866162,485,4.8,38.0,True,"Van Bleiswijkstraat 8, 1051 DG Amsterdam",https://www.q-park.nl/nl-nl/parkeren/amsterdam/westergasfabriek/
+PB001,Aletta Jacobslaan 7,ParkBee,52.3467899,4.8300848,,,,,"Aletta Jacobslaan 7, 1066 BP Amsterdam",https://parkbee.com/en/city/amsterdam
+PB002,Amsteldok,ParkBee,52.344098,4.910843,,,,,"Trompenburgstraat 51, 1079 TN Amsterdam",https://parkbee.com/en/city/amsterdam
+PB003,Amstelgebouw,ParkBee,52.347664,4.920194,,,,True,"Bertrand Russellstraat 13, 1097 HL Amsterdam",https://parkbee.com/en/city/amsterdam
+PB004,Amsterdam ID Aparthotel,ParkBee,52.387031,4.834533,,,,True,"Naritaweg 51, 1043 BP Amsterdam",https://parkbee.com/en/city/amsterdam
+PB005,Amsterdam Marriott Hotel,ParkBee,52.362672,4.879419,,,,,"Stadhouderskade 12, 1054 ES Amsterdam",https://parkbee.com/en/city/amsterdam
+PB006,Amsterdam Teleport Hotel,ParkBee,52.385644,4.832562,,,,,"Heathrowstraat 5, 1043 CE Amsterdam",https://parkbee.com/en/city/amsterdam
+PB007,Anthony Fokkerweg,ParkBee,52.3452655,4.8463702,,,,,"Anthony Fokkerweg 1, 1059 CM Amsterdam",https://parkbee.com/en/city/amsterdam
+PB008,August Allebéplein,ParkBee,52.3628367,4.8374141,,,,True,"August Allebeplein 125, 1062 AB Amsterdam",https://parkbee.com/en/city/amsterdam
+PB009,Bos en Lommerplantsoen ,ParkBee,52.37651443481445,4.844790935516357,,,,,"Bos en Lommerplantsoen 1, 1055 AA Amsterdam",https://parkbee.com/en/city/amsterdam
+PB010,Carolina Macgillavrylaan B,ParkBee,52.356034,4.948018,,,,,"Carolina MacGillavrylaan 1880, 1098 XE Amsterdam",https://parkbee.com/en/city/amsterdam
+PB011,Centerpoint 1,ParkBee,52.310583,4.944921,,,,True,"Hoogoorddreef 60, 1101 BE Amsterdam",https://parkbee.com/en/city/amsterdam
+PB012,Centerpoint 2,ParkBee,52.3103827,4.9456176,,,,True,"Hoogoorddreef 62, 1101 BE Amsterdam",https://parkbee.com/en/city/amsterdam
+PB013,Conscious Hotel Vondelpark,ParkBee,52.35733,4.85676,,,,True,"Zocherstraat 55, 1054 LZ Amsterdam",https://parkbee.com/en/city/amsterdam
+PB014,Contactweg,ParkBee,52.396286,4.855209,,,,,"Contactweg 60, 1014 BW Amsterdam",https://parkbee.com/en/city/amsterdam
+PB015,Cruquiusstraat,ParkBee,52.369033,4.928068,,,,,"Czaar Peterstraat 22, 1018 PR Amsterdam",https://parkbee.com/en/city/amsterdam
+PB016,De Lofts,ParkBee,52.339791,4.919548,,,,True,"Welnastraat 316, 1096 BA Amsterdam",https://parkbee.com/en/city/amsterdam
+PB017,De Winnaar,ParkBee,52.345615,4.856086,,,,,"Hestiastraat 52, 1076 DM Amsterdam",https://parkbee.com/en/city/amsterdam
+PB018,De Wittenkade,ParkBee,52.384693,4.8791,,,,,"De Wittenkade 24, 1051 AB Amsterdam",https://parkbee.com/en/city/amsterdam
+PB019,Delflandlaan,ParkBee,52.350958,4.840585,,,,,"Delflandlaan 20, 1062 EA Amsterdam",https://parkbee.com/en/city/amsterdam
+PB020,Donker Curtiusstraat,ParkBee,52.378898,4.871596,,,,,"Donker Curtiusstraat 11, 1051 JM Amsterdam",https://parkbee.com/en/city/amsterdam
+PB021,Eerste Jan van der Heijdenstraat,ParkBee,52.35328,4.889184,,,,,"Eerste Jan van der Heijdenstraat 89, 1072 TM Amsterdam",https://parkbee.com/en/city/amsterdam
+PB022,Emerald House,ParkBee,52.348609,4.891897,,,,,"Jozef Israëlskade 46-48, 1072 SB Amsterdam",https://parkbee.com/en/city/amsterdam
+PB023,Entrada,ParkBee,52.329815,4.931499,,,,,"Entrada 600, 1096EL Amsterdam",https://parkbee.com/en/city/amsterdam
+PB024,Ertskade,ParkBee,52.3742073,4.9447015,,,,True,"Ertskade 20, 1019 BB Amsterdam",https://parkbee.com/en/city/amsterdam
+PB025,Europlaza,ParkBee,52.310741,4.946637,,,,,"Hoogoorddreef 56, 1101 BE Amsterdam",https://parkbee.com/en/city/amsterdam
+PB026,Faas Wilkesstraat ,ParkBee,52.37353550635128,4.968623476686491,,,,,"Faas Wilkesstraat 159, 1095 MD Amsterdam",https://parkbee.com/en/city/amsterdam
+PB027,Foppingadreef,ParkBee,52.312248,4.950329,,,,True,"Foppingadreef 21, 1102 MG Amsterdam",https://parkbee.com/en/city/amsterdam
+PB028,Foppingadreef AICS K+R,ParkBee,52.31233,4.950368,,,,,"Foppingadreef 21, 1102 MG Amsterdam",https://parkbee.com/en/city/amsterdam
+PB029,Fregelaan Gobel,ParkBee,52.352971,4.839185,,,,,"Fregelaan 1, 1062 KK Amsterdam",https://parkbee.com/en/city/amsterdam
+PB030,Fregelaan Rosser,ParkBee,52.352957,4.838407,,,,,"Fregelaan 42, 1062 KL Amsterdam",https://parkbee.com/en/city/amsterdam
+PB031,Gelderlandplein P2,ParkBee,52.33039,4.87697,,,,,"Loowaard 57, 1082KR Amsterdam",https://parkbee.com/en/city/amsterdam
+PB032,Gelderlandplein P3,ParkBee,52.330235,4.876332,,,,,"Loowaard 57, 1082KR Amsterdam",https://parkbee.com/en/city/amsterdam
+PB033,"George Marina, Amsterdam",ParkBee,52.341501,4.918739,,,,,"Spaklerweg 10A, 1096 BA Amsterdam",https://parkbee.com/en/city/amsterdam
+PB034,Gershwin,ParkBee,52.3359536,4.8701089,,,,,"George Gershwinlaan 539 - 685, 1082 MT Amsterdam",https://parkbee.com/en/city/amsterdam
+PB035,Grand Hotel Amrâth Amsterdam,ParkBee,52.374249,4.904512,,,,,"Prins Hendrikkade 108, 1011 AK Amsterdam",https://parkbee.com/en/city/amsterdam
+PB036,Grand Hotel Krasnapolsky,ParkBee,52.373067,4.89568,,,,True,"Sint Jansstraat 13, 1012 HG Amsterdam",https://parkbee.com/en/city/amsterdam
+PB037,HNK Amsterdam Sloterdijk,ParkBee,52.390559,4.834638,,,,,"Radarweg 60, 1043 NT Amsterdam",https://parkbee.com/en/city/amsterdam
+PB038,Hamerkop,ParkBee,52.38466047522866,4.927917338623047,,,,,"Mokerstraat 8, 1021 KB Amsterdam",https://parkbee.com/en/city/amsterdam
+PB039,Havengebouw,ParkBee,52.3815362,4.8951589,,,,,"De Ruijterkade 7, 1013AA Amsterdam",https://parkbee.com/en/city/amsterdam
+PB040,Het Dok,ParkBee,52.404103,4.893849,,,,True,"Tt. Vasumweg 40, 1033 SC Amsterdam",https://parkbee.com/en/city/amsterdam
+PB041,Hettenheuvelweg,ParkBee,52.3055891,4.9437229,,,,,"Hettenheuvelweg 41-43, 1101 BM Amsterdam",https://parkbee.com/en/city/amsterdam
+PB042,Hogehilweg C,ParkBee,52.306753,4.948466,,,,,"Hogehilweg 20, 1101 CD Amsterdam",https://parkbee.com/en/city/amsterdam
+PB043,Hogevecht ,ParkBee,52.30969,4.958241,,,,,"Hogevecht 1, 1102HA Amsterdam",https://parkbee.com/en/city/amsterdam
+PB044,Hoogoorddreef 48,ParkBee,52.312217,4.951118,,,,,"Hoogoorddreef 48, 1101BE Amsterdam",https://parkbee.com/en/city/amsterdam
+PB045,Hoogoorddreef 63,ParkBee,52.307023,4.939662,,,,,"Hoogoorddreef 63, 1101BB Amsterdam",https://parkbee.com/en/city/amsterdam
+PB046,Hotel Casa Amsterdam,ParkBee,52.34955,4.918627,,,,True,"Stephensonstraat 36, 1097 BB Amsterdam",https://parkbee.com/en/city/amsterdam
+PB047,Hotel Levell,ParkBee,52.304857,4.950833,,,,,"Hullenbergweg 353, 1101 CP Amsterdam",https://parkbee.com/en/city/amsterdam
+PB048,Hotel NH Amsterdam Noord,ParkBee,52.391778,4.911162,,,,True,"Distelkade 21, 1031 XP Amsterdam",https://parkbee.com/en/city/amsterdam
+PB049,Hotel NH City Centre Amsterdam,ParkBee,52.369834,4.888908,,,,,"Spuistraat 288-292, 1012 VX Amsterdam",https://parkbee.com/en/city/amsterdam
+PB050,Hotel Novotel Amsterdam City,ParkBee,52.333876,4.888851,,,,,"Europaboulevard 10, 1083 AD Amsterdam",https://parkbee.com/en/city/amsterdam
+PB051,Hotel Okura,ParkBee,52.348453,4.893,,,,,"Ferdinand Bolstraat 333, 1072 LH Amsterdam",https://parkbee.com/en/city/amsterdam
+PB052,Hullenbergweg C,ParkBee,52.304913,4.950989,,,,,"Hullenbergweg 278-308, 1101 BV Amsterdam",https://parkbee.com/en/city/amsterdam
+PB053,Hyatt Regency Amsterdam,ParkBee,52.361358,4.911253,,,,True,"Spinozastraat 49, 1018GJ Amsterdam",https://parkbee.com/en/city/amsterdam
+PB054,IJsbaanpad,ParkBee,52.339785,4.851069,,,,,"IJsbaanpad 47, 1076 CV Amsterdam",https://parkbee.com/en/city/amsterdam
+PB055,Ingenieur Jakoba Mulderplein,ParkBee,52.365634,4.924535,,,,,"Ingenieur Jakoba Mulderplein 78, 1018 AV Amsterdam",https://parkbee.com/en/city/amsterdam
+PB056,Johan Huizingalaan 400,ParkBee,52.34017,4.8273324,,,,,"Johan Huizingalaan 400, 1066 JS Amsterdam",https://parkbee.com/en/city/amsterdam
+PB057,Johnny River,ParkBee,52.333004,4.9146028,,,,,"Joan Muyskensweg 22, 1096 CJ Amsterdam",https://parkbee.com/en/city/amsterdam
+PB058,Kaasjeskruidstraat 4,ParkBee,52.3984283796411,4.906250209064981,,,,,"Kaasjeskruidstraat 4, 1032 KK Amsterdam",https://parkbee.com/en/city/amsterdam
+PB059,Kalverstraat,ParkBee,52.367261,4.890822,,,,True,"Singel 451C, 1012 WP Amsterdam",https://parkbee.com/en/city/amsterdam
+PB060,Karspeldreef,ParkBee,52.30749,4.95257,,,,,"Karspeldreef 19, 1102 BB Amsterdam",https://parkbee.com/en/city/amsterdam
+PB061,Karspeldreef 4A,ParkBee,52.305179,4.947755,,,,True,"Karspeldreef 4, 1101 CJ Amsterdam",https://parkbee.com/en/city/amsterdam
+PB062,Keizersgracht ,ParkBee,52.365622,4.887546,,,,True,"Keizersgracht 485, 1017 DL Amsterdam",https://parkbee.com/en/city/amsterdam
+PB063,Kimpton de Witt Amsterdam,ParkBee,52.377044,4.895564,,,,,"Nieuwezijds Armsteeg, 1012MB Amsterdam",https://parkbee.com/en/city/amsterdam
+PB064,Klaprozenweg,ParkBee,52.39617,4.910509,,,,,"Klaprozenweg 19, 1032 LG Amsterdam",https://parkbee.com/en/city/amsterdam
+PB065,Koningin Wilhelminaplein ,ParkBee,52.3558583,4.8364983,,,,,"Koningin Wilhelminaplein 18, 1062 Amsterdam",https://parkbee.com/en/city/amsterdam
+PB066,Laan van Spartaan,ParkBee,52.37356,4.838491,,,,,"Laan van Spartaan 34, 1061 MA Amsterdam",https://parkbee.com/en/city/amsterdam
+PB067,Laarderhoogtweg 25,ParkBee,52.3022322,4.9469263,,,,True,"Laarderhoogtweg 25, 1101 EB Amsterdam",https://parkbee.com/en/city/amsterdam
+PB068,Lemelerbergweg,ParkBee,52.302821,4.942296,,,,,"Lemelerbergweg 32, 1101 AH Amsterdam",https://parkbee.com/en/city/amsterdam
+PB069,Leonardo Hotel Rembrandtpark - Binnen,ParkBee,52.368364,4.845021,,,,,"Staalmeesterslaan 420, 1057 PH Amsterdam",https://parkbee.com/en/city/amsterdam
+PB070,Leonardo Hotel Rembrandtpark - Parkeerdek,ParkBee,52.3681227,4.8440077,,,,,"Staalmeesterslaan 410, 1057 PH Amsterdam",https://parkbee.com/en/city/amsterdam
+PB071,Leonardo Royal Hotel Amsterdam,ParkBee,52.333057,4.917987,,,,,"Paul van Vlissingenstraat 24, 1096 BK Amsterdam",https://parkbee.com/en/city/amsterdam
+PB072,Louwesweg,ParkBee,52.34652,4.825236,,,,,"Louwesweg 1, 1066 EA Amsterdam",https://parkbee.com/en/city/amsterdam
+PB073,MOBIHUB - IJsbaanpad,ParkBee,52.33914,4.850041,,,,,"IJsbaanpad 43, 1076CV Amsterdam",https://parkbee.com/en/city/amsterdam
+PB074,Maassluisstraat 105,ParkBee,52.34917515332326,4.837039012011733,,,,,"Maassluisstraat 105, 1062 HP Amsterdam",https://parkbee.com/en/city/amsterdam
+PB075,Maassluisstraat 2,ParkBee,52.35083148873864,4.836455317629516,,,,,"Maassluisstraat 2, 1062 GD Amsterdam",https://parkbee.com/en/city/amsterdam
+PB076,Marcusstraat 21-53,ParkBee,52.35178143205535,4.91264009430256,,,,,"Marcusstraat, 21-53 Amsterdam",https://parkbee.com/en/city/amsterdam
+PB077,Margriet Toren,ParkBee,52.3113967,4.9419071,,,,,"Haaksbergweg 75, 1101 BR Amsterdam",https://parkbee.com/en/city/amsterdam
+PB078,Mercure Hotel Amsterdam City,ParkBee,52.33525,4.913437,,,,,"Joan Muyskenweg 10, 1096CJ Amsterdam",https://parkbee.com/en/city/amsterdam
+PB079,Mercure Hotel Schiphol,ParkBee,52.33742607,4.816550398,,,,,"Oude Haagseweg 20, 1066BW Amsterdam",https://parkbee.com/en/city/amsterdam
+PB080,Minervahaven,ParkBee,52.3981508,4.8710331,,,,,"Moermanskkade 71, 1013 BC Amsterdam",https://parkbee.com/en/city/amsterdam
+PB081,Molenpad,ParkBee,52.366917,4.883222,,,,,"Molenpad 16, 1016 GM Amsterdam",https://parkbee.com/en/city/amsterdam
+PB082,Molukkenstraat 308,ParkBee,52.357181,4.940308,,,,,"Molukkenstraat 308, 1098TW Amsterdam",https://parkbee.com/en/city/amsterdam
+PB083,Mt Lincolnweg,ParkBee,52.40546,4.890383,,,,True,"TT Vasumweg 63, 1033 SN Amsterdam",https://parkbee.com/en/city/amsterdam
+PB084,NH Amsterdam Zuid,ParkBee,52.326187,4.87989,,,,,"Van Leijenberghlaan 221, 1082 GG Amsterdam",https://parkbee.com/en/city/amsterdam
+PB085,Naritaweg B,ParkBee,52.386527,4.833081,,,,,"Naritaweg 159, 1043BW Amsterdam",https://parkbee.com/en/city/amsterdam
+PB086,Naritaweg C,ParkBee,52.387372,4.833471,,,,,"Naritaweg 141, 1043 BW Amsterdam",https://parkbee.com/en/city/amsterdam
+PB087,Nassaukade,ParkBee,52.364516,4.878691,,,,,"Nassaukade 946, 1016 CX Amsterdam",https://parkbee.com/en/city/amsterdam
+PB088,Nautix,ParkBee,52.369141,4.967595,,,,True,"Zuiderzeeweg 6, 1095 KG Amsterdam",https://parkbee.com/en/city/amsterdam
+PB089,Nieuwe Prinsengracht 65,ParkBee,52.3636454,4.9059957,,,,,"Nieuwe Prinsengracht 65, 1018 EG Amsterdam",https://parkbee.com/en/city/amsterdam
+PB090,Nieuwe Westerdokstraat,ParkBee,52.380717,4.893657,,,,,"Nieuwe Westerdokstraat 8, 1013 AG Amsterdam",https://parkbee.com/en/city/amsterdam
+PB091,Ooster Ringdijk,ParkBee,52.35815,4.94046,,,,,"Molukkenstraat 190, 1098TW Amsterdam",https://parkbee.com/en/city/amsterdam
+PB092,Oranjekwartier,ParkBee,52.353335,4.839612,,,,,"Carnapstraat 201, 1062 KZ Amsterdam",https://parkbee.com/en/city/amsterdam
+PB093,Osdorpplein,ParkBee,52.360035,4.805186,,,,,"Osdorpplein 249, 1068 SW Amsterdam",https://parkbee.com/en/city/amsterdam
+PB094,OurDomain Amsterdam South East,ParkBee,52.299025,4.956646,,,,True,"Pietersbergweg 53, 1105 BM Amsterdam",https://parkbee.com/en/city/amsterdam
+PB095,Overschiestraat,ParkBee,52.344892,4.836799,,,,,"Overschiestraat 184, 1062 XK Amsterdam",https://parkbee.com/en/city/amsterdam
+PB096,Overschiestraat 63,ParkBee,52.34504838406263,4.839296555510498,,,,,"Overschiestraat 63, 1062 XD Amsterdam",https://parkbee.com/en/city/amsterdam
+PB097,Overtoom,ParkBee,52.364356,4.872063,,,,,"Tweede Constantijn Huygensstraat 4, 1054 CT Amsterdam",https://parkbee.com/en/city/amsterdam
+PB098,Paasheuvelweg 14,ParkBee,52.2975849,4.9509706,,,,,"Paasheuvelweg 14, 1105 BH Amsterdam",https://parkbee.com/en/city/amsterdam
+PB099,Paasheuvelweg 6,ParkBee,52.2985558,4.9499325,,,,,"Paasheuvelweg 6, 1105 BH Amsterdam",https://parkbee.com/en/city/amsterdam
+PB100,Panamalaan,ParkBee,52.367701,4.93313,,,,,"Panamalaan 11, 1019 AT Amsterdam",https://parkbee.com/en/city/amsterdam
+PB101,Park Inn by Radisson Amsterdam City West,ParkBee,52.3906752,4.8418822,,,,,"Gatwickstraat 2, 1043 GM Amsterdam",https://parkbee.com/en/city/amsterdam
+PB102,Parkeergarage De Plantijn,ParkBee,52.348418,4.822217,,,,,"Louwesweg 12, 1066CX Amsterdam",https://parkbee.com/en/city/amsterdam
+PB103,Parkeergarage Nieuw West,ParkBee,52.3571332,4.8043957,,,,True,"Jan Celestraat 5, 1068HH Amsterdam",https://parkbee.com/en/city/amsterdam
+PB104,Parking 2Amsterdam,ParkBee,52.340139,4.871665,,,,True,"Eduard van Beinumstraat 2, 1077 CZ Amsterdam",https://parkbee.com/en/city/amsterdam
+PB105,Parking Aristo,ParkBee,52.387077,4.840003,,,,,"Tempelhofstraat 2, 1043 EC Amsterdam",https://parkbee.com/en/city/amsterdam
+PB106,Parking Cruquius ,ParkBee,52.3689962,4.9457844,,,,,"Zeeburgerkade 830, 1019 HT Amsterdam",https://parkbee.com/en/city/amsterdam
+PB107,Parking Plein 40-45,ParkBee,52.380001,4.823776,,,,,"Willem Kraanstraat 20, 1063 MG Amsterdam",https://parkbee.com/en/city/amsterdam
+PB108,Parking de Hoofdstad,ParkBee,52.363197,4.886961,,,,,"Prinsengracht 540, 1017KK Amsterdam",https://parkbee.com/en/city/amsterdam
+PB109,Parnassusweg,ParkBee,52.342655,4.868982,,,,,"Peter van Anrooystraat, 1077 xm Amsterdam",https://parkbee.com/en/city/amsterdam
+PB110,Pestana Amsterdam Riverside,ParkBee,52.352975,4.906584,,,,True,"Tolstraat 186, 1074 VN Amsterdam",https://parkbee.com/en/city/amsterdam
+PB111,Pillows Hotels,ParkBee,52.36260014590876,4.919794445563454,,,,,"Mauritskade 61, 1092 AD Amsterdam",https://parkbee.com/en/city/amsterdam
+PB112,Platanenweg,ParkBee,52.35392,4.913461,,,,,"Platanenweg 24, 1091 KS Amsterdam",https://parkbee.com/en/city/amsterdam
+PB113,Postillion Hotel,ParkBee,52.3340683,4.9219354,,,,True,"Paul van Vlissingenstraat 9-11, 1096 BK Amsterdam",https://parkbee.com/en/city/amsterdam
+PB114,Q-port,ParkBee,52.3868604,4.842559,,,,,"Kingsfordweg 43, 1043 GP Amsterdam",https://parkbee.com/en/city/amsterdam
+PB115,RAI Amsterdam,ParkBee,52.339193,4.890143,,,,True,"Europaboulevard 2, 1078 RV Amsterdam",https://parkbee.com/en/city/amsterdam
+PB116,Revaleiland,ParkBee,52.393844,4.880763,,,,True,"Revaleiland 282, 1014 ZG Amsterdam",https://parkbee.com/en/city/amsterdam
+PB117,Rigakade,ParkBee,52.395242,4.874282,,,,True,"Rigakade 10, 1013 BC Amsterdam",https://parkbee.com/en/city/amsterdam
+PB118,Rijswijkstraat ,ParkBee,52.350125,4.84272,,,,,"Rijswijkstraat 4, 1059 GK Amsterdam",https://parkbee.com/en/city/amsterdam
+PB119,Ruby Emma Hotel,ParkBee,52.338292,4.920707,,,,,"Amstelvlietstraat 4, 1096 GG Amsterdam",https://parkbee.com/en/city/amsterdam
+PB120,Ruyterhuys,ParkBee,52.381652,4.895267,,,,True,"De Ruijterkade 6, 1011AA Amsterdam",https://parkbee.com/en/city/amsterdam
+PB121,Sarphati Plaza,ParkBee,52.360975,4.907372,,,,True,"Sarphatistraat 44, 1018GN Amsterdam",https://parkbee.com/en/city/amsterdam
+PB122,Sheraton Amsterdam Airport Hotel,ParkBee,52.308812,4.759498,,,,True,"Schiphol Boulevard 101, 1118 BG Amsterdam",https://parkbee.com/en/city/amsterdam
+PB123,Sloten,ParkBee,52.33742607,4.815710598,,,,,"Oude Haagseweg 20, 1066BW Amsterdam",https://parkbee.com/en/city/amsterdam
+PB124,Sluishuis,ParkBee,52.363843,4.98224,,,,True,"Haringbuisdijk, 1086 VA Amsterdam",https://parkbee.com/en/city/amsterdam
+PB125,Spaces Amstel,ParkBee,52.348648,4.914316,,,,True,"Mr. Treublaan 7, 1097 DP Amsterdam",https://parkbee.com/en/city/amsterdam
+PB126,Spaces Zuidas,ParkBee,52.336254,4.885284,,,,True,"Barbara Strozzilaan 101, 1083HN Amsterdam",https://parkbee.com/en/city/amsterdam
+PB127,Spaklerweg 44A,ParkBee,52.337588,4.921114,,,,,"Amstelstroomlaan, 1096BA Amsterdam",https://parkbee.com/en/city/amsterdam
+PB128,Spiegelhof,ParkBee,52.364728,4.889886,,,,,"Nieuwe Spiegelstraat 15, 1017 DB Amsterdam",https://parkbee.com/en/city/amsterdam
+PB129,Squash City Amsterdam,ParkBee,52.383046,4.889575,,,,,"Ketelmakerstraat 6, 1013 DE Amsterdam",https://parkbee.com/en/city/amsterdam
+PB130,Staal Kade - P2,ParkBee,52.347593,4.849895,,,,True,"Rijnsburgstraat 9-11, 1059 AT Amsterdam",https://parkbee.com/en/city/amsterdam
+PB131,Stadhouderskade,ParkBee,52.35884,4.888373,,,,,"Stadhouderskade 55, 1072 AB Amsterdam",https://parkbee.com/en/city/amsterdam
+PB132,Stephensonstraat,ParkBee,52.349426,4.919048,,,,,"Stephensonstraat 37, 1097 BA Amsterdam",https://parkbee.com/en/city/amsterdam
+PB133,Teleport Towers,ParkBee,52.385356,4.842838,,,,,"Kingsfordweg 151, 1043 GR Amsterdam",https://parkbee.com/en/city/amsterdam
+PB134,Tempelhofstraat,ParkBee,52.387118,4.840464,,,,True,"Tempelhofstraat 5, 1043EB Amsterdam",https://parkbee.com/en/city/amsterdam
+PB135,The Curve,ParkBee,52.405635,4.891817,,,,True,"Tt. Vasumweg 58, 1033SC Amsterdam",https://parkbee.com/en/city/amsterdam
+PB136,The July - Boat & Co,ParkBee,52.39418678203342,4.8823508338439865,,,,True,"Revaleiland 500, 1014 ZG Amsterdam",https://parkbee.com/en/city/amsterdam
+PB137,The Social Hub Amsterdam City,ParkBee,52.3553359,4.9137188,,,,True,"Vrolikstraat 171, 1091TW Amsterdam",https://parkbee.com/en/city/amsterdam
+PB138,The Whale,ParkBee,52.373645,4.941142,,,,,"Baron G.A. Tindalplein 217, 1019 TW Amsterdam",https://parkbee.com/en/city/amsterdam
+PB139,The William,ParkBee,52.33407569813688,4.916790531839114,,,,,"Willem Fenengastraat 16, 1096 BN Amsterdam",https://parkbee.com/en/city/amsterdam
+PB140,Tire Station,ParkBee,52.3571082,4.8550431,,,,,"Amstelveenseweg 21, 1054 MB Amsterdam",https://parkbee.com/en/city/amsterdam
+PB141,Tweede Hugo de Grootstraat,ParkBee,52.3747421,4.8702012,,,,,"Van Reigersbergenstraat 2, 1052 LG Amsterdam",https://parkbee.com/en/city/amsterdam
+PB142,Van Beuningenstraat,ParkBee,52.383366,4.875896,,,,,"Van Beuningenstraat 92, 1051XS Amsterdam",https://parkbee.com/en/city/amsterdam
+PB143,Van Limburg Stirumstraat,ParkBee,52.384008,4.875712,,,,,"Van Hogendorpstraat 28, 1051BP Amsterdam",https://parkbee.com/en/city/amsterdam
+PB144,Van der Valk Hotel Amsterdam-Amstel,ParkBee,52.333225,4.914336,,,,True,"Joan Muyskenweg 20, 1096 CJ Amsterdam",https://parkbee.com/en/city/amsterdam
+PB145,Weesperstraat 107-121,ParkBee,52.36316,4.90799,,,,True,"Lepelkruisstraat 42, 1018 WH Amsterdam",https://parkbee.com/en/city/amsterdam
+PB146,Wim van Estlaan,ParkBee,52.37372,4.836549,,,,True,"Wim van Estlaan, 1061 AZ Amsterdam",https://parkbee.com/en/city/amsterdam
+PB147,World Fashion Centre,ParkBee,52.35258,4.84162,,,,,"Hodenpijlkade 1, 1058 LV Amsterdam",https://parkbee.com/en/city/amsterdam
+PB148,Zandkasteel P27,ParkBee,52.313179,4.953979,,,,True,"Hoogoorddreef 42, 1102 CP Amsterdam",https://parkbee.com/en/city/amsterdam
+PB149,Zandkasteel P4,ParkBee,52.313357769495944,4.9539162218329,,,,True,"Hoogoorddreef 42, 1102 MG Amsterdam",https://parkbee.com/en/city/amsterdam
+PB150,Zuidas,ParkBee,52.336274,4.870815,,,,,"Benjamin Brittenstraat 13, 1082 ML Amsterdam",https://parkbee.com/en/city/amsterdam
+GA01,Albert Cuyp,Gemeente Amsterdam,52.355167,4.887075,600,6.96,69.6,True,"Ruysdaelkade 100, 1072 AT Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/albert-cuyp/
+GA02,Amsterdamse Bos,Gemeente Amsterdam,52.329211,4.855594,700,3.12,31.2,True,"Bosbaan 4, Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/amsterdamse-bos/
+GA03,Banne,Gemeente Amsterdam,52.407794,4.917144,440,1.74,17.4,True,"Bezaanjachtplein 129, 1034 CR Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/banne/
+GA04,De Hallen,Gemeente Amsterdam,52.367953,4.867831,110,6.96,69.6,True,"Bellamyplein 41, 1053 AT Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/hallen/
+GA05,De Opgang,Gemeente Amsterdam,52.397789,4.937997,800,1.74,17.4,,"Buikslotermeerplein 226, 1025 EZ Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/opgang/
+GA06,Dome,Gemeente Amsterdam,52.313392,4.936986,550,3.72,37.2,,"Passage 90, 1101 AX Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/dome/
+GA07,Gouden Leeuw,Gemeente Amsterdam,52.3236505,4.9752228,,1.74,17.4,True,"Gouden Leeuw 100, 1103 KA Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/gouden-leeuw/
+GA08,Groenhoven,Gemeente Amsterdam,52.3245312,4.9777816,,1.74,17.4,True,"Groenhoven 100, 1103 LA Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/groenhoven/
+GA09,Haardstee,Gemeente Amsterdam,52.3112102,4.9522275,,1.74,17.4,,"Haardstee 100, 1102 NE Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/haardstee/
+GA10,Hoptille,Gemeente Amsterdam,52.3090711,4.9547266,,1.74,17.4,,"Hoptille 100, 1102 PR Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/hoptille/
+GA11,Markenhoven,Gemeente Amsterdam,52.369733,4.908733,352,9.0,90.0,True,"Anne Frankstraat 220, 1011 MP Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/markenhoven/
+GA12,Marnix,Gemeente Amsterdam,52.3783,4.877183,800,6.96,69.6,True,"Frederik Hendrikplantsoen 25, 1052 XZ Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/marnix/
+GA13,Mercatorplein,Gemeente Amsterdam,52.36945,4.851414,200,5.34,53.4,,"Mercatorplein 2A, 1057 CB Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/mercatorplein/
+GA14,P+R Boven 't Y,Gemeente Amsterdam,52.399286,4.9392122,448,,13.0,,"Buikslotermeerplein 237, 1025 XB Amsterdam",https://www.amsterdam.nl/parkeren/parkeren-reizen/plaatsen-binnen-stad/pr-boven-t-y/
+GA15,P+R Noord,Gemeente Amsterdam,52.4029854,4.9327714,442,,13.0,True,"Nieuwe Leeuwarderweg 25, 1022 BP Amsterdam",https://www.amsterdam.nl/parkeren/parkeren-reizen/plaatsen-binnen-stad/noord/
+GA16,P+R P1 ArenA,Gemeente Amsterdam,52.3137103,4.9406032,2400,,13.0,True,"Burgemeester Stramanweg 130, 1101 EP Amsterdam",https://www.amsterdam.nl/parkeren/parkeren-reizen/plaatsen-binnen-stad/p1-arena/
+GA17,P+R Sloterdijk,Gemeente Amsterdam,52.3900271,4.8384282,200,,13.0,True,"Piarcoplein 1, 1043 DW Amsterdam",https://www.amsterdam.nl/parkeren/parkeren-reizen/plaatsen-binnen-stad/pr-sloterdijk/
+GA18,P+R Zeeburg II,Gemeente Amsterdam,52.3696831,4.9641154,163,,13.0,,"Zuiderzeeweg 8, 1095 KG Amsterdam",https://www.amsterdam.nl/parkeren/parkeren-reizen/plaatsen-binnen-stad/pr-zeeburg/
+GA19,P+R Zeeburg III,Gemeente Amsterdam,52.3698175,4.9710179,265,,13.0,True,"Anthonie van Akenstraat, 1095 MV Amsterdam",https://www.amsterdam.nl/parkeren/parkeren-reizen/plaatsen-binnen-stad/pr-zeeburg-iii/
+GA20,P10 Plaza ArenA,Gemeente Amsterdam,52.3072163,4.9417095,814,3.72,37.2,True,"Herikerbergweg 288, 1101 CT Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/p10-plaza-arena/
+GA21,P18 HvA / ROC,Gemeente Amsterdam,52.3153793,4.9470685,291,3.72,,,"Fraijlemaborg 131, 1102 CV Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/p18-hva-roc/
+GA22,P2 Evenemententerrein,Gemeente Amsterdam,52.316025,4.930142,,,22.0,,"Borchlandweg 1, 1114 BD Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/p2-evenemententerrein/
+GA23,P3 Mikado,Gemeente Amsterdam,52.310342,4.941297,366,3.72,37.2,,"De Entree 228, 1101 EE Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/p3-mikado/
+GA24,P4 Villa ArenA,Gemeente Amsterdam,52.3111146,4.9386937,1248,3.72,,True,"De Entree 7, 1101 EE Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/p4-villa-arena/
+GA25,P5 Villa ArenA,Gemeente Amsterdam,52.3111146,4.9386937,1354,3.72,,True,"De Entree 7, 1101 BH Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/p5-villa-arena/
+GA26,P6 Uitgaansdriehoek,Gemeente Amsterdam,52.311167,4.943981,399,3.72,37.2,,"De Corridor 15, 1101 BC Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/p6-uitgaansdriehoek/
+GA27,Piet Hein,Gemeente Amsterdam,52.377675,4.914539,400,5.34,53.4,True,"Piet Heinkade 59, 1019 GM Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/piet-heingarage/
+GA28,Rokin,Gemeente Amsterdam,52.371078,4.892744,293,9.0,90.0,True,"Rokin 67, 1012 KK Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/rokin/
+GA29,Science Park P7,Gemeente Amsterdam,52.355131,4.956467,261,5.34,53.4,,"Science Park 904, 1098 XH Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/science-park-p7/
+GA30,Stadhuis,Gemeente Amsterdam,52.367281,4.900517,400,9.0,90.0,True,"Waterlooplein 28, 1011 PG Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/stadhuis/
+GA31,Willemspoort,Gemeente Amsterdam,52.384956,4.884494,203,9.0,90.0,True,"Haarlemmer Houttuinen 549, 1013 GM Amsterdam",https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/willemspoort/

@@ -1,0 +1,13 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Centrum,Q-Park,52.514028,6.097661,323,3.6,16.5,True,"Pletterstraat 41, 8011 VG Zwolle",https://www.q-park.nl/nl-nl/parkeren/zwolle/centrum/
+QP02,Maagjesbolwerk,Q-Park,52.512114,6.088003,453,,20.0,True,"Maagjesbolwerk 54, 8011 LL Zwolle",https://www.q-park.nl/nl-nl/parkeren/zwolle/maagjesbolwerk/
+QP03,P+R Zwolle,Q-Park,52.50401,6.088109,207,2.49,13.5,,"Hanzelaan 101, 8017 JJ Zwolle",https://www.q-park.nl/nl-nl/parkeren/zwolle/p-r-zwolle/
+GZ01,Noordereiland,Gemeente Zwolle,52.515446,6.096409,690,3.0,15.0,True,"Assiesstraat, 8011 XT Zwolle",https://www.zwolle.nl/parkeertarieven
+GZ02,Katwolderplein,Gemeente Zwolle,52.514051,6.086746,700,1.5,7.5,True,"Katerdijk 2, 8011 BK Zwolle",https://www.zwolle.nl/parkeertarieven
+GZ03,Diezerpoort,Gemeente Zwolle,52.516236,6.09995,611,1.5,7.5,,"Van Wevelinckhovenstraat 8, 8021 JA Zwolle",https://www.zwolle.nl/parkeertarieven
+GZ04,Emmawijk,Gemeente Zwolle,52.509454,6.08713,200,1.5,7.5,True,"Emmawijk, 8011 CM Zwolle",https://www.zwolle.nl/parkeertarieven
+GZ05,Pas de Deux,Gemeente Zwolle,52.503564,6.092257,350,1.5,7.5,,"Hanzelaan 268, 8017 JJ Zwolle",https://www.zwolle.nl/parkeertarieven
+GZ06,Lübeckplein,Gemeente Zwolle,52.503221,6.090143,385,1.5,7.5,True,"Hanzelaan 236, 8017 JZ Zwolle",https://www.zwolle.nl/parkeertarieven
+PB01,Stationsplein Zwolle,ParkBee,52.506505,6.08897,,,,,"Stationsplein 14, 8011 CA Zwolle",https://parkbee.com/en/city/zwolle
+PB02,Hanzelaan 95,ParkBee,52.50449,6.086395,,,,,"Hanzelaan 95, 8017 JE Zwolle",https://parkbee.com/en/city/zwolle
+PB03,Hanzelaan - Hanze,ParkBee,52.503843,6.087254,,,,True,"Hanzelaan 180, 8017 JG Zwolle",https://parkbee.com/en/city/zwolle

@@ -1,0 +1,14 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Enschede,Q-Park,52.218835,6.893170,466,,16.50,True,"Zuidmolenstraat 1, 7511 NJ Enschede",https://www.q-park.nl/nl-nl/parkeren/enschede/enschede/
+QP02,P+R Parkweg,Q-Park,52.221317,6.882640,156,1.89,9.00,,"Parkweg t.o. 37-39, 7513 AD Enschede",https://www.q-park.nl/nl-nl/parkeren/enschede/p-r-parkweg/
+GE01,H.J. van Heekgarage,Gemeente Enschede,52.217972,6.893200,1700,3.35,16.75,True,"Beltstraat, 7511 AA Enschede",https://www.enschede.nl/parkeertarieven-en-parkeerlocaties
+GE02,Irenegarage,Gemeente Enschede,52.221882,6.898211,475,3.35,16.75,True,"Van Lochemstraat, 7511 PK Enschede",https://www.enschede.nl/parkeertarieven-en-parkeerlocaties
+GE03,Stationsplein,Gemeente Enschede,52.221466,6.892180,325,3.35,16.75,True,"Stationsplein 6, 7511 JD Enschede",https://www.enschede.nl/parkeertarieven-en-parkeerlocaties
+GE04,Brouwerij (Roombeek),Gemeente Enschede,52.232113,6.890544,300,3.35,16.75,True,"Brouwerijstraat 25, 7523 XC Enschede",https://www.enschede.nl/parkeertarieven-en-parkeerlocaties
+GE05,Hermandad,Gemeente Enschede,52.219143,6.890065,275,3.35,8.50,,"Hermandad 4, Stadsmaten, 7511 JN Enschede",https://www.enschede.nl/parkeertarieven-en-parkeerlocaties
+GE06,Mooienhof,Gemeente Enschede,52.216592,6.897477,100,3.35,8.50,,"Mooienhof, 7512 EA Enschede",https://www.enschede.nl/parkeertarieven-en-parkeerlocaties
+GE07,P+R Zuiderval,Gemeente Enschede,52.203733,6.891352,222,,3.00,,"Zuiderval, 7543 EZ Enschede",https://www.enschede.nl/parkeertarieven-en-parkeerlocaties
+PB01,Hengelosestraat,ParkBee,52.223695,6.890609,,,,,"Hengelosestraat 34, 7514 AH Enschede",https://parkbee.com/en/city/enschede
+PB02,Ariënsplein,ParkBee,52.219427,6.887755,,,,,"Ariënsplein, 7511 JX Enschede",https://parkbee.com/en/city/enschede
+PB03,Prinsestraat A,ParkBee,52.218832,6.886344,,,,,"Prinsestraat, 7511 JX Enschede",https://parkbee.com/en/city/enschede
+PB04,Prinsestraat B,ParkBee,52.218186,6.886486,,,,,"Prinsestraat, 7511 JX Enschede",https://parkbee.com/en/city/enschede
