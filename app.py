@@ -1,28 +1,40 @@
-import json
+import hashlib
 import os
 
 import pandas as pd
-import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
 
 from src.geo import haversine_km
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-OUTPUTS_DIR = os.path.join(BASE_DIR, "outputs")
 DATA_DIR = os.path.join(BASE_DIR, "data")
+CITIES_DIR = os.path.join(DATA_DIR, "cities")
 
-# Rough centroid of Düsseldorf's Altstadt / Heinrich-Heine-Allee — used as the
-# reference point for the "location quality" proxy in performance mode.
-CITY_CENTER = (51.2254, 6.7768)
+CITIES = {
+    "Düsseldorf": os.path.join(DATA_DIR, "assets.csv"),
+    "Berlin": os.path.join(CITIES_DIR, "berlin.csv"),
+    "Frankfurt": os.path.join(CITIES_DIR, "frankfurt.csv"),
+    "Hamburg": os.path.join(CITIES_DIR, "hamburg.csv"),
+    "Hannover": os.path.join(CITIES_DIR, "hannover.csv"),
+    "Köln": os.path.join(CITIES_DIR, "koeln.csv"),
+    "München": os.path.join(CITIES_DIR, "muenchen.csv"),
+    "Nürnberg": os.path.join(CITIES_DIR, "nuernberg.csv"),
+    "Stuttgart": os.path.join(CITIES_DIR, "stuttgart.csv"),
+}
+
 NEIGHBOR_RADIUS_KM = 0.5
 
-OPERATOR_COLORS = {
+BASE_OPERATOR_COLORS = {
     "Q-Park": "#3366CC",
     "APCOA": "#8FB8F0",
     "Contipark": "#E0574A",
     "B+B Parkhaus": "#F2A7A0",
 }
+FALLBACK_PALETTE = [
+    "#2CA02C", "#9467BD", "#8C564B", "#17BECF", "#BCBD22", "#FF7F0E", "#E377C2",
+    "#1A9850", "#6A3D9A", "#B15928", "#A6CEE3", "#FDBF6F",
+]
 UNSELECTED_COLOR = "#6E6E6E"
 
 NEUTRAL_BAND_PCT = 5.0   # +/- this % vs the 500m-neighbour average reads as grey ("no real difference")
@@ -33,6 +45,23 @@ FULL_COLOR_PCT = 15.0    # by +/- this %, colour is already fully saturated red/
 PERF_RED = (176, 42, 42)      # #B02A2A
 PERF_GREY = (181, 181, 181)   # #B5B5B5
 PERF_GREEN = (34, 139, 79)    # #228B4F
+
+
+def _stable_palette_index(name, n):
+    """Deterministic across runs/processes (unlike Python's built-in hash(), which is
+    randomized per-process) so the same operator name always lands on the same colour,
+    regardless of which city's operator list it's being assigned within."""
+    return int(hashlib.md5(name.encode("utf-8")).hexdigest(), 16) % n
+
+
+def operator_color_map(operators):
+    colors = {}
+    for op in operators:
+        if op in BASE_OPERATOR_COLORS:
+            colors[op] = BASE_OPERATOR_COLORS[op]
+        else:
+            colors[op] = FALLBACK_PALETTE[_stable_palette_index(op, len(FALLBACK_PALETTE))]
+    return colors
 
 
 def _lerp_rgb(c1, c2, t):
@@ -78,36 +107,26 @@ def build_performance_colorscale(max_abs_pct, band_pct=NEUTRAL_BAND_PCT, full_pc
     stops.append([1.0, _rgb_to_hex(PERF_GREEN)])
     return stops
 
-st.set_page_config(page_title="Q-Park Parking Optimizer", layout="wide")
+
+st.set_page_config(page_title="Parking Competitive Analysis", layout="wide")
 
 
 @st.cache_data
-def load_data():
-    kpi_df = pd.read_csv(os.path.join(OUTPUTS_DIR, "kpi_comparison.csv"))
-    with open(os.path.join(OUTPUTS_DIR, "summary.json")) as f:
-        summary = json.load(f)
-    timeseries = {}
-    garage_kpis = {}
-    for scenario in kpi_df["scenario"]:
-        ts_path = os.path.join(OUTPUTS_DIR, f"timeseries_{scenario}.csv")
-        if os.path.exists(ts_path):
-            timeseries[scenario] = pd.read_csv(ts_path)
-        gk_path = os.path.join(OUTPUTS_DIR, f"garage_kpis_{scenario}.csv")
-        if os.path.exists(gk_path):
-            garage_kpis[scenario] = pd.read_csv(gk_path)
-    return kpi_df, summary, timeseries, garage_kpis
-
-
-@st.cache_data
-def load_garages():
-    return pd.read_csv(os.path.join(DATA_DIR, "assets.csv"))
+def load_garages(csv_path):
+    df = pd.read_csv(csv_path)
+    df["capacity"] = pd.to_numeric(df["capacity"], errors="coerce")
+    df["hourly_rate"] = pd.to_numeric(df["hourly_rate"], errors="coerce")
+    if "daily_cap" in df.columns:
+        df["daily_cap"] = pd.to_numeric(df["daily_cap"], errors="coerce")
+    return df
 
 
 def bubble_sizes(capacities, min_px=7, max_px=34):
     cmin, cmax = capacities.min(), capacities.max()
-    if cmax == cmin:
-        return pd.Series([(min_px + max_px) / 2] * len(capacities), index=capacities.index)
-    return min_px + (capacities - cmin) / (cmax - cmin) * (max_px - min_px)
+    mid = (min_px + max_px) / 2
+    if pd.isna(cmin) or pd.isna(cmax) or cmax == cmin:
+        return pd.Series([mid] * len(capacities), index=capacities.index)
+    return (min_px + (capacities - cmin) / (cmax - cmin) * (max_px - min_px)).fillna(mid)
 
 
 def neighbors_within_radius(garage_row, all_garages, radius_km):
@@ -118,35 +137,31 @@ def neighbors_within_radius(garage_row, all_garages, radius_km):
     return others[dists <= radius_km]
 
 
-kpi_df, summary, timeseries, garage_kpis = load_data()
-garages_df = load_garages()
-garages_df["capacity"] = garages_df["capacity"].astype(int)
+def format_capacity(v):
+    return f"{int(v)} spaces" if pd.notna(v) else "capacity n/a"
+
+
+def format_price(v):
+    return f"€{v:.2f}/h" if pd.notna(v) else "price n/a"
+
+
+st.title("Parking Competitive Analysis")
+
+city = st.selectbox("City", list(CITIES.keys()), index=0)
+garages_df = load_garages(CITIES[city])
 garages_df["_size"] = bubble_sizes(garages_df["capacity"])
 
-st.title("Q-Park Parking Optimizer — Düsseldorf Demonstrator")
+total_capacity = garages_df["capacity"].sum()
+n_operators = garages_df["operator"].nunique()
+n_priced = garages_df["hourly_rate"].notna().sum()
 st.caption(
-    f"{summary['garages']} garages · {summary['total_capacity']:,} spaces · "
-    f"{summary['day_type'].title()} demand profile"
+    f"{len(garages_df)} garages · {n_operators} operators · {int(total_capacity):,} spaces "
+    f"(where published) · {n_priced}/{len(garages_df)} with published hourly pricing"
 )
-
-scenario_names = kpi_df["scenario"].tolist()
-selected = st.selectbox("Scenario", scenario_names, index=0)
-row = kpi_df[kpi_df["scenario"] == selected].iloc[0]
-
-col1, col2, col3, col4 = st.columns(4)
-col1.metric("Revenue", f"€{row['revenue']:,.0f}")
-col2.metric("Avg Occupancy", f"{row['avg_occupancy_pct']:.1f}%")
-col3.metric("Sessions", f"{int(row['sessions']):,}")
-col4.metric("Revenue / Space", f"€{row['revenue_per_space']:.2f}")
-
-st.divider()
-
-st.subheader("Garage map — all operators")
 st.caption(
-    "Bubble size = capacity (spaces). Names, addresses, capacities, and hourly/daily pricing are real, "
-    "sourced from each operator's own site or live pricing API (Q-Park/Park One, APCOA, Contipark, "
-    "B+B Parkhaus) and geocoded via OpenStreetMap. Unpublished digital-feature flags (app/ANPR) and "
-    "member-discount tiers remain modeling assumptions, not confirmed figures."
+    "Names, addresses, capacities, and hourly/daily pricing are real, sourced from each operator's own "
+    "site or live pricing API and geocoded via OpenStreetMap/embedded page coordinates. Where an operator "
+    "doesn't publish a rate for a garage, price is left blank rather than estimated."
 )
 
 color_mode = st.radio(
@@ -159,6 +174,7 @@ fig_map = go.Figure()
 
 if color_mode == "By operator":
     operator_options = sorted(garages_df["operator"].unique())
+    operator_colors = operator_color_map(operator_options)
     selected_operators = st.multiselect("Highlight operators", operator_options, default=operator_options)
 
     background = garages_df[~garages_df["operator"].isin(selected_operators)]
@@ -167,7 +183,10 @@ if color_mode == "By operator":
             lat=background["lat"], lon=background["lon"],
             mode="markers",
             marker=dict(size=background["_size"], color=UNSELECTED_COLOR, opacity=0.8),
-            text=background["name"] + " (" + background["operator"] + ") — " + background["capacity"].astype(str) + " spaces",
+            text=(
+                background["name"] + " (" + background["operator"] + ") — "
+                + background["capacity"].map(format_capacity)
+            ),
             hoverinfo="text",
             name="Not highlighted",
             showlegend=False,
@@ -178,8 +197,11 @@ if color_mode == "By operator":
         fig_map.add_trace(go.Scattermapbox(
             lat=sub["lat"], lon=sub["lon"],
             mode="markers",
-            marker=dict(size=sub["_size"], color=OPERATOR_COLORS.get(op, "#888888"), opacity=0.9),
-            text=sub["name"] + " (" + sub["operator"] + ") — " + sub["capacity"].astype(str) + " spaces · €" + sub["hourly_rate"].round(2).astype(str) + "/h",
+            marker=dict(size=sub["_size"], color=operator_colors.get(op, "#888888"), opacity=0.9),
+            text=(
+                sub["name"] + " (" + sub["operator"] + ") — " + sub["capacity"].map(format_capacity)
+                + " · " + sub["hourly_rate"].map(format_price)
+            ),
             hoverinfo="text",
             name=op,
         ))
@@ -195,9 +217,7 @@ else:
     # city centre), so the sign is flipped before colouring — green always means "better".
     metric_options = {
         "Price (€/hour)": ("hourly_rate", False),
-        "Asset quality (0-1 score)": ("quality_score", False),
         "Location quality (proximity to city centre)": ("_distance_km", True),
-        "Occupancy (%)": ("_avg_occupancy_pct", False),
     }
     pf_col1, pf_col2 = st.columns([1, 2])
     with pf_col1:
@@ -207,37 +227,31 @@ else:
     metric_col, metric_invert = metric_options[metric_label]
 
     def format_metric_value(v, col=metric_col):
+        if pd.isna(v):
+            return "price n/a" if col == "hourly_rate" else "n/a"
         if col == "hourly_rate":
             return f"€{v:.2f}/h"
-        if col == "quality_score":
-            return f"{v:.2f} quality score"
         if col == "_distance_km":
             return f"{v:.2f} km from centre"
-        if col == "_avg_occupancy_pct":
-            return f"{v:.1f}% occupancy"
         return str(v)
 
     work_df = garages_df.copy()
+    city_center = (work_df["lat"].mean(), work_df["lon"].mean())
     work_df["_distance_km"] = work_df.apply(
-        lambda r: haversine_km(r["lat"], r["lon"], CITY_CENTER[0], CITY_CENTER[1]), axis=1
+        lambda r: haversine_km(r["lat"], r["lon"], city_center[0], city_center[1]), axis=1
     )
-    gk = garage_kpis.get(selected)
-    if gk is not None:
-        occ_map = dict(zip(gk["garage_id"], gk["avg_occupancy_pct"]))
-        work_df["_avg_occupancy_pct"] = work_df["id"].map(occ_map).fillna(0.0)
-    else:
-        work_df["_avg_occupancy_pct"] = 0.0
 
     target = work_df[work_df["operator"] == single_operator].copy()
     deltas, neighbor_counts = [], []
     for _, g in target.iterrows():
         nb = neighbors_within_radius(g, work_df, NEIGHBOR_RADIUS_KM)
         neighbor_counts.append(len(nb))
+        own_value = g[metric_col]
         neighbor_avg = nb[metric_col].mean() if len(nb) else None
-        if not neighbor_avg:  # no neighbours, or neighbour average is exactly 0 (can't take a %)
+        if pd.isna(own_value) or not neighbor_avg or pd.isna(neighbor_avg):
             deltas.append(None)
         else:
-            pct = (g[metric_col] - neighbor_avg) / neighbor_avg * 100
+            pct = (own_value - neighbor_avg) / neighbor_avg * 100
             deltas.append(round(-pct if metric_invert else pct, 1))
     target["_delta"] = deltas
     target["_neighbor_count"] = neighbor_counts
@@ -266,10 +280,10 @@ else:
             text=(
                 no_data["name"] + " (" + no_data["operator"] + ")<br>"
                 + no_data[metric_col].map(format_metric_value)
-                + "<br>No competitors within 500m"
+                + "<br>No comparable data within 500m"
             ),
             hoverinfo="text",
-            name=f"{single_operator} (no 500m neighbours)",
+            name=f"{single_operator} (no comparison data)",
         ))
 
     if len(has_data):
@@ -323,16 +337,15 @@ else:
         f"All garages are always shown. Grey = every operator except {single_operator}. "
         f"{single_operator}'s own garages are coloured by % difference from the average of all other "
         f"garages within 500m: grey = within ±{NEUTRAL_BAND_PCT:.0f}% (no real difference), "
-        "green = more than that above average, red = more than that below. Amber = no competitor "
-        "within 500m to compare against." + price_note + " \"Location quality\" compares distance to "
-        "the Altstadt/city-centre (closer = green), a proxy rather than a published metric."
+        "green = more than that above average, red = more than that below. Amber = no published data "
+        "for this garage or no comparable garage within 500m." + price_note + " \"Location quality\" "
+        "compares distance to this city's garage-density centroid (closer = green), a proxy rather than "
+        "a published metric."
     )
-    if metric_col == "_avg_occupancy_pct" and gk is None:
-        st.warning("No occupancy data found for this scenario — re-run the simulation to populate it.")
 
 fig_map.update_layout(
     mapbox_style="open-street-map",
-    mapbox=dict(center=dict(lat=51.222, lon=6.783), zoom=12.6),
+    mapbox=dict(center=dict(lat=garages_df["lat"].mean(), lon=garages_df["lon"].mean()), zoom=11.5),
     height=560,
     margin={"r": 0, "t": 0, "l": 0, "b": 0},
     legend=dict(orientation="h", yanchor="bottom", y=1.01, x=0),
@@ -340,38 +353,7 @@ fig_map.update_layout(
 st.plotly_chart(fig_map, use_container_width=True)
 
 st.divider()
-
-st.subheader("Scenario comparison")
-comp_col1, comp_col2 = st.columns(2)
-with comp_col1:
-    fig_rev = px.bar(kpi_df, x="scenario", y="revenue", title="Revenue by scenario", text_auto=".2s")
-    st.plotly_chart(fig_rev, use_container_width=True)
-with comp_col2:
-    fig_occ = px.bar(kpi_df, x="scenario", y="avg_occupancy_pct", title="Average occupancy by scenario", text_auto=".1f")
-    st.plotly_chart(fig_occ, use_container_width=True)
-
-st.subheader(f"Hourly detail — {selected}")
-ts = timeseries.get(selected)
-if ts is not None:
-    hcol1, hcol2 = st.columns(2)
-    with hcol1:
-        fig_occ_hour = px.line(ts, x="hour", y="occupancy_pct", title="Occupancy by hour", markers=True)
-        st.plotly_chart(fig_occ_hour, use_container_width=True)
-    with hcol2:
-        fig_arr_hour = px.bar(ts, x="hour", y="arrivals", title="Arrivals by hour")
-        st.plotly_chart(fig_arr_hour, use_container_width=True)
-
-st.subheader("Micro-market revenue breakdown")
-zone_data = summary["zone_breakdown"].get(selected, {})
-if zone_data:
-    zone_df = pd.DataFrame([
-        {"zone": zone, "revenue": v["revenue"], "sessions": v["sessions"]}
-        for zone, v in zone_data.items()
-    ])
-    fig_zone = px.bar(zone_df, x="zone", y="revenue", color="zone", title="Revenue by micro-market", text_auto=".2s")
-    st.plotly_chart(fig_zone, use_container_width=True)
-    st.dataframe(zone_df, use_container_width=True, hide_index=True)
-
-st.divider()
-st.subheader("All scenarios — KPI table")
-st.dataframe(kpi_df, use_container_width=True, hide_index=True)
+st.subheader(f"All garages — {city}")
+display_cols = ["id", "name", "operator", "capacity", "hourly_rate", "daily_cap", "has_ev", "address"]
+display_cols = [c for c in display_cols if c in garages_df.columns]
+st.dataframe(garages_df[display_cols], use_container_width=True, hide_index=True)

@@ -1,0 +1,18 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Akademie (Park One),Q-Park,49.4514593,11.0836415,268,2.50,18.00,True,"Gewerbemuseumsplatz 2, 90403 Nürnberg",https://www.q-park.de/de-de/staedte/n%C3%BCrnberg/n---n%C3%BCrnberger-akademie/
+PSN01,Tiefgarage Augustinerhof,Parkhaus Service Nürnberg,49.4543090,11.0752042,,3.00,25.00,,"Augustinerstraße, 90403 Nürnberg",https://www.parkhaus-nuernberg.de/parkhaeuser/tiefgarage-augustinerhof/
+PSN02,Tiefgarage Findelgasse,Parkhaus Service Nürnberg,49.4519277,11.0787574,146,2.50,18.00,,"Findelgasse 4, 90402 Nürnberg",https://www.parkhaus-nuernberg.de/parkhaeuser/tiefgarage-findelgasse/
+PSN03,Tiefgarage Hans-Sachs-Platz,Parkhaus Service Nürnberg,49.4535090,11.0796197,65,2.50,20.00,,"Hans-Sachs-Platz 1, 90403 Nürnberg",https://www.parkhaus-nuernberg.de/parkhaeuser/tiefgarage-hans-sachs-platz/
+PSN04,Parkhaus Hauptmarkt,Parkhaus Service Nürnberg,49.4544571,11.0751049,525,2.00,20.00,,"Augustinerstraße 4, 90403 Nürnberg",https://www.parkhaus-nuernberg.de/parkhaeuser/parkhaus-hauptmarkt/
+PSN05,Parkhaus Jakobsmarkt,Parkhaus Service Nürnberg,49.4485056,11.0713149,452,2.00,20.00,,"Zirkelschmiedsgasse 9, 90402 Nürnberg",https://www.parkhaus-nuernberg.de/parkhaeuser/parkhaus-jakobsmarkt/
+PSN06,Parkhaus Katharinenhof,Parkhaus Service Nürnberg,49.4508393,11.0817959,370,2.00,20.00,,"Katharinengasse 14, 90403 Nürnberg",https://www.parkhaus-nuernberg.de/parkhaeuser/parkhaus-katharinenhof/
+PSN07,Parkhaus Sebalder Höfe,Parkhaus Service Nürnberg,49.4566036,11.0882957,250,2.00,12.00,,"Laufertormauer, 90403 Nürnberg",https://www.parkhaus-nuernberg.de/parkhaeuser/parkhaus-sebalder-hoefe/
+PSN08,Parkhaus Sterntor,Parkhaus Service Nürnberg,49.4475447,11.0775769,476,2.00,20.00,,"Grasersgasse 25, 90402 Nürnberg",https://www.parkhaus-nuernberg.de/parkhaeuser/parkhaus-sterntor/
+PSN09,Parkhaus Theater,Parkhaus Service Nürnberg,49.4457448,11.0761157,180,1.50,18.00,,"Richard-Wagner-Platz 10, 90443 Nürnberg",https://www.parkhaus-nuernberg.de/parkhaeuser/parkhaus-theater/
+PSN10,Tiefgarage PSD Business Center,Parkhaus Service Nürnberg,49.4481835,11.0862933,92,1.80,18.00,,"Willy-Brandt-Platz 15, 90402 Nürnberg",https://www.parkhaus-nuernberg.de/parkhaeuser/tiefgarage-psd-business-center/
+PSN11,Parkhaus Franken Campus,Parkhaus Service Nürnberg,49.4280951,11.0874402,,1.50,15.00,,"Frankenstraße 150, 90461 Nürnberg",https://www.parkhaus-nuernberg.de/parkhaeuser/parkhaus-franken-campus/
+PSN12,Tiefgarage Maxtorhof,Parkhaus Service Nürnberg,49.4598803,11.0825407,,1.50,12.00,,"Maxfeldstraße 5, 90409 Nürnberg",https://www.parkhaus-nuernberg.de/parkhaeuser/tiefgarage-maxtorhof/
+PSN13,Tiefgarage Welser Quartier,Parkhaus Service Nürnberg,49.4663946,11.0986936,,1.50,10.00,,"Welserstraße 75, 90489 Nürnberg",https://www.parkhaus-nuernberg.de/parkhaeuser/welser-quartier/
+PSN14,Tiefgarage Eurocom,Parkhaus Service Nürnberg,49.4074698,11.1297081,300,1.50,15.00,,"Lina-Ammon-Str. 2, 90471 Nürnberg",https://www.parkhaus-nuernberg.de/parkhaeuser/tiefgarage-eurocom/
+AD01,Adlerparkhaus,Adlerparkhaus,49.4520935,11.0769824,260,3.00,30.00,True,"Adlerstraße 4-8, 90403 Nürnberg",https://www.phadler.de/
+VAG01,Parkhaus Herrnhütte (P+R),VAG,49.4778260,11.1080293,536,,,True,"Äußere Bayreuther Straße 166, 90411 Nürnberg",https://www.vag.de/schnittstellen/parkhausdaten

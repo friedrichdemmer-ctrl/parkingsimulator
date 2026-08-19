@@ -1,0 +1,31 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Opernplatz,Q-Park,50.1159085,8.6745025,310,3.0,35.0,True,"Hochstraße 42, 60313 Frankfurt am Main",https://www.q-park.de/de-de/staedte/frankfurt/opernplatz/
+QP02,WestendGate,Q-Park,50.1147495,8.6508280,610,4.5,45.0,True,"Hamburger Allee 4, 60486 Frankfurt am Main",https://www.q-park.de/de-de/staedte/frankfurt/westendgate/
+QP03,Am Hauptbahnhof,Q-Park,50.1047733,8.6621029,349,3.5,35.0,,"Mannheimer Strasse 35, 60329 Frankfurt am Main",https://www.q-park.de/de-de/staedte/frankfurt/am-hauptbahnhof/
+QP04,Alea (Park One),Q-Park,50.1019704,8.6301812,188,3.0,16.0,,"Sodener Str. 4-6, 60326 Frankfurt am Main",https://www.q-park.de/de-de/staedte/frankfurt/alea/
+QP05,Arabella Center Niederrad,Q-Park,50.0771468,8.6284926,525,3.0,30.0,,"Lyoner Strasse 48, 60528 Frankfurt am Main",https://www.q-park.de/de-de/staedte/frankfurt/arabella-center-niederrad/
+QP06,Colosseo (Park One),Q-Park,50.1055364,8.6959080,109,3.0,12.0,True,"Walter-von-Cronberg-Platz 2-18, 60594 Frankfurt am Main",https://www.q-park.de/de-de/staedte/frankfurt/colosseo/
+QP07,NordWestZentrum,Q-Park,50.1572520,8.6317571,3000,1.0,,,"Erich-Ollenhauer-Ring, 60439 Frankfurt am Main",https://www.q-park.de/de-de/staedte/frankfurt/nordwestzentrum/
+AP01,Hotel Intercontinental,APCOA,50.1045152,8.6690152,249,5.0,45.0,True,"Wilhelm-Leuschner-Str. 43, 60329 Frankfurt am Main",https://www.apcoa.de/einmal-parken/standorte/frankfurt/hotel-intercontinental
+AP02,Congresscenter Messe Frankfurt (Maritim Hotel),APCOA,50.1133478,8.6506793,466,5.0,45.0,,"Theodor-Heuss-Allee 3-5, 60325 Frankfurt am Main",https://www.apcoa.de/einmal-parken/standorte/frankfurt/congresscenter-messe-frankfurt-maritim-hotel
+AP03,Mainzer Landstraße,APCOA,50.1020824,8.6411787,460,1.7,19.0,,"Kleyerstrasse 20, 60326 Frankfurt am Main",https://www.apcoa.de/einmal-parken/standorte/frankfurt/mainzer-landstrasse
+AP04,Opernturm,APCOA,50.1162666,8.6704007,580,3.5,30.0,True,"Bockenheimer Anlage 47, 60322 Frankfurt am Main",https://www.apcoa.de/einmal-parken/standorte/frankfurt/opernturm
+AP05,Messeturm,APCOA,50.1123776,8.6527179,889,5.0,45.0,True,"Friedrich-Ebert-Anlage 49, 60308 Frankfurt am Main",https://www.apcoa.de/einmal-parken/standorte/frankfurt/messeturm
+AP06,MyZeil / PalaisQuartier,APCOA,50.1147056,8.6810642,1390,2.0,20.0,True,"Große Eschenheimer Str. 10-14, 60313 Frankfurt am Main",https://www.apcoa.de/einmal-parken/standorte/frankfurt/myzeil/palaisquartier
+AP07,Aculeum,APCOA,50.0827508,8.6350225,852,2.3,35.0,True,"Hahnstr. 43, 60528 Frankfurt am Main",https://www.apcoa.de/einmal-parken/standorte/frankfurt/aculeum
+AP08,Main Airport Center,APCOA,50.0584079,8.5870120,1513,3.0,30.0,,"Unterschweinstiege 2-14, 60549 Frankfurt am Main",https://www.apcoa.de/einmal-parken/standorte/frankfurt/main-airport-center
+AP09,City Parkhaus Ost,APCOA,50.1182561,8.7023808,523,2.0,25.0,,"Waldschmidtstr. 41-47, 60316 Frankfurt am Main",https://www.apcoa.de/einmal-parken/standorte/frankfurt/city-parkhaus-ost
+AP10,Universitätsklinikum Sandhofstraße,APCOA,50.0921782,8.6582724,905,1.5,10.0,,"Sandhofstraße, 60528 Frankfurt am Main",https://www.apcoa.de/einmal-parken/standorte/frankfurt/universitaetsklinikum-sandhofstrasse
+CP01,Parkhaus Turmcenter,Contipark,50.1201015,8.6792665,402,4.0,30.0,,"Querstraße 7-9, 60322 Frankfurt am Main",https://www.contipark.de/de/parken/frankfurt-am-main/parkhaus-turmcenter/
+CP02,Parkplatz Bahnhof P1,Contipark,50.1193610,8.6399214,90,2.2,7.0,,"Kasseler Straße, 60486 Frankfurt am Main",https://www.contipark.de/de/parken/frankfurt-am-main/parkplatz-bahnhof-p1-frankfurt/
+CP03,Parkplatz Höchst Bahnhof Dalbergstraße P1,Contipark,50.1018821,8.5433625,32,4.0,9.0,,"Dalbergstraße 10-8, 65929 Frankfurt am Main",https://www.contipark.de/de/parken/frankfurt-am-main/parkplatz-hoechst-bahnhof-dalbergstrasse-p1/
+CP04,Tiefgarage Hauptbahnhof Süd / Karlsruher Straße P6,Contipark,50.1052760,8.6631266,81,4.0,35.0,True,"Karlsruher Straße, 60329 Frankfurt am Main",https://www.contipark.de/de/parken/frankfurt-am-main/tiefgarage-hauptbahnhof-sued-karlsruher-strasse-p6/
+CP05,Tiefgarage Hauptbahnhof/Nord P1,Contipark,50.1076390,8.6618648,365,4.0,35.0,,"Poststraße 3, 60329 Frankfurt am Main",https://www.contipark.de/de/parken/frankfurt-am-main/tiefgarage-hauptbahnhof-nord-p1/
+PB01,Hauptwache,PBG (Frankfurter Parkhäuser),50.1121552,8.6796809,303,2.5,38.0,True,"Kornmarkt 10, 60311 Frankfurt am Main",https://www.parkhausfrankfurt.de/parkhaeuser/hauptwache/
+PB02,Konstabler,PBG (Frankfurter Parkhäuser),50.1137327,8.6847487,809,2.0,32.0,True,"Töngesgasse 8, 60311 Frankfurt am Main",https://www.parkhausfrankfurt.de/parkhaeuser/konstabler/
+PB03,Alte Oper,PBG (Frankfurter Parkhäuser),50.1160471,8.6719866,402,2.5,37.0,True,"Opernplatz 1, 60313 Frankfurt am Main",https://www.parkhausfrankfurt.de/parkhaeuser/alte-oper/
+PB04,Dom-Römer,PBG (Frankfurter Parkhäuser),50.1112877,8.6845293,611,2.0,32.0,True,"Domstraße 1, 60311 Frankfurt am Main",https://www.parkhausfrankfurt.de/parkhaeuser/dom-roemer/
+PB05,Börse,PBG (Frankfurter Parkhäuser),50.1157277,8.6758143,805,2.5,38.0,True,"Meisengasse, 60313 Frankfurt am Main",https://www.parkhausfrankfurt.de/parkhaeuser/boerse/
+PB06,Westend,PBG (Frankfurter Parkhäuser),50.1143184,8.6592285,614,2.5,38.0,,"Savignystraße 1, 60325 Frankfurt am Main",https://www.parkhausfrankfurt.de/parkhaeuser/westend/
+PB07,Hauptbahnhof Süd,PBG (Frankfurter Parkhäuser),50.1034568,8.6619054,358,2.0,32.0,,"Gutleutstr. 112-116, 60327 Frankfurt am Main",https://www.parkhausfrankfurt.de/parkhaeuser/hauptbahnhof-sued/
+PB08,Palmengarten,PBG (Frankfurter Parkhäuser),50.1227780,8.6581359,259,1.0,20.0,True,"Siesmayerstraße 61, 60323 Frankfurt am Main",https://www.parkhausfrankfurt.de/parkhaeuser/palmengarten/

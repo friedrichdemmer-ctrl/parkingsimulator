@@ -1,0 +1,92 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Am Alexanderplatz,Q-Park,52.52294,13.4146,650,3.50,24.00,True,"Alexanderstraße 2, 10178 Berlin",https://www.q-park.de/de-de/staedte/berlin/am-alexanderplatz/
+QP02,Unter den Linden / Staatsoper,Q-Park,52.5162195,13.3950581,465,4.00,25.00,True,"Bebelplatz 2, 10117 Berlin",https://www.q-park.de/de-de/staedte/berlin/unter-den-linden-/-staatsoper/
+QP03,Operncarree,Q-Park,52.514771,13.3895443,150,,,,"Französische Straße 39, 10117 Berlin",https://www.q-park.de/de-de/staedte/berlin/operncarrée/
+QP04,Forum Köpenick,Q-Park,52.4589148,13.576976,1139,2.00,21.50,,"Bahnhofstraße 33 -38, 12555 Berlin",https://www.q-park.de/de-de/staedte/berlin/forum-köpenick/
+QP05,Bikini Berlin,Q-Park,52.5056085,13.3385257,223,3.00,30.00,True,"Budapesterstrasse 38, 10787 Berlin",https://www.q-park.de/de-de/staedte/berlin/bikini-berlin/
+QP06,Dom Aquarée,Q-Park,52.5192507,13.4031264,567,3.50,28.00,True,"Karl-Liebknecht-Straße 5, 10178 Berlin",https://www.q-park.de/de-de/staedte/berlin/dom-aquarée/
+QP07,Excelsior Haus Tiefgarage,Q-Park,52.5041952,13.3833652,544,3.20,25.00,True,"Stresemannstraße 68 -78, 10963 Berlin",https://www.q-park.de/de-de/staedte/berlin/excelsior-haus/
+QP08,Forum Steglitz 1,Q-Park,52.4651244,13.3264008,443,2.00,5.00,True,"Bornstraße 30, 12163 Berlin",https://www.q-park.de/de-de/staedte/berlin/forum-steglitz-1/
+QP09,Forum Steglitz 2,Q-Park,52.464679,13.3258999,104,,,,"Gutsmuthsstraße 4, 12163 Berlin",https://www.q-park.de/de-de/staedte/berlin/forum-steglitz-2/
+QP10,Fürst,Q-Park,52.50056,13.32483,538,3.00,25.00,True,"Uhlandstraße 32, 10719 Berlin",https://www.q-park.de/de-de/staedte/berlin/fürst/
+QP11,Kempinski Plaza,Q-Park,52.5038508,13.325572,162,,,,"Uhlandstraße 180, 10623 Berlin",https://www.q-park.de/de-de/staedte/berlin/kempinski-plaza/
+QP12,Kranzler Eck,Q-Park,52.5052744,13.3311709,551,3.00,25.00,True,"Kantstrasse 160, 10623 Berlin",https://www.q-park.de/de-de/staedte/berlin/kranzler-eck/
+QP13,Parkhaus Luisenstraße,Q-Park,52.5243499,13.3794285,106,4.00,40.00,,"Luisenstraße 47 -52, 10117 Berlin",https://www.q-park.de/de-de/staedte/berlin/luisenstraße/
+QP14,Märkische Zeile,Q-Park,52.5992502,13.3543807,420,,12.00,,"Senftenberger Ring 17, 13439 Berlin",https://www.q-park.de/de-de/staedte/berlin/märkische-zeile/
+QP15,Möllendorff Passage Lichtenberg,Q-Park,52.5234707,13.4800565,824,,,,"Möllendorffstrasse 43, 10367 Berlin",https://www.q-park.de/de-de/staedte/berlin/möllendorff-passage-lichtenberg/
+QP16,Quartier Potsdamer Platz,Q-Park,52.5075034,13.3752282,1995,3.50,25.00,True,"Linkstraße 2, 10785 Berlin",https://www.q-park.de/de-de/staedte/berlin/quartier-potsdamer-platz/
+QP17,Reinhardtstraße,Q-Park,52.5232804,13.3828989,160,,,,"Reinhardtstraße 27 A, 10117 Berlin",https://www.q-park.de/de-de/staedte/berlin/reinhardtstraße/
+QP18,Rigaer Passage Friedrichshain,Q-Park,52.5152315,13.4629357,296,,,,"Silvio-Meier-Strasse 19, 10247 Berlin",https://www.q-park.de/de-de/staedte/berlin/rigaer-passage-friedrichshain/
+QP19,Parkhaus Rollbergstraße,Q-Park,52.4796206,13.4349554,402,2.50,15.00,True,"Rollbergstraße 10 -18, 12053 Berlin",https://www.q-park.de/de-de/staedte/berlin/rollbergstraße/
+QP20,Parkhaus Schultheiss Quartier,Q-Park,52.526523,13.3448404,427,2.50,11.00,True,"Turmstraße 26, 10599 Berlin",https://www.q-park.de/de-de/staedte/berlin/schultheiss-quartier/
+QP21,Parkhaus Spreekarree,Q-Park,52.5227226,13.3869728,227,3.70,32.00,True,"Friedrichstraße 134 -136, 10117 Berlin",https://www.q-park.de/de-de/staedte/berlin/spreekarree/
+QP22,Parkhaus Tacheles,Q-Park,52.5253326,13.3914299,400,3.50,40.00,True,"Oranienburgerstraße 65, 10117 Berlin",https://www.q-park.de/de-de/staedte/berlin/tacheles/
+QP23,Parkhaus Waldorf Astoria,Q-Park,52.5054187,13.3319736,87,,,True,"Kantstraße 2, 10623 Berlin",https://www.q-park.de/de-de/staedte/berlin/waldorf-astoria/
+AP01,Prager Passage,APCOA,52.493185,13.332262,240,1.80,20.00,,"Prager Platz 1-3, 10779 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/prager-passage
+AP02,Alexa,APCOA,52.519366,13.416644,1595,2.00,25.00,True,"Grunerstraße 20, 10179 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/alexa
+AP03,Schönhauser Allee Arcaden,APCOA,52.549486,13.416895,328,1.50,20.00,True,"Schönhauser Allee 79-80, 10439 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/schoenhauser-allee-arcaden
+AP04,Philharmonie,APCOA,52.50978635,13.37134149,72,,15.00,,"Herbert-von-Karajan-Strasse 1, 10785 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/philharmonie
+AP05,Victoria Center,APCOA,52.505423,13.474873,605,1.70,7.00,,"Schreiberhauer Strasse 48, 10317 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/victoria-center
+AP06,Kant-Center,APCOA,52.506046,13.308756,288,2.00,20.00,,"Kantstr. 112, 10625 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/kant-center
+AP07,das Schloss Ebene A,APCOA,52.457216,13.320161,250,2.00,20.00,True,"Grunewaldstr. 3, 12163 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/das-schloss-ebene-a
+AP08,Adlon,APCOA,52.5163016,13.37986705,161,,66.00,True,"Unter den Linden 77, 10117 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/adlon
+AP09,Elcknerplatz am Bahnhof Köpenick,APCOA,52.458159,13.580101,326,2.00,15.00,True,"Elcknerplatz 8, 12555 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/elcknerplatz-am-bahnhof-koepenick
+AP10,Augsburger Straße,APCOA,52.500518,13.339347,137,,29.00,,"Passauer Str. 10-11a, 10789 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/augsburger-strasse
+AP11,Schloßstraße - Düppelstraße,APCOA,52.4604523,13.32656436,330,1.00,,,"Dünther Straße, 12163 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/schlossstrasse-dueppelstrasse
+AP12,das Schloss Ebene B,APCOA,52.457598,13.319112,313,2.00,20.00,True,"Grunewaldstr. 3, 12163 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/das-schloss-ebene-b
+AP13,Quartier Heidestraße - Spring,APCOA,52.531643,13.365718,59,,,,"Lisa-Fittko-Str. 5-15, 10557 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/quartier-heidestrasse-spring
+AP14,Quartier Heidestraße - Straight/Colonnades,APCOA,52.53404166,13.36362333,267,,,,"Clara-Mleinek-Straße 1-3, 10557 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/quartier-heidestrasse-straight/colonnades
+AP15,Quartier Heidestraße - Crown II,APCOA,52.534151,13.363498,27,,,,,https://www.apcoa.de/einmal-parken/standorte/berlin/quartier-heidestrasse-crown-ii
+AP16,Josef-Höhn-Straße 21,APCOA,52.55626192,13.51492015,,1.00,10.00,,"Josef-Höhn-Straße 21, 13053 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/josef-hoehn-strasse-21
+AP17,Gropius Passagen P1,APCOA,52.43035,13.45599,748,2.00,8.00,True,"Johannisthaler Chaussee 295, 12355 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/gropius-passagen
+AP18,Gropius Passagen P2,APCOA,52.429415,13.453602,555,2.00,8.00,True,"Johannisthaler Chaussee 295, 12355 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/gropius-passagen-p2
+AP19,Gropius Passagen P3,APCOA,52.430972,13.456992,463,2.00,8.00,True,"Johannisthaler Chaussee 300, 12355 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/gropius-passagen-p3
+AP20,Cora Berliner Straße,APCOA,52.51481,13.38018,98,,50.00,True,"Cora-Berliner-Str. 2-4, 10117 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/cora-berliner-strasse
+AP21,Naumburger Str. 33 (OBI),APCOA,52.4665229,13.44804922,183,,,,"Naumburger Straße 33, 12057 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/naumburger-str-33-obi
+AP22,Haardtweg 2,APCOA,52.54929873,13.17769929,12,,,,"Haardtweg 2, 13583 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/haardtweg-2
+AP23,Rabensteiner Str. 36,APCOA,52.56539223,13.5770131,13,,,,"Rabensteiner Straße 36, 12689 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/rabensteiner-str-36
+AP24,Richard-Tauber-Damm 36,APCOA,52.41675977,13.39210181,14,,,,"Richard-Tauber-Damm 36, 12277 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/richard-tauber-damm-36
+AP25,Attilastr. 60,APCOA,52.44884015,13.36262885,17,,,,"Attilastraße 60, 12105 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/attilastr-60
+AP26,Sewanstraße 44,APCOA,52.49760977,13.50303887,12,,,,"Sewanstraße 44, 10319 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/sewanstrasse-44
+AP27,Landsberger Allee 174,APCOA,52.53081987,13.46848881,19,,,,"Landsberger Allee 174, 10369 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/landsberger-allee-174
+AP28,Wilhelmstraße 5,APCOA,52.5283093,13.19324908,18,,,,"Wilhelmstraße 5, 13595 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/wilhelmstrasse-5
+AP29,Buckower Damm 268,APCOA,52.42020911,13.43770763,8,,,,"Buckower Damm 268, 12349 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/buckower-damm-268
+AP30,Plaza Frankfurter Allee,APCOA,52.515,13.46781,750,3.00,18.00,,"Voigtstraße 2, 10247 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/plaza-frankfurter-allee
+AP31,Alt-Friedrichsfelde 25,APCOA,52.50951658,13.5139046,14,,,,"Alt-Friedrichsfelde 25, 10315 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/alt-friedrichsfelde-25
+AP32,Buchberger Str. 5,APCOA,52.51041863,13.4923327,198,,,,"Buchberger Straße 5, 10365 Berlin",https://www.apcoa.de/einmal-parken/standorte/berlin/buchberger-str-5
+CP01,Parkdeck Südkreuz P1,Contipark,52.474739,13.364685,205,2.80,27.00,True,"Lotte-Laserstein-Straße, 10829 Berlin",https://www.contipark.de/de/parken/berlin/parkdeck-suedkreuz-p1/
+CP02,Parkhaus Arena,Contipark,52.507473,13.441488,871,4.00,35.00,True,"Helen-Ernst-Straße 2-4, 10243 Berlin",https://www.contipark.de/de/parken/berlin/parkhaus-arena/
+CP03,Parkhaus Charité Campus Virchow Klinikum,Contipark,52.543021,13.338845,764,2.00,14.00,,"Seestraße 4-5, 13353 Berlin",https://www.contipark.de/de/parken/berlin/parkhaus-charite-campus-virchow-klinikum/
+CP04,Parkhaus Der Clou,Contipark,52.562507,13.329389,422,,3.00,,"Kapweg, 13405 Berlin",https://www.contipark.de/de/parken/berlin/parkhaus-der-clou/
+CP05,Parkhaus Europa-Center,Contipark,52.504467,13.339956,954,2.50,20.00,,"Nürnberger Straße 5 - 7, 10787 Berlin",https://www.contipark.de/de/parken/berlin/parkhaus-europa-center/
+CP06,Parkhaus Flughafen BER McParking,Contipark,52.38972,13.53621,2000,,,True,"Gebrüder-Hirth-Straße 27, 12526 Berlin",https://www.contipark.de/de/parken/berlin/parkhaus-flughafen-ber-mcparking/
+CP07,Parkhaus Forum Landsberger Allee,Contipark,52.530413,13.455175,412,2.00,10.00,,"Storkower Straße 156A, 10407 Berlin",https://www.contipark.de/de/parken/berlin/parkhaus-forum-landsberger-allee/
+CP08,Parkhaus ICC,Contipark,52.502779,13.279974,620,,,,"Messedamm 22, 14055 Berlin",https://www.contipark.de/de/parken/berlin/parkhaus-icc/
+CP09,Parkhaus Neukölln Arcaden,Contipark,52.481961,13.430977,514,1.20,4.50,,"Erlanger Straße, 12053 Berlin",https://www.contipark.de/de/parken/berlin/parkhaus-neukoelln-arcaden/
+CP10,Parkhaus Rathaus Spandau,Contipark,52.534891,13.201849,300,2.50,13.00,True,"Stabholzgarten 4, 13597 Berlin",https://www.contipark.de/de/parken/berlin/parkhaus-rathaus-spandau/
+CP11,Parkhaus Schloss-Straßen-Center,Contipark,52.465057,13.327682,365,1.00,5.00,,"Bornstraße 1, 12161 Berlin",https://www.contipark.de/de/parken/berlin/parkhaus-schloss-strassen-center/
+CP12,Parkhaus Spandau Altstädter Ring,Contipark,52.539095,13.201741,300,2.50,13.00,True,"Altstädter Ring 20, 13597 Berlin",https://www.contipark.de/de/parken/berlin/parkhaus-spandau-altstaedter-ring/
+CP13,Parkhaus Steglitzer Kreisel,Contipark,52.455081,13.319185,645,,2.50,,"Schloßstraße 74, 12165 Berlin",https://www.contipark.de/de/parken/berlin/parkhaus-steglitzer-kreisel/
+CP14,Parkhaus Uhland-/Kant-/Fasanenstraße UKF,Contipark,52.506355,13.325912,501,3.20,22.00,,"Uhlandstraße 192, 10623 Berlin",https://www.contipark.de/de/parken/berlin/parkhaus-uhland-kant-fasanenstrasse-ukf/
+CP15,Parkhaus WILMA,Contipark,52.50982,13.304278,301,2.00,16.00,,"Schillerstraße 74, 10627 Berlin",https://www.contipark.de/de/parken/berlin/parkhaus-wilma/
+CP16,Parkplatz Charité Campus Virchow Klinikum,Contipark,52.542889,13.339529,70,2.00,48.00,,"Föhrer Straße 14, 13353 Berlin",https://www.contipark.de/de/parken/berlin/parkplatz-charite-campus-virchow-klinikum/
+CP17,Parkplatz Forum Landsberger Allee,Contipark,52.529905,13.455798,43,1.50,11.00,,"Storkower Straße 156A, 10407 Berlin",https://www.contipark.de/de/parken/berlin/parkplatz-forum-landsberger-allee/
+CP18,Parkplatz Messe,Contipark,52.502526,13.267371,850,,,,"Jaffestraße, 14055 Berlin",https://www.contipark.de/de/parken/berlin/parkplatz-messe/
+CP19,Parkplatz Ostbahnhof P1,Contipark,52.509604,13.434169,113,2.50,11.00,,"Am Ostbahnhof, 10243 Berlin",https://www.contipark.de/de/parken/berlin/parkplatz-ostbahnhof-p1/
+CP20,Parkplatz Sport Club Siemensstadt,Contipark,52.545012,13.258334,104,2.00,12.00,,"Buolstraße 14, 13629 Berlin",https://www.contipark.de/de/parken/berlin/parkplatz-sport-club-siemensstadt/
+CP21,Parkplatz Südkreuz Ost P4 Kiss+Ride,Contipark,52.4753,13.36647,8,3.00,27.00,,"Erika-Gräfin-von-Brockdorff-Platz ., 12101 Berlin",https://www.contipark.de/de/parken/berlin/parkplatz-suedkreuz-ost-p4-kissride/
+CP22,Parkplatz Südkreuz Vorfahrt Ost P3,Contipark,52.475399,13.36634,19,3.00,27.00,True,"Erika-Gräfin-von-Brockdorff-Platz, 12101 Berlin",https://www.contipark.de/de/parken/berlin/parkplatz-suedkreuz-kissride-ost-p3/
+CP23,Parkplatz Südkreuz Vorfahrt West P5,Contipark,52.47562,13.36445,10,3.00,30.00,True,"Lotte-Laserstein-Straße, 10829 Berlin",https://www.contipark.de/de/parken/berlin/parkplatz-suedkreuz-vorfahrt-west-p5/
+CP24,Parkplatz Südkreuz West P2 Kiss+Ride,Contipark,52.475219,13.363993,31,3.00,30.00,,"Lotte-Laserstein-Straße, 10829 Berlin",https://www.contipark.de/de/parken/berlin/parkplatz-suedkreuz-west-p2-kissride/
+CP25,Tiefgarage Am KaDeWe,Contipark,52.500919,13.339737,257,5.00,30.00,,"Passauer Straße 33-37, 10789 Berlin",https://www.contipark.de/de/parken/berlin/tiefgarage-am-kadewe/
+CP26,Tiefgarage Center am Potsdamer Platz,Contipark,52.510274,13.37392,788,3.00,10.00,,"Bellevuestraße 3, 10785 Berlin",https://www.contipark.de/de/parken/berlin/tiefgarage-center-am-potsdamer-platz/
+CP27,Tiefgarage Friedrichstadt-Passagen Q 205,Contipark,52.513054,13.390762,487,4.00,32.00,,"Taubenstraße 14, 10117 Berlin",https://www.contipark.de/de/parken/berlin/tiefgarage-friedrichstadt-passagen-q-205/
+CP28,Tiefgarage Friedrichstadt-Passagen Q 206,Contipark,52.513054,13.390762,262,4.00,32.00,,"Taubenstraße 14, 10117 Berlin",https://www.contipark.de/de/parken/berlin/tiefgarage-friedrichstadt-passagen-q-206/
+CP29,Tiefgarage Hauptbahnhof P1,Contipark,52.524463,13.366747,814,3.30,27.00,True,"Clara-Jaschke-Straße 88, 10557 Berlin",https://www.contipark.de/de/parken/berlin/tiefgarage-hauptbahnhof-p1-berlin/
+CP30,Tiefgarage Kulturbrauerei,Contipark,52.538311,13.41359,247,1.50,15.00,True,"Sredzkistraße 1, 10435 Berlin",https://www.contipark.de/de/parken/berlin/tiefgarage-kulturbrauerei/
+CP31,Tiefgarage Leibniz Kolonnaden,Contipark,52.502822,13.313284,358,4.00,26.00,,"Leibnizstraße 49-53, 10629 Berlin",https://www.contipark.de/de/parken/berlin/tiefgarage-leibniz-kolonnaden/
+CP32,Tiefgarage Living Berlin,Contipark,52.506306,13.325652,158,3.20,22.00,,"Uhlandstraße 9-10, 10623 Berlin",https://www.contipark.de/de/parken/berlin/tiefgarage-living-berlin/
+CP33,Tiefgarage Los-Angeles-Platz,Contipark,52.502691,13.334141,230,4.50,30.00,True,"Rankestraße 27-29, 10789 Berlin",https://www.contipark.de/de/parken/berlin/tiefgarage-los-angeles-platz/
+CP34,Tiefgarage Ostbahnhof P2,Contipark,52.509304,13.433294,230,2.50,11.00,,"Stralauer Platz, 10243 Berlin",https://www.contipark.de/de/parken/berlin/tiefgarage-ostbahnhof-p2/
+CP35,Tiefgarage Plaza,Contipark,52.505672,13.441553,400,4.00,35.00,True,"Mildred-Harnack-Straße 11-13, 10243 Berlin",https://www.contipark.de/de/parken/berlin/tiefgarage-plaza/
+CP36,Tiefgarage Zehlendorfer Welle,Contipark,52.437687,13.261979,351,,14.00,,"Clayallee 328-334, 14169 Berlin",https://www.contipark.de/de/parken/berlin/tiefgarage-zehlendorfer-welle/

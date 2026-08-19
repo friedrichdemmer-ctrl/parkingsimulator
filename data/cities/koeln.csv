@@ -1,0 +1,51 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Barthonia Forum,Q-Park,50.9464643,6.9243435,1063,2.0,29.0,,"Venloer Straße 231, 50823 Köln",https://www.q-park.de/de-de/staedte/köln/barthonia-forum/
+QP02,Börsenplatz,Q-Park,50.9432479,6.9509796,129,2.5,18.0,,"Am Börsenplatz, 50668 Köln",https://www.q-park.de/de-de/staedte/köln/börsenplatz/
+QP03,ID Cologne,Q-Park,50.9697986,7.012028,899,2.0,16.0,,"Peter-Huppertz-Straße 2, 51063 Köln",https://www.q-park.de/de-de/staedte/köln/id-cologne/
+QP04,OVUM,Q-Park,50.9414607,6.8883068,270,2.0,20.0,,"Stolberger Straße 343, 50933 Köln",https://www.q-park.de/de-de/staedte/köln/ovum/
+QP05,Quincy/Breite Straße,Q-Park,50.9392231,6.9500552,648,2.5,9.0,True,"Neven-DuMont-Straße 1, 50667 Köln",https://www.q-park.de/de-de/staedte/köln/du-mont-carré/
+QP06,Stadtmitte,Q-Park,50.9347912,6.9516632,331,3.0,15.0,,"Cäcilienstraße 29, 50667 Köln",https://www.q-park.de/de-de/staedte/köln/stadtmitte/
+AP01,Mediapark - PZ,APCOA,50.9485841,6.9450939,481,2.5,25.0,,"Im Mediapark 5, 50670 Köln",https://www.apcoa.de/einmal-parken/standorte/koeln/mediapark-pz
+AP02,Am Gürzenich,APCOA,50.9369458,6.9571468,315,2.0,27.99,,"Quatermarkt 5, 50667 Köln",https://www.apcoa.de/einmal-parken/standorte/koeln/am-guerzenich
+AP03,Mediapark - Cinedom P1+2,APCOA,50.9476484,6.9453727,350,2.5,25.0,,"Im Mediapark 1, 50670 Köln",https://www.apcoa.de/einmal-parken/standorte/koeln/mediapark-cinedom-p1-2
+AP04,MediaPark - Maiburg,APCOA,50.9485841,6.9450939,183,2.0,18.0,,"Im Mediapark 5, 50670 Köln",https://www.apcoa.de/einmal-parken/standorte/koeln/mediapark-maiburg
+AP05,MediaPark - MEAG - P6,APCOA,50.9488988,6.9443035,134,2.5,25.0,,"Im Mediapark 6, 50670 Köln",https://www.apcoa.de/einmal-parken/standorte/koeln/mediapark-meag-p6
+AP06,Rheinauhafen,APCOA,50.9251587,6.9659901,1380,3.0,40.0,,"Harry-Blum-Platz 2, 50678 Köln",https://www.apcoa.de/einmal-parken/standorte/koeln/rheinauhafen
+AP07,City Center Porz,APCOA,50.884855,7.0587119,378,1.8,15.0,True,"Hermannstr. 2, 51143 Köln",https://www.apcoa.de/einmal-parken/standorte/koeln/city-center-porz
+AP08,Klapperhof,APCOA,50.941785,6.9437284,459,2.0,27.99,True,"Im Klapperhof 13, 50670 Köln",https://www.apcoa.de/einmal-parken/standorte/koeln/klapperhof
+AP09,Neue Mitte Porz,APCOA,50.8846611,7.0572436,202,2.0,15.0,,"Friedrich-Ebert-Platz 16, 51143 Köln",https://www.apcoa.de/einmal-parken/standorte/koeln/neue-mitte-porz
+CP01,Am Friesenplatz Alte Wallgasse,Contipark,50.939842,6.9420988,263,4.5,32.0,True,"Alte Wallgasse 31, 50672 Köln",https://www.contipark.de/de/parken/koeln/parkhaus-am-friesenplatz-alte-wallgasse/
+CP02,Am Zoo,Contipark,50.9580158,6.9758336,392,,18.0,,"Riehlerstraße 190, 50735 Köln",https://www.contipark.de/de/parken/koeln/parkhaus-am-zoo/
+CP03,Galerie Wiener Platz,Contipark,50.963609,7.0064471,444,,10.0,,"Genovevastraße 11-15, 51065 Köln",https://www.contipark.de/de/parken/koeln/parkhaus-galerie-wiener-platz/
+CP04,Hauptbahnhof Altstadt-Nord P7,Contipark,50.9442492,6.9616211,606,2.8,23.0,,"Am Alten Ufer 35, 50668 Köln",https://www.contipark.de/de/parken/koeln/parkhaus-hauptbahnhof-altstadt-nord-p7/
+CP05,Lungengasse,Contipark,50.9351078,6.9460788,250,4.0,30.0,True,"Lungengasse 37, 50676 Köln",https://www.contipark.de/de/parken/koeln/parkhaus-lungengasse/
+CP06,Opern Passagen,Contipark,50.9387786,6.9520893,550,3.2,28.0,,"Schwertnergasse 1, 50667 Köln",https://www.contipark.de/de/parken/koeln/parkhaus-opern-passagen/
+CP07,Am Alten Ufer P6 (DB BahnPark),Contipark,50.9432508,6.9617552,105,6.0,22.0,,"Am Alten Ufer, 50667 Köln",https://www.contipark.de/de/parken/koeln/parkplatz-am-alten-ufer-p6/
+CP08,Bahnhof Köln-Mülheim P1 links,Contipark,50.9576055,7.01239,22,2.4,6.0,,"Montanusstraße 2, 51066 Köln",https://www.contipark.de/de/parken/koeln/parkplatz-bahnhof-p1-links-koeln/
+CP09,Bahnhof Köln-Mülheim P2 rechts,Contipark,50.9600463,7.0133489,12,2.4,6.0,,"Montanusstraße, 51065 Köln",https://www.contipark.de/de/parken/koeln/parkplatz-bahnhof-p2-rechts-koeln/
+CP10,Hauptbahnhof Domplatte P3,Contipark,50.9412091,6.9568142,9,7.0,,,"Domprobst-Ketzer-Straße 7, 50668 Köln",https://www.contipark.de/de/parken/koeln/parkplatz-domplatte-p3/
+CP11,Hauptbahnhof Maximinenstraße P2,Contipark,50.9454938,6.9569149,56,6.0,20.0,,"Maximinenstraße, 50668 Köln",https://www.contipark.de/de/parken/koeln/parkplatz-maximinenstrasse-p2/
+CP12,Hauptbahnhof Trankgasse P5,Contipark,50.9419601,6.962374,21,6.0,20.0,,"Trankgasse, 50668 Köln",https://www.contipark.de/de/parken/koeln/parkplatz-trankgasse-p5/
+CP13,Am Dom,Contipark,50.9401052,6.9597462,520,,24.0,,"Kurt-Hackenberg-Platz 2, 50667 Köln",https://www.contipark.de/de/parken/koeln/tiefgarage-am-dom/
+CP14,Am Willy-Millowitsch-Platz,Contipark,50.9389144,6.9500874,46,3.5,28.0,,"Breite Str. 169-177, 50667 Köln",https://www.contipark.de/de/parken/koeln/tiefgarage-am-willy-millowitsch-platz/
+CP15,Groß Sankt Martin,Contipark,50.9398049,6.9601423,213,,24.0,,"Große Neugasse, 50667 Köln",https://www.contipark.de/de/parken/koeln/tiefgarage-gross-sankt-martin/
+CP16,Hauptbahnhof,Contipark,50.9432508,6.9617552,395,,24.0,,"Am Alten Ufer, 50667 Köln",https://www.contipark.de/de/parken/koeln/tiefgarage-hauptbahnhof-koeln/
+CP17,Heumarkt,Contipark,50.9367733,6.9617609,429,5.0,32.0,True,"Markmannsgasse 3, 50667 Köln",https://www.contipark.de/de/parken/koeln/tiefgarage-heumarkt/
+CP18,Kaiser-Wilhelm-Ring,Contipark,50.9438233,6.941205,600,,21.0,,"Kaiser-Wilhelm-Ring, 50672 Köln",https://www.contipark.de/de/parken/koeln/tiefgarage-kaiser-wilhelm-ring/
+CP19,Kalk,Contipark,50.9393875,7.0084402,161,,18.0,,"Kalker Hauptstraße 247, 51103 Köln",https://www.contipark.de/de/parken/koeln/tiefgarage-kalk/
+CP20,MesseCity,Contipark,50.9428646,6.974446,617,4.2,32.0,,"Deutzer Allee 1, 50679 Köln",https://www.contipark.de/de/parken/koeln/tiefgarage-messecity/
+CP21,Mülheim,Contipark,50.9598756,7.0050228,166,,18.0,,"Jan-Wellem-Straße 2, 51065 Köln",https://www.contipark.de/de/parken/koeln/tiefgarage-muelheim/
+CP22,Neptunplatz,Contipark,50.9475275,6.9197817,113,,18.0,,"Neptunstraße, 50823 Köln",https://www.contipark.de/de/parken/koeln/tiefgarage-neptunplatz/
+CP23,Philharmonie,Contipark,50.9403861,6.9607656,372,,24.0,,"Bischofsgartenstraße, 50667 Köln",https://www.contipark.de/de/parken/koeln/tiefgarage-philharmonie-koeln/
+CP24,Schildergasse,Contipark,50.9358428,6.9511482,362,4.5,33.0,True,"Cäcilienstraße 32, 50667 Köln",https://www.contipark.de/de/parken/koeln/tiefgarage-schildergasse/
+KP01,Tiefgarage An Farina,Kalscheuer Parkhausbetriebe,50.9379826,6.9580225,304,2.5,30.0,True,"Unter Goldschmied 5, 50667 Köln",https://www.parkhaus.org/index.php/parkhaeuser-naehe-dom/tiefgarage-an-farina-koeln.html
+KP02,Parkplatz Agrippabad,Kalscheuer Parkhausbetriebe,50.9326514,6.9518992,120,4.5,35.0,,"Kämmergasse 1, 50676 Köln",https://www.parkhaus.org/index.php/parkhaeuser-naehe-neumarkt/parkplatz-agrippabad.html
+KP03,Parkhaus Am Neumarkt,Kalscheuer Parkhausbetriebe,50.9349136,6.9473113,333,3.0,30.0,,"Lungengasse 33, 50676 Köln",https://www.parkhaus.org/index.php/parkhaeuser-naehe-neumarkt/parkhaus-am-neumarkt.html
+KP04,Parkhaus Brückenstraße,Kalscheuer Parkhausbetriebe,50.9372085,6.9547134,756,3.0,30.0,,"Ludwigstr. 1, 50667 Köln",https://www.parkhaus.org/index.php/parkhaeuser-naehe-neumarkt/parkhaus-brueckenstrasse.html
+KP05,Tiefgarage Hohenstaufenring,Kalscheuer Parkhausbetriebe,50.9316666,6.9399909,275,3.0,30.0,,"Hohenstaufenring 29-37, 50674 Köln",https://www.parkhaus.org/index.php/parkhaeuser-naehe-ringe/tiefgarage-hohenstaufenring.html
+KP06,Parkhaus Hohenzollernring/Maastrichter Straße,Kalscheuer Parkhausbetriebe,50.9387583,6.9381395,684,3.0,30.0,,"Maastrichter Str. 10, 50672 Köln",https://www.parkhaus.org/index.php/parkhaeuser-naehe-ringe/parkhaus-hohenzollernring-maastrichter-straße.html
+KP07,Tiefgarage Rudolfplatz,Kalscheuer Parkhausbetriebe,50.9357855,6.9379568,400,3.0,30.0,,"Habsburgerring 9, 50674 Köln",https://www.parkhaus.org/index.php/parkhaeuser-naehe-ringe/tiefgarage-rudolfplatz.html
+KP08,Parkhaus P1 LANXESS arena,Kalscheuer Parkhausbetriebe,50.9386614,6.9845688,1748,2.0,20.0,True,"Willy-Brandt-Platz 3, 50679 Köln",https://www.parkhaus.org/index.php/deutz/parkhaus-p1-lanxess-arena.html
+KP09,Parkhaus P2 LANXESS arena,Kalscheuer Parkhausbetriebe,50.9386614,6.9845688,266,2.0,20.0,,"Willy-Brandt-Platz 3, 50679 Köln",https://www.parkhaus.org/index.php/deutz/parkhaus-p2-lanxess-arena.html
+KP10,Parkhaus VIP P3 LANXESS arena,Kalscheuer Parkhausbetriebe,50.9386614,6.9845688,480,2.0,20.0,,"Willy-Brandt-Platz 3, 50679 Köln",https://www.parkhaus.org/index.php/deutz/parkhaus-vip-p3-lanxess-arena.html
+KP11,Parkhaus P4 LANXESS arena,Kalscheuer Parkhausbetriebe,50.9386614,6.9845688,309,2.0,20.0,,"Willy-Brandt-Platz 3, 50679 Köln",https://www.parkhaus.org/index.php/deutz/parkhaus-p4-lanxess-arena.html

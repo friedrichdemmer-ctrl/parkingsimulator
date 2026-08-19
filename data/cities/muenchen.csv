@@ -1,0 +1,49 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Amalienpassage,Q-Park,48.151565,11.577164,205,3.6,35.0,,"Türkenstraße 84, 80799 München",https://www.q-park.de/de-de/staedte/münchen/amalienpassage/
+QP02,Arabellapark Bogenhausen,Q-Park,48.1507239,11.6198693,2048,3.5,35.0,True,"Arabellastrasse 15, 81925 München",https://www.q-park.de/de-de/staedte/münchen/arabellapark-bogenhausen/
+QP03,Elisenhof Hauptbahnhof,Q-Park,48.1405082,11.5624444,399,4.0,40.0,True,"Luitpoldstraße 3, 80335 München",https://www.q-park.de/de-de/staedte/münchen/elisenhof-hauptbahnhof/
+QP04,Feilitzschhöfe,Q-Park,48.1614639,11.5882861,246,3.5,35.0,,"Feilitzschstraße 8, 80802 München",https://www.q-park.de/de-de/staedte/münchen/feilitzschhöfe/
+QP05,Schwanthalerhöhe,Q-Park,48.1378161,11.5467703,1316,2.5,35.0,True,"Schwanthalerstrasse 113, 80339 München",https://www.q-park.de/de-de/staedte/münchen/hacker-schwanthalerhöhe/
+QP06,Hilton Munich City,Q-Park,48.1302175,11.5918457,440,3.0,35.0,True,"Rosenheimer Straße 15, 81667 München",https://www.q-park.de/de-de/staedte/münchen/hilton-munich-city/
+QP07,Hofbräuhaus,Q-Park,48.1364912,11.5836443,551,4.0,40.0,True,"Thomas-Wimmer-Ring 9, 80539 München",https://www.q-park.de/de-de/staedte/münchen/hofbräuhaus/
+QP08,i9 Plaza,Q-Park,48.125113,11.6117571,356,2.5,24.0,True,"Hanne-Hiob-Straße 10, 81671 München",https://www.q-park.de/de-de/staedte/münchen/i9-plaza/
+QP09,Königshof,Q-Park,48.1398642,11.564003,136,4.0,40.0,True,"Schützenstrasse 4, 80335 München",https://www.q-park.de/de-de/staedte/münchen/königshof/
+QP10,Marsstraße Hauptbahnhof,Q-Park,48.1426506,11.5587266,801,4.0,40.0,,"Hirtenstrasse 14, 80335 München",https://www.q-park.de/de-de/staedte/münchen/marsstraße-hauptbahnhof/
+QP11,Mira,Q-Park,48.2133395,11.562967,750,1.0,10.0,,"Schleißheimerstraße 506, 80933 München",https://www.q-park.de/de-de/staedte/münchen/mira/
+QP12,Mona,Q-Park,48.1822981,11.5308794,200,2.5,20.0,True,"Pelkovenstraße 145, 80992 München",https://www.q-park.de/de-de/staedte/münchen/mona/
+QP13,Nove,Q-Park,48.1443974,11.5372546,430,3.0,28.0,,"Lilli-Palmer-Straße 2, 80636 München",https://www.q-park.de/de-de/staedte/münchen/nove/
+QP14,Parkstadt Center Schwabing,Q-Park,48.1828114,11.5929187,396,2.5,15.0,,"Wilhelm-Wagenfeld-Straße 4 -8, 80807 München",https://www.q-park.de/de-de/staedte/münchen/parkstadt-center-schwabing/
+QP15,Pschorr Garage Altstadt,Q-Park,48.1376376,11.5698882,214,4.0,40.0,True,"Altheimer Eck 16, 80331 München",https://www.q-park.de/de-de/staedte/münchen/pschorr-garage-altstadt/
+QP16,Regerstraße,Q-Park,48.1218995,11.5856167,129,3.0,30.0,True,"Regerstrasse 76, 81541 München",https://www.q-park.de/de-de/staedte/münchen/regerstraße/
+QP17,Rieger City Isartor,Q-Park,48.1346056,11.580706,406,4.0,40.0,True,"Frauenstrasse 38, 80469 München",https://www.q-park.de/de-de/staedte/münchen/rieger-city-isartor/
+QP18,Rosenkavalierplatz Bogenhausen,Q-Park,48.1529752,11.6211581,289,3.5,35.0,True,"Elektrastrasse 3, 81925 München",https://www.q-park.de/de-de/staedte/münchen/rosenkavalierplatz-bogenhausen/
+QP19,Salvatorplatz Altstadt,Q-Park,48.1421585,11.5739798,453,4.0,40.0,True,"Jungfernturmstrasse 1, 80333 München",https://www.q-park.de/de-de/staedte/münchen/salvatorplatz-altstadt/
+QP20,Schrannenhalle Viktualienmarkt,Q-Park,48.134499,11.5742573,176,4.0,40.0,,"Prälat-Zistl-Strasse 5, 80331 München",https://www.q-park.de/de-de/staedte/münchen/schrannenhalle-viktualienmarkt/
+QP21,Schwabinger Tor,Q-Park,48.1736517,11.5861278,959,3.5,35.0,True,"Leopoldstraße 184, 80804 München",https://www.q-park.de/de-de/staedte/münchen/schwabinger-tor/
+QP22,the m.pire Parkstadt Schwabing,Q-Park,48.1815652,11.5973149,505,3.0,30.0,True,"Marcel-Breuer-Strasse 2, 80807 München","https://www.q-park.de/de-de/staedte/münchen/the-m,-d-,pire-parkstadt-schwabing/"
+QP23,Welfenhöfe / Welfenstraße,Q-Park,48.1224521,11.5913945,997,3.0,30.0,,"Welfenstrasse 61, 81541 München",https://www.q-park.de/de-de/staedte/münchen/welfenhöfe-/-welfenstraße/
+QP24,West4 / Elsenheimerstr.,Q-Park,48.1368719,11.5236554,559,2.5,20.0,,"Elsenheimerstrasse 57, 80687 München","https://www.q-park.de/de-de/staedte/münchen/west4-/-elsenheimerstr,-d-,/"
+QP25,Westin Grand Hotel,Q-Park,48.1522601,11.617134,201,3.5,35.0,True,"Arabellastrasse 6, 81925 München",https://www.q-park.de/de-de/staedte/münchen/westin-grand-hotel/
+QP26,Zam,Q-Park,48.141666,11.4075348,1000,1.5,12.0,True,"Hildegard-Hamm-Brücher-Str. 2, 81249 München",https://www.q-park.de/de-de/staedte/münchen/zam/
+AP01,Allianz Arena,APCOA,48.21452,11.624494,10700,,,,"Werner-Heisenberg-Allee 25, 80939 München",https://www.apcoa.de/einmal-parken/standorte/muenchen/allianz-arena
+AP02,Hofbräukeller,APCOA,48.133673,11.594231,100,3.0,25.0,True,"Innere Wiener Strasse 15, 81667 München",https://www.apcoa.de/einmal-parken/standorte/muenchen/hofbraeukeller
+AP03,Hotel Marriott,APCOA,48.174412,11.591518,134,4.0,29.0,True,"Berliner Strasse 93, 80805 München",https://www.apcoa.de/einmal-parken/standorte/muenchen/hotel-marriott
+AP04,Ibis- und Suite NOVOTEL,APCOA,48.179563,11.593006,90,3.0,25.0,,"Lyonel-Feininger-Straße 20, 80807 München",https://www.apcoa.de/einmal-parken/standorte/muenchen/ibis-und-suite-novotel
+AP05,Isarklinikum Haupteingang,APCOA,48.134824,11.565353,5,,,,"Sonnenstraße 24-26, 80331 München",https://www.apcoa.de/einmal-parken/standorte/muenchen/isarklinikum-haupteingang
+AP06,Isarklinikum Postinnenhof,APCOA,48.135319,11.564969,70,4.0,35.0,,"Sonnenstraße 24-26, 80331 München",https://www.apcoa.de/einmal-parken/standorte/muenchen/isarklinikum-postinnenhof
+AP07,Isarklinikum Tiefgarage,APCOA,48.134074,11.56477,40,4.0,35.0,,"Sonnenstraße 24-26, 80331 München",https://www.apcoa.de/einmal-parken/standorte/muenchen/isarklinikum-tiefgarage
+AP08,Laimer Platz,APCOA,48.1355,11.5014,350,3.0,15.0,,"Gotthardstraße 46, 80686 München",https://www.apcoa.de/einmal-parken/standorte/muenchen/laimer-platz
+AP09,Macherei,APCOA,48.131113,11.624099,799,3.0,30.0,True,"Levelingstraße 2, 81673 München",https://www.apcoa.de/einmal-parken/standorte/muenchen/macherei
+AP10,Messe München,APCOA,48.139842,11.691686,4650,,,,"Paul-Henri-Spaak Strasse 6, 81829 München",https://www.apcoa.de/einmal-parken/standorte/muenchen/messe-muenchen
+AP11,P & R Fröttmaning,APCOA,48.21452,11.624494,1259,,,,"Werner-Heisenberg-Allee 21, 80939 München",https://www.apcoa.de/einmal-parken/standorte/muenchen/p-r-froettmaning
+AP12,P & R Messestadt Ost,APCOA,48.133469,11.705896,1075,,,,"Willy-Brandt-Allee 11, 81829 München",https://www.apcoa.de/einmal-parken/standorte/muenchen/p-r-messestadt-ost
+AP13,Parkplatz MOC Veranstaltungscenter München,APCOA,48.196464,11.609788,1600,4.5,35.0,,"Lilienthalallee 40, 80939 München",https://www.apcoa.de/einmal-parken/standorte/muenchen/parkplatz-moc-veranstaltungscenter-muenchen
+AP14,Riem Arcaden Motel One,APCOA,48.133064,11.689739,66,1.9,25.0,,"Willy-Brandt-Platz 5 (Helsinkistraße), 81829 München",https://www.apcoa.de/einmal-parken/standorte/muenchen/riem-arcaden-motel-one
+AP15,Riem Arcaden SOP,APCOA,48.132163,11.693975,274,1.9,25.0,,"Lehrer-Wirth-Straße 5, 81829 München",https://www.apcoa.de/einmal-parken/standorte/muenchen/riem-arcaden-sop
+AP16,Riem Arcaden Tiefgarage,APCOA,48.13316,11.693717,2331,1.9,25.0,True,"Willy-Brandt-Platz 5, 81829 München",https://www.apcoa.de/einmal-parken/standorte/muenchen/riem-arcaden-tiefgarage
+AP17,Sonnenhof-Garage,APCOA,48.136442,11.563294,70,4.5,35.0,,"Landwehrstraße 10, 80336 München",https://www.apcoa.de/einmal-parken/standorte/muenchen/sonnenhof-garage
+AP18,Tiefgarage MOC Veranstaltungscenter München,APCOA,48.196464,11.609788,1500,3.0,16.0,True,"Lilienthalallee 40, 80939 München",https://www.apcoa.de/einmal-parken/standorte/muenchen/tiefgarage-moc-veranstaltungscenter-muenchen
+CP01,Tiefgarage Hauptbahnhof Süd P4,Contipark,48.138542,11.560039,242,3.3,32.0,,"Senefelderstraße 7, 80336 München",https://www.contipark.de/de/parken/muenchen/tiefgarage-hauptbahnhof-sued-p4/
+CP02,Tiefgarage Marienplatz,Contipark,48.136283,11.574668,265,6.5,45.0,True,"Rindermarkt 16, 80331 München",https://www.contipark.de/de/parken/muenchen/tiefgarage-marienplatz/
+CP03,Tiefgarage Neue Hopfenpost,Contipark,48.143577,11.554688,583,3.0,17.0,,"Hopfenstraße 6, 80335 München",https://www.contipark.de/de/parken/muenchen/tiefgarage-neue-hopfenpost/
+CP04,Tiefgarage Oberanger,Contipark,48.134726,11.57105,423,6.5,45.0,True,"Oberanger 27, 80331 München",https://www.contipark.de/de/parken/muenchen/tiefgarage-oberanger/

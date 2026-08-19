@@ -1,0 +1,50 @@
+city,status,notes
+Aachen,not started,
+Augsburg,not started,
+Berlin,done,"91 garages (full redo - superseded a prior incomplete/inaccurate attempt): Q-Park 23 (all 23 listed for Berlin, incl. several sub-brands folded into Q-Park's site - Bavaria Parkgaragen GmbH at Bikini Berlin/Möllendorff Passage/Rigaer Passage, and Park One GmbH at Kempinski Plaza/Reinhardtstraße/Waldorf Astoria), APCOA 32 (all 32 listed for Berlin, incl. many small 8-330 space street-address 'Parkplatz' lots), Contipark 36 (of 37 total listed; excluded 1 'Saba Parkhaus Lio' as it's an external Saba/Interparking-operated link on Contipark's site, not Contipark itself). Zero Nominatim calls needed - all 91 rows got lat/lon directly from schema.org JSON-LD GeoCoordinates embedded in each operator's own page (fetched via plain curl, not browser), confirming the prior attempt's Nominatim rate-limit failure was avoidable entirely. 58 of 91 had confirmed real hourly+daily pricing; hourly_rate left blank (but daily_cap kept where published) for a handful publishing only 30-minute-increment tariffs (Contipark Der Clou, Zehlendorfer Welle) or day/evening flat passes (APCOA Philharmonie) rather than a comparable hourly rate, consistent with prior cities' precedent of not converting. ~14 small APCOA residential/tenant lots (8-19 spaces, e.g. Haardtweg 2, Buckower Damm 268) have no public pricing at all - genuinely tenant/permit-only. No distinct Berlin-specific dominant local/municipal operator found despite searching (checked VIZ Berlin traffic info, searched for a PBG/Sprinkenhof/PSN-style operator; the one promising lead, 'P+R Park und Ride GmbH', turned out to be Munich's P+R operator, not Berlin's - Berlin's P+R network is city-managed but largely free/uncommercialized, not a real pricing competitor)."
+Bielefeld,not started,
+Böblingen,not started,
+Bonn Bad Godesberg,not started,
+Cottbus,not started,
+Crimmitschau,not started,
+Darmstadt,not started,
+Dresden,not started,
+Düsseldorf,done,already completed earlier - see data/assets.csv in project root
+Erfurt,not started,
+Essen,not started,
+Frankfurt,done,"30 garages: Q-Park 7 (all 7 in Frankfurt), APCOA 10 (of 21 total listed, representative spread across CBD/Messe/Westend/Sachsenhausen/hospital/airport; skipped near-duplicate hospital sub-lots and MyZeil's redundant per-entrance listings), Contipark 5 (all 5, incl. one in Höchst district), PBG/Frankfurter Parkhäuser municipal operator 8 (of 32 total - added after brief noted checking for a dominant local operator; picked central landmark garages). All 30 had confirmed real hourly+daily pricing except Q-Park NordWestZentrum (huge 3000-space shopping-center garage, only day/night tariff published, no 24h Tageshöchstgebühr - left blank). PBG dominates Frankfurt with far more locations (32) than any single operator in Düsseldorf had; not in Düsseldorf's competitor set at all. Q-Park's NordWestZentrum was only taken over by Q-Park on 01.11.2025 per the page text - recently changed hands. Contipark also has a Brönnerstraße garage acquired recently but under redevelopment until 2027, not yet operational - excluded as not currently open."
+Fulda,not started,
+Fürth,not started,
+Gießen,not started,
+Hagen,not started,
+Hamburg,done,"38 garages: Q-Park 3, APCOA 15 (of 27 total, spread across CBD/HafenCity/Altona/Harburg/Eppendorf/Blankenese), Contipark 10 (of 31 total), Sprinkenhof GmbH 10 (municipal-adjacent operator, all found). 36 of 38 had confirmed real hourly+daily pricing; blank for APCOA Stadthöfe/Bleichenhof (no rates published) and Sprinkenhof Von-Melle-Park (permit-only, no short-term rate). Contipark's Parkhaus Hahnenkamp and Parkhaus Mercado Altona Bahnhof share the same listed address (Hahnenkamp 3) - likely same complex, different entrances/sections - kept as separate site-listed facilities."
+Hannover,done,"12 garages: Q-Park 1, APCOA 2, Contipark 4, DB BahnPark 5 (station lots listed via Contipark's site but explicitly DB BahnPark-branded). All 12 had confirmed real hourly+daily pricing published; none blank. Q-Park has only 1 facility in Hannover (Galerie Luise) - Contipark, HQ'd in Hannover, and DB BahnPark dominate; no B+B Parkhaus presence."
+Heidelberg,not started,
+Herne,not started,
+Hilden,not started,
+Kaiserslautern,not started,
+Kiel,not started,
+Köln,done,"50 garages: Q-Park 6 (all 6 listed for Köln, real tariffs via facilityId API), APCOA 9 (all 9 listed, incl. 4 separate sub-garages within the Mediapark complex), Contipark 24 (all 24 listed - Köln has an unusually large Contipark presence incl. 5 Hauptbahnhof-area lots that are DB BahnPark/Parkster-branded on Contipark's own site), Kalscheuer Parkhausbetriebe GmbH (parkhaus.org, Köln-only dominant local operator) 11 (all real facilities found; excluded 2 'Verkehrsübungsplatz' driving-practice lots from their nav menu as not consumer parking). 39 of 50 had confirmed real hourly+daily pricing; 11 Contipark garages left hourly_rate blank because they publish only a per-20-minute increment tariff, not a comparable hourly rate (consistent with München's precedent of not converting 20-min rates); 1 (Domplatte P3) left daily_cap blank as it's a 1-hour-max lot with no day rate published. LANXESS arena's 4 Kalscheuer-operated sub-garages (P1/P2/VIP P3/P4) share one address (Willy-Brandt-Platz 3) by design - one large multi-structure complex. Groß Sankt Martin (Contipark) is currently closed for renovation but kept in dataset (real published tariffs, no closure end-date given, consistent with Nürnberg precedent). This row previously (incorrectly) said 28 garages/KPPG from an earlier incomplete attempt - superseded by this full 50-garage dataset."
+Landshut,not started,
+Leipzig,not started,
+Leverkusen,not started,
+Lippstadt,not started,
+Lörrach,not started,
+Ludwigshafen,not started,
+Lüneburg,not started,
+Moers,not started,
+Mönchengladbach,not started,
+Mülheim an der Ruhr,not started,
+München,done,"48 garages: Q-Park 26 (all 26 listed for München, incl. several ex-'Bavaria Parkgaragen'-branded sites like Schrannenhalle/Salvatorplatz/Pschorr now folded into Q-Park's own site), APCOA 18 (all 18 listed), Contipark 4 (all 4 listed). No distinct municipal/PBM operator found despite checking - Bavaria Parkgaragen GmbH, the local Munich player, appears fully absorbed into Q-Park's brand/site rather than operating separately, so not double-counted. 43 of 48 had confirmed real hourly+daily pricing (all 26 Q-Park via the facilityId tariff API, all 4 Contipark, 13 of 18 APCOA via static price tiles). 5 APCOA sites left blank: Allianz Arena and Messe München (event-dependent/redirect-to-venue pricing, no rate published), P&R Fröttmaning and P&R Messestadt Ost (park-and-ride lots, no per-hour rate shown), Isarklinikum Haupteingang (only a per-20-minute drop-off rate published, not a comparable hourly rate - left blank rather than converting). Lat/lon for every row came directly from schema.org JSON-LD on each operator's own page (no Nominatim geocoding needed - both Q-Park and APCOA/Contipark pages embed precise GeoCoordinates)."
+Northeim,not started,
+Nürnberg,done,17 garages - Q-Park/Park One 1 (real API tariffs); Parkhaus Service Nürnberg (PSN, dominant local operator) 14 with real per-garage tariffs; Adlerparkhaus 1; VAG P+R Herrnhütte 1 (free w/ transit ticket, no commercial tariff). APCOA and Contipark confirmed to have NO presence in Nürnberg city itself (checked their site directories/search - only neighbouring Fürth/Erlangen/Augsburg). Capacity left blank for several PSN garages where only live "frei" counts are published, not true totals (used official city Tiefbauamt occupancy-system list for genuine totals where available). Parkhaus Theater closed indefinitely since a July 2026 vehicle fire but kept in dataset (real published tariffs).
+Offenbach,not started,
+Pforzheim,not started,
+Remscheid,not started,
+Rosenheim,not started,
+Rüsselsheim,not started,
+Saarbrücken,not started,
+Stuttgart,done,"44 garages: Q-Park 2 (all - Cannstatter Carré and Kleiner Schlossplatz/BW Bank; Q-Park barely has a presence in Stuttgart), APCOA 21 (of 34 total listed - included all 17 standalone genuinely-distinct locations, plus 1 representative pick each from 3 clusters of same-address sub-lots: SI-Centrum Tiefgarage P2 (of 4 SI-Centrum P1/P2 underground levels, all sharing one address), Messe Stuttgart P20 (of 5 Messe P20-P26 sub-lots, all sharing one address), and Flughafen P0 + P2 (of 8 airport P-lots, all sharing one address) - skipped the remaining near-duplicate sub-lots since they're the same physical complex under different numbers, not distinct competitive sites), Contipark 1 (Tiefgarage Hauptbahnhof LBBW P1 - the only genuinely Contipark-branded facility), DB BahnPark 5 (station car parks listed via Contipark's site but explicitly DB BahnPark-branded: Bad Cannstatt Wilhelmsplatz, Zuffenhausen P1/P3, Vaihingen P1/P2), B+B Parkhaus 5 (all 5: Kronprinzstraße, Gerber Viertel, Stadtmitte, Hauptbahnhof, König-Karl-Passage), PBW (Parkraumgesellschaft Baden-Württemberg) 10 of ~120 in Stuttgart - the dominant municipal-adjacent operator (confirmed via pbw.de, similar role to Frankfurt's PBG), picked central Kulturmeile/government-district landmark garages for a representative sample given the scale. 41 of 44 had confirmed real hourly+daily pricing; blank for APCOA P0 Flughafen (first hour free on entry day + 30 daily cap only, no simple hourly rate), Contipark/DB BahnPark Vaihingen P2 (reservation-only reserved spaces, no published rate), and PBW Jägerstraße 56 (permit/state-employee only, no short-term rate). Geocoded via Nominatim; reused matching coordinates from a prior partial attempt's leftover scratch file for addresses that matched exactly, geocoded the rest fresh."
+Wiesbaden,not started,
+Witten,not started,
+Wuppertal,not started,

@@ -1,0 +1,13 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Galerie Luise,Q-Park,52.3749995,9.7426817,613,2.50,15.00,,"Joachimstraße 3, 30159 Hannover",https://www.q-park.de/de-de/staedte/hannover/galerie-luise/
+AP01,Henriettenstift,APCOA,52.3624518,9.8283950,92,2.67,8.00,,"Schwemannstr. 13, 30559 Hannover",https://www.apcoa.de/einmal-parken/standorte/hannover/henriettenstift
+AP02,Podbi Park,APCOA,52.3907453,9.7513395,613,2.19,30.99,True,"Lister Straße 15-17, 30163 Hannover",https://www.apcoa.de/einmal-parken/standorte/hannover/podbi-park
+CP01,Parkhaus Markthalle,Contipark,52.3709167,9.7378136,392,3.30,20.00,,"Röselerstraße 7, 30159 Hannover",https://www.contipark.de/de/parken/hannover/parkhaus-markthalle/
+CP02,Parkhaus Rundestraße Kaufland,Contipark,52.3794104,9.7390181,514,2.00,8.00,,"Rundestraße 8, 30161 Hannover",https://www.contipark.de/de/parken/hannover/parkhaus-rundestrasse/
+CP03,Parkplatz Rundestraße Kaufland,Contipark,52.3796252,9.7401261,96,3.00,27.00,,"Rundestraße 5, 30161 Hannover",https://www.contipark.de/de/parken/hannover/parkplatz-rundestrasse/
+CP04,Tiefgarage Rundestraße Kaufland,Contipark,52.3796252,9.7401261,385,2.00,8.00,,"Rundestraße 4A, 30161 Hannover",https://www.contipark.de/de/parken/hannover/tiefgarage-rundestrasse/
+DB01,Parkplatz Ernst-August-Platz P1,DB BahnPark,52.3765338,9.7429758,12,6.00,22.00,,"Fernroder Straße, 30159 Hannover",https://www.contipark.de/de/parken/hannover/parkplatz-ernst-august-platz-p1/
+DB02,Parkplatz Ernst-August-Platz P2,DB BahnPark,52.3770191,9.7379195,11,6.00,22.00,,"Kurt-Schumacher-Straße, 30159 Hannover",https://www.contipark.de/de/parken/hannover/parkplatz-ernst-august-platz-p2/
+DB03,Parkplatz Hauptbahnhof Fernroder Straße P3,DB BahnPark,52.3765338,9.7429758,6,4.00,12.00,,"Fernroder Straße, 30159 Hannover",https://www.contipark.de/de/parken/hannover/parkplatz-hauptbahnhof-fernroder-strasse-p3/
+DB04,Parkplatz Hauptbahnhof Augustenstraße P6,DB BahnPark,52.3761481,9.7454201,125,3.00,18.00,,"Augustenstraße, 30161 Hannover",https://www.contipark.de/de/parken/hannover/parkplatz-hauptbahnhof-augustenstrasse-p6/
+DB05,Tiefgarage Hauptbahnhof Augustenstraße P7,DB BahnPark,52.3763588,9.7458423,144,3.00,12.00,,"Augustenstraße 13, 30161 Hannover",https://www.contipark.de/de/parken/hannover/tiefgarage-hauptbahnhof-augustenstrasse-p7/

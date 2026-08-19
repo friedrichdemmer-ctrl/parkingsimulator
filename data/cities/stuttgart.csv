@@ -1,0 +1,45 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Cannstatter Carré,Q-Park,48.8007738,9.2228298,631,2.2,15.0,,"Deckerstraße 31, 70372 Stuttgart",https://www.q-park.de/de-de/staedte/stuttgart/cannstatter-carr%C3%A9/
+QP02,Kleiner Schlossplatz / BW Bank,Q-Park,48.7785554,9.176659,193,4.0,22.0,,"Kleiner Schloßplatz 11, 70173 Stuttgart",https://www.q-park.de/de-de/staedte/stuttgart/kleiner-scholssplatz-/-bw-bank/
+AP01,Königsbau-Passagen,APCOA,48.7796504,9.1787917,412,3.0,20.0,True,"Bolzstr. 5, 70173 Stuttgart",https://www.apcoa.de/einmal-parken/standorte/stuttgart/koenigsbau-passagen
+AP02,Am Schlossplatz,APCOA,48.7795511,9.1805775,90,3.8,20.0,,"Stauffenbergstrasse 5-1, 70173 Stuttgart",https://www.apcoa.de/einmal-parken/standorte/stuttgart/am-schlossplatz
+AP03,Schillerplatz,APCOA,48.7771489,9.1787759,190,3.8,25.0,,"Schillerplatz, 70173 Stuttgart",https://www.apcoa.de/einmal-parken/standorte/stuttgart/schillerplatz
+AP04,Neue Brücke / Königstraße,APCOA,48.7756500,9.1762661,189,3.7,14.0,True,"Königstraße 27 / 27a, 70173 Stuttgart",https://www.apcoa.de/einmal-parken/standorte/stuttgart/neue-bruecke-/-koenigstrasse
+AP05,Zeppelin-Carré,APCOA,48.7826457,9.1788807,365,3.9,25.0,,"Kronenstr. 20, 70173 Stuttgart",https://www.apcoa.de/einmal-parken/standorte/stuttgart/zeppelin-carre
+AP06,City Garage,APCOA,48.7825521,9.1766609,228,3.8,12.0,,"Geschwister-Scholl-Strasse, 70174 Stuttgart",https://www.apcoa.de/einmal-parken/standorte/stuttgart/city-garage
+AP07,Holzgartenstraße,APCOA,48.7816923,9.1708248,195,3.3,21.0,,"Holzgartenstraße, 70174 Stuttgart",https://www.apcoa.de/einmal-parken/standorte/stuttgart/holzgartenstrasse
+AP08,Schlossstraße,APCOA,48.7783801,9.1693906,295,2.7,18.0,,"Schlossstrasse 49, 70174 Stuttgart",https://www.apcoa.de/einmal-parken/standorte/stuttgart/schlossstrasse
+AP09,Sophienstraße,APCOA,48.7737849,9.1722487,281,3.2,20.0,,"Sophienstr. 40, 70178 Stuttgart",https://www.apcoa.de/einmal-parken/standorte/stuttgart/sophienstrasse
+AP10,Liederhalle - Bosch Areal,APCOA,48.7802554,9.1711328,632,3.3,21.0,,"Breitscheidstrasse, 70174 Stuttgart",https://www.apcoa.de/einmal-parken/standorte/stuttgart/liederhalle-bosch-areal
+AP11,Südtor,APCOA,48.7653578,9.1692904,196,3.0,19.0,,"Kolbstr. 5-7, 70178 Stuttgart",https://www.apcoa.de/einmal-parken/standorte/stuttgart/suedtor
+AP12,Südwestbank,APCOA,48.7703326,9.1590167,195,2.7,19.0,,"Rotebühlstraße 125, 70178 Stuttgart",https://www.apcoa.de/einmal-parken/standorte/stuttgart/suedwestbank
+AP13,Am Marienplatz,APCOA,48.763759,9.1675678,112,3.0,19.0,,"Marienplatz 8, 70178 Stuttgart",https://www.apcoa.de/einmal-parken/standorte/stuttgart/am-marienplatz
+AP14,SchwabenGalerie,APCOA,48.7299470,9.1087670,1098,2.0,17.0,,"Hauptstraße 22, 70563 Stuttgart",https://www.apcoa.de/einmal-parken/standorte/stuttgart/schwabengalerie
+AP15,Wyndham Hotel Stuttgart Messe,APCOA,48.6932707,9.1986468,145,1.0,17.0,,"Flughafenstrasse 51, 70629 Stuttgart",https://www.apcoa.de/einmal-parken/standorte/stuttgart/wyndham-hotel-stuttgart-messe
+AP16,Hotel Mövenpick Messe & Congress,APCOA,48.6921449,9.1910891,209,8.0,32.0,,"Flughafenstraße 43, 70629 Stuttgart",https://www.apcoa.de/einmal-parken/standorte/stuttgart/hotel-moevenpick-messe-congress
+AP17,Mövenpick Hotel Stuttgart Airport,APCOA,48.6914682,9.1934978,97,8.0,32.0,,"Flughafenstrasse 50, 70629 Stuttgart",https://www.apcoa.de/einmal-parken/standorte/stuttgart/moevenpick-hotel-stuttgart-airport
+AP18,SI-Centrum Tiefgarage P2,APCOA,48.7237614,9.1622944,1616,2.5,18.0,True,"Plieninger Strasse 109, 70567 Stuttgart",https://www.apcoa.de/einmal-parken/standorte/stuttgart/si-centrum-tiefgarage-p2
+AP19,Messe Stuttgart P20,APCOA,48.6936454,9.1927653,1974,3.5,36.0,,"Messepiazza 1, 70629 Stuttgart",https://www.apcoa.de/einmal-parken/standorte/stuttgart/messe-stuttgart-p20
+AP20,P0 Flughafen Stuttgart,APCOA,48.6932707,9.1986468,1789,,30.0,,"Flughafenstraße, 70629 Stuttgart",https://www.apcoa.de/einmal-parken/standorte/stuttgart/p0-flughafen-stuttgart
+AP21,P2 Flughafen Stuttgart,APCOA,48.6932707,9.1986468,1324,8.0,34.0,,"Flughafenstrasse, 70629 Stuttgart",https://www.apcoa.de/einmal-parken/standorte/stuttgart/p2-flughafen-stuttgart
+CP01,Tiefgarage Hauptbahnhof LBBW P1,Contipark,48.7862273,9.1813286,1290,3.8,25.0,,"Am Hauptbahnhof 2, 70173 Stuttgart",https://www.contipark.de/de/parken/stuttgart/tiefgarage-hauptbahnhof-lbbw-p1/
+DB01,Parkhaus Bahnhof Wilhelmsplatz P1-3 (Bad Cannstatt),DB BahnPark,48.8023113,9.2161042,362,2.2,14.0,,"Eisenbahnstraße 12, 70372 Stuttgart",https://www.contipark.de/de/parken/stuttgart/parkhaus-bahnhof-wilhelmsplatz-p1-3-stuttgart-bad-cannstatt/
+DB02,Parkplatz Bahnhof Zuffenhausen P1,DB BahnPark,48.8296246,9.1662348,173,1.4,4.0,,"Am Bahnhof, 70435 Stuttgart",https://www.contipark.de/de/parken/stuttgart/parkplatz-bahnhof-zuffenhausen-p1/
+DB03,Parkplatz Bahnhof Zuffenhausen P3,DB BahnPark,48.8296246,9.1662348,35,1.4,4.0,,"Am Bahnhof, 70435 Stuttgart",https://www.contipark.de/de/parken/stuttgart/parkplatz-bahnhof-zuffenhausen-p3/
+DB04,Parkplatz Bahnhof Vaihingen P1,DB BahnPark,48.7267239,9.1131476,69,1.2,4.0,,"Bahnhof 1, 70563 Stuttgart",https://www.contipark.de/de/parken/stuttgart/parkplatz-bahnhof-vaihingen-p1/
+DB05,Parkplatz Bahnhof Vaihingen P2 (reservierbar),DB BahnPark,48.7267239,9.1131476,7,,,,"Bahnhof 1, 70563 Stuttgart",https://www.contipark.de/de/parken/stuttgart/parkplatz-bahnhof-vaihingen-p2-reservierbare-stellplaetze/
+BB01,Tiefgarage Kronprinzstraße,B+B Parkhaus,48.7751644,9.1739673,561,4.0,25.0,True,"Kronprinzstraße 26, 70173 Stuttgart",https://www.bb-parkhaus.de/staedte/stuttgart/tiefgarage-kronprinzstrasse
+BB02,Tiefgarage Gerber Viertel,B+B Parkhaus,48.7719659,9.1723744,560,4.0,25.0,True,"Sophienstraße 21, 70178 Stuttgart",https://www.bb-parkhaus.de/staedte/stuttgart/tiefgarage-gerber-viertel
+BB03,Tiefgarage Stadtmitte,B+B Parkhaus,48.7775637,9.1764696,266,4.0,25.0,True,"Kronprinzstraße 6, 70173 Stuttgart",https://www.bb-parkhaus.de/staedte/stuttgart/tiefgarage-stadtmitte
+BB04,Parkhaus Hauptbahnhof,B+B Parkhaus,48.7850549,9.1782678,147,2.5,7.5,,"Jägerstraße 19, 70174 Stuttgart",https://www.bb-parkhaus.de/staedte/stuttgart/parkhaus-hauptbahnhof
+BB05,Parkhaus König-Karl-Passage,B+B Parkhaus,48.8032036,9.2145268,78,2.5,18.0,,"Badstraße 17A, 70372 Stuttgart",https://www.bb-parkhaus.de/staedte/stuttgart/parkhaus-koenig-karl-passage
+PB01,Parkgarage Landtag,PBW,48.7786128,9.1834774,155,3.0,20.0,True,"Konrad-Adenauer-Straße 3, 70173 Stuttgart",https://www.pbw.de/parken/detail/243
+PB02,Parkgarage Landesbibliothek,PBW,48.7779049,9.1850889,266,3.2,20.0,True,"Konrad-Adenauer-Straße 10, 70173 Stuttgart",https://www.pbw.de/parken/detail/244
+PB03,Parkgarage Staatsgalerie,PBW,48.7806350,9.1872537,123,3.0,20.0,True,"Konrad-Adenauer-Straße 32, 70173 Stuttgart",https://www.pbw.de/parken/detail/245
+PB04,Parkgarage Börsenplatz,PBW,48.7800925,9.1757900,176,4.0,19.0,True,"Huberstraße 2, 70174 Stuttgart",https://www.pbw.de/parken/detail/288
+PB05,Parkplatz Haus der Wirtschaft,PBW,48.7781817,9.1746299,78,3.7,20.0,,"Theodor-Heuss-Straße 4, 70174 Stuttgart",https://www.pbw.de/parken/detail/277
+PB06,Parkgarage Kriegsberg,PBW,48.7843642,9.1773706,255,2.8,16.0,True,"Kriegsbergstr. 32, 70174 Stuttgart",https://www.pbw.de/parken/detail/476
+PB07,Parkhaus Hofdiener,PBW,48.7796356,9.1726691,655,3.5,20.0,True,"Schellingstraße 25 B, 70174 Stuttgart",https://www.pbw.de/parken/detail/233
+PB08,Parkgarage Tivoli,PBW,48.7797607,9.1655742,348,3.0,18.0,,"Seidenstraße 23, 70174 Stuttgart",https://www.pbw.de/parken/detail/247
+PB09,Parkplatz Jägerstraße 56,PBW,48.7848752,9.1741228,26,,,,"Jägerstraße 56, 70174 Stuttgart",https://www.pbw.de/parken/detail/392
+PB10,Parkplatz Rotebühlhof,PBW,48.7746517,9.1705380,90,3.6,20.0,True,"Rotebühlplatz 30, 70178 Stuttgart",https://www.pbw.de/parken/detail/284

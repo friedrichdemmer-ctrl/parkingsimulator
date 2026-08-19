@@ -1,0 +1,39 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,HolidayParking P11,Q-Park,53.6225737,10.0062561,1178,3.00,25.00,,"Weg beim Jäger 206, 22335 Hamburg",https://www.q-park.de/de-de/staedte/hamburg/holidayparking-p11/
+QP02,City-Parkhaus,Q-Park,53.5542938,10.0020454,1507,2.00,29.00,True,"Raboisen, 20095 Hamburg",https://www.q-park.de/de-de/staedte/hamburg/city-parkhaus/
+QP03,Am Strandkai,Q-Park,53.5397093,9.9918705,259,2.50,18.00,,"Am Strandkai 8, 20457 Hamburg",https://www.q-park.de/de-de/staedte/hamburg/am-strandkai/
+AP01,Hanseviertel,APCOA,53.5538383,9.9879268,440,4.50,50.00,True,"Hohe Bleichen 22, 20354 Hamburg",https://www.apcoa.de/en/park-once/locations/hamburg/hanseviertel
+AP02,Elbphilharmonie,APCOA,53.5412917,9.9842058,297,5.50,50.00,True,"Platz der Deutschen Einheit 1, 20457 Hamburg",https://www.apcoa.de/en/park-once/locations/hamburg/elbphilharmonie
+AP03,Neue Flora,APCOA,53.5648148,9.9505136,200,3.50,30.00,,"Alsenstraße 2a, 22769 Hamburg",https://www.apcoa.de/en/park-once/locations/hamburg/neue-flora
+AP04,Universitätsklinikum Eppendorf,APCOA,53.5938198,9.9767890,915,3.00,30.00,True,"Martinistraße 52, 20251 Hamburg",https://www.apcoa.de/en/park-once/locations/hamburg/universitaetsklinikum-eppendorf
+AP05,Stadthöfe (Bleichenhof),APCOA,53.5518965,9.9870066,798,,,True,"Große Bleichen 35, 20354 Hamburg",https://www.apcoa.de/en/park-once/locations/hamburg/stadthoefe-bleichenhof
+AP06,Berliner Tor,APCOA,53.5568811,10.0209394,328,3.50,30.00,,"Berliner Tor 3a, 20099 Hamburg",https://www.apcoa.de/en/park-once/locations/hamburg/berliner-tor
+AP07,Harburg Arcaden,APCOA,53.4601049,9.9815366,314,1.50,10.00,True,"Lüneburger Straße 39, 21073 Hamburg",https://www.apcoa.de/en/park-once/locations/hamburg/harburg-arcaden
+AP08,Gänsemarkt (Messe - Ost),APCOA,53.5575351,9.9875170,693,4.50,50.00,True,"Dammtorwall 5/7, 20354 Hamburg",https://www.apcoa.de/en/park-once/locations/hamburg/gaensemarkt-messe-ost
+AP09,Altona Bahnhof,APCOA,53.5525236,9.9343740,496,2.00,10.00,,"Scheel-Plessen-Straße 19, 22765 Hamburg",https://www.apcoa.de/en/park-once/locations/hamburg/altona-bahnhof
+AP10,Blankenese P1,APCOA,53.5642816,9.8134105,51,3.59,35.00,True,"Sülldorfer Kirchenweg 2a, 22587 Hamburg",https://www.apcoa.de/en/park-once/locations/hamburg/blankenese-p1
+AP11,Mundsburg,APCOA,53.5761629,10.0228886,298,1.20,9.00,True,"Humboldtstraße 3-11, 22083 Hamburg",https://www.apcoa.de/en/park-once/locations/hamburg/mundsburg
+AP12,Klosterwall,APCOA,53.5497015,10.0048015,250,3.50,35.99,True,"Johanniswall 2-8, 20095 Hamburg",https://www.apcoa.de/en/park-once/locations/hamburg/klosterwall
+AP13,EKZ Nedderfeld,APCOA,53.6010674,9.9743832,526,1.50,12.00,,"Nedderfeld 70, 22528 Hamburg",https://www.apcoa.de/en/park-once/locations/hamburg/ekz-nedderfeld
+AP14,Cruise Center Steinwerder,APCOA,53.5294471,9.9612949,1521,4.00,40.00,,"Buchheisterstraße 16, 20457 Hamburg",https://www.apcoa.de/en/park-once/locations/hamburg/cruise-center-steinwerder
+AP15,Hotel Marriott,APCOA,53.5547036,9.9873060,129,4.50,40.00,True,"ABC-Straße 52, 20354 Hamburg",https://www.apcoa.de/en/park-once/locations/hamburg/hotel-marriott
+CP01,Parkdeck Hamburger Meile,Contipark,53.5774590,10.0313540,159,1.50,9.00,True,"Desenißstraße 4, 22083 Hamburg",https://www.contipark.de/de/parken/hamburg/parkdeck-hamburger-meile-parking-deck/
+CP02,Parkhaus Hahnenkamp,Contipark,53.5533255,9.9332143,77,1.40,10.00,,"Hahnenkamp 3, 22765 Hamburg",https://www.contipark.de/de/parken/hamburg/parkhaus-hahnenkamp/
+CP03,Parkhaus Hauptbahnhof Centrum P1,Contipark,53.5497116,10.0083200,427,3.00,20.00,,"Hühnerposten 1-2, 20097 Hamburg",https://www.contipark.de/de/parken/hamburg/parkhaus-hauptbahnhof-centrum-p1/
+CP04,Parkhaus Krummholzberg,Contipark,53.4573341,9.9825883,312,1.50,6.50,,"Krummholzberg 10, 21073 Hamburg",https://www.contipark.de/de/parken/hamburg/parkhaus-krummholzberg/
+CP05,Parkhaus Mercado Altona Bahnhof,Contipark,53.5533255,9.9332143,400,1.40,10.00,True,"Hahnenkamp 3, 22765 Hamburg",https://www.contipark.de/de/parken/hamburg/parkhaus-mercado-altona-bahnhof/
+CP06,Parkhaus Speicherstadt,Contipark,53.5436454,9.9948480,814,3.00,28.00,True,"Am Sandtorkai 6, 20457 Hamburg",https://www.contipark.de/de/parken/hamburg/parkhaus-speicherstadt/
+CP07,Parkhaus W1 - Wandsbek,Contipark,53.5719039,10.0611715,316,2.00,7.00,True,"Brauhausstieg, 22041 Hamburg",https://www.contipark.de/de/parken/hamburg/parkhaus-w1-wandsbek/
+CP08,Parkhaus Wandsbek Quarree P2,Contipark,53.5735933,10.0652704,535,2.00,7.00,,"Quarree, 22041 Hamburg",https://www.contipark.de/de/parken/hamburg/parkhaus-wandsbek-quarree-p2/
+CP09,Parkhaus Buxtehuder Straße,Contipark,53.4621322,9.9834837,762,1.80,9.00,,"Küchgarten 21, 21073 Hamburg",https://www.contipark.de/de/parken/hamburg/parkhaus-buxtehuder-strasse/
+CP10,Parkdeck City Rahlstedt,Contipark,53.6043778,10.1560559,65,1.50,14.00,,"Boizenburger Weg, 22143 Hamburg",https://www.contipark.de/de/parken/hamburg/parkdeck-city-rahlstedt/
+SH01,Parkhaus Hauptbahnhof,Sprinkenhof,53.5548907,10.0094280,547,5.00,33.00,True,"Borgesch 1, 20099 Hamburg",https://www.sprinkenhof.de/asset-management/parkhaeuser/parkhaus-hauptbahnhof
+SH02,Parkhaus Kunsthalle,Sprinkenhof,53.5560469,10.0016223,111,4.00,30.00,True,"Ferdinandstor 1, 20095 Hamburg",https://www.sprinkenhof.de/asset-management/parkhaeuser/parkhaus-kunsthalle
+SH03,Parkhaus Große Reichenstraße,Sprinkenhof,53.5479734,9.9959334,965,5.00,30.00,,"Große Reichenstr. 14, 20457 Hamburg",https://www.sprinkenhof.de/asset-management/parkhaeuser/parkhaus-grosse-reichenstrasse
+SH04,Parkhaus Michel-Garage,Sprinkenhof,53.5462173,9.9779968,297,5.00,30.00,,"Schaarmarkt 1, 20459 Hamburg",https://www.sprinkenhof.de/asset-management/parkhaeuser/parkhaus-michel-garage
+SH05,Parkhaus Rödingsmarkt,Sprinkenhof,53.5469511,9.9849696,872,4.00,30.00,,"Rödingsmarkt 14, 20459 Hamburg",https://www.sprinkenhof.de/asset-management/parkhaeuser/parkhaus-roedingsmarkt
+SH06,Parkhaus Rahlstedt,Sprinkenhof,53.6042063,10.1572005,445,3.00,15.00,True,"Mecklenburgerstraße 5, 22143 Hamburg",https://www.sprinkenhof.de/asset-management/parkhaeuser/parkhaus-rahlstedt
+SH07,Tiefgarage Hafentor,Sprinkenhof,53.5442465,9.9772806,252,5.00,30.00,,"Vorsetzen 68, 20459 Hamburg",https://www.sprinkenhof.de/asset-management/parkhaeuser/tiefgarage-hafentor
+SH08,Von-Melle-Park,Sprinkenhof,53.5646970,9.9864183,321,,,,"Schlüterstraße 5/Ecke Von-Melle-Park, 20146 Hamburg",https://www.sprinkenhof.de/asset-management/parkhaeuser/von-melle-park
+SH09,Parkhaus VIVO,Sprinkenhof,53.5582333,9.9286377,354,2.00,10.00,,"Bahrenfelder Straße 260/Ecke Gaußstraße, 22765 Hamburg",https://www.sprinkenhof.de/asset-management/parkhaeuser/vivo
+SH10,Parkplatz Cruise Center,Sprinkenhof,53.5434555,9.9421932,312,1.00,12.00,,"Van-der-Smissen-Straße 1–4, 5, 22767 Hamburg",https://www.sprinkenhof.de/asset-management/parkhaeuser/parkplatz-cruise-center
