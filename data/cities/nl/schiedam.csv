@@ -1,0 +1,6 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,P+R Horvathweg,Q-Park,51.921198,4.410228,64,2.79,9.50,,"Horvathweg 3, 3112 HB Schiedam",https://www.q-park.nl/nl-nl/parkeren/schiedam/p-r-horvathweg/
+IP01,ABC Schiedam,Interparking,51.918656,4.401055,325,1.50,15.00,,"Kreupelstraat 27, 3111 NL Schiedam",https://www.interparking.nl/en/parkings/schiedam/amc/
+PY01,P+R Schiedam Centrum,ParkingYou,51.92420,4.40576,759,3.75,23.00,,"Noorderweg 20, 3119 XX Schiedam",https://parkingyou.nl/nl/locaties/regio-zuid-holland/parkingyou-p-r-schiedam-centrum/id=63
+GS01,Stadserfgarage,Gemeente Schiedam,51.917867,4.403473,,1.20,5.50,,"Stadserf, 3112 DX Schiedam",https://www.schiedam.nl/a-tot-z/bereikbaarheid-stadskantoor
+NP01,Garage Nieuwe Passage,Nieuwe Passage,51.915088,4.401040,280,1.50,15.00,,"Broersveld 22, 3111 LH Schiedam",https://www.passageschiedam.nl/bereikbaarheid/

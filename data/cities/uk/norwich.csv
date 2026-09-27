@@ -1,0 +1,23 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Chantry Place,Q-Park,52.6258361,1.2882688,1000,1.65,24.00,True,"Chantry Place, NR2 1RS Norwich",https://www.q-park.co.uk/en-gb/cities/norwich/chantry-place/
+NCP01,Anglia Square MSCP,NCP,52.6357812,1.2964258,730,,,,"Anglia Square, NR3 1DZ Norwich",https://www.ncp.co.uk/find-a-car-park/car-parks/norwich-anglia-square-mscp/
+NCP02,Anglia Square Surface,NCP,52.6357812,1.2964258,95,,,,"Botolph Street, NR3 1DZ Norwich",https://www.ncp.co.uk/find-a-car-park/car-parks/norwich-anglia-square-surface/
+NCP03,Baltic Wharf,NCP,52.6271294,1.3028142,111,,,,"Baltic Wharf, Mountergate, NR1 1QA Norwich",https://www.ncp.co.uk/find-a-car-park/car-parks/norwich-baltic-wharf/
+NCP04,Duke Street,NCP,52.6322,1.29329,30,1.15,11.45,,"5 Duke Street, NR3 1DB Norwich",https://www.ncp.co.uk/find-a-car-park/car-parks/norwich-duke-street/
+NCP05,St Stephens Street,NCP,52.6239,1.29167,257,2.25,12.95,,"St Stephens, 12 Queens Road, NR1 3PR Norwich",https://www.ncp.co.uk/find-a-car-park/car-parks/norwich-st-stephens-street/
+NCP06,Station Forecourt (Greater Anglia),NCP,52.6263,1.30569,95,,,,"Norwich Station, Station Approach, NR1 1EF Norwich",https://www.ncp.co.uk/find-a-car-park/car-parks/norwich-stn-forecourt-g-anglia/
+AP01,Lower Clarence Road,APCOA,52.625721,1.31045,280,,9.00,,"Lower Clarence Road, NR1 1HD Norwich",https://www.apcoa.co.uk/find-parking/locations/norwich/norwich-lower-clarence-road-norwich
+NCC01,Barn Road,Norwich City Council,52.6330155,1.2881053,147,2.30,7.80,,"St Swithins Road, NR2 4SZ Norwich",https://www.norwich.gov.uk/parking/find-car-parking-norwich/barn-road-car-park
+NCC02,Chantry,Norwich City Council,52.6271834,1.2905203,90,2.60,22.90,,"Theatre Street, NR2 1RG Norwich",https://www.norwich.gov.uk/parking/find-car-parking-norwich/chantry-car-park
+NCC03,Chapel Field East,Norwich City Council,52.6252598,1.2917799,17,2.50,22.40,,"Chapel Field Road, NR2 1RL Norwich",https://www.norwich.gov.uk/parking/find-car-parking-norwich/chapel-field-east-car-park
+NCC04,Colegate,Norwich City Council,52.6342821,1.2962419,94,2.30,10.00,,"Golden Dog Lane, NR3 1HS Norwich",https://www.norwich.gov.uk/parking/find-car-parking-norwich/colegate-car-park
+NCC05,Eaton Park,Norwich City Council,52.6190438,1.2586993,,,8.00,,"South Park Avenue, NR4 7AU Norwich",https://www.norwich.gov.uk/parking/find-car-parking-norwich/eaton-park-car-parks
+NCC06,Monastery Court,Norwich City Council,52.6312648,1.2967245,50,2.50,22.40,,"Elm Hill, NR3 1HN Norwich",https://www.norwich.gov.uk/parking/find-car-parking-norwich/monastery-court-car-park
+NCC07,Pottergate,Norwich City Council,52.6300313,1.2909558,27,2.60,22.90,,"34 Pottergate, NR2 1DX Norwich",https://www.norwich.gov.uk/parking/find-car-parking-norwich/pottergate-car-park
+NCC08,Queens Road,Norwich City Council,52.6224984,1.2963163,66,2.30,9.70,,"Queens Road, NR1 3PG Norwich",https://www.norwich.gov.uk/parking/find-car-parking-norwich/queens-road-car-park
+NCC09,Rose Lane Multi-Storey,Norwich City Council,52.6282245,1.3031203,595,2.20,9.00,,"Mountergate, NR1 1PY Norwich",https://www.norwich.gov.uk/parking/find-car-parking-norwich/rose-lane-multi-storey-car-park
+NCC10,Rouen Road,Norwich City Council,52.6243323,1.2992475,187,2.30,7.60,,"Rouen Road, NR1 1QU Norwich",https://www.norwich.gov.uk/parking/find-car-parking-norwich/rouen-road-car-park
+NCC11,St Andrews Multi-Storey,Norwich City Council,52.6317484,1.2932429,1084,2.30,11.00,,"5 Duke Street, NR3 3AJ Norwich",https://www.norwich.gov.uk/parking/find-car-parking-norwich/st-andrews-multi-storey-car-park
+NCC12,St Crispins,Norwich City Council,52.6369165,1.2901277,80,2.30,7.40,,"Chatham Street, NR3 3DN Norwich",https://www.norwich.gov.uk/parking/find-car-parking-norwich/st-crispins-car-park
+NCC13,St Giles Multi-Storey,Norwich City Council,52.6291958,1.2912478,330,2.30,16.40,,"25 St Giles Street, NR2 1JL Norwich",https://www.norwich.gov.uk/parking/find-car-parking-norwich/st-giles-multi-storey-car-park
+NCC14,Westwick Street,Norwich City Council,52.6330155,1.2881053,107,2.30,7.80,,"Westwick Street, NR2 4SZ Norwich",https://www.norwich.gov.uk/parking/find-car-parking-norwich/westwick-street-car-park

@@ -1,0 +1,2 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Atoll Beach,Q-Park,43.657985,7.186795,440,4.2,38.6,False,"333 Avenue du Ponant, 06700 Saint Laurent du Var",https://www.q-park.fr/fr-fr/villes/saint-laurent-du-var/atoll-beach/

@@ -1,0 +1,9 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,City Center,Q-Park,51.0300201,6.9882892,996,2.0,11.0,,"Friedrich-Ebert-Straße, 51373 Leverkusen",https://www.q-park.de/de-de/staedte/leverkusen/city-center/
+QP02,Forum,Q-Park,51.0350333,6.9891881,380,2.0,11.0,,"Am Büchelter Hof 9, 51373 Leverkusen",https://www.q-park.de/de-de/staedte/leverkusen/forum/
+QP03,Luminaden,Q-Park,51.0334942,6.9846172,600,2.0,11.0,,"Wöhlerstraße 22, 51373 Leverkusen",https://www.q-park.de/de-de/staedte/leverkusen/luminaden/
+AP01,Wöhlerstrasse,APCOA,51.033303,6.98569,150,1.8,20.0,,"Wöhlerstrasse 15, 51373 Leverkusen",https://www.apcoa.de/einmal-parken/standorte/leverkusen/woehlerstrasse
+GBO01,GBO-Parkhaus Kantstraße,Gemeinnütziger Bauverein Opladen eG,51.0680064,7.0013094,339,1.0,20.0,True,"Günther-Weisenborn-Straße 21, 51379 Leverkusen",https://bauverein-opladen.de/menuepunkt-unternehmen/gbo-parkhaus/
+RG01,Parkhaus Rathaus-Galerie,ECE Marketplaces GmbH & Co. KG,51.0326272,6.9884133,500,1.5,15.0,,"Friedrich-Ebert-Platz 2, 51373 Leverkusen",https://www.rathaus-galerie-leverkusen.de/service/anfahrt-parken/parken/
+SA01,Tiefgarage Schlebusch Arcaden,Schlebusch Arcaden (Centermanagement),51.0351658,7.0507383,227,2.5,25.0,,"Am Klösterchen 5-6, 51375 Leverkusen",https://www.leverkusen.com/presse/ticketloses-parken-in-leverkusen-schlebusch-arcaden-und-karree-im-dorf-stellen-tiefgaragen-auf-digitales-system-um-50308.html
+KD01,Tiefgarage Karree im Dorf,Immo-Partner Vertriebs- und Verwaltungs GmbH,51.0350738,7.0490074,,2.5,25.0,,"Münsters Gäßchen 3, 51375 Leverkusen",https://www.leverkusen.com/presse/ticketloses-parken-in-leverkusen-schlebusch-arcaden-und-karree-im-dorf-stellen-tiefgaragen-auf-digitales-system-um-50308.html

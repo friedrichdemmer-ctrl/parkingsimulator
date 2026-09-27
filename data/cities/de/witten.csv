@@ -1,0 +1,8 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,City-Passage,Q-Park,51.4374519,7.3312181,101,1.00,8.00,,"Poststraße 11, 58452 Witten",https://www.q-park.de/de-de/staedte/witten/city-passage/
+SB01,Parkhaus StadtGalerie,Saba Parking,51.4364046,7.3318422,441,1.00,12.00,,"Poststraße 15, 58452 Witten",https://www.sabaparking.com/de/parkplatze-witten/saba-parkhaus-stadtgalerie
+GPS01,Parkhaus an der Uni,GOLDBECK Parking Services,51.4519427,7.3531034,600,1.50,15.00,yes,"Alfred-Herrhausen-Straße 45, 58455 Witten",https://www.witten.de/portal/seiten/oeffentliche-parktarife-900000380-37500.html
+SPK01,Parkhaus Sparkasse,Sparkasse Witten,51.4354332,7.3378438,79,2.00,,yes,"Ruhrstraße 45, 58452 Witten",https://www.parkopedia.de/parken/garage/sparkasse/58452/witten/
+IG01,Parkhaus NOVUM,Immobilien-Gallery GmbH,51.4366141,7.3292736,450,1.00,5.00,,"Bergerstraße 42, 58452 Witten",https://www.parkopedia.de/parken/garage/novum/58452/witten/
+MH01,Tiefgarage Marien-Hospital,St. Elisabeth Gruppe,51.4451883,7.3372477,,1.50,7.50,,"Marienplatz 2, 58452 Witten",https://www.parkopedia.de/parken/tiefgarage/marien_hospital/58452/witten/
+KFW01,Parkplatz Saalbau/Haus Witten,Kulturforum Witten,51.4336050,7.3341854,300,1.20,6.00,yes,"Bergerstraße 25, 58452 Witten",https://www.kulturforum-witten.de/de/saalbauhauswitten/service/anfahrt-parken/

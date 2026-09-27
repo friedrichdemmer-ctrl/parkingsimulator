@@ -1,0 +1,9 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Drievriendenhof,Q-Park,51.81317,4.67059,475,2.61,20.00,True,"Korte Kolfstraat 235, 3311 XK Dordrecht",https://www.q-park.nl/nl-nl/parkeren/dordrecht/drievriendenhof/
+QP02,P+R Markettenweg,Q-Park,51.806253,4.671507,138,2.09,9.50,,"Markettenweg, 3314 JE Dordrecht",https://www.q-park.nl/nl-nl/parkeren/dordrecht/p-r-markettenweg/
+GD01,Spuihaven,Gemeente Dordrecht,51.8115275,4.6603442,520,2.60,25.97,,"Spuiboulevard 304, 3311 GR Dordrecht",https://cms.dordrecht.nl/Inwoners/Overzicht_Inwoners/Parkeren_verkeer_en_vervoer/Parkeergarages/Parkeerkosten_gemeentelijke_parkeergarages
+GD02,Achterom,Gemeente Dordrecht,51.8121252,4.6667267,370,3.38,33.76,,"Achterom 56, 3311 KC Dordrecht",https://cms.dordrecht.nl/Inwoners/Overzicht_Inwoners/Parkeren_verkeer_en_vervoer/Parkeergarages/Parkeerkosten_gemeentelijke_parkeergarages
+GD03,Riedijkshaven,Gemeente Dordrecht,51.8178482,4.6762536,46,2.08,20.74,,"Noorderstraat 37, 3311 RS Dordrecht",https://cms.dordrecht.nl/Inwoners/Overzicht_Inwoners/Parkeren_verkeer_en_vervoer/Parkeergarages/Parkeerkosten_gemeentelijke_parkeergarages
+GD04,Energiehuis,Gemeente Dordrecht,51.8151266,4.6833172,325,2.08,20.74,,"Lijnbaan 198, 3311 RR Dordrecht",https://cms.dordrecht.nl/Inwoners/Overzicht_Inwoners/Parkeren_verkeer_en_vervoer/Parkeergarages/Parkeerkosten_gemeentelijke_parkeergarages
+GD05,Sportboulevard,Gemeente Dordrecht,51.7921886,4.6778275,675,1.80,18.00,,"Amnesty Internationalweg 9, 3318 AZ Dordrecht",https://cms.dordrecht.nl/Inwoners/Overzicht_Inwoners/Parkeren_verkeer_en_vervoer/Betaald_parkeren/Parkeren_Gezondheidspark_en_Sportboulevard
+PY01,Parking De Holland,ParkingYou,51.8092166,4.6619931,,,,,"Kilwijkstraat, 3311 WL Dordrecht",https://parkingyou.nl/nl/locaties/regio-zuid-holland/parking-de-holland-/id=73

@@ -1,0 +1,7 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Frères Olivier,Q-Park,43.579751,7.119258,327,,42.9,True,"19 Boulevard Gustave Chancel, 06600 Antibes",https://www.q-park.fr/fr-fr/villes/antibes/fr%c3%a8res-olivier/
+QP02,Jean-Marie Poirier,Q-Park,43.581401,7.119684,282,4.0,38.0,True,"8 Avenue Tourre, 06600 Antibes",https://www.q-park.fr/fr-fr/villes/antibes/jean-marie-poirier/
+QP03,La Poste,Q-Park,43.581324,7.124123,330,,42.9,True,"22 Rue Vauban, 06600 Antibes",https://www.q-park.fr/fr-fr/villes/antibes/la-poste/
+QP04,Médiathèque,Q-Park,43.5790216,7.1187117,192,,,True,"26 Rue des Lits Militaires, 06600 Antibes",https://www.q-park.fr/fr-fr/villes/antibes/m%c3%a9diath%c3%a8que/
+QP05,Palais des Congrès,Q-Park,43.5682823,7.1162365,374,2.9,35.0,False,"60 Chemin des Sables, 06160 Antibes",https://www.q-park.fr/fr-fr/villes/antibes/palais-des-congr%c3%a8s/
+QP06,Pré aux Pêcheurs,Q-Park,43.58379,7.125817,569,,42.9,True,"20 Avenue de Verdun, 06600 Antibes",https://www.q-park.fr/fr-fr/villes/antibes/pr%c3%a9-aux-p%c3%aacheurs/

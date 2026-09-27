@@ -1,0 +1,12 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Bavaria Parkgaragen City Center,Q-Park,48.539649,12.1574351,617,2.00,15.00,True,"Podewilsstraße 3, 84028 Landshut",https://www.q-park.de/de-de/staedte/landshut/city-center/
+SWL01,Parkhaus Zentrum,Stadtwerke Landshut,48.5381972,12.1493928,270,2.30,14.00,True,"Badstraße 1, 84028 Landshut",https://www.stadtwerke-landshut.de/mobilitaet/parkhaeuser/
+SWL02,"Parkhaus ""An der Freyung""",Stadtwerke Landshut,48.5381365,12.1612333,184,1.20,8.50,,"Gestütstraße 1, 84028 Landshut",https://www.stadtwerke-landshut.de/mobilitaet/parkhaeuser/
+WIT01,Parkhaus Wittstraße (Oberpaur),Parkhaus Wittstraße Verwaltungs-GmbH,48.5335702,12.1484212,370,1.50,15.00,,"Wittstraße 2, 84028 Landshut",https://parkhaus-landshut.de/zeit-gebuehren/
+WIT02,Parkhaus Wittstraße (Galeria),GALERIA,48.5335702,12.1484212,173,1.50,15.00,,"Wittstraße 2, 84028 Landshut",https://erleben.landshut.de/wp-content/uploads/2025/07/Parken-in-Landshut_Monitor.pdf
+SPK01,Parkhaus Sparkasse,Sparkasse Landshut,48.5405728,12.1575448,100,,10.00,,"Bischof-Sailer-Platz / Bauhofstraße, 84028 Landshut",https://erleben.landshut.de/wp-content/uploads/2025/07/Parken-in-Landshut_Monitor.pdf
+GRI01,Parkplatz Grieserwiese,Stadt Landshut,48.5306920,12.1446904,1300,,1.00,,"Grieserwiese, 84036 Landshut",https://erleben.landshut.de/wp-content/uploads/2025/07/Parken-in-Landshut_Monitor.pdf
+DBB01,Landshut (Bay) Hbf Bahnhofplatz,DB BahnPark,48.5471170,12.1389937,30,,,,"Bahnhofplatz, 84032 Landshut",https://www.bahnhof.de/landshut-bay-hbf/parkplaetze
+DBB02,Landshut (Bay) Hbf Bahnhofstraße 1A,DB BahnPark,48.5464864,12.1344042,32,,,,"Bahnhofstraße 1A, 84032 Landshut",https://www.bahnhof.de/landshut-bay-hbf/parkplaetze
+DBB03,Landshut (Bay) Hbf Oberndorferstraße 11,DB BahnPark,48.5493566,12.1352671,350,,,,"Oberndorferstraße 11, 84032 Landshut",https://www.bahnhof.de/landshut-bay-hbf/parkplaetze
+DBB04,Landshut (Bay) Hbf P+R An der Überführung,DB BahnPark,48.5496387,12.1386368,194,,,,"An der Überführung 1, 84032 Landshut",https://www.bahnhof.de/landshut-bay-hbf/parkplaetze

@@ -1,0 +1,10 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Blechen Carré,Q-Park,51.75765,14.33112,461,1.70,15.00,,"Karl-Liebknecht-Straße 136, 03046 Cottbus",https://www.q-park.de/de-de/staedte/cottbus/blechen-carr%c3%a9/
+SWC01,City-Parkhaus,Stadtwerke Cottbus,51.7577982,14.3289584,329,1.00,,,"August-Bebel-Straße 3, 03046 Cottbus",https://www.stadtwerke-cottbus.de/de/privatkunden/themen/service-center/kundenzentrum/artikel-city-parkhaus.html
+GWC01,Parkhaus am Neustädter Platz,Gebäudewirtschaft Cottbus (GWC),51.7592317,14.3365696,380,1.00,6.00,True,"Neustädter Platz, 03046 Cottbus",https://www.gwc-cottbus.de/parkhaus/
+SG01,Parkhaus Spreegalerie,Spree Galerie,51.7618482,14.3291846,630,1.50,15.00,,"Karl-Marx-Straße 68, 03044 Cottbus",https://spreegalerie.de/de/service/anfahrt-parken.html
+STK01,Parkhaus StadtforumK,Stadt Cottbus,51.7577974,14.3301679,127,1.00,,,"August-Bebel-Straße 2, 03046 Cottbus",https://cottbus.de/verwaltung/gb-2/dz2-1/fb-23-immobilien/erbbaurecht-vermietung-verpachtung/stadtforum-k/
+QSK01,Tiefgarage Schlosskirchplatz,Quartier am Schloßkirchplatz,51.7593320,14.3353963,105,,14.00,True,"Neustädter Straße 12, 03046 Cottbus",https://www.sorat-hotels.com/de/hotel/cottbus/anreise/auto.html
+DBP01,Cottbus Hbf Am Hauptbahnhof,DB BahnPark,51.7484245,14.3257282,220,1.50,15.00,,"Calauer Straße 71, 03048 Cottbus",https://www.bahnhof.de/en/cottbus-hbf/parking-spaces
+DBP02,Cottbus Hbf Fürst-Pückler-Passage,DB BahnPark,51.7490463,14.3271050,30,,,,"Vetschauer Straße, 03048 Cottbus",https://www.bahnhof.de/en/cottbus-hbf/parking-spaces
+DBP03,Cottbus Hbf Radisson Blu Hotel,DB BahnPark,51.7491191,14.3255671,48,1.00,15.00,,"Vetschauer Straße 12, 03048 Cottbus",https://www.bahnhof.de/en/cottbus-hbf/parking-spaces

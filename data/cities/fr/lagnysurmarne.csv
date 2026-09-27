@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+lagnysurmarne-qpark-1,Parking Cinéma,Q-Park,48.8794338,2.7069105,381,0.00,5.10,False,"5 rue Delambre, 77400 Lagny sur Marne",https://www.q-park.fr/fr-fr/villes/lagny-sur-marne/cin%c3%a9ma/
+lagnysurmarne-qpark-2,Parking Foch,Q-Park,48.8770606,2.7016242,68,0.00,5.10,False,"23 Rue Vacheresse, 77400 Lagny sur Marne",https://www.q-park.fr/fr-fr/villes/lagny-sur-marne/foch/
+lagnysurmarne-qpark-3,Parking Tanneurs,Q-Park,48.87966,2.70363,156,0.00,5.10,True,"Rue René Lallemant, 77400 Lagny sur Marne",https://www.q-park.fr/fr-fr/villes/lagny-sur-marne/tanneurs/

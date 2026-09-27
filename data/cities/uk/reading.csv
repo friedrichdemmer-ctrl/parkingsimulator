@@ -1,0 +1,22 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Chatham Place,Q-Park,51.456112,-0.980701,586,2.50,24.50,True,"Chatham Street, Reading, RG1 7JF",https://www.q-park.co.uk/en-gb/cities/reading/chatham-place/
+NCP01,Station Hill,NCP,51.457672,-0.973019,90,,,False,"Station Hill, Garrard Street, Reading, RG1 1NR",http://web.archive.org/web/20250215072703/https://www.ncp.co.uk/find-a-car-park/car-parks/reading-station-hill/
+NCP02,South Street,NCP,51.452236,-0.965369,24,,,False,"South Street, Reading, RG1 4QS",http://web.archive.org/web/20241007012840/https://www.ncp.co.uk/find-a-car-park/car-parks/reading-south-street/
+NCP03,Vastern Road,NCP,51.4615479,-0.9737998,110,,,False,"Vastern Road, Reading, RG1 8DJ",http://web.archive.org/web/20250319064400/https://www.ncp.co.uk/find-a-car-park/car-parks/reading-vastern-road/
+NCP04,Kenavon Drive,NCP,51.4566,-0.959543,50,,,False,"Kenavon Drive, Reading, RG1 3DH",https://www.ncp.co.uk/find-a-car-park/car-parks/reading-kenavon-drive/
+RBC01,Broad Street Mall,Reading Borough Council,51.454811,-0.975875,750,4.30,16.80,False,"Broad Street Mall, Broad Street Centre, Reading, RG1 7QE",https://www.reading.gov.uk/vehicles-roads-and-transport/parking/car-parks/broad-street-mall-car-park/
+RBC02,Queens Road,Reading Borough Council,51.453483,-0.964953,700,4.60,17.50,False,"Queens Road, Reading, RG1 4PX",https://www.reading.gov.uk/vehicles-roads-and-transport/parking/car-parks/queens-road-car-park/
+RBC03,Civic B,Reading Borough Council,51.4539791,-0.9742898,170,4.30,16.80,False,"12 Castle Street, Reading, RG1 2LQ",https://www.reading.gov.uk/vehicles-roads-and-transport/parking/car-parks/reading-civic-b-car-park/
+RBC04,Cattle Market,Reading Borough Council,51.458108,-0.979673,120,,11.60,False,"Great Knollys Street, Reading, RG1 7HN",https://www.reading.gov.uk/vehicles-roads-and-transport/parking/car-parks/cattle-market-car-park/
+RBC05,Hills Meadow,Reading Borough Council,51.464833,-0.966251,298,,11.60,False,"George Street, Caversham, Reading, RG4 8DH",https://www.reading.gov.uk/vehicles-roads-and-transport/parking/car-parks/hills-meadow-car-park/
+RBC06,Kings Meadow,Reading Borough Council,51.460058,-0.956038,95,,11.60,False,"Napier Road, Caversham, Reading, RG1 8DF",https://www.reading.gov.uk/vehicles-roads-and-transport/parking/car-parks/kings-meadow-car-park/
+RBC07,Thameside Promenade,Reading Borough Council,51.46367,-0.985466,62,1.10,3.70,True,"Thames Side Promenade, Reading, RG1 8EQ",https://www.reading.gov.uk/vehicles-roads-and-transport/parking/car-parks/thames-side-promenade-car-park/
+RBC08,Kensington Road,Reading Borough Council,51.456066,-0.998372,62,0.00,,False,"Kensington Road, Reading, RG30 2SZ",https://www.reading.gov.uk/vehicles-roads-and-transport/parking/car-parks/kensington-road-car-park/
+RBC09,Chester Street,Reading Borough Council,51.46866,-0.972989,60,1.10,10.50,True,"Chester Street, Caversham, Reading, RG4 8JH",https://www.reading.gov.uk/vehicles-roads-and-transport/parking/car-parks/chester-street-car-park/
+RBC10,Recreation Road,Reading Borough Council,51.459088,-1.034967,80,1.10,10.50,False,"Recreation Road, Tilehurst, Reading, RG30 4UB",https://www.reading.gov.uk/vehicles-roads-and-transport/parking/car-parks/recreation-road-car-park/
+RBC11,Dunstall Close,Reading Borough Council,51.459624,-1.03998,47,1.10,10.50,False,"Dunstall Close, Tilehurst, Reading, RG31 5AY",https://www.reading.gov.uk/vehicles-roads-and-transport/parking/car-parks/dunstall-close-car-park/
+RBC12,Green Park Station,Reading Borough Council,51.425673,-1.000374,57,1.10,10.50,False,"Flagstaff Road, Reading, RG2 6DN",https://www.reading.gov.uk/vehicles-roads-and-transport/parking/car-parks/green-park-station-car-park/
+AP01,Reading Station,APCOA,51.459853,-0.970451,1591,4.00,26.00,True,"Vastern Road, Reading, RG1 8BT",https://www.apcoa.co.uk/parking-in/reading/reading-station/
+AP02,Royal Berkshire Hospital,APCOA,51.451023,-0.95931,480,2.40,19.00,False,"London Road, Reading, RG1 5AN",https://www.apcoa.co.uk/parking-in/reading/royal-berkshire-hospital-reading/
+ORC01,Riverside,The Oracle,51.452871,-0.970997,1611,2.00,15.00,False,"20 Mill Lane, Reading, RG1 2AG",https://www.theoracle.com/parking/riverside
+ORC02,Holy Brook,The Oracle,51.453825,-0.97322,595,,,True,"Bridge Street, Reading, RG1 2LR",https://www.theoracle.com/parking/holy-brook

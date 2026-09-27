@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+albi-qpark-1,Parking Jean Jaurès Centre-Ville,Q-Park,43.9246796,2.1481061,558,1.50,16.60,True,"4 Avenue Gambetta, 81000 Albi",https://www.q-park.fr/fr-fr/villes/albi/jean-jaur%c3%a8s/
+albi-qpark-2,Parking Marché Couvert,Q-Park,43.929256,2.145111,250,1.50,16.60,True,"54 Rue Émile Grand, 81000 Albi",https://www.q-park.fr/fr-fr/villes/albi/march%c3%a9-couvert/
+albi-qpark-3,Parking Vigan,Q-Park,43.92657,2.14837,380,1.50,16.60,True,"9 Lices Jean Moulin, 81000 Albi",https://www.q-park.fr/fr-fr/villes/albi/vigan/

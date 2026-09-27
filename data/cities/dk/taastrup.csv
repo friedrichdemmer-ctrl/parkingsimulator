@@ -1,0 +1,10 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Q-Park Oldenburg Allé 1-7,Q-Park,55.6429316,12.2728175,300,14,,,"Oldenburg Allé 1-7, 2630 Taastrup",https://www.q-park.dk/da/parkering/taastrup/oldenburg-all%c3%a9-1-7/
+QP02,Q-Park Spotorno Alle 2-12,Q-Park,55.645543,12.270849,180,30,,True,"Spotorno Alle 2-12, 2630 Taastrup",https://www.q-park.dk/da/parkering/taastrup/spotorno-alle-2-12/
+QP03,Q-Park Spotorno Alle,Q-Park,55.6431892,12.2717619,40,14,,,"Spotorno Alle, 2630 Taastrup",https://www.q-park.dk/da/parkering/taastrup/spotorno-alle/
+QP04,Q-Park Telegade 1 - Carl Gustavs Gade 3,Q-Park,55.6480631,12.2738902,32,30,,,"Telegade - Carl Gustavs Gade 1 - 3, 2630 Taastrup",https://www.q-park.dk/da/parkering/taastrup/telegade-1---carl-gustavs-gade-3/
+APC01,APCOA Taastrup Torv,APCOA,55.651431,12.299923,330,14,100,,"Taastrup Torv 30, 2630 Taastrup",https://www.apcoa.dk/find-en-p-plads/lokationer/taastrup/taastrup-torv
+APC02,APCOA G/F Høje Taastrup Station Nord,APCOA,55.651026,12.267378,300,10,240,,"Skagensgade 2, 2630 Taastrup",https://www.apcoa.dk/find-en-p-plads/lokationer/taastrup/g/f-hoeje-taastrup-station-nord
+APC03,APCOA Bornholms Allé 2,APCOA,55.64623611,12.26741531,194,16,154,,"Bornholms Allé 2, 2630 Taastrup",https://www.apcoa.dk/find-en-p-plads/lokationer/taastrup/bornholms-alle-2
+APC04,APCOA Lemviggade 31,APCOA,55.64801004,12.27895622,900,14,,,"Lemviggade 31, 2630 Taastrup",https://www.apcoa.dk/find-en-p-plads/lokationer/taastrup/lemviggade-31
+APC05,APCOA Bornholms Alle 14,APCOA,55.64577175,12.2692575,50,30,720,,"Bornholms Allé 14, 2630 Taastrup",https://www.apcoa.dk/find-en-p-plads/lokationer/taastrup/bornholms-alle-14

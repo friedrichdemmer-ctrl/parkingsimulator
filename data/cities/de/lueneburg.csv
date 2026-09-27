@@ -1,0 +1,8 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,City-Parkhaus,Q-Park,53.2480556,10.404198,265,2.50,15.00,True,"Neue Sülze 9, 21335 Lüneburg",https://www.q-park.de/de-de/staedte/l%C3%BCneburg/city-parkhaus/
+LP01,Parkhaus am Bahnhof,Lüneparken,53.2476963,10.4208766,672,1.70,11.00,True,"Am Altenbrücker Ziegelhof 18, 21337 Lüneburg",https://lueneparken.de/parkhaeuser/am-bahnhof/
+LP02,Parkhaus am Klinikum,Lüneparken,53.2403388,10.3970387,568,1.50,10.00,True,"Bögelstraße 1, 21339 Lüneburg",https://lueneparken.de/am-klinikum/
+LP03,Parkhaus am Rathaus,Lüneparken,53.2527487,10.4027516,508,1.70,11.00,True,"Bastionstraße 3, 21335 Lüneburg",https://lueneparken.de/parkhaeuser/am-rathaus/
+LP04,Parkhaus im Lünepark,Lüneparken,53.254944,10.416309,625,1.70,11.00,True,"Johannes-Gutenberg-Straße 3, 21337 Lüneburg",https://lueneparken.de/parkhaeuser/im-luenepark/
+IND01,Parkhaus Stadtmitte,Parkhaus Stadtmitte (Jaskolla GbR),53.2469701,10.4145704,364,2.00,15.00,False,"Bei der Ratsmühle 17, 21335 Lüneburg",https://parkhaus-stadtmitte-lueneburg.de/
+IND02,Parkhaus Münzstraße,Goldbeck Parking Services,53.24953883635164,10.41083738207817,214,2.10,25.00,True,"Am Berge 12, 21335 Lüneburg",https://www.lueneburg.info/sehenswuerdigkeiten/parkhaus-muenzstrasse

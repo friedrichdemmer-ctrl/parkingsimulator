@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Q-Park Nytorv 2,Q-Park,56.955335,8.69259,12,10,,,"Nytorv 2, 7700 Thisted",https://www.q-park.dk/da/parkering/thisted/nytorv-2/
+AP01,J.P. Jacobsen Center,APCOA,56.954058,8.692125,220,,,,"Store Torv 2D, 7700 Thisted",https://www.apcoa.dk/find-en-p-plads/lokationer/thisted/jp-jacobsen-center
+AP02,P-Kælder v/ Rema 1000,APCOA,56.955249,8.687754,13,,,,"Rosenkrantzgade, 7700 Thisted",https://www.apcoa.dk/find-en-p-plads/lokationer/thisted/p-kaelder-v/-rema-1000

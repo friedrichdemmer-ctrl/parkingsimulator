@@ -1,0 +1,23 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Parkhaus Lili,Q-Park,50.0712635,8.2416826,1101,2.00,12.00,True,"Klingholz Straße 7, 65189 Wiesbaden",https://www.q-park.de/de-de/staedte/wiesbaden/lili/
+CP01,Tiefgarage Kurhaus,Contipark,50.085565,8.246285,,4.00,33.00,,"Wilhelmstraße, 65189 Wiesbaden",https://www.contipark.de/de/parken/wiesbaden/tiefgarage-kurhaus/
+CP02,Tiefgarage RheinMain CongressCenter RMCC,Contipark,50.075401,8.245006,,2.50,12.00,,"Friedrich-Ebert-Allee 1, 65189 Wiesbaden",https://www.contipark.de/de/parken/wiesbaden/tiefgarage-rheinmain-congresscenter-rmcc/
+DB01,Parkplatz Bahnhof Mainz-Kastel P1,DB BahnPark,50.007078,8.282937,,2.00,5.50,,"Eisenbahnstraße, 55252 Wiesbaden",https://www.contipark.de/de/parken/wiesbaden/parkplatz-bahnhof-mainz-kastel-p1/
+DB02,Parkplatz Bahnhof Mainz-Kastel P2,DB BahnPark,50.005802,8.283953,,,,,"Rheinufer 6, 55252 Wiesbaden",https://www.contipark.de/de/parken/wiesbaden/parkplatz-bahnhof-mainz-kastel-p2/
+DB03,Parkplatz Bahnhof Mainz-Kastel P3,DB BahnPark,50.006352,8.282604,,2.00,6.00,,"Rheinufer 4-6, 55252 Wiesbaden",https://www.contipark.de/de/parken/wiesbaden/parkplatz-bahnhof-mainz-kastel-p3/
+DB04,Parkplatz Bahnhof Vorderseite P4 Mainz-Kastel (Dauerparker),DB BahnPark,50.006446,8.283681,,,,,"Müfflingstrasse, 55252 Wiesbaden",https://www.contipark.de/de/parken/wiesbaden/parkplatz-bahnhof-vorderseite-p4-mainz-kastel-dauerparker/
+DB05,Parkplatz Hauptbahnhof Ostseite P3,DB BahnPark,50.069028,8.245424,,1.50,6.00,,"Salzbachstraße, 65189 Wiesbaden",https://www.contipark.de/de/parken/wiesbaden/parkplatz-hauptbahnhof-ostseite-p3/
+DB06,Parkplatz Hauptbahnhof Vorplatz P1,DB BahnPark,50.070549,8.245044,,3.00,7.00,,"Salzbachstraße, 65189 Wiesbaden",https://www.contipark.de/de/parken/wiesbaden/parkplatz-hauptbahnhof-vorplatz-p1/
+BB01,Parkhaus Justiz-Verwaltungs-Zentrum,B+B Parkhaus,50.062286,8.254966,511,3.50,15.00,True,"Weidenbornstraße 5, 65189 Wiesbaden",https://www.bb-parkhaus.de/staedte/wiesbaden/parkhaus-justiz-verwaltungs-zentrum
+LP01,Parkhaus City,Lilienparken (WiBau),50.0821339,8.2356406,415,2.00,20.00,,"Schwalbacher Str. 38-42, 65183 Wiesbaden",https://lilienparken.de/unsere-parkflaechen/
+LP02,Parkhaus Mauritiusgalerie,Lilienparken (WiBau),50.0857216,8.2357626,432,2.00,20.00,,"Schwalbacher Str. 55, 65183 Wiesbaden",https://lilienparken.de/unsere-parkflaechen/
+LP03,Parkhaus Luisenplatz,Lilienparken (WiBau),50.0784797,8.2397465,292,2.00,20.00,,"Luisenplatz 20, 65185 Wiesbaden",https://lilienparken.de/unsere-parkflaechen/
+LP04,Parkhaus Theater,Lilienparken (WiBau),50.0832954,8.2480115,302,2.00,20.00,,"Paulinenstraße 19, 65189 Wiesbaden",https://lilienparken.de/unsere-parkflaechen/
+LP05,Parkhaus Elsässer Platz,Lilienparken (WiBau),50.0771486,8.2283546,429,1.00,8.00,True,"Klarenthaler Str. 28a, 65187 Wiesbaden",https://lilienparken.de/unsere-parkflaechen/
+LP06,Parkplatz Warmer Damm,Lilienparken (WiBau),50.0839778,8.2445328,,6.00,30.00,,"Wilhelmstraße 45, 65183 Wiesbaden",https://lilienparken.de/unsere-parkflaechen/
+LP07,Parkplatz Elsässer Platz,Lilienparken (WiBau),50.0798171,8.2242835,,1.50,5.00,,"Elsässer Platz, 65195 Wiesbaden",https://lilienparken.de/unsere-parkflaechen/
+LP08,Parkplatz Paulinenhang,Lilienparken (WiBau),50.0872554,8.245231,130,1.50,5.00,,"Prinzessin-Elisabeth-Str. 2, 65193 Wiesbaden",https://lilienparken.de/unsere-parkflaechen/
+LP09,Parkplatz Weidenborn,Lilienparken (WiBau),50.0627115,8.256308,,2.00,10.00,,"Weidenbornstraße 6, 65189 Wiesbaden",https://lilienparken.de/unsere-parkflaechen/
+GWW01,Parkhaus Sauerland,GWW Wiesbaden,50.0642186,8.2083459,,1.00,6.00,,"Borkumer Straße 4, 65199 Wiesbaden",https://lilienparken.de/unsere-parkflaechen/
+GWW02,Parkhaus Saalgasse 18/22,GWW Wiesbaden,50.0861757,8.2408398,,2.50,16.00,,"Saalgasse 18/22, 65183 Wiesbaden",https://lilienparken.de/unsere-parkflaechen/
+GWW03,Parkhaus Weberhof,GWW Wiesbaden,50.0858177,8.2408487,,2.50,16.00,,"Saalgasse 1, 65183 Wiesbaden",https://lilienparken.de/unsere-parkflaechen/

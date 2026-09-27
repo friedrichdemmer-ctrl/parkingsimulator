@@ -1,0 +1,27 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Bloomfields,Q-Park,53.292272,-6.136026,311,2.80,18.50,True,"Dun Laoghaire, Dublin, A96 C3W7",https://www.q-park.ie/en-gb/cities/dublin/bloomfields/
+QP02,Christchurch,Q-Park,53.342846,-6.269910,213,5.60,53.00,True,"2 Werburgh Street, Dublin, D08 X981",https://www.q-park.ie/en-gb/cities/dublin/christchurch/
+QP03,Dawson Street,Q-Park,53.340508,-6.256434,370,5.00,,,"School House Lane, Dublin, D02 WF63",https://www.q-park.ie/en-gb/cities/dublin/dawson-street/
+QP04,Fleet Street,Q-Park,53.345387,-6.260577,393,4.50,40.00,,"52-57 Fleet Street, Dublin, D02 A375",https://www.q-park.ie/en-gb/cities/dublin/fleet-street/
+QP05,Four Courts,Q-Park,53.345147,-6.277764,385,4.30,33.00,True,"Usher Quay, Dublin, D08 VP9C",https://www.q-park.ie/en-gb/cities/dublin/four-courts/
+QP06,Grand Canal Square,Q-Park,53.343044,-6.239891,163,7.20,59.00,,"Chimney View, Dublin",https://www.q-park.ie/en-gb/cities/dublin/grand-canal-square/
+QP07,IFSC,Q-Park,53.348724,-6.245992,370,5.00,48.00,True,"Commons Street, Dublin, D01 DA34",https://www.q-park.ie/en-gb/cities/dublin/ifsc/
+QP08,ILAC,Q-Park,53.350633,-6.265446,1000,4.00,41.00,,"Parnell Street, Dublin, D01 KH76",https://www.q-park.ie/en-gb/cities/dublin/ilac/
+QP09,Irish Life,Q-Park,53.349836,-6.254210,290,4.00,40.00,True,"Gardiner Street Lower, Dublin, D01 Y7V2",https://www.q-park.ie/en-gb/cities/dublin/irish-life/
+QP10,Parnell,Q-Park,53.350740,-6.268346,500,4.30,39.00,True,"Loftus Lane, Dublin, D01 W7P4",https://www.q-park.ie/en-gb/cities/dublin/parnell/
+QP11,Pavilion Shopping Centre,Q-Park,53.293707,-6.132755,322,3.00,,,"Queen's Road, Dun Laoghaire, Dublin, A96 K657",https://www.q-park.ie/en-gb/cities/dublin/pavilion-shopping-centre/
+QP12,Setanta,Q-Park,53.341773,-6.256177,166,5.20,53.00,True,"1 Setanta Place, Dublin, D02 V968",https://www.q-park.ie/en-gb/cities/dublin/setanta/
+QP13,Smithfield,Q-Park,53.349044,-6.279623,350,4.30,38.00,True,"Queen Street, Dublin, D07 NX33",https://www.q-park.ie/en-gb/cities/dublin/smithfield/
+QP14,St Stephens Green,Q-Park,53.339286,-6.262503,1061,4.80,48.00,True,"Glover's Alley, Dublin, D02 HC81",https://www.q-park.ie/en-gb/cities/dublin/st-stephens-green/
+QP15,Swords Central,Q-Park,53.455550,-6.221055,320,2.20,12.50,,"Dublin Road, Swords, Dublin, K67 D892",https://www.q-park.ie/en-gb/cities/dublin/swords-central/
+QP16,The Spire,Q-Park,53.352468,-6.258591,577,4.40,46.00,True,"Cathal Brugha Street, Dublin, D01 W207",https://www.q-park.ie/en-gb/cities/dublin/the-spire/
+AP01,Trinity Street,APCOA,53.343596,-6.262463,,5.00,35.00,,"14-15 Trinity Street, Dublin 2, D02 C588",https://www.apcoa.ie/parking/dublin/trinity-street-car-park/
+AP02,Jervis Street,APCOA,53.347150,-6.266372,246,3.70,28.00,True,"61-66 Jervis Street, Dublin 1, D01 X8C6",https://www.apcoa.ie/location-overview/location/dublin/jervis-street-dublin
+AP03,Drury Street (APCOA),APCOA,53.341504,-6.263991,465,4.50,,,"59-62 Drury Street, Dublin 2, D02 V261",https://www.apcoa.ie/location-overview/location/dublin/apcoa-drury-street-dublin
+EC01,CCD Parking,Euro Car Parks,53.348865,-6.235928,320,4.20,30.00,,"1 Mayor Street Upper, North Wall, Dublin 1",https://www.eurocarparks.ie/ccdparking
+EC02,Moore Lane,Euro Car Parks,53.351111,-6.262206,321,4.20,30.00,True,"Moore Lane, Dublin 1",https://www.eurocarparks.ie/
+EC03,Mater Parking,Euro Car Parks,53.359034,-6.269061,440,3.20,15.00,,"Eccles Street, Dublin 7",https://www.eurocarparks.ie/materparking
+EC04,Dun Laoghaire Shopping Centre,Euro Car Parks,53.292261,-6.134426,350,2.80,14.00,,"Marine Road, Dun Laoghaire, Dublin, A96 N5YD",https://dlsc.ie/parking/
+CR01,Drury Street Underground,Croftville Property Co,53.342832,-6.263253,120,,,,"36-37 Drury Street, Dublin 2, D02 YK20",https://www.drurystreetcarpark.ie/
+DT01,Red Car Park,Dundrum Town Centre,53.287034,-6.242188,2371,,9.70,True,"Sandyford Road, Dundrum, Dublin 16, D16 X4K7",https://www.dundrum.ie/getting-here
+DT02,Green Car Park,Dundrum Town Centre,53.287034,-6.242188,454,,9.70,True,"Sandyford Road, Dundrum, Dublin 16, D16 X4K7",https://www.dundrum.ie/getting-here

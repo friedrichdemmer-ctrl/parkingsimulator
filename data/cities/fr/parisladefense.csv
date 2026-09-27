@@ -1,0 +1,13 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,La Défense Boieldieu,Q-Park,48.8892292,2.2411823,1660,5.00,36.50,True,"11 Avenue Jean Moulin, 92800 Puteaux",https://www.q-park.fr/fr-fr/villes/paris-la-défense/la-défense-boieldieu/
+QP02,La Défense Centre - Grande Arche,Q-Park,48.8908775,2.2420314,876,5.00,36.50,True,"13 Rond point de la Défense, 92400 Courbevoie",https://www.q-park.fr/fr-fr/villes/paris-la-défense/la-défense-centre-grande-arche/
+QP03,La Défense Corolles,Q-Park,48.8909191,2.246926,398,5.00,36.50,True,"1 Liaison Médiane, 92400 Courbevoie",https://www.q-park.fr/fr-fr/villes/paris-la-défense/la-défense-corolles/
+QP04,La Défense Coupole-Regnault,Q-Park,48.893903,2.241595,2513,5.00,36.50,True,"15 Square Henri Regnault, 92400 Courbevoie",https://www.q-park.fr/fr-fr/villes/paris-la-défense/la-défense-coupole-regnault/
+QP05,La Défense Les Terrasses,Q-Park,48.8962536,2.223569,544,2.20,23.40,True,"17 Rue Celestin Hebert, 92000 Nanterre",https://www.q-park.fr/fr-fr/villes/paris-la-défense/la-défense-les-terrasses/
+QP06,La Défense Michelet,Q-Park,48.8877408,2.2457473,3683,5.00,36.50,True,"8 Rue Michelet, 92800 Puteaux",https://www.q-park.fr/fr-fr/villes/paris-la-défense/la-défense-michelet/
+QP07,La Défense P1/P2 (Westfield Les 4 Temps),Q-Park,48.891309,2.234023,4244,4.70,34.20,True,"7 Rue Jules Ferry, 92800 Puteaux",https://www.q-park.fr/fr-fr/villes/paris-la-défense/la-défense-p1-p2/
+QP08,La Défense Reflets/Iris,Q-Park,48.89073,2.246849,3586,5.00,36.50,True,"1 Liaison médiane, 92400 Courbevoie",https://www.q-park.fr/fr-fr/villes/paris-la-défense/la-défense-reflets-iris/
+QP09,La Défense Saisons,Q-Park,48.89053,2.2527418,1655,5.00,36.50,True,"16 Rue du Général Audran, 92400 Courbevoie",https://www.q-park.fr/fr-fr/villes/paris-la-défense/la-défense-saisons/
+QP10,La Défense Villon,Q-Park,48.88772,2.242619,2262,5.00,36.50,,"47 Rue Paradis, 92800 Puteaux",https://www.q-park.fr/fr-fr/villes/paris-la-défense/la-défense-villon/
+IN01,CNIT La Défense,Indigo Neo,48.893861,2.240546,,4.40,30.00,True,"19 Avenue de la Division Leclerc, 92800 Puteaux",https://www.indigoneo.fr/fr/parkings/27315/parking-cnit-la-defense
+IN02,Valmy La Défense,Indigo Neo,48.892724,2.230708,,4.60,30.60,True,"16 Rue des Longues Raies, 92000 Nanterre",https://www.indigoneo.fr/fr/parkings/33665/parking-valmy-la-defense

@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+GH01,Geerts Willigengarage,Gemeente Heerenveen,52.9610513,5.9235154,328,1.90,7.00,,"Geerts Willigenplein 1, 8441 GV Heerenveen",https://lokaleregelgeving.overheid.nl/CVDR754356/1
+QP01,P+R Stationsplein,Q-Park,52.9628232,5.9139073,144,1.49,8.00,,"Stationsplein, 8411 HT Heerenveen",https://www.q-park.nl/nl-nl/parkeren/heerenveen/p-r-stationsplein/
+GH02,P+R Westzijde Station (Beugel),Gemeente Heerenveen,52.9602868,5.9136818,,0.63,5.00,,"Beugel, 8447 AK Heerenveen",https://www.heerenveen.nl/parkeren/betaald-parkeren/

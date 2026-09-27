@@ -1,0 +1,94 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Industriens Hus,Q-Park,55.675103,12.568553,131,54,400,True,"H. C. Andersens Boulevard 18, 1787 København V",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/industriens-hus/
+QP02,Dagmar Hus,Q-Park,55.6768871,12.5663232,40,54,400,,"H.C. Andersens Boulevard 12, 1553 København K",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/dagmar-hus/
+QP03,Vesterport,Q-Park,55.676601,12.560887,774,47,350,True,"Nyropsgade 43, 1602 København V",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/vesterport/
+QP04,Nørreport,Q-Park,55.682197,12.568903,1187,,370,True,"Linnésgade 1, 1363 København K",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/n%c3%b8rreport/
+QP05,Christiansborggade,Q-Park,55.6721997,12.5772842,5,44,,,"Christiansborggade, 1558 København V",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/christiansborggade/
+QP06,Christiansborggade 2,Q-Park,55.6722053,12.5772966,16,44,,,"Christiansborggade 2, 1558 København V",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/christiansborggade-2/
+QP07,DGI Byen – Terræn,Q-Park,55.6692387,12.5639256,35,44,440,,"Tietgensgade 65, 1704 København V",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/dgi-byen-%e2%80%93-terr%c3%a6n/
+QP08,Illum,Q-Park,55.6797994,12.5796108,142,,390,True,"Silkegade 4, 1113 København K",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/illum/
+QP09,DGI Byen – P-anlæg,Q-Park,55.6679776,12.5634934,192,44,440,True,"Tietgensgade 65, 1704 København V",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/dgi-byen-%e2%80%93-p-anl%c3%a6g/
+QP10,Magasin du Nord,Q-Park,55.6787508,12.5832166,232,57,390,,"Bremerholm 2, 1069 København K",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/magasin-du-nord/
+QP11,Adelgade,Q-Park,55.682945,12.582683,257,55,410,True,"Adelgade 5, 1304 København K",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/adelgade/
+QP12,Scandic Kødbyen,Q-Park,55.666516,12.55739,160,37,270,True,"Skelbækgade 3, 1717 København V",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/q-park-scandic-k%c3%b8dbyen/
+QP13,Nørrebrogade 45,Q-Park,55.6887768,12.5569219,4,26,,,"Nørrebrogade 45, 2200 København N.",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/n%c3%b8rrebrogade-45/
+QP14,Havneholmen 33,Q-Park,55.6615092,12.5645251,22,,,,"Havneholmen 33, 1561 København V",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/havneholmen-33/
+QP15,Admiral Hotel,Q-Park,55.68201,12.593428,58,50,425,,"Toldbodgade 24-28, 1253 København K",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/admiral-hotel/
+QP16,Kuglegården,Q-Park,55.677705,12.600443,10,42,,,"Danneskiold-Samsøes Alle 1, 1433 København K",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/kugleg%c3%a5rden/
+QP17,Bryggens Bastion,Q-Park,55.663278,12.592392,362,23,210,True,"Njalsgade 187-189, 2300 København S",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/bryggens-bastion/
+QP18,Halvtolv,Q-Park,55.678229,12.602926,15,42,,,"Halvtolv 4, 1436 København K",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/halvtolv/
+QP19,Danneskiold-Samsøes Allé 20-28,Q-Park,55.678117,12.603479,150,42,,,"Danneskiold-Samsøes Allé, 1436 København K",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/danneskiold-sams%c3%b8es-all%c3%a9-20-28/
+QP20,Folke Bernadottes Allé 5-7,Q-Park,55.693053,12.58967,40,20,,,"Folke Bernadottes Allé 5-7, 2100 København Ø",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/folke-bernadottes-all%c3%a9-5-7/
+QP21,Schifters Kvarter,Q-Park,55.680929,12.605064,50,,,,"Schifters Kvarter, 1435 København K",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/schifters-kvarter/
+QP22,Amagerfælledvej 62,Q-Park,55.658825,12.5920536,15,20,,,"Amagerfælledvej 62, 2300 København S",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/amagerf%c3%a6lledvej-62/
+QP23,DR Byen,Q-Park,55.65676,12.587517,500,20,,True,"Ørestads Boulevard 13, 2300 København S",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/dr-byen/
+QP24,Frederiks Brygge,Q-Park,55.6555787,12.5482954,600,22,,True,"Frederiks Brygge, 2450 København SV",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/frederiks-brygge/
+QP25,Tagensvej 30-38,Q-Park,55.6995393,12.5539989,20,20,,,"Tagensvej 30-38, 2200 København N.",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/tagensvej-30-38/
+QP26,Krudtløbsvej / Refshalevej,Q-Park,55.685595,12.609262,100,30,,,"Krudtløbsvej / Refshalevej, 1436 København K",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/krudtl%c3%b8bsvej/
+QP27,Rådmandsgade 40C,Q-Park,55.6996405,12.5526874,50,14,,,"Rådmandsgade 40, 2200 København N.",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/r%c3%a5dmandsgade-40c/
+QP28,Holmbladsgade 70 & Lyneborggade 5 & 9,Q-Park,55.665279,12.610434,180,25,,,"Holmbladsgade 70, 2300 København S",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/holmbladsgade-70-lyneborggade-5-9/
+QP29,Siljangade 4-8,Q-Park,55.6688128,12.6136481,63,20,,,"Siljangade 4-8, 2300 København S",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/siljangade-4-8/
+QP30,Kløvermarksvej 70,Q-Park,55.67573,12.616985,110,20,200,,"Kløvermarksvej 70, 2300 København S",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/kl%c3%b8vermarksvej-70/
+QP31,Scandiagade 13-15,Q-Park,55.6530027,12.5417045,50,,150,,"Scandiagade 13-15, 2450 København SV",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/scandiagade-13-15/
+QP32,Hillerødgade 31,Q-Park,55.6965225,12.5349791,40,5,25,,"Hillerødgade 31, 2200 København N.",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/hiller%c3%b8dgade-31/
+QP33,The Plant,Q-Park,55.674299,12.618337,140,20,200,True,"Raffinaderivej 22, 2300 København S",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/the-plant/
+QP34,Raffinaderivej 6-10,Q-Park,55.672178,12.619029,400,20,200,True,"Raffinaderivej 6-10, 2300 København S",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/raffinaderivej-6-10/
+QP35,Holmbladsgade 120,Q-Park,55.666325,12.618329,25,,,,"Holmbladsgade 120, 2300 København S",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/holmbladsgade-120/
+QP36,Nordre Fasanvej 242-244,Q-Park,55.7001989,12.5369554,8,20,,,"Nordre Fasanvej 242-244, 2200 København N.",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/nordre-fasanvej-242-244/
+QP37,Nordre Fasanvej 273-275,Q-Park,55.70035,12.536836,11,20,,,"Nordre Fasanvej 273-275, 2200 København N.",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/nordre-fasanvej-273-275/
+QP38,Strandlodsvej 6-10,Q-Park,55.667499,12.619706,17,22,,,"Strandlodsvej 6-10, 2300 København S",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/strandlodsvej-6-10/
+QP39,Jenagade 22,Q-Park,55.665839,12.620102,158,25,,True,"Jenagade 22, 2300 København S",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/jenagade-22/
+QP40,Charlottehaven,Q-Park,55.705172,12.588277,40,15,,,"Hjørringgade 10-12D, 2100 København Ø.",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/charlottehaven/
+QP41,Strandboulevarden 89-91,Q-Park,55.705925,12.585538,36,16,,,"Strandboulevarden 89-91, 2100 København Ø.",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/strandboulevarden-89-91/
+QP42,Strandlodsvej 30,Q-Park,55.6650645,12.6217297,10,,,,"Strandlodsvej 30, 2300 København S",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/strandlodsvej-30/
+QP43,Rabarbervej 2,Q-Park,55.6965037,12.5239404,30,26,,,"Rabarbervej 2, 2400 København Nv",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/rabarbervej-2/
+QP44,Rønnegade 2-8,Q-Park,55.707922,12.557604,77,11,,,"Rønnegade 2-8, 2100 København Ø",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/r%c3%b8nnegade-2-8/
+QP45,Fordresgårdvej 36-50,Q-Park,55.6918868,12.517283,40,20,60,,"Fordresgårdvej - Grøndalsvænge Alle 36-50 - 68, 2400 København Nv",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/fordresg%c3%a5rdvej-36-50-gr%c3%b8ndalsv%c3%a6nge-alle-68/
+QP46,Lyngbyvej 14-24,Q-Park,55.7093961,12.5642804,411,18,,,"Lyngbyvej 14-24, 2100 København K",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/lyngbyvej-14-24/
+QP47,Røde Mellem Vej 114,Q-Park,55.6433167,12.5913669,10,15,150,,"Røde Mellem Vej 114, 2300 København S",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/r%c3%b8de-mellem-vej-114/
+QP48,Drejøgade 26,Q-Park,55.7115281,12.5715638,100,16,,,"Drejøgade 26, 2100 København Ø.",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/drej%c3%b8gade-26/
+QP49,Landskronagade 70,Q-Park,55.7128912,12.5694369,71,16,,,"Landskronagade 70, 2100 København Ø.",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/landskronagade-70/
+QP50,G/F Lindegaarden,Q-Park,55.6403865,12.5888386,,15,,,"Hyttehusvej, 2300 København S",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/g-f-lindegaarden/
+QP51,Birkedommervej 27-31,Q-Park,55.708303,12.528119,60,16,,,"Birkedommervej 27-31, 2400 København Nv",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/birkedommervej-27-31/
+QP52,Cabinn Arne Jacobsens Allé 2,Q-Park,55.6310738,12.5744192,400,25,175,,"Cabinn, Arne Jacobsens Allé 2, 2300 København S",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/cabinn-arne-jacobsens-all%c3%a9-2/
+QP53,Amager Landevej 40-42,Q-Park,55.6367002,12.6187885,41,20,120,,"Amager Landevej 40-42, 2300 København S",https://www.q-park.dk/da/parkering/k%c3%b8benhavn/amager-landevej-40-42/
+AP01,Jernbanegade 1,APCOA,55.67604105,12.56607058,95,64,,,"Jernbanegade, 1608 København",https://www.apcoa.dk/find-en-p-plads
+AP02,Imperial Bygningen,APCOA,55.67576037,12.56071786,140,52,,,"Nyropsgade 47, 1602 København",https://www.apcoa.dk/find-en-p-plads
+AP03,Saga P-hus,APCOA,55.672958,12.559498,217,54,,,"Vesterbrogade 23, 1620 København",https://www.apcoa.dk/find-en-p-plads
+AP04,Gammel Kongevej 33,APCOA,55.673459,12.553877,,,,,"Gammel Kongevej 33, 1610 København",https://www.apcoa.dk/find-en-p-plads
+AP05,Tullinsgade 19,APCOA,55.673437,12.551657,61,23,,,"Tullinsgade, 1618 København",https://www.apcoa.dk/find-en-p-plads
+AP06,Tivoli Hotel & Congress Center,APCOA,55.665886,12.565971,500,60,,,"Arni Magnussons Gade 2, 1577 København",https://www.apcoa.dk/find-en-p-plads
+AP07,Kalvebod Brygge 47 - p-kælder,APCOA,55.663548,12.563737,6,,,,"Kalvebod Brygge, 1561 København",https://www.apcoa.dk/find-en-p-plads
+AP08,Matthæusgade P-kælder,APCOA,55.669813,12.547506,126,44,,,"Matthæusgade 46A, 1666 København",https://www.apcoa.dk/find-en-p-plads
+AP09,P-kælder Østen for Humlen (Krøyers Hus),APCOA,55.666629,12.538707,54,16,,,"Ny Carlsberg Vej, 1774 København",https://www.apcoa.dk/find-en-p-plads
+AP10,P-kælder Købke Plads/Købke Hus,APCOA,55.666899,12.536467,50,16,,,"Ny Carlsberg Vej, 1775 København",https://www.apcoa.dk/find-en-p-plads
+AP11,Bag Elefanterne II,APCOA,55.66785884,12.53460958,265,16,,,"Bag Elefanterne 52, 1799 København",https://www.apcoa.dk/find-en-p-plads
+AP12,Kildepladsen,APCOA,55.6656778,12.53592475,258,16,,,"Lagergade 58, 1799 København",https://www.apcoa.dk/find-en-p-plads
+AP13,Franciska Clausens P-kælder,APCOA,55.666499,12.534763,240,16,,,"Franciska Clausens Plads 13, 1799 København",https://www.apcoa.dk/find-en-p-plads
+AP14,Kridttårnet,APCOA,55.666002,12.532354,437,16,,,"J.C. Jacobsens Gade 28, 1799 København",https://www.apcoa.dk/find-en-p-plads
+AP15,"Carlsberg, Vores By",APCOA,55.665828,12.531334,100,13.5,,,"Olivia Hansens Gade 14B, 1799 København",https://www.apcoa.dk/find-en-p-plads
+AP16,"Malttorvet – I, Brygmester Hus",APCOA,55.66533197,12.53022053,51,16,,,"Malttorvet 18, 1799 København",https://www.apcoa.dk/find-en-p-plads
+AP17,Forbindelsesvej 3,APCOA,55.695227,12.596434,23,14,,,"Forbindelsesvej 12, 2100 København",https://www.apcoa.dk/find-en-p-plads
+AP18,Indiakaj 14-18,APCOA,55.6946231,12.59779487,26,25,,,"Indiavej, 1259 København",https://www.apcoa.dk/find-en-p-plads
+AP19,Amerika Plads 11-15,APCOA,55.698221,12.593355,71,44,,,"Kalkbrænderihavnsgade, 1328 København",https://www.apcoa.dk/find-en-p-plads
+AP20,Dampfærgevej/Kalkbrænderihavnsgade 6,APCOA,55.701348,12.593116,36,25,,,"Dampfærgevej, 2150 København",https://www.apcoa.dk/find-en-p-plads
+AP21,Langeliniekaj Nord,APCOA,55.702897,12.600998,38,14,,,"Langeliniekaj, 2150 København",https://www.apcoa.dk/find-en-p-plads
+AP22,Østerbrogade 59,APCOA,55.703498,12.576681,20,,,,"Østerbrogade 59, 2100 København",https://www.apcoa.dk/find-en-p-plads
+AP23,Sundkrogsgade 11,APCOA,55.71185121,12.59224115,187,24,,,"Sundkrogsgade 11A, 2100 København",https://www.apcoa.dk/find-en-p-plads
+AP24,Sundkrogsgade 19,APCOA,55.71331874,12.59233211,75,,,,"Sundkrogsgade 19, 2100 København",https://www.apcoa.dk/find-en-p-plads
+AP25,Sundkrogsgade 21,APCOA,55.71381415,12.59254702,48,,,,"Stubbeløbgade 2, 2100 København",https://www.apcoa.dk/find-en-p-plads
+AP26,Strynøgade P-kælder,APCOA,55.712752,12.576677,110,22,,,"Nygårdsvej 4, 2100 København",https://www.apcoa.dk/find-en-p-plads
+AP27,Sibeliusgade 84,APCOA,55.71642375,12.56781027,30,15,,,"Sibeliusgade 45, 2100 København",https://www.apcoa.dk/find-en-p-plads
+AP28,Lersø Parkallé 112,APCOA,55.715943,12.547543,13,15,,,"Gribskovvej 17, 2100 København",https://www.apcoa.dk/find-en-p-plads
+KK01,Leifsgade P-hus,Københavns Kommune,55.6645390,12.5806379,408,,,,"Leifsgade, 1411 København",https://www.kk.dk/borger/parkering-trafik-og-veje/parkering/kommunale-parkeringsanlaeg
+KK02,Under Elmene P-hus,Københavns Kommune,55.6652055,12.5978407,268,,,,"Under Elmene, Amagerbro, 1426 København",https://www.kk.dk/borger/parkering-trafik-og-veje/parkering/kommunale-parkeringsanlaeg
+KK03,Nørre Allé P-hus,Københavns Kommune,55.7054860,12.5629118,164,,,,"Nørre Allé, 2100 København",https://www.kk.dk/borger/parkering-trafik-og-veje/parkering/kommunale-parkeringsanlaeg
+KK04,Det Grønne P-hus,Københavns Kommune,55.6841764,12.5559195,215,,,,"Smedegade, Nørrebro, 1635 København",https://www.kk.dk/borger/parkering-trafik-og-veje/parkering/kommunale-parkeringsanlaeg
+KK05,Rejsbygade P-hus,Københavns Kommune,55.6689266,12.5436273,77,,,,"Rejsbygade, Vesterbro, 1759 København",https://www.kk.dk/borger/parkering-trafik-og-veje/parkering/kommunale-parkeringsanlaeg
+KK06,Sølund P-hus,Københavns Kommune,55.6910468,12.5665965,58,,,,"Læssøesgade, Nørrebro, 1356 København",https://www.kk.dk/borger/parkering-trafik-og-veje/parkering/kommunale-parkeringsanlaeg
+JE01,Sankt Annæ Plads,Jeudan,55.6808170,12.5942370,500,56,465,True,"Sankt Annæ Plads 32, 1250 København K",https://www.jeudan.dk/parkering/sankt-annae-plads
+JE02,Gammel Mønt,Jeudan,55.6806040,12.5817140,90,64,515,True,"Gammel Mønt 1-3, 1117 København K",https://www.jeudan.dk/parkering/gammel-moent
+JE03,Dronningens Tværgade,Jeudan,55.6833750,12.5884420,249,64,515,True,"Dronningens Tværgade 4, 1302 København K",https://www.jeudan.dk/parkering/dronningens-tvaergade
+JE04,Wildersgade (Christianshavn),Jeudan,55.6719139,12.5880990,292,,,,"Wildersgade 2, 1408 København K",https://www.jeudan.dk/parkering/christianshavn
+JE05,Amerika Plads,Jeudan,55.7000760,12.5952090,814,40,345,True,"Dampfærgevej 33, 2100 København Ø",https://www.jeudan.dk/parkering/amerika-plads
+JE06,Strynøgade,Jeudan,55.7120670,12.5753190,108,,,,"Strynøgade 5, 2100 København Ø",https://www.jeudan.dk/parkering/strynoegade

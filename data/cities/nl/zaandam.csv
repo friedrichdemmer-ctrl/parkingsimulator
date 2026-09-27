@@ -1,0 +1,8 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Hermitage,Q-Park,52.437778,4.816678,893,,20.0,True,"Hermitage 144, 1506 TX Zaandam",https://www.q-park.nl/nl-nl/parkeren/zaandam/hermitage/
+QP02,Rozenhof,Q-Park,52.438678,4.82347,487,2.86,19.0,,"Zilverpadsteeg 71, 1506 SB Zaandam",https://www.q-park.nl/nl-nl/parkeren/zaandam/rozenhof/
+QP03,P+R Provincialeweg,Q-Park,52.45016,4.807804,119,,,,"Provincialeweg, 1506 MJ Zaandam",https://www.q-park.nl/nl-nl/parkeren/zaandam/p-r-provincialeweg/
+IP01,Zaans Medisch Centrum,Interparking,52.45417,4.826435,645,4.0,7.5,True,"Koningin Julianaplein 56, 1502 DV Zaandam",https://www.interparking.nl/en/parkings/zaandam/zaansmedischcentrum/
+P101,Parkeerterrein Ebbehof,P1,52.438808,4.811488,214,2.0,20.0,,"Ebbehout 1, 1507 EA Zaandam",https://www.p1.nl/parkeren/zaandam/parkeerterrein-ebbehof
+ZT01,Zaantheater,Zaantheater,52.4384117,4.8249258,,3.0,17.5,,"Nicolaasstraat 3, 1506 BB Zaandam",https://zaantheater.nl/nl/theater/je-bezoek/bereikbaarheid-parkeren/
+CP01,City Parking Westzijde,City Parking,52.4409683,4.8229279,,,,,"Westzijde 30, 1506 EE Zaandam",https://drimble.nl/bedrijf/zaandam/000004843495/city-parking-westzijde-zaandam-vof.html

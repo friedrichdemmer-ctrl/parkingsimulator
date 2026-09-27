@@ -1,0 +1,2 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Les 4 Chemins,Q-Park,46.126342,3.421663,412,2.5,14.7,True,"35 Rue Lucas, 03200 Vichy",https://www.q-park.fr/fr-fr/villes/vichy/4-chemins/

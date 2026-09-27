@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Q-Park MacDonagh Junction,Q-Park,52.6557965,-7.2452183,950,2.00,13.00,True,"Hebron Road, Highhays, Kilkenny, R95 CP8N",https://www.q-park.ie/en-gb/cities/kilkenny/macdonagh-junction/
+OS01,Ormonde Street Car Park,Ormonde Street Car Park,52.6502081,-7.2531206,800,2.40,8.00,,"Ormonde Street, Kilkenny, R95 A0FR",https://ormondestreetcarpark.com/charges/
+MC01,Market Cross Shopping Centre Car Park,Market Cross Shopping Centre,52.6524154,-7.2548811,500,2.00,,,"High Street / James's Street, Kilkenny, R95 V32A",https://marketcross.ie/parking/

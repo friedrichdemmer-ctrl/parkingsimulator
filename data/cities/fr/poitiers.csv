@@ -1,0 +1,2 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Les Cordeliers,Q-Park,46.581559,0.342282,318,3.4,38.7,True,"4 bis Rue Henri Oudin, 86000 Poitiers",https://www.q-park.fr/fr-fr/villes/poitiers/les-cordeliers/

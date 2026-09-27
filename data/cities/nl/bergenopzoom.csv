@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,P+R Parallelweg,Q-Park,51.494916,4.29678,116,1.95,7.50,False,"Parallelweg, 4621 CB Bergen op Zoom",https://www.q-park.nl/nl-nl/parkeren/bergen-op-zoom/p-r-parallelweg/
+PBZ01,De Parade,Parkeerbeheer Bergen op Zoom,51.4935952,4.2918370,400,2.10,13.50,True,"Wassenaarstraat 66, Bergen op Zoom",https://www.parkerenbergenopzoom.nl/parkeergarages/
+PBZ02,Grote Markt,Parkeerbeheer Bergen op Zoom,51.4927928,4.2850709,150,2.10,13.50,True,"Koepelstraat 50, Bergen op Zoom",https://www.parkerenbergenopzoom.nl/parkeergarages/

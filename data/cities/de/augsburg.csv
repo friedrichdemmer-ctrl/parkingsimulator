@@ -1,0 +1,19 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Helio,Q-Park,48.3669312,10.886592,642,2.50,15.00,True,"Viktoriastraße 9, 86150 Augsburg",https://www.q-park.de/de-de/staedte/augsburg/helio/
+QP02,Hochzoller Mitte,Q-Park,48.3538687,10.945053,165,2.50,12.00,False,"Hochzoller Straße 7-9, 86163 Augsburg",https://www.q-park.de/de-de/staedte/augsburg/hochzoller-mitte/
+AP01,Universitätsklinikum Augsburg,APCOA,48.38455,10.8374,2500,1.50,16.00,True,"Stenglinstr. 2, 86156 Augsburg",https://www.apcoa.de/einmal-parken/standorte/augsburg/universitaetsklinikum-augsburg
+AP02,Medizincampus Süd,APCOA,48.306058,10.916658,320,1.50,8.00,False,"Sauerbruchstr. 6, 86179 Augsburg",https://www.apcoa.de/einmal-parken/standorte/augsburg/medizincampus-sued
+CP01,Tiefgarage Viktoria-Passage P1,DB BahnPark,48.365272,10.891605,203,2.50,11.00,False,"Viktoriastraße 2, 86150 Augsburg",https://www.contipark.de/de/parken/augsburg/tiefgarage-viktoria-passage-p1/
+CP02,Parkhaus Halderstraße,Contipark,48.366229,10.887784,540,3.50,16.00,False,"Halderstraße 3-9, 86150 Augsburg",https://www.contipark.de/de/parken/augsburg/parkhaus-halderstrasse/
+CP03,Parkhaus Ludwigstraße,Contipark,48.370648,10.893545,350,3.50,18.00,True,"Ludwigstraße 28, 86152 Augsburg",https://www.contipark.de/de/parken/augsburg/parkhaus-ludwigstrasse/
+CTP01,Parkhaus Schaezlerstraße,City-Parking,48.367118,10.892467,,2.50,15.00,,"Schaezlerstraße 9A, 86150 Augsburg",https://city-parking.de/standorte/augsburg-parkhaus-schaezlerstrasse/
+CTP02,Parkgarage Fuggerstraße,City-Parking,48.3692497,10.8933376,,2.50,16.00,,"Fuggerstraße 20, 86150 Augsburg",https://city-parking.de/standorte/augsburg-parkgarage-fuggerstrasse/
+CTP03,Parkwerk im Gaswerk,City-Parking,48.3874069,10.8643001,,1.50,12.00,,"Am Alten Gaswerk 7, 86156 Augsburg",https://city-parking.de/standorte/augsburg-parkwerk-im-gaswerk/
+BPA01,Bahnhof-Parkhaus Augsburg,BPA Bahnhof-Parkhaus Betriebs-GmbH,48.3646072,10.8883892,,2.20,11.00,,"Halderstraße 29a, 86150 Augsburg",https://bahnhof-parkhaus-augsburg.de/
+ERP01,Ernst-Reuter-Platz Parkgaragen,Ernst-Reuter-Platz Parkgaragen und Immobilien GmbH & Co. KG,48.3687708,10.8947136,,2.50,16.00,,"Ernst-Reuter-Platz 2, 86150 Augsburg",https://www.erp-parken.de/
+AUG01,Augusta-Garage,AUGUSTA-Parkhaus GmbH,48.3707392,10.8948558,,,,,"Im Thäle 3, 86152 Augsburg",https://www.augsburg-city.de/listings/5447-augusta-garage
+ANN01,Parkhaus Annahof,Annahof Immobilienverwaltungs- und Betriebsgesellschaft mbH,48.3678207,10.8948019,110,2.20,14.50,,"Im Annahof 4, 86150 Augsburg",https://www.annahof-evangelisch.de/parken
+SAL01,Salewa Parkhaus,Salewa Parkhaus (Dr. Wackerbauer GmbH & Co KG),48.3656606,10.888492,,2.20,13.00,,"Bahnhofstraße 29, 86150 Augsburg",https://salewa-parkhaus-augsburg.de/
+ABC01,Parkhaus Bohus Center,abc Parkhausverwaltung,48.3650052,10.8880707,,2.00,11.00,,"Halderstraße 29, 86150 Augsburg",https://parkhaus-bohus-center.de/
+KOL01,Kolping-Parkgarage (P14),Kolping,48.3746047,10.8945923,80,2.50,18.00,,"Jesuitengasse 10, 86152 Augsburg",https://www.die-kolping-akademie.de/ueber-uns/standorte/augsburg/parkgarage/
+CG01,Parkhaus City-Galerie,City-Galerie Augsburg,48.3678988,10.9094826,2000,,,,"Jakoberwallstraße 49, 86153 Augsburg",https://www.city-galerie-augsburg.de/services/parkhaus-s22555/

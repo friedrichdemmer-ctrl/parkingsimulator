@@ -1,0 +1,13 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Cornmarket Square,Q-Park,52.6633895,-8.6234147,490,2.90,16.00,True,"Upper Denmark Street, Limerick, V94 KH58",https://www.q-park.ie/en-gb/cities/limerick/cornmarket-square/
+QP02,Cruises Street,Q-Park,52.6642466,-8.6249925,320,2.90,13.00,False,"Denmark Street, Limerick, V94 EC44",https://www.q-park.ie/en-gb/cities/limerick/cruises-street/
+QP03,Harveys Quay,Q-Park,52.663591,-8.629739,634,3.30,29.00,True,"Harveys Quay, Limerick, V94 KHD6",https://www.q-park.ie/en-gb/cities/limerick/harveys-quay/
+QP04,Henry Street,Q-Park,52.660617,-8.633354,256,3.20,27.00,True,"Mount Kenneth Place, Limerick, V94 P9F4",https://www.q-park.ie/en-gb/cities/limerick/henry-street/
+AQ01,Arthur's Quay Multi-Storey Car Park,TCE Management CP Limited,52.6654718,-8.6262608,570,2.50,,,"Arthurs Quay Shopping Centre, Patrick Street, Limerick, V94 HCV4",https://www.arthursquay.ie/car-park/
+ECP01,Cleeves,Euro Car Parks,52.6624331,-8.6353991,,,,,"Cleeves site, Condell Road, Limerick",https://www.easytrip.ie/parking/limerick/cleeves/
+ECP02,Charlotte's Quay,Euro Car Parks,52.6663632,-8.6219429,,,,,"Charlotte's Quay, Limerick",https://www.easytrip.ie/parking/limerick/charlottes-quay/
+IP01,The Courthouse Public Car Park (Summer Street),I Páirc,52.6622235,-8.6200465,300,2.60,12.00,True,"Summer Street, Limerick",https://www.limerick.ie/discover/living/in-your-community/local-services/car-parks/the-courthouse-public-car-park-summer
+AP01,St Nessans Road P&D,APCOA,52.63301,-8.65617,30,2.20,10.50,,"St Nessans Road, Dooradoyle, Limerick",https://www.apcoa.ie/parking/limerick/st-nessans-road-pd/
+HQ01,Howley's Quay Car Park,Howley's Quay Car Park,52.6629025,-8.6304953,320,2.70,25.00,True,"Howley's Quay, Henry Street, Limerick, V94 A9NX",https://howleysquay.com/
+AV01,Barrington's Car Park,Aviary,52.6681040,-8.6212248,,,,,"Sheep Street, Limerick",https://aviary.ie/aviary-carpark
+CC01,City Centre Car Park,City Centre Car Park,52.6619086,-8.6254536,,,,,"15 Anne Street, Limerick",https://www.limerick.ie/discover/living/in-your-community/local-services/car-parks/city-centre-car-park

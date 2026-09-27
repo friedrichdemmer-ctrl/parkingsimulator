@@ -1,0 +1,8 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Bellecôte P1 Couvert,Q-Park,45.51543,6.69487,606,2.00,22.00,False,"Plagne Bellecôte, 73210 La Plagne",https://www.q-park.fr/fr-fr/villes/la-plagne/la-plagne---bellec%c3%b4te-p1-couvert/
+QP02,Bellecôte P2 Aérien,Q-Park,45.51559,6.69528,300,2.40,22.00,False,"Plagne Bellecôte, 73210 La Plagne",https://www.q-park.fr/fr-fr/villes/la-plagne/la-plagne---bellec%c3%b4te-p2-a%c3%a9rien/
+QP03,Caravaneige,Q-Park,45.50516,6.68862,40,,,False,"Route du Boulevard, 73210 La Plagne",https://www.q-park.fr/fr-fr/villes/la-plagne/caravaneige/
+QP04,Le Boulevard,Q-Park,45.50713,6.67834,1281,,,False,"Plagne Centre - Route du Boulevard, 73210 La Plagne",https://www.q-park.fr/fr-fr/villes/la-plagne/le-boulevard/
+QP05,Le Cervin,Q-Park,45.50859,6.68566,90,,,False,"Plagne Soleil, 73210 La Plagne",https://www.q-park.fr/fr-fr/villes/la-plagne/le-cervin/
+QP06,Les Lodges 1970,Q-Park,45.50761,6.67672,52,,,False,"Route de Plagne Centre, 73210 La Plagne",https://www.q-park.fr/fr-fr/villes/la-plagne/les-lodges-1970/
+QP07,Plagne Soleil,Q-Park,45.50871,6.68458,140,2.40,22.00,False,"Plagne Soleil, 73210 La Plagne",https://www.q-park.fr/fr-fr/villes/la-plagne/plagne-soleil/

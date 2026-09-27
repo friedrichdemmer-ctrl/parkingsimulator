@@ -1,0 +1,7 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Q-Park Bløden 43,Q-Park,55.837413,12.064093,,13.0,,,"Bløden 43, 3600 Frederikssund",https://www.q-park.dk/da/parkering/frederikssund/bløden-43/
+APC01,APCOA Ny Østergade 11,APCOA,55.84067151,12.06536755,18,15.0,,,"Ny Østergade 11, 3600 Frederikssund",https://www.apcoa.dk/find-en-p-plads/lokationer/frederikssund/ny-oestergade-11
+APC02,APCOA Ny Østergade 5-7 / Tværstræde 14,APCOA,55.840177,12.063672,25,12.0,55.0,,"Tværstræde 14, 3600 Frederikssund",https://www.apcoa.dk/find-en-p-plads/lokationer/frederikssund/ny-oestergade-5-7-/-tvaerstraede-14
+APC03,APCOA Falkenborggården 1-7,APCOA,55.83868061,12.06528328,120,12.0,60.0,,"Falkenborggården 1-7, 3600 Frederikssund",https://www.apcoa.dk/find-en-p-plads/lokationer/frederikssund/falkenborggaarden-1-7
+APC04,APCOA Nygade 8,APCOA,55.83647042,12.06375456,29,10.0,240.0,,"Nygade 8, 3600 Frederikssund",https://www.apcoa.dk/find-en-p-plads/lokationer/frederikssund/nygade-8
+APC05,APCOA Sillebroen Shopping,APCOA,55.834701,12.064994,800,12.0,,,"Nygade 1, 3600 Frederikssund",https://www.apcoa.dk/find-en-p-plads/lokationer/frederikssund/sillebroen-shopping

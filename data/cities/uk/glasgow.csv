@@ -1,0 +1,21 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Candleriggs,Q-Park,55.85743,-4.244853,365,3.00,25.00,True,"37 Albion Street, Glasgow, G1 1LH",https://www.q-park.co.uk/en-gb/cities/glasgow/candleriggs/
+QP02,Jamaica Street,Q-Park,55.85722,-4.256322,493,2.50,26.50,False,"15 Adams Court Lane, Glasgow, G1 4NL",https://www.q-park.co.uk/en-gb/cities/glasgow/jamaica-street/
+QP03,Sauchiehall Street,Q-Park,55.864415,-4.260174,372,,29.50,True,"Sauchiehall Street, Glasgow, G2 3ER",https://www.q-park.co.uk/en-gb/cities/glasgow/sauchiehall-street/
+QP04,St Enoch,Q-Park,55.8558293,-4.2534735,360,2.50,24.00,True,"Maxwell Street, Glasgow, G1 4EQ",https://www.q-park.co.uk/en-gb/cities/glasgow/st-enoch/
+QP05,Waterloo Street,Q-Park,55.860645,-4.2638405,660,3.00,29.00,True,"99 Waterloo Street, Glasgow, G2 6HS",https://www.q-park.co.uk/en-gb/cities/glasgow/waterloo-street/
+AP01,Buchanan Galleries,APCOA,55.86466329,-4.25037683,2000,2.20,26.00,,"220 Buchanan Street, Glasgow, G1 2FF",https://www.apcoa.co.uk/find-parking/locations/glasgow/buchanan-galleries-glasgow
+NC01,King Street,NCP,55.8556604,-4.2469019,620,2.80,10.00,,"King Street, Glasgow, G1 5QT",https://www.ncp.co.uk/find-a-car-park/car-parks/glasgow-king-street/
+NC02,The Glasshouse,NCP,55.8592894,-4.2487669,504,1.95,,,"Glassford Street, Glasgow, G1 1UP",https://www.ncp.co.uk/find-a-car-park/car-parks/glasgow-the-glasshouse/
+NC03,George Street,NCP,55.8611510,-4.2442385,274,,,,"68 Montrose Street, Glasgow, G1 1RS",https://www.ncp.co.uk/find-a-car-park/car-parks/glasgow-george-street/
+NC04,Central Station (Oswald Street),NCP,55.8581165,-4.2597610,555,,,,"Oswald Street, Glasgow, G1 4PA",https://www.ncp.co.uk/find-a-car-park/car-parks/glasgow-central-station/
+NC05,Mitchell Street,NCP,55.8601801,-4.2556709,197,,,,"81 Mitchell Street, Glasgow, G1 3LN",https://www.ncp.co.uk/find-a-car-park/car-parks/glasgow-mitchell-street/
+NC06,Ingram Street,NCP,55.8595819,-4.2461643,70,,,,"Ingram Street, Glasgow, G1 1DJ",https://www.ncp.co.uk/find-a-car-park/car-parks/glasgow-ingram-street/
+NC07,Laidlaw Street,NCP,55.8524862,-4.2678122,33,,,,"Laidlaw Street, Glasgow, G5 8NT",https://www.ncp.co.uk/find-a-car-park/car-parks/glasgow-laidlaw-street/
+GC01,Cadogan Square,Glasgow City Council,55.8597026,-4.2653107,325,3.50,30.00,,"25 Douglas Street, Glasgow, G2 7PA",https://www.cityparkingglasgow.co.uk/multistoreycarparks
+GC02,Cambridge Street,Glasgow City Council,55.8665072,-4.2596832,812,3.50,30.00,,"Cambridge Street, Glasgow, G2 3HN",https://www.cityparkingglasgow.co.uk/multistoreycarparks
+GC03,Charing Cross,Glasgow City Council,55.8646397,-4.2695777,433,3.50,30.00,,"Charing Cross, Glasgow, G2 4PR",https://www.cityparkingglasgow.co.uk/multistoreycarparks
+GC04,Concert Square,Glasgow City Council,55.8649491,-4.2528043,592,3.50,30.00,,"Concert Square, Killermont Street, Glasgow, G4 0LU",https://www.cityparkingglasgow.co.uk/multistoreycarparks
+GC05,Duke Street,Glasgow City Council,55.8596002,-4.2356795,1170,2.50,,,"Duke Street, Collegelands, Glasgow, G4 0UW",https://www.cityparkingglasgow.co.uk/multistoreycarparks
+GC06,Dundasvale,Glasgow City Council,55.8689364,-4.2586804,460,2.50,,,"Dundasvale, Cowcaddens, Glasgow, G4 0SY",https://www.cityparkingglasgow.co.uk/multistoreycarparks
+GC07,SEC Car Park,Glasgow City Council,55.8603822,-4.2832087,1600,6.00,12.00,,"10 Stobcross Road, Glasgow, G3 8GS",https://www.sec.co.uk/visitor-information/how-to-get-here/car-parking

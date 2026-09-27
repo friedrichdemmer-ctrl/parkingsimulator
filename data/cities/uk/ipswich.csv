@@ -1,0 +1,28 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Tacket Street,Q-Park,52.056017,1.1572503,258,2.0,6.0,False,"Tacket Street, Ipswich, IP4 1AU",https://www.q-park.co.uk/en-gb/cities/ipswich/tacket-street/
+QP02,Tower Ramparts,Q-Park,52.0594491,1.152694,100,2.5,12.0,False,"Crown Street, Ipswich, IP1 3DH",https://www.q-park.co.uk/en-gb/cities/ipswich/tower-ramparts/
+NCP01,Blackfriars,NCP,52.0550767,1.1572767,513,1.95,7.95,False,"Blackfriars, Foundation Street, Ipswich, IP4 1BN",https://www.ncp.co.uk/find-a-car-park/car-parks/ipswich-blackfriars/
+NCP02,Burrell Road,NCP,52.0506835,1.1485402,130,2.95,7.95,False,"Burrell Road, Ipswich, IP2 8AD",https://www.ncp.co.uk/find-a-car-park/car-parks/ipswich-burrell-road/
+NCP03,Turret Lane,NCP,52.0546744,1.1547245,51,,5.95,False,"Turret Lane, Ipswich, IP4 1DL",https://www.ncp.co.uk/find-a-car-park/car-parks/ipswich-turret-lane/
+NCP04,Cox Lane,NCP,52.0568635,1.1584237,182,2.45,5.95,False,"Cox Lane, Ipswich, IP4 1HT",https://www.ncp.co.uk/find-a-car-park/car-parks/ipswich-cox-lane/
+NCP05,Ranelagh Road,NCP,52.0513,1.14358,21,,4.95,False,"Ranelagh Road, Ipswich, IP2 0AA",https://www.ncp.co.uk/find-a-car-park/car-parks/ipswich-ranelagh-road/
+NCP06,St Helens Street,NCP,52.0569,1.16035,13,,4.95,False,"St Helens Street, Ipswich, IP4 1HJ",https://www.ncp.co.uk/find-a-car-park/car-parks/ipswich-st-helens-street/
+SB01,Ipswich Station,Saba,52.05047615,1.146272513,517,1.2,11.0,True,"Burrell Road, Ipswich, IP2 8AL",https://www.sabaparking.co.uk/en/car-park/ipswich-station-mscp-car-park
+IBC01,Bond Street,Ipswich Borough Council,52.056226,1.160243,14,1.7,,False,"Bond Street, Ipswich, IP4 1JE",https://www.ipswich.gov.uk/bond-street-car-park
+IBC02,Cromwell Square,Ipswich Borough Council,52.055031,1.152178,64,2.6,,False,"Cromwell Square, Ipswich, IP1 1AN",https://www.ipswich.gov.uk/cromwell-square-car-park
+IBC03,Crown,Ipswich Borough Council,52.059744,1.152481,536,1.7,12.0,True,"Claude Street, Ipswich, IP1 3HS",https://www.ipswich.gov.uk/crowncarpark
+IBC04,Elm Street,Ipswich Borough Council,52.05688,1.148924,68,1.7,,True,"Elm Street, Ipswich, IP1 2AP",https://www.ipswich.gov.uk/elm-street-car-park
+IBC05,Fore Street,Ipswich Borough Council,52.053333,1.161804,30,1.5,,False,"Star Lane, Ipswich, IP4 1JZ",https://www.ipswich.gov.uk/fore-street-car-park
+IBC06,Regent,Ipswich Borough Council,52.058272,1.160081,73,1.7,,False,"Cobden Place, Ipswich, IP4 2EA",https://www.ipswich.gov.uk/regent-car-park
+IBC07,Smart Street,Ipswich Borough Council,52.053996,1.157562,21,1.5,,False,"Smart Street, Ipswich, IP4 1BP",https://www.ipswich.gov.uk/smart-street-car-park
+IBC08,St Peter's Dock,Ipswich Borough Council,52.051418,1.154083,100,1.7,,False,"Bridge Street, Ipswich, IP1 1XH",https://www.ipswich.gov.uk/st-peters-dock-car-park
+IBC09,Upper Orwell Street North,Ipswich Borough Council,52.056866,1.158187,54,1.7,,True,"Upper Barclay Street, Ipswich, IP4 1HU",https://www.ipswich.gov.uk/upper-orwell-street-north-car-park
+IBC10,Upper Orwell Street South,Ipswich Borough Council,52.056866,1.158187,37,1.7,,False,"Upper Barclay Street, Ipswich, IP4 1HU",https://www.ipswich.gov.uk/upper-orwell-street-south-car-park
+IBC11,William Street,Ipswich Borough Council,52.059569,1.155329,77,1.7,,False,"William Street, Ipswich, IP1 3HX",https://www.ipswich.gov.uk/william-street-car-park
+IBC12,Norwich Road Shoppers,Ipswich Borough Council,52.061486,1.144535,78,1.5,8.0,False,"South Street, Ipswich, IP1 3NU",https://www.ipswich.gov.uk/norwich-road-shoppers-car-park
+IBC13,Portman Road A,Ipswich Borough Council,52.055753,1.139288,55,1.5,8.0,False,"Portman Road, Ipswich, IP1 2DW",https://www.ipswich.gov.uk/portman-road-a-car-park
+IBC14,Portman Road B,Ipswich Borough Council,52.056586,1.145796,135,1.5,8.0,False,"Portman Road, Ipswich, IP1 2BP",https://www.ipswich.gov.uk/portman-road-b-car-park
+IBC15,Portman Road C,Ipswich Borough Council,52.056586,1.145796,618,1.5,8.0,False,"Portman Road, Ipswich, IP1 2BP",https://www.ipswich.gov.uk/portman-road-c-car-park
+IBC16,Portman Road D,Ipswich Borough Council,52.056586,1.145796,26,1.5,8.0,False,"Portman Road, Ipswich, IP1 2BP",https://www.ipswich.gov.uk/portman-road-d-car-park
+IBC17,Princes Street,Ipswich Borough Council,52.055405,1.148937,21,1.5,8.0,False,"Princes Street, Ipswich, IP1 1RY",https://www.ipswich.gov.uk/princes-street-car-park
+IBC18,West End Road,Ipswich Borough Council,52.055517,1.136339,385,1.5,8.0,False,"West End Road, Ipswich, IP1 2DZ",https://www.ipswich.gov.uk/west-end-road-car-park

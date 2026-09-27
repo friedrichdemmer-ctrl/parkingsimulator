@@ -1,0 +1,19 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Am Limbecker Platz,Q-Park,51.45786,7.00386,330,1.8,12.0,True,"Ostfeldstraße 9, 45127 Essen",https://www.q-park.de/de-de/staedte/essen/am-limbecker-platz/
+QP02,Cranachhöfen,Q-Park,51.4382348,6.9902729,317,2.0,15.0,,"Holsterhauser Platz 1, 45147 Essen",https://www.q-park.de/de-de/staedte/essen/cranachh%C3%B6fen/
+QP03,Gildehof,Q-Park,51.45362,7.01605,631,1.5,12.0,,"Gildehofstraße 3, 45127 Essen",https://www.q-park.de/de-de/staedte/essen/gildehof/
+QP04,Rathaus Galerie P1,Q-Park,51.4570866,7.0135686,451,1.7,17.0,,"Am Porscheplatz 2, 45127 Essen",https://www.q-park.de/de-de/staedte/essen/rathaus-galerie-p1/
+QP05,Rathaus Galerie P2,Q-Park,51.4579722,7.0153665,560,1.7,17.0,,"Ribbeckstraße 40, 45127 Essen",https://www.q-park.de/de-de/staedte/essen/rathaus-galerie-p2/
+AP01,Hövelstraße 168,APCOA,51.48042377,6.99329168,16,,,,"Hövelstraße 168, 45326 Essen",https://www.apcoa.de/einmal-parken/standorte/essen/essen-hoevelstrasse-168-netto
+CP01,Parkhaus Hauptbahnhof P1,Contipark,51.450463,7.014577,655,2.2,20.0,,"Freiheit 5, 45127 Essen",https://www.contipark.de/de/parken/essen/parkhaus-hauptbahnhof-p1-essen/
+CP02,Parkhaus Hindenburgstraße,Contipark,51.454248,7.006445,670,2.0,10.0,,"Hindenburgstraße 35, 45127 Essen",https://www.contipark.de/de/parken/essen/parkhaus-hindenburgstrasse/
+CP03,Parkhaus Schützenbahn,Contipark,51.459069,7.013813,38,1.0,6.0,,"Schützenbahn 25, 45127 Essen",https://www.contipark.de/de/parken/essen/parkhaus-schuetzenbahn/
+CP04,Parkplatz Bahnhofsvorplatz Nord P2,Contipark,51.452121,7.014919,33,3.4,24.0,,"Am Hauptbahnhof 5, 45127 Essen",https://www.contipark.de/de/parken/essen/parkplatz-bahnhofsvorplatz-nord-p2/
+CP05,Parkplatz Hachestraße P4,Contipark,51.451639,7.010534,27,2.4,15.0,,"Hachestraße, 45127 Essen",https://www.contipark.de/de/parken/essen/parkplatz-hachestrasse-p4/
+CP06,Tiefgarage Berliner Platz,Contipark,51.460398,7.008269,84,1.5,10.0,,"Friedrich-Ebert-Straße 49, 45127 Essen",https://www.contipark.de/de/parken/essen/tiefgarage-berliner-platz/
+CP07,Tiefgarage Philharmonie,Contipark,51.449046,7.011477,450,2.0,8.0,True,"Huyssenallee 17, 45128 Essen",https://www.contipark.de/de/parken/essen/tiefgarage-philharmonie/
+PE01,Centralgarage Kennedyplatz,Parken in Essen GmbH & Co. KG,51.455778,7.0102765,493,2.0,18.0,True,"Vereinstraße 2, 45127 Essen",https://www.parkenessen.com/parkhaeuser/centralgarage-kennedyplatz
+PE02,Parkhaus Akazienallee,Parken in Essen GmbH & Co. KG,51.454051,7.0143884,506,1.9,14.0,,"Akazienallee 1, 45127 Essen",https://www.parkenessen.com/parkhaeuser/parkhaus-akazienallee
+PE03,Parkhaus Elisabeth-Krankenhaus,Parken in Essen GmbH & Co. KG,51.4457747,7.0326625,385,2.0,13.0,,"Klara-Kopp-Weg 4, 45138 Essen",https://www.parkenessen.com/parkhaeuser/parkhaus-elisabeth-krankenhaus
+WP01,Parkhaus am Weberplatz,Wolf Parkhaus GmbH & Co. KG,51.4592,7.0086,400,1.3,11.0,,"Kreuzeskirchstraße 35, 45127 Essen",https://www.parkhaus-wolf.de/
+WP02,Parkterrassen Gänsemarkt,Wolf Parkhaus GmbH & Co. KG,51.458017,7.0090941,58,1.5,,,"Gänsemarkt, 45127 Essen",https://www.parkhaus-wolf.de/

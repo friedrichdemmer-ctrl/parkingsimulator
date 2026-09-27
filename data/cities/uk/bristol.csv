@@ -1,0 +1,31 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Harbourside,Q-Park,51.4493392,-2.6025336,605,3.0,17.0,True,"10 Canons Way, BS1 5LF Bristol",https://www.q-park.co.uk/en-gb/cities/bristol/harbourside/
+QP02,Rupert Street,Q-Park,51.4570027,-2.5943117,498,4.0,28.0,,"Rupert Street, BS1 2PY Bristol",https://www.q-park.co.uk/en-gb/cities/bristol/rupert-street/
+QP03,St James Barton,Q-Park,51.4595928,-2.5890729,319,4.0,28.0,,"Bond Street, BS1 3LJ Bristol",https://www.q-park.co.uk/en-gb/cities/bristol/st-james-barton/
+AP01,Bristol Parkway - Main,APCOA,51.514199,-2.54326,1789,,,True,"Stoke Gifford, BS34 8PU Bristol",https://www.apcoa.co.uk/find-parking/locations/bristol/bristol-parkway-main-bristol/
+AP02,Bristol Parkway - Short Stay,APCOA,51.514199,-2.54326,29,,,,"Stoke Gifford, BS34 8PU Bristol",https://www.apcoa.co.uk/find-parking/locations/bristol/bristol-parkway-short-stay-bristol/
+AP03,Bristol Temple Meads,APCOA,51.448604,-2.583357,309,,,,"Temple Gate, BS1 6QF Bristol",https://www.apcoa.co.uk/find-parking/locations/bristol/bristol-temple-meads-bristol/
+NCP01,Broadmead,NCP,51.4566,-2.58559,435,,,,"Broadmead, Lower Castle Street, BS1 3AF Bristol",https://www.ncp.co.uk/find-a-car-park/car-parks/bristol-broadmead/
+NCP02,Clifton Down,NCP,51.4622874,-2.6127901,339,,,,"Clifton Down, Alma Road, BS8 2DB Bristol",https://www.ncp.co.uk/find-a-car-park/car-parks/bristol-clifton-down/
+NCP03,Temple Way,NCP,51.4507538,-2.5848727,405,,,,"Temple Way, Rose Street, BS1 6HG Bristol",https://www.ncp.co.uk/find-a-car-park/car-parks/bristol-temple-way/
+NCP04,Tollgate,NCP,51.4604,-2.5797056,1100,,,,"Tollgate, Wellington Road, BS2 9DQ Bristol",https://www.ncp.co.uk/find-a-car-park/car-parks/bristol-tollgate/
+NCP05,Avon Street,NCP,51.4499,-2.57647,26,,,,"68-72 Avon Street, BS2 0QH Bristol",https://www.ncp.co.uk/find-a-car-park/car-parks/bristol-avon-street/
+NCP06,Cumberland Place,NCP,51.4502745,-2.6224024,96,,,,"Cumberland Place, BS8 4NA Bristol",https://www.ncp.co.uk/find-a-car-park/car-parks/bristol-cumberland-place/
+NCP07,Montague Street,NCP,51.4601452,-2.593311,80,,,,"Montague Street, BS1 3NW Bristol",https://www.ncp.co.uk/find-a-car-park/car-parks/bristol-montague-street/
+NCP08,Wilder Street,NCP,51.4617143,-2.5873775,35,,,,"Wilder Street, St Paul's, BS2 8QX Bristol",https://www.ncp.co.uk/find-a-car-park/car-parks/bristol-wilder-street/
+BCC01,Bristol First Hotel short stay car park,Bristol City Council,51.4553611,-2.5896933,33,2.7,10.8,,"Church Street, Temple, BS1 6BQ Bristol",https://www.bristol.gov.uk/residents/parking/where-to-park-in-bristol/bristol-first-hotel-short-stay-car-park
+BCC02,Brunswick Square short stay car park,Bristol City Council,51.4599322,-2.5877952,44,3.5,,,"Brunswick Square, St Pauls, BS2 8PE Bristol",https://www.bristol.gov.uk/residents/parking/where-to-park-in-bristol/brunswick-square-short-stay-car-park
+BCC03,College Street short stay car park,Bristol City Council,51.4523052,-2.6035518,214,2.7,,True,"St George's Road, BS1 5UU Bristol",https://www.bristol.gov.uk/residents/parking/where-to-park-in-bristol/college-street-short-stay-car-park
+BCC04,Frog Lane short stay car park,Bristol City Council,51.4531008,-2.601987,10,2.7,,,"Frog Lane, BS1 5UY Bristol",https://www.bristol.gov.uk/residents/parking/where-to-park-in-bristol/frog-lane-short-stay-car-park
+BCC05,Lower Guinea Street long stay car park,Bristol City Council,51.4464803,-2.5941991,17,2.7,19.6,,"Lower Guinea Street, BS1 6SY Bristol",https://www.bristol.gov.uk/residents/parking/where-to-park-in-bristol/lower-guinea-street-long-stay-car-park
+BCC06,Mardyke Wharf long stay car park,Bristol City Council,51.4500834,-2.6164441,12,2.7,19.6,,"Hotwell Road, BS8 4UR Bristol",https://www.bristol.gov.uk/residents/parking/where-to-park-in-bristol/mardyke-wharf-long-stay-car-park
+BCC07,Maritime Heritage Centre short stay car park,Bristol City Council,51.4485818,-2.6068907,167,,13.5,,"Gasferry Road, Harbourside, BS1 6TY Bristol",https://www.bristol.gov.uk/residents/parking/where-to-park-in-bristol/maritime-heritage-centre-short-stay-car-park
+BCC08,Portwall Lane long stay car park,Bristol City Council,51.4495092,-2.5890844,130,2.7,19.6,,"Portwall Lane, BS1 6NB Bristol",https://www.bristol.gov.uk/residents/parking/where-to-park-in-bristol/portwall-lane-long-stay-car-park
+BCC09,Queen Square short stay car park,Bristol City Council,51.4504525,-2.5935739,159,3.5,,,"Queen Square, BS1 4NT Bristol",https://www.bristol.gov.uk/residents/parking/where-to-park-in-bristol/queen-square-short-stay-car-park
+BCC10,Redcliffe Parade long stay car park,Bristol City Council,51.4482768,-2.5922874,33,2.7,19.6,,"Redcliffe Parade, BS1 6SW Bristol",https://www.bristol.gov.uk/residents/parking/where-to-park-in-bristol/redcliffe-parade-long-stay-car-park
+BCC11,Temple Gate long stay car park,Bristol City Council,51.4485344,-2.5835838,263,2.7,19.6,True,"Temple Gate, Temple, BS1 6PL Bristol",https://www.bristol.gov.uk/residents/parking/where-to-park-in-bristol/temple-gate-long-stay-car-park
+BCC12,The Grove long stay car park,Bristol City Council,51.449365,-2.596067,138,2.7,19.6,True,"The Grove, Harbourside, BS1 4RB Bristol",https://www.bristol.gov.uk/residents/parking/where-to-park-in-bristol/the-grove-long-stay-car-park
+BCC13,Trenchard Street long stay car park,Bristol City Council,51.4553882,-2.598016,936,2.7,19.6,True,"Trenchard Street, West End, BS1 5AN Bristol",https://www.bristol.gov.uk/residents/parking/where-to-park-in-bristol/trenchard-street-long-stay-car-park
+BCC14,Wapping Wharf short stay car park,Bristol City Council,51.4478261,-2.5967205,39,2.7,13.5,,"Wapping Road, BS1 6JL Bristol",https://www.bristol.gov.uk/residents/parking/where-to-park-in-bristol/wapping-wharf-short-stay-car-park
+BCC15,West End long stay car park,Bristol City Council,51.4557062,-2.6088927,750,2.7,19.6,True,"Berkeley Place, BS8 1EH Bristol",https://www.bristol.gov.uk/residents/parking/where-to-park-in-bristol/west-end-long-stay-car-park
+EC01,Wapping Wharf (long stay),Euro Car Parks,51.446944,-2.5966307,600,,12.0,,"7 Wapping Road, BS1 4RH Bristol",https://opendata.bristol.gov.uk/datasets/car-parks

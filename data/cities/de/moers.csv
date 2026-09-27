@@ -1,0 +1,19 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,C&A,Q-Park,51.4513757,6.6282928,140,2.00,6.00,,"Dr.-Hermann-Bähr-Straße 3, 47441 Moers","https://www.q-park.de/de-de/staedte/moers/c,-a-,a/"
+EN01,Mühlenstraße,ENNI,51.455268,6.625951,1000,,4.00,yes,"Mühlenstraße, 47441 Moers",https://www.enni.de/oeffentlicher-raum/parkplaetze/
+EN02,Nordring,ENNI,51.45540,6.624610,135,1.00,,,"Moerser Benden 11, 47441 Moers",https://www.enni.de/oeffentlicher-raum/parkplaetze/
+EN03,Repelener Straße,ENNI,51.453420,6.622273,15,,,,"Repelener Str. 4, 47441 Moers",https://www.enni.de/oeffentlicher-raum/parkplaetze/
+EN04,Neuer Wall,ENNI,51.452311,6.628724,145,1.50,,,"Neuer Wall, 47441 Moers",https://www.enni.de/oeffentlicher-raum/parkplaetze/
+EN05,Altstadt,ENNI,51.452196,6.627938,,,,,"Oberwallstraße, 47441 Moers",https://www.enni.de/oeffentlicher-raum/parkplaetze/
+EN06,Bildungszentrum,ENNI,51.453151,6.631004,65,1.00,,,"Wilhelm-Schroeder-Straße 8, 47441 Moers",https://www.enni.de/oeffentlicher-raum/parkplaetze/
+EN07,Modecenter Braun (Parkhaus Braun),Privat,51.452568,6.624030,240,,,,"Neumarkt 2-4, 47441 Moers",https://www.enni.de/oeffentlicher-raum/parkplaetze/
+EN08,Neumarkt,ENNI,51.451964,6.625194,70,2.00,,,"Neumarkt 2, 47441 Moers",https://www.enni.de/oeffentlicher-raum/parkplaetze/
+EN09,Meerstraße,ENNI,51.451249,6.624684,75,1.50,,,"Meerstraße 15, 47441 Moers",https://www.enni.de/oeffentlicher-raum/parkplaetze/
+EN10,Kastell,ENNI,51.450588,6.626439,220,1.50,,,"Kastell 1, 47441 Moers",https://www.enni.de/oeffentlicher-raum/parkplaetze/
+EN11,Parkhaus Kautzstraße,ENNI,51.449529,6.630846,,1.50,,,"Kautzstraße 33, 47441 Moers",https://www.enni.de/oeffentlicher-raum/parkplaetze/
+EN12,Parkplatz Kautzstraße,ENNI,51.449791,6.631231,20,1.50,,,"Kautzstraße, 47441 Moers",https://www.enni.de/oeffentlicher-raum/parkplaetze/
+EN13,Grafschafter Passage,Privat,51.449994,6.630962,80,,,,"Kautzstraße, 47441 Moers",https://www.enni.de/oeffentlicher-raum/parkplaetze/
+EN14,Friedrich-Ebert-Platz,ENNI,51.451514,6.637034,300,,4.00,,"Knappschaftstraße, 47441 Moers",https://www.enni.de/oeffentlicher-raum/parkplaetze/
+EN15,Bankstraße,ENNI,51.451027,6.636969,145,1.00,,,"Bankstraße, 47441 Moers",https://www.enni.de/oeffentlicher-raum/parkplaetze/
+EN16,Homberger Straße (Parkhaus Essenberger Straße),ENNI,51.449883,6.636020,100,1.00,,,"Essenberger Str. 1, 47441 Moers",https://www.enni.de/oeffentlicher-raum/parkplaetze/
+EN17,P+R Bahnhof,ENNI,51.451732,6.640750,104,,,,"Vinzenzstraße 11, 47441 Moers",https://www.enni.de/oeffentlicher-raum/parkplaetze/

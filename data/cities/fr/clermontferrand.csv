@@ -1,0 +1,13 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+cf-qp-1ermai,1er Mai,Q-Park,45.78651,3.10104,278,1.40,9.00,False,"Rue Entre les 2 Villes, 63000 Clermont Ferrand",https://www.q-park.fr/fr-fr/villes/clermont-ferrand/1er-mai/
+cf-qp-blaisepascal,Blaise Pascal,Q-Park,45.7767,3.08866,466,1.50,14.70,False,"Place Michel de l'Hospital, 63000 Clermont Ferrand",https://www.q-park.fr/fr-fr/villes/clermont-ferrand/blaise-pascal/
+cf-qp-cathedrale,Cathédrale,Q-Park,45.7801,3.08561,302,1.40,19.00,False,"5 Rue Saint-Hérem, 63000 Clermont Ferrand",https://www.q-park.fr/fr-fr/villes/clermont-ferrand/cathedrale-clermont-ferrand/
+cf-qp-fontgieve,Fontgièvre,Q-Park,45.78229,3.07868,190,,,False,"12 Rue Jean Bonnefons, 63000 Clermont Ferrand",https://www.q-park.fr/fr-fr/villes/clermont-ferrand/fontgieve/
+cf-qp-gambetta,Gambetta,Q-Park,45.77103,3.08123,478,1.70,16.30,False,"8 Avenue Max Dormoy, 63000 Clermont Ferrand",https://www.q-park.fr/fr-fr/villes/clermont-ferrand/gambetta-clermont-ferrand/
+cf-qp-mediathequeallagnat,Médiathèque Allagnat,Q-Park,45.77482,3.08366,123,,,False,"Rue d'Allagnat, 63000 Clermont Ferrand",https://www.q-park.fr/fr-fr/villes/clermont-ferrand/mediatheque-allagnat/
+cf-qp-saintpierre,Saint-Pierre,Q-Park,45.78019,3.08241,169,1.50,14.70,False,"Place Gilbert Gaillard, 63000 Clermont Ferrand",https://www.q-park.fr/fr-fr/villes/clermont-ferrand/saint-pierre-clermont-ferrand/
+cf-qp-vercingetorix,Vercingétorix,Q-Park,45.777675,3.081369,268,1.50,14.70,False,"Rue Lamartine, 63000 Clermont Ferrand",https://www.q-park.fr/fr-fr/villes/clermont-ferrand/vercingetorix/
+cf-effia-gare,Gare de Clermont-Ferrand,Effia,45.777248,3.10173,,2.40,21.70,True,"17 Rue Pierre Sémard, Parking Gare SNCF de Clermont, 63000 Clermont Ferrand",https://www.effia.com/parking/parking-gare-de-clermont-ferrand-effia
+cf-effia-lespistes,Les Pistes,Effia,45.798151,3.113557,,,,False,"349 Rue de la Fontaine de la Ratte, 63100 Clermont Ferrand",https://www.effia.com/parking/parking-clermont-ferrand-les-pistes-effia
+cf-effia-chuestaing,CHU-Estaing Esplanade,Effia,45.78379,3.10972,,2.40,13.00,False,"66 Rue Auger, 63000 Clermont Ferrand",https://www.effia.com/parking/parking-clermont-ferrand-chu-estaing-esplanade-effia
+cf-indigo-carmesdelille,Carmes Delille,Indigo,45.781605,3.092087,,,,False,"Rue Henri Barbusse, 63000 Clermont-Ferrand",https://www.indigoneo.fr/fr/parkings/23638/parking-carmes-delille

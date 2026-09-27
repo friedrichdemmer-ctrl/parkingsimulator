@@ -1,0 +1,2 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Q-Park Aalborgvej 9,Q-Park,57.2518543,9.586627,30,12.0,,,"Aalborgvej 9, 9492 Blokhus",https://www.q-park.dk/da/parkering/blokhus/aalborgvej-9/

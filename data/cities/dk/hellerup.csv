@@ -1,0 +1,7 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Sofievej 2-4 & Strandvejen 169-171,Q-Park,55.7327924,12.5740184,65,25,,,"Sofievej 2-4 & Strandvejen 169-171, 2900 Hellerup","https://www.q-park.dk/da/parkering/hellerup/sofievej-2-4-,-a-,-strandvejen-169-171/"
+QP02,Waterfront Shopping,Q-Park,55.726329,12.580058,537,30,240,True,"Tuborg Havnevej 17, 2900 Hellerup",https://www.q-park.dk/da/parkering/hellerup/waterfront-shopping/
+AP01,Tuborg Syd P-kælder,APCOA,55.7245,12.58074,1000,24,230,,"Philip Heymans Allé 1, 2900 Hellerup",https://www.apcoa.dk/find-en-p-plads/lokationer/hellerup/tuborg-syd-p-kaelder
+AP02,Hellerupvej 52 ABC,APCOA,55.733318,12.564114,15,,,,"Hellerupvej 52 A-B-C, 2900 Hellerup",https://www.apcoa.dk/find-en-p-plads/lokationer/hellerup/hellerupvej-52-abc
+AP03,Strandvejen 163,APCOA,55.73161351,12.57472359,17,,,,"Strandvejen 163, 2900 Hellerup",https://www.apcoa.dk/find-en-p-plads/lokationer/hellerup/strandvejen-163
+AP04,Bakkedraget 8,APCOA,55.72307874,12.58287406,248,10,50,,"Bakkedraget 8, 2900 Hellerup",https://www.apcoa.dk/find-en-p-plads/lokationer/hellerup/bakkedraget-8

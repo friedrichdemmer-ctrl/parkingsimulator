@@ -1,0 +1,12 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Luikerpoort,Q-Park,50.926985,5.337723,224,3.50,21.00,True,"Welvaartstraat 21, 3500 Hasselt",https://www.q-park.be/nl-be/parkeren/hasselt/luikerpoort/
+QP02,Molenpoort,Q-Park,50.933424,5.337670,395,,21.00,True,"Kattegatstraat, 3500 Hasselt",https://www.q-park.be/nl-be/parkeren/hasselt/molenpoort/
+QP03,Dusart,Q-Park,50.931642,5.343845,809,,21.00,True,"Boudewijnlaan, 3500 Hasselt",https://www.q-park.be/nl-be/parkeren/hasselt/dusart/
+QP04,TT (Twee Torens),Q-Park,50.928309,5.339728,510,,21.00,True,"Capucienenstraat 17, 3500 Hasselt",https://www.q-park.be/nl-be/parkeren/hasselt/tt/
+SH01,Blauwe Boulevard,Stad Hasselt,50.937348,5.335694,1842,1.50,10.00,True,"Gelatineboulevard, 3500 Hasselt",https://www.hasselt.be/nl/parking-blauwe-boulevard
+SH02,Astrid,Stad Hasselt,50.932787,5.330011,104,2.00,15.00,,"Koningin Astridlaan 67, 3500 Hasselt",https://www.hasselt.be/nl/parking-p-astrid
+SH03,Cultuurcentrum,Stad Hasselt,50.925976,5.347851,200,2.00,15.00,,"Kunstlaan 5, 3500 Hasselt",https://www.hasselt.be/nl/parking-cultuurcentrum
+SH04,Dusartplein (bovengronds),Stad Hasselt,50.932231,5.343854,160,2.00,15.00,,"Kolonel Dusartplein, 3500 Hasselt",https://www.hasselt.be/nl/parking-p-dusartplein-bovengronds
+SH05,Truierbrug-Noord,Stad Hasselt,50.926343,5.335005,70,2.00,15.00,,"Sint-Truidersteenweg, 3500 Hasselt",https://www.hasselt.be/nl/parking-p-truierbrug-noord
+SH06,Truierbrug-Zuid,Stad Hasselt,50.925543,5.333763,150,2.00,15.00,,"Sint-Truidersteenweg, 3500 Hasselt",https://www.hasselt.be/nl/parking-p-truierbrug-zuid
+NM01,Station P1,NMBS,50.932577,5.326711,570,,,True,"Grote Breemstraat, 3500 Hasselt",https://www.belgiantrain.be/nl/station-information/car-or-bike-at-station/b-parking/my-b-parking/hasselt

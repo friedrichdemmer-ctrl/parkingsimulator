@@ -1,0 +1,9 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Capital Square,Q-Park,55.94663,-3.20975,166,4.90,36.00,True,"West Approach Road, EH3 8BP Edinburgh",https://www.q-park.co.uk/en-gb/cities/edinburgh/capital-square/
+QP02,OMNI,Q-Park,55.9555805,-3.185308,1000,3.90,30.00,True,"Greenside Row, EH1 3AN Edinburgh",https://www.q-park.co.uk/en-gb/cities/edinburgh/omni/
+QP03,Quartermile,Q-Park,55.943562,-3.192594,374,4.50,30.50,,"Simpson Loan, EH3 9AU Edinburgh",https://www.q-park.co.uk/en-gb/cities/edinburgh/quartermile/
+NCP01,Castle Terrace,NCP,55.9475372,-3.2032391,750,6.95,35.95,True,"Castle Terrace, EH1 2EW Edinburgh",https://www.ncp.co.uk/find-a-car-park/car-parks/edinburgh-castle-terrace/
+NCP02,Holyrood (St Johns Hill),NCP,55.94904,-3.1815097,297,4.45,25.95,,"2 Viewcraig Gardens, EH8 9UL Edinburgh",https://www.ncp.co.uk/find-a-car-park/car-parks/edinburgh-st-johns-hill/
+APC01,Edinburgh Park,APCOA,55.93037234,-3.31703784,480,,12.00,True,"2 Airborne Place, EH12 9GR Edinburgh",https://www.apcoa.co.uk/parking-in/edinburgh/edinburgh-park/
+APC02,Edinburgh Waverley Station (Long Stay),APCOA,55.952486,-3.183116,537,5.00,25.00,True,"New Street, EH8 8BH Edinburgh",https://www.apcoa.co.uk/parking-in/edinburgh/edinburgh-waverley-station-long-stay/
+SJQ01,St James Quarter,Westfield (URW),55.9550048,-3.1876187,1600,4.20,28.20,True,"St James Crescent, EH1 3AD Edinburgh",https://www.westfield.com/en/united-kingdom/stjamesquarter/parking

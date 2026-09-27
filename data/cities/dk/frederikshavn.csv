@@ -1,0 +1,8 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Havnepladsen 7,Q-Park,57.438097,10.538136,46,16,130,,"Havnepladsen 7, 9900 Frederikshavn",https://www.q-park.dk/da/parkering/frederikshavn/havnepladsen-7/
+QP02,Tordenskjoldsgade 3,Q-Park,57.4404677,10.5352923,25,12,,,"Tordenskjoldsgade 3, 9900 Frederikshavn",https://www.q-park.dk/da/parkering/frederikshavn/tordenskjoldsgade-3/
+AP01,Parallelvej Matr. 305e,APCOA,57.439044,10.533979,40,10,240,,"Parallelvej Matr. 305e, 9900 Frederikshavn",https://www.apcoa.dk/find-en-p-plads/lokationer/frederikshavn/parallelvej-matr-305e
+AP02,Havnepladsen 9,APCOA,57.4379,10.536952,25,11,72,,"Havnepladsen 9, 9900 Frederikshavn",https://www.apcoa.dk/find-en-p-plads/lokationer/frederikshavn/havnepladsen-9
+AP03,Danmarksgade 74,APCOA,57.438963,10.535336,10,,,,"Danmarksgade 74A, 9900 Frederikshavn",https://www.apcoa.dk/find-en-p-plads/lokationer/frederikshavn/danmarksgade-74
+AP04,Havnegade 4-6,APCOA,57.437572,10.535101,,10,240,,"Havnegade 4-6, 9900 Frederikshavn",https://www.apcoa.dk/find-en-p-plads/lokationer/frederikshavn/havnegade-4-6
+AP05,Læsøgade 18,APCOA,57.4361902,10.53414791,30,10,240,,"Læsøgade 18, 9900 Frederikshavn",https://www.apcoa.dk/find-en-p-plads/lokationer/frederikshavn/laesoegade-18

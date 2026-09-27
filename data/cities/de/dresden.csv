@@ -1,0 +1,23 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Altmarkt,Q-Park,51.050131,13.7397407,473,2.50,28.00,True,"Wilsdruffer Straße 16, 01067 Dresden",https://www.q-park.de/de-de/staedte/dresden/altmarkt/
+QP02,Frauenkirche / Neumarkt,Q-Park,51.0508236,13.7417185,671,2.50,28.00,True,"Landhausstraße 2, 01067 Dresden",https://www.q-park.de/de-de/staedte/dresden/frauenkirche-/-neumarkt/
+QP03,Haus Postplatz,Q-Park,51.0512602,13.7317079,143,2.50,28.00,,"Postplatz 2, 01067 Dresden",https://www.q-park.de/de-de/staedte/dresden/haus-postplatz/
+QP04,Waldschlösschen (Bavaria Parkgaragen),Q-Park,51.0694219,13.7793879,1049,2.00,12.00,True,"Am Waldschlösschen 4, 01099 Dresden",https://www.q-park.de/de-de/staedte/dresden/waldschl%C3%B6sschen-dresden/
+AP01,Altmarkt-Galerie,APCOA,51.04951,13.73401,520,2.50,25.00,True,"Webergasse 1, 01067 Dresden",https://www.apcoa.de/einmal-parken/standorte/dresden/altmarkt-galerie
+AP02,Dresden-Mitte,APCOA,51.058204,13.726021,606,1.50,15.00,,"Magdeburger Straße 1, 01067 Dresden",https://www.apcoa.de/einmal-parken/standorte/dresden/dresden-mitte
+AP03,Felix-Dahn-Weg 21,APCOA,51.06355213,13.6728685,8,,,,"Felix-Dahn-Weg 21, 01157 Dresden",https://www.apcoa.de/einmal-parken/standorte/dresden/felix-dahn-weg-21
+AP04,Haus am Zwinger,APCOA,51.051493,13.735899,220,3.20,35.00,,"Kleine Brüdergasse 3, 01067 Dresden",https://www.apcoa.de/einmal-parken/standorte/dresden/haus-am-zwinger
+AP05,Hotel Taschenbergpalais Kempinski,APCOA,51.051736,13.735256,185,2.90,35.00,,"Kleine Brüdergasse 3, 01067 Dresden",https://www.apcoa.de/einmal-parken/standorte/dresden/hotel-taschenbergpalais-kempinski
+AP06,Schiller Galerie,APCOA,51.051835,13.803221,414,1.80,12.00,True,"Hüblerstrasse 8, 01309 Dresden",https://www.apcoa.de/einmal-parken/standorte/dresden/schiller-galerie
+AP07,Straßburger Platz,APCOA,51.046908,13.756595,293,2.00,15.00,True,"Straßburger Platz, 01307 Dresden",https://www.apcoa.de/einmal-parken/standorte/dresden/strassburger-platz
+AP08,WÖHRL/Florentinum,APCOA,51.044475,13.737973,245,2.00,22.00,,"Sankt Petersburger Str. 20, 01069 Dresden",https://www.apcoa.de/einmal-parken/standorte/dresden/woehrl/florentinum
+CP01,Parkplatz Weißer Hirsch,Contipark,51.063319,13.822264,30,1.00,6.00,,"Luboldstraße 30, 01324 Dresden",https://www.contipark.de/de/parken/dresden/parkplatz-weisser-hirsch/
+CP02,Parkplatz Wiesentorstraße,Contipark,51.056745,13.742707,90,2.50,18.00,,"Wiesentorstraße, 01067 Dresden",https://www.contipark.de/de/parken/dresden/parkplatz-wiesentorstrasse/
+CP03,Tiefgarage Semperoper,Contipark,51.055342,13.733627,454,1.50,6.00,,"Devrientstraße 1, 01067 Dresden",https://www.contipark.de/de/parken/dresden/tiefgarage-semperoper/
+GB01,Parkhaus am Uniklinikum,GOLDBECK Parking,51.0593162,13.7836565,511,2.00,12.00,True,"Pfotenhauerstraße 105, 01307 Dresden",https://www.goldbeck-parking.de/api/gps-opg/parking-unit/7056
+GB02,Centrum Galerie,GOLDBECK Parking,51.045492,13.733857,1059,2.00,15.00,True,"Prager Straße 15, 01069 Dresden",https://centrum-galerie-dresden.klepierre.de/services/parkhaus
+GB03,Bautzner Straße,GOLDBECK Parking,51.062968,13.753821,237,2.00,7.50,,"Bautzner Straße 29, 01099 Dresden",https://www.goldbeck-parking.de/api/gps-opg/parking-unit/5836
+GB04,Löbtau Passage,GOLDBECK Parking,51.042948,13.703684,161,2.00,7.50,,"Kesselsdorfer Straße 1, 01159 Dresden",https://www.goldbeck-parking.de/api/gps-opg/parking-unit/6346
+PF01,Parkplatz Theresienstraße (Park & Fly),Pfütze & Co,51.0630326,13.7420000,,2.00,20.00,,"Theresienstraße 15, 01097 Dresden",https://www.parkplaetze-dresden.de/preise.html
+PF02,Parkplatz Sebnitzer Straße,Pfütze & Co,51.0680743,13.7582314,,,,,"Sebnitzer Straße, 01099 Dresden",https://www.parkplaetze-dresden.de/standorte.html
+DB01,Dresden Hbf Reitbahnstraße 28,DB BahnPark,51.0434020,13.7320881,260,1.50,6.00,,"Reitbahnstraße 28, 01067 Dresden",https://www.bahnhof.de/en/dresden-hbf/parking-spaces

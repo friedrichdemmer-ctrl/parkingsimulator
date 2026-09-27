@@ -1,0 +1,2 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Hôpital HCL Lyon Sud,Q-Park,45.69996,4.80589,1746,1.9,67.4,True,"165 Chemin du Grand Revoyet, 69310 Pierre Benite",https://www.q-park.fr/fr-fr/villes/pierre-benite/pierre-benite---h%C3%B4pital-hcl-lyon-sud/

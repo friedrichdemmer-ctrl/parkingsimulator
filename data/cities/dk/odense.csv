@@ -1,0 +1,31 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Q-Park Holmehusvej 17-19,Q-Park,55.405818,10.405809,25,8.00,,,"Holmehusvej 17-19, 5000 Odense C",https://www.q-park.dk/da/parkering/odense/holmehusvej-17-19/
+QP02,Q-Park Comwell H.C. Andersen,Q-Park,55.399304,10.393371,90,45.00,150.00,True,"Claus Bergs Gade 7, 5000 Odense C","https://www.q-park.dk/da/parkering/odense/comwell-h,-d-,c,-d-,-andersen/"
+QP03,Q-Park Odense Banegård Center,Q-Park,55.402223,10.387477,265,18.00,180.00,True,"Østre Stationsvej 27, 5000 Odense C",https://www.q-park.dk/da/parkering/odense/odense-banegård-center/
+QP04,Q-Park Odense City,Q-Park,55.3993426,10.3888814,1007,26.00,240.00,True,"Thomas B. Thriges Gade 1, 5000 Odense C",https://www.q-park.dk/da/parkering/odense/odense-city/
+QP05,Q-Park VIVA,Q-Park,55.400724,10.382279,200,23.00,200.00,,"Østre Stationsvej 35, 5000 Odense C",https://www.q-park.dk/da/parkering/odense/viva/
+QP06,Q-Park Klosterbakken,Q-Park,55.394598,10.388316,83,30.00,180.00,True,"Klosterbakken 8, 5000 Odense C",https://www.q-park.dk/da/parkering/odense/klosterbakken/
+QP07,Q-Park Slotscentret,Q-Park,55.396466,10.384441,165,21.00,200.00,True,"Store Gråbrødrestræde 12, 5000 Odense C",https://www.q-park.dk/da/parkering/odense/slotscentret/
+QP08,Q-Park Promenadebyen 36-38,Q-Park,55.406524,10.378381,9,12.00,,,"Promenadebyen 36-38, 5000 Odense C",https://www.q-park.dk/da/parkering/odense/promenadebyen-36-38/
+QP09,Q-Park Toldkammeret,Q-Park,55.399442,10.379139,120,30.00,170.00,,"Rugårdsvej 1, 5000 Odense C",https://www.q-park.dk/da/parkering/odense/toldkammeret/
+QP10,Q-Park Østre Stationsvej 43,Q-Park,55.39936,10.377947,65,30.00,170.00,,"Østre Stationsvej 43, 5000 Odense C",https://www.q-park.dk/da/parkering/odense/østre-stationsvej-43/
+QP11,Q-Park Grønnegade,Q-Park,55.397006,10.379512,116,30.00,180.00,True,"Grønnegade 1, 5000 Odense C",https://www.q-park.dk/da/parkering/odense/grønnegade/
+QP12,Q-Park Filosoffen,Q-Park,55.3933632,10.3815755,218,30.00,180.00,True,"Filosofgangen 17 B, 5000 Odense C",https://www.q-park.dk/da/parkering/odense/filosoffen/
+QP13,Q-Park Vestergade 93-95,Q-Park,55.394499,10.379852,33,21.00,,,"Vestergade 93 - 95, 5000 Odense C",https://www.q-park.dk/da/parkering/odense/vestergade-93-95/
+QP14,Q-Park Rosenbæk Torv,Q-Park,55.39495,10.378839,30,21.00,,,"Rosenbækkareen, Rosenbæk Torv 19, 5000 Odense C",https://www.q-park.dk/da/parkering/odense/rosenbæk-torv/
+QP15,Q-Park Filosoffen - forplads,Q-Park,55.393429,10.3794348,35,30.00,180.00,,"Filosofgangen 17 B, 5000 Odense C",https://www.q-park.dk/da/parkering/odense/filosoffen---forplads/
+QP16,"Q-Park Munkebjerg Park 1, P-kælder",Q-Park,55.373461,10.407633,140,10.00,80.00,True,"Munkebjergvænget 18-40, 5230 Odense M",https://www.q-park.dk/da/parkering/odense/munkebjergvænget-18-40/
+QP17,Q-Park Hjallesegade 32,Q-Park,55.3571832,10.3858046,12,8.00,80.00,,"Hjallesegade 32, 5260 Odense S",https://www.q-park.dk/da/parkering/odense/hjallesegade-32/
+QP18,Q-Park Heliosvænget 22-30,Q-Park,55.3612925,10.3525762,90,8.00,80.00,,"Heliosvænget 22-30, 5250 Odense SV",https://www.q-park.dk/da/parkering/odense/heliosvænget-22-30/
+AP01,APCOA Vesterport,APCOA,55.3987810,10.3769860,480,20.00,,,"Rugårdsvej 6, 5000 Odense C",https://www.apcoa.dk/find-en-p-plads/lokationer/odense-c/vesterport
+AP02,APCOA P-hus Odinsbrygge,APCOA,55.4074936,10.3841060,400,14.00,,,"Odinsbrygge, 5000 Odense C",https://www.apcoa.dk/find-en-p-plads/lokationer/odense-c/p-hus-odinsbrygge
+AP03,APCOA Edisonsvej 1,APCOA,55.4062160,10.3895450,830,16.00,,,"Edisonsvej 1, 5000 Odense C",https://www.apcoa.dk/find-en-p-plads/lokationer/odense-c/edisonsvej-1
+AP04,APCOA Sverigesgade / Havnegade,APCOA,55.4118690,10.3822619,600,16.00,384.00,,"Sverigesgade, 5000 Odense C",https://www.apcoa.dk/find-en-p-plads/lokationer/odense-c/sverigesgade-/-havnegade
+AP05,APCOA Seebladsgade 1,APCOA,55.4034720,10.3794250,400,22.00,528.00,,"Seebladsgade 1, 5000 Odense C",https://www.apcoa.dk/find-en-p-plads/lokationer/odense-c/seebladsgade-1
+AP06,APCOA Cortex Park 12,APCOA,55.3708810,10.4276040,396,16.00,,,"Campusvej 12, Cortex Park, 5230 Odense M",https://www.apcoa.dk/find-en-p-plads/lokationer/odense-m
+AP07,APCOA Klostervej 3,APCOA,55.3971450,10.3828670,,20.00,,,"Klostervej 3, 5000 Odense C",https://www.apcoa.dk/find-en-p-plads/lokationer/odense-c/klostervej-3
+AP08,APCOA Rugårdsvej 103,APCOA,55.4010330,10.3576360,222,15.00,360.00,,"Rugårdsvej 103, 5000 Odense C",https://www.apcoa.dk/find-en-p-plads/lokationer/odense
+AP09,APCOA Tietgen Business,APCOA,55.3815966,10.3837642,300,22.00,,,"Tietgens Allé, 5230 Odense M",https://www.apcoa.dk/find-en-p-plads/lokationer/odense-c/tietgen-business
+AP10,APCOA Middelfartvej 9-11,APCOA,55.3947870,10.3630670,231,15.00,,,"Middelfartvej 9-11, 5000 Odense C",https://www.apcoa.dk/find-en-p-plads/lokationer/odense-c/middelfartvej-9-11
+AP11,APCOA Banegårdspladsen 1,APCOA,55.4005150,10.3872430,130,18.00,,,"Banegårdspladsen 1, 5000 Odense C",https://www.apcoa.dk/find-en-p-plads/lokationer/odense-c/banegaardspladsen-1
+AP12,APCOA Toldbodhusevej 4,APCOA,55.4058800,10.3808550,61,25.00,600.00,,"Toldbodhusevej 4, 5000 Odense C",https://www.apcoa.dk/find-en-p-plads/lokationer/odense-c/toldbodhusevej-4

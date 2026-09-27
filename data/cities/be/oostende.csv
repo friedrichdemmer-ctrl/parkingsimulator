@@ -1,0 +1,13 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Churchill,Q-Park,51.229257,2.924503,136,3.30,27.00,,"Natiënkaai 7, 8400 Oostende",https://www.q-park.be/nl-be/parkeren/oostende/churchill/
+IND01,Zeeparking,Indigo Neo,51.228143,2.916943,450,5.00,,True,"Leopold II-laan / Hendrik Serruyslaan 30, 8400 Oostende",https://www.indigoneo.be/nl/parkings/18958/parking-zeeparking
+IND02,Koninginnelaan,Indigo Neo,51.225290,2.904960,80,5.00,,True,"Koninginnelaan 65, 8400 Oostende",https://www.indigoneo.be/nl/parkings/12855/parking-koninginnelaan
+IND03,Kursaal 1,Indigo Neo,51.230880,2.913190,251,,,,"Monaco-Plein 1, 8400 Oostende",https://www.indigoneo.be/nl/parkings/23777/parking-kursaal-1-oostende
+IND04,Kursaal 2,Indigo Neo,51.232850,2.914910,140,5.00,,True,"Christinastraat 23f, 8400 Oostende",https://www.indigoneo.be/nl/parkings/12854/parking-kursaal-2
+IND05,Mijnplein,Indigo Neo,51.232999,2.919106,127,,,True,"Kapucijnenstraat 1, 8400 Oostende",https://www.indigoneo.be/nl/parkings/18956/parking-mijnplein
+IND06,Visserskaai,Indigo Neo,51.230440,2.923480,142,,,True,"Visserskaai 1, 8400 Oostende",https://www.indigoneo.be/nl/parkings/18957/parking-visserskaai
+IND07,Zeedijk,Indigo Neo,51.234872,2.916935,244,3.00,,True,"Kapucijnenstraat 58, 8400 Oostende",https://www.indigoneo.be/nl/parkings/14565/parking-zeedijk
+IND08,Sky,Indigo Neo,51.227293,2.923374,153,5.00,,True,"Leopold III-laan 6A, 8400 Oostende",https://www.indigoneo.be/nl/parkings/25816/parking-sky
+CB01,Europacentrum,Citibee,51.232718,2.915209,200,4.00,27.50,True,"Christinastraat 18D, 8400 Oostende",https://www.citibee.be/citibeelocaties/citibee-oostende
+BP01,Station-Zee,B-Parking (NMBS),51.219175,2.934804,920,,,,"Konterdamkaai, 8400 Oostende",https://www.oostende.be/producten/detail/604/parking-station-zee
+KP01,Kinepolis,Kinepolis,51.223032,2.896899,,2.00,30.00,True,"Koningin Astridlaan 12, 8400 Oostende",https://www.oostende.be/parking-kinepolis

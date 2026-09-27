@@ -1,0 +1,16 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Albion Street,Q-Park,53.79819,-1.54589,378,,30.00,True,"Butts Court, off Albion Street, Leeds, LS1 5JS",https://www.q-park.co.uk/en-gb/cities/leeds/albion-street/
+QP02,Sovereign Square,Q-Park,53.79438,-1.54485,502,,37.00,True,"Swinegate, Leeds, LS1 4AG",https://www.q-park.co.uk/en-gb/cities/leeds/sovereign-square/
+QP03,St Johns Centre,Q-Park,53.800634,-1.543399,282,,31.00,,"Merrion Street, Leeds, LS2 8LQ",https://www.q-park.co.uk/en-gb/cities/leeds/st-johns-centre/
+QP04,The Light,Q-Park,53.800384,-1.54606,402,3.80,35.00,,"The Light, Headrow, Leeds, LS1 8TL",https://www.q-park.co.uk/en-gb/cities/leeds/the-light/
+QP05,Wellington Street,Q-Park,53.797744,-1.555993,370,,21.00,True,"Castle Street (off Lisbon St), Leeds, LS1 4LT",https://www.q-park.co.uk/en-gb/cities/leeds/wellington-street/
+NCP01,The Markets,NCP,53.796697,-1.537662,646,2.50,15.00,,"The Markets, York Street, Leeds, LS2 7EA",https://www.ncp.co.uk/find-a-car-park/car-parks/leeds-the-markets/
+NCP02,Wellington Place,NCP,53.796263,-1.558331,509,5.00,25.00,True,"Wellington Place, Leeds, LS1 4AJ",https://www.ncp.co.uk/find-a-car-park/car-parks/leeds-wellington-place/
+APX01,The Core,Apex Parking,53.798444,-1.544999,258,4.00,24.00,,"78 Albion Street, Leeds, LS1 6AD",https://apex-parking.co.uk/car-parks/the-core-leeds/
+T2401,Water Lane,Times24 UK Limited,53.791972,-1.548373,26,2.00,18.00,,"5 Water Lane, Holbeck, Leeds, LS11 5QA",https://www.times24.co.uk/locations/leeds-water-lane
+T2402,Lovell Park Hill,Times24 UK Limited,53.804661,-1.538731,34,,5.00,,"92 Lovell Park Hill, Leeds, LS7 1DE",https://www.times24.co.uk/locations/leeds-lovell-park-hill
+AP01,Leeds Station,APCOA,53.794877,-1.549563,307,,25.80,True,"Aire Street, Leeds, LS1 4HT",https://www.apcoa.co.uk/find-parking/locations/leeds/leeds-station
+AP02,Trinity Leeds,APCOA,53.79461123,-1.54390285,400,,38.60,,"Albion Street, Leeds, LS1 4AG",https://www.apcoa.co.uk/find-parking/locations/leeds/trinity-leeds
+LCC01,Hunslet Lane,Leeds City Council,53.792901,-1.540848,35,,9.00,,"Hunslet Lane, Leeds, LS10 1ES",https://www.leeds.gov.uk/parking-roads-and-travel/parking/city-centre-car-parks/hunslet-lane-car-park
+LCC02,West Street,Leeds City Council,53.798356,-1.560304,238,,9.50,,"Wellington Street, Leeds, LS1 4PD",https://www.leeds.gov.uk/parking-roads-and-travel/parking/city-centre-car-parks/west-street-car-park
+LCC03,Woodhouse Lane,Leeds City Council,53.804986,-1.546969,1240,,16.00,True,"Woodhouse Lane, Leeds, LS2 3AX",https://www.leeds.gov.uk/parking-roads-and-travel/parking/city-centre-car-parks/woodhouse-lane-car-park

@@ -1,0 +1,11 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Bogaardplein,Q-Park,52.03501,4.315535,832,2.60,18.00,True,"Prinses Beatrixlaan 969, 2284 BK Rijswijk",https://www.q-park.nl/nl-nl/parkeren/rijswijk/bogaardplein/
+QP02,In de Bogaard P2,Q-Park,52.03501,4.315535,668,2.60,18.00,,"Prinses Beatrixlaan 914, 2284 BK Rijswijk",https://www.q-park.nl/nl-nl/parkeren/rijswijk/in-de-bogaard-p2/
+QP03,In de Bogaard P7,Q-Park,52.046802,4.327428,47,2.60,18.00,,"Steenvoordelaan 370, 2284 BK Rijswijk",https://www.q-park.nl/nl-nl/parkeren/rijswijk/in-de-bogaard-p7/
+QP04,P+R Hoornwijck,Q-Park,52.051155,4.349131,446,2.10,11.50,True,"Laan van Zuid Hoorn 38, 2289 DE Rijswijk",https://www.q-park.nl/nl-nl/parkeren/rijswijk/p-r-hoornwijck/
+P101,Bogaard Stadscentrum P5,P1,52.0471,4.32941,230,2.31,17.00,True,"Generaal Spoorlaan 85B, 2284 BK Rijswijk",https://www.p1.nl/parkeerplaats/bogaard-stadscentrum-p5/
+PB01,Parking At the Park,ParkBee,52.037163,4.324813,,,,True,"Kessler Park 1, 2288 GS Rijswijk",https://parkbee.com/en/city/rijswijk
+PB02,Volmerlaan 7,ParkBee,52.037933,4.327472,,,,,"Volmerlaan 7, 2288 GC Rijswijk",https://parkbee.com/en/city/rijswijk
+PB03,De Bruyn Kopsstraat,ParkBee,52.042221,4.334877,,,,,"De Bruyn Kopstraat 15, 2288 EC Rijswijk",https://parkbee.com/en/city/rijswijk
+PB04,Braillelaan,ParkBee,52.046285,4.344113,,,,,"Braillelaan 9, 2289 CL Rijswijk",https://parkbee.com/en/city/rijswijk
+PB05,Laan van Hoornwijck,ParkBee,52.048218,4.349408,,,,True,"Laan van Hoornwijck 29, 2289 DG Rijswijk",https://parkbee.com/en/city/rijswijk

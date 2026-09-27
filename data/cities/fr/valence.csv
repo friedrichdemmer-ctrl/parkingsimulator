@@ -1,0 +1,13 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Chamfort,Q-Park,44.926149,4.894936,200,1.50,17.30,,"26 Rue de Clos Gaillard, 26000 Valence",https://www.q-park.fr/fr-fr/villes/valence/chamfort/
+QP02,Champ de Mars,Q-Park,44.9297662,4.8896752,842,2.50,19.80,True,"5 Place Championnet, 26000 Valence",https://www.q-park.fr/fr-fr/villes/valence/champ-de-mars/
+QP03,Chareton Est,Q-Park,44.934223,4.895884,109,1.50,17.30,,"46 Boulevard Vauban, 26000 Valence",https://www.q-park.fr/fr-fr/villes/valence/chareton-est/
+QP04,Chareton Ouest,Q-Park,44.93577,4.895495,97,1.50,17.30,,"1 Cours Chareton, 26000 Valence",https://www.q-park.fr/fr-fr/villes/valence/chareton-ouest/
+QP05,Chevandier,Q-Park,44.927494,4.89196,98,2.50,19.80,,"22 Rue Chevandier, 26000 Valence",https://www.q-park.fr/fr-fr/villes/valence/chevandier/
+QP06,Faventines,Q-Park,44.929358,4.898325,249,1.50,17.30,,"66 Rue Faventines, 26000 Valence",https://www.q-park.fr/fr-fr/villes/valence/faventines/
+QP07,Gare,Q-Park,44.9271369,4.892767,333,1.50,17.30,,"50 Rue Denis Papin, 26000 Valence",https://www.q-park.fr/fr-fr/villes/valence/gare/
+QP08,Hôtel de Ville,Q-Park,44.933816,4.893934,322,2.00,16.30,,"Rue Belle Image, 26000 Valence",https://www.q-park.fr/fr-fr/villes/valence/h%C3%B4tel-de-ville/
+QP09,Hugo Balzac,Q-Park,44.929077,4.892509,450,2.50,19.80,,"13 Rue Balzac, 26000 Valence",https://www.q-park.fr/fr-fr/villes/valence/hugo-balzac/
+QP10,Manouchian,Q-Park,44.933855,4.893884,58,2.00,16.30,,"Place Missak Manouchian, 26000 Valence",https://www.q-park.fr/fr-fr/villes/valence/manouchian/
+EF01,Gare Valence TGV P1 Alpes,Effia,44.988848,4.980144,811,,,True,"Gare Valence TGV, 26300 Alixan",https://www.effia.com/parking/parking-gare-de-valence-tgv-p1-alpes-effia
+EF02,Gare Valence TGV P2 Rhone,Effia,44.98931,4.978415,513,,,True,"Gare Valence TGV, 26300 Alixan",https://www.effia.com/parking/parking-gare-de-valence-tgv-p2-rhone-effia

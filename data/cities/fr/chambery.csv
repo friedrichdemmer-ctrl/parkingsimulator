@@ -1,0 +1,21 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Ravet,Q-Park,45.567644,5.924824,474,1.7,15.6,True,"2 Boulevard de Lemenc, 73000 Chambéry",https://www.q-park.fr/fr-fr/villes/chamb%C3%A9ry/ravet/
+QP02,Barbot,Q-Park,45.562553,5.925814,61,2.0,23.2,False,"55 Rue André Jacques, 73000 Chambéry",https://www.q-park.fr/fr-fr/villes/chamb%C3%A9ry/barbot/
+QP03,Verdun,Q-Park,45.572237,5.916308,128,1.5,16.2,False,"212 Quai des Allobroges, 73000 Chambéry",https://www.q-park.fr/fr-fr/villes/chamb%C3%A9ry/verdun/
+QP04,Cassine Gare,Q-Park,45.572202,5.920752,479,1.2,14.8,True,"268 Chemin de la Cassine, 73000 Chambéry",https://www.q-park.fr/fr-fr/villes/chamb%C3%A9ry/cassine-gare/
+QP05,Curial,Q-Park,45.563308,5.9228,242,1.7,15.6,True,"11 Place Monge (Carré Curial), 73000 Chambéry",https://www.q-park.fr/fr-fr/villes/chamb%C3%A9ry/curial/
+QP06,Roissard,Q-Park,45.569917,5.918174,149,2.0,23.2,False,"Quai du Jeu de Paume, 73000 Chambéry",https://www.q-park.fr/fr-fr/villes/chamb%C3%A9ry/roissard/
+QP07,Hôtel de Ville,Q-Park,45.566248,5.920758,243,2.1,22.6,True,"Place de l'Hôtel de Ville, 73000 Chambéry",https://www.q-park.fr/fr-fr/villes/chamb%C3%A9ry/h%C3%B4tel-de-ville/
+QP08,Château,Q-Park,45.564715,5.915715,604,1.7,14.3,True,"6 Chemin de l'Esplanade, 73000 Chambéry",https://www.q-park.fr/fr-fr/villes/chamb%C3%A9ry/ch%C3%A2teau/
+QP09,Europe,Q-Park,45.563392,5.922852,154,2.0,23.2,False,"Esplanade de l'Europe, 73000 Chambéry",https://www.q-park.fr/fr-fr/villes/chamb%C3%A9ry/europe/
+QP10,Falaise,Q-Park,45.562395,5.92602,490,1.2,9.9,True,"122 Rue André Jacques, 73000 Chambéry",https://www.q-park.fr/fr-fr/villes/chamb%C3%A9ry/falaise/
+QP11,Manège,Q-Park,45.563814,5.926434,79,2.0,23.2,False,"Place du Manège, 73000 Chambéry",https://www.q-park.fr/fr-fr/villes/chamb%C3%A9ry/man%C3%A8ge/
+QP12,Hôpital P1,Q-Park,45.56258,5.912399,259,2.2,17.8,True,"564 Avenue de Lyon, 73000 Chambéry",https://www.q-park.fr/fr-fr/villes/chamb%C3%A9ry/hopital-p1/
+QP13,Ducs,Q-Park,45.568465,5.924333,112,,,False,"1 Boulevard Lemenc, 73000 Chambéry",https://www.q-park.fr/fr-fr/villes/chamb%C3%A9ry/ducs/
+QP14,Chambéry P4,Q-Park,45.56258,5.912399,82,2.0,20.0,False,"564 Avenue de Lyon, 73000 Chambéry (coordinates approximated from Hôpital P1 - Q-Park's own page embeds null 0,0 geo for P4; same street address given by Q-Park)",https://www.q-park.fr/fr-fr/villes/chamb%C3%A9ry/chamb%C3%A9ry---p4/
+QP15,Les Halles,Q-Park,45.56657,5.9183,283,2.5,18.6,False,"3 Rue Derrière les Murs, 73000 Chambéry",https://www.q-park.fr/fr-fr/villes/chamb%C3%A9ry/les-halles/
+QP16,Stade - Piscine,Q-Park,45.5737399,5.9072053,430,1.2,12.8,True,"62 Square Louis Sève, 73000 Chambéry",https://www.q-park.fr/fr-fr/villes/chamb%C3%A9ry/stade-piscine/
+QP17,Chambéry Voirie (Management Contract),Q-Park,45.5675082,5.9205114,3422,,,False,"336 Quai Charles Ravet, 73000 Chambéry (on-street/voirie parking-meter management contract, not a structured garage; this is the 17th of Q-Park's own self-declared 'facilities' - shares its office address with SAGS, the entity Chambéry's own city page names as running voirie stationnement citywide)",https://www.q-park.fr/fr-fr/villes/chamb%C3%A9ry/chamb%C3%A9ry---voirie---management-contract/
+IN01,Palais de Justice,Indigo,45.568615,5.919764,400,2.1,22.6,False,"2 Place du Palais de Justice, 73000 Chambéry (capacity from Chambéry's own official city page - Indigo Neo's own site does not publish it)",https://www.indigoneo.fr/fr/parkings/23725/parking-palais-de-justice
+EF01,Gare de Chambéry,Effia,45.57195,5.91879,220,2.2,20.5,True,"90 Avenue de la Boisse, 73000 Chambéry (capacity from Chambéry's own official city page - Effia's own site does not publish it)",https://www.effia.com/parking/parking-gare-de-chambery-effia
+EF02,Gare de Chambéry P2,Effia,45.573382,5.917899,,,,False,"260 Avenue de la Boisse, 73000 Chambéry (subscription-only facility per Effia's own site - no walk-up hourly tariff published, capacity not published)",https://www.effia.com/parking/parking-gare-de-chambery-p2-effia

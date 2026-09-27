@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Centrum Tongeren,Q-Park,50.78301,5.462765,245,2.30,14.50,True,"Sint-Maternuswal 18, 3700 Tongeren",https://www.q-park.be/nl-be/parkeren/tongeren-borgloon/centrum-tongeren/
+QP02,Grote Markt,Q-Park,50.779613,5.461906,124,2.30,14.50,True,"Hondsstraat, 3700 Tongeren",https://www.q-park.be/nl-be/parkeren/tongeren-borgloon/grote-markt/
+QP03,Julianus,Q-Park,50.781835,5.470094,230,2.30,14.50,True,"Clarissenstraat 41, 3700 Tongeren",https://www.q-park.be/nl-be/parkeren/tongeren-borgloon/julianus/

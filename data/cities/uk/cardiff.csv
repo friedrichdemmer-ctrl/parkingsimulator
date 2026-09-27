@@ -1,0 +1,30 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Cardiff Bay,Q-Park,51.46587,-3.161651,1239,2.00,15.00,,"Pierhead Street, Cardiff, CF10 4PH",https://www.q-park.co.uk/en-gb/cities/cardiff/cardiff-bay/
+QP02,Greyfriars,Q-Park,51.4833225,-3.1759306,254,6.50,35.00,,"Greyfriars Road, Cardiff, CF10 3AD",https://www.q-park.co.uk/en-gb/cities/cardiff/greyfriars/
+QP03,Westgate Street,Q-Park,51.4799869,-3.1805983,330,6.00,32.00,,"Quay Street, Cardiff, CF10 1DZ",https://www.q-park.co.uk/en-gb/cities/cardiff/westgate-street/
+NCP01,Dumfries Place,NCP,51.4840347,-3.1714909,955,2.50,25.00,,"Dumfries Place, Off St Andrews Lane, Cardiff, CF10 3FN",https://www.ncp.co.uk/find-a-car-park/car-parks/cardiff-dumfries-place/
+NCP02,Knox Road,NCP,51.4822571,-3.1679971,747,3.00,25.00,,"1 Knox Road, Cardiff, CF24 0EA",https://www.ncp.co.uk/find-a-car-park/car-parks/cardiff-knox-road/
+NCP03,Stadium (Castle Court),NCP,51.4799792,-3.182134,82,5.95,32.95,,"Castle Court, Westgate Street, Cardiff, CF10 1DB",https://www.ncp.co.uk/find-a-car-park/car-parks/cardiff-stadium/
+NCP04,Oxford Lane,NCP,51.4857,-3.16483,37,,9.95,,"Oxford Lane, Cardiff, CF24 3DU",https://www.ncp.co.uk/find-a-car-park/car-parks/cardiff-oxford-lane/
+NCP05,Park Place,NCP,51.4863,-3.17624,13,,10.95,,"2 Museum Place, Cardiff, CF10 3BG",https://www.ncp.co.uk/find-a-car-park/car-parks/cardiff-park-place/
+AP01,Capitol Shopping Centre,APCOA,51.481923,-3.171709,388,,,,"North Edward Street, Cardiff, CF10 2HH",https://www.apcoa.co.uk/find-parking/locations/cardiff/capitol-shopping-centre-cardiff
+AP02,Cardiff Central Quay Station,APCOA,51.473722,-3.179366,681,,,True,"Crawshay Street, Cardiff, CF10 5DS",https://www.apcoa.co.uk/find-parking/locations/cardiff/cardiff-central-quay-station
+AP03,Llandaff Station,APCOA,51.50815224,-3.22820207,99,0.00,,,"Station Road, Llandaff, Cardiff, CF4 2EZ",https://www.apcoa.co.uk/find-parking/locations/cardiff/llandaff-station-cardiff
+CC01,Castle Mews,Cardiff Council,51.4858409,-3.1852962,48,3.50,,True,"Castle Mews, Cardiff, CF10 3ER",https://www.cardiff.gov.uk/ENG/resident/Parking-roads-and-travel/parking/Car-parks/Pages/Car-Parks.aspx
+CC02,North Road,Cardiff Council,51.4888400,-3.1855400,189,3.00,12.00,True,"North Road, Cardiff, CF10 3DU",https://www.cardiff.gov.uk/ENG/resident/Parking-roads-and-travel/parking/Car-parks/Pages/Car-Parks.aspx
+CC03,Sophia Gardens,Cardiff Council,51.4819900,-3.1890500,284,3.50,24.50,True,"Sophia Gardens, Cardiff, CF11 9FH",https://www.cardiff.gov.uk/ENG/resident/Parking-roads-and-travel/parking/Car-parks/Pages/Car-Parks.aspx
+CC04,Cardiff Bay Havannah Street,Cardiff Council,51.4611600,-3.1673200,238,2.50,24.00,,"Havannah Street, Cardiff Bay, Cardiff, CF10 5SG",https://www.cardiff.gov.uk/ENG/resident/Parking-roads-and-travel/parking/Car-parks/Pages/Car-Parks.aspx
+CC05,The Barrage,Cardiff Council,51.4457969,-3.1669268,119,2.20,,,"The Barrage, Cardiff Bay, Cardiff, CF64 1LQ",https://www.cardiff.gov.uk/ENG/resident/Parking-roads-and-travel/parking/Car-parks/Pages/Car-Parks.aspx
+CC06,Gray Street,Cardiff Council,51.4818049,-3.2012413,89,,,,"Gray Street, Canton, Cardiff, CF11 9NE",https://www.cardiff.gov.uk/ENG/resident/Parking-roads-and-travel/parking/Car-parks/Pages/Car-Parks.aspx
+CC07,Harvey Street,Cardiff Council,51.4824399,-3.2048700,64,,,,"Harvey Street, Canton, Cardiff, CF5 1QW",https://www.cardiff.gov.uk/ENG/resident/Parking-roads-and-travel/parking/Car-parks/Pages/Car-Parks.aspx
+CC08,Severn Road,Cardiff Council,51.4816300,-3.1979559,79,,,True,"Severn Road, Canton, Cardiff, CF11 9DX",https://www.cardiff.gov.uk/ENG/resident/Parking-roads-and-travel/parking/Car-parks/Pages/Car-Parks.aspx
+CC09,Wellington Street,Cardiff Council,51.4806900,-3.1932603,33,,,,"Wellington Street, Canton, Cardiff, CF11 9BL",https://www.cardiff.gov.uk/ENG/resident/Parking-roads-and-travel/parking/Car-parks/Pages/Car-Parks.aspx
+CC10,Heathwood Lane,Cardiff Council,51.5145500,-3.1836800,35,,,,"Heathwood Lane, Heath, Cardiff, CF14 4EL",https://www.cardiff.gov.uk/ENG/resident/Parking-roads-and-travel/parking/Car-parks/Pages/Car-Parks.aspx
+CC11,Heath Park Model Railway,Cardiff Council,51.5120099,-3.1830599,36,,,,"Heath Park, Cardiff, CF14 4EN",https://www.cardiff.gov.uk/ENG/resident/Parking-roads-and-travel/parking/Car-parks/Pages/Car-Parks.aspx
+CC12,Heath Park Main,Cardiff Council,51.5106776,-3.1863653,236,,5.00,True,"Heath Park, Cardiff, CF14 4EP",https://www.cardiff.gov.uk/ENG/resident/Parking-roads-and-travel/parking/Car-parks/Pages/Car-Parks.aspx
+CC13,Llandaff High Street,Cardiff Council,51.4940500,-3.2186600,82,,,True,"Llandaff High Street, Cardiff, CF5 2DX",https://www.cardiff.gov.uk/ENG/resident/Parking-roads-and-travel/parking/Car-parks/Pages/Car-Parks.aspx
+CC14,Llandaff Fields and Turning Head,Cardiff Council,51.4901100,-3.2033299,80,,,True,"Llandaff Fields, Cardiff, CF11 9JQ",https://www.cardiff.gov.uk/ENG/resident/Parking-roads-and-travel/parking/Car-parks/Pages/Car-Parks.aspx
+CC15,Pontcanna Fields,Cardiff Council,51.4916399,-3.2019000,149,,5.00,True,"Pontcanna Fields, Cardiff, CF11 9HY",https://www.cardiff.gov.uk/ENG/resident/Parking-roads-and-travel/parking/Car-parks/Pages/Car-Parks.aspx
+CC16,Whitchurch Merthyr Road,Cardiff Council,51.5125070,-3.2190414,64,,,,"Merthyr Road, Whitchurch, Cardiff, CF14 1DB",https://www.cardiff.gov.uk/ENG/resident/Parking-roads-and-travel/parking/Car-parks/Pages/Car-Parks.aspx
+CC17,Penylan Library,Cardiff Council,51.4965300,-3.1657900,52,,5.00,True,"Penylan Library, Cardiff, CF23 5EE",https://www.cardiff.gov.uk/ENG/resident/Parking-roads-and-travel/parking/Car-parks/Pages/Car-Parks.aspx
+CC18,Penlline Road,Cardiff Council,51.5139077,-3.2213628,55,,,True,"Penlline Road, Cardiff, CF14 2AA",https://www.cardiff.gov.uk/ENG/resident/Parking-roads-and-travel/parking/Car-parks/Pages/Car-Parks.aspx

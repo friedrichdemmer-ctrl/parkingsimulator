@@ -1,0 +1,11 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Chavanelle Centre-Ville,Q-Park,45.434197,4.392359,370,2.8,25.4,True,"20 Place Chavanelle, 42000 Saint Etienne",https://www.q-park.fr/fr-fr/villes/saint-etienne/chavanelle/
+QP02,Fauriel (CHPL),Q-Park,45.428543,4.416639,385,1.6,18.0,False,"Rue Baudin, 42000 Saint Etienne",https://www.q-park.fr/fr-fr/villes/saint-etienne/fauriel-chpl/
+QP03,Hôtel de Ville,Q-Park,45.43878,4.387995,325,3.2,22.0,True,"13 Place Hôtel de Ville, 42000 Saint Etienne",https://www.q-park.fr/fr-fr/villes/saint-etienne/h%c3%b4tel-de-ville/
+QP04,Palais de Justice,Q-Park,45.43681,4.383325,247,2.8,25.4,True,"41 Rue Georges Teissier, 42000 Saint Etienne",https://www.q-park.fr/fr-fr/villes/saint-etienne/palais-de-justice/
+EFF01,Gare de Saint-Étienne Châteaucreux,Effia,45.443681,4.397075,,2.7,24.8,True,"44 Rue Ferdinand, 42000 Saint Etienne",https://www.effia.com/parking/parking-gare-de-saint-etienne-chateaucreux-effia
+EFF02,Antonin Moine,Effia,45.436404,4.391398,,2.5,,True,"Place Maxime Gorky, 42000 Saint Etienne",https://www.effia.com/parking/parking-saint-etienne-antonin-moine-effia
+EFF03,Fauriel,Effia,45.428425,4.401671,,1.7,,True,"26 Rue Ponchardier, 42000 Saint Etienne",https://www.effia.com/parking/parking-saint-etienne-fauriel-effia
+EFF04,Jean Jaurès,Effia,45.44088,4.38459,,2.9,,True,"Place Jean Jaures, 42000 Saint Etienne",https://www.effia.com/parking/parking-saint-etienne-jean-jaures-effia
+EFF05,Vigne,Effia,45.441033,4.39084,,,,False,"Rue de la Vigne, 42000 Saint Etienne",https://www.effia.com/parking/parking-saint-etienne-vigne-effia
+EFF06,Gare de Saint-Étienne Le Clapier,Effia,45.43668,4.37857,,0.9,,True,"10 Boulevard Pierre Mendès, 42000 Saint Etienne",https://www.effia.com/parking/parking-gare-de-saint-etienne-le-clapier-effia

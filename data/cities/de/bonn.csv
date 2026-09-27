@@ -1,0 +1,21 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Fronhofer Galeria,Q-Park,50.6825815,7.1510338,272,2.50,15.00,True,"Schwertberger Straße 12, 53177 Bonn",https://www.q-park.de/de-de/staedte/bonn-bad-godesberg/fronhofer-galeria/
+AP01,City Garage Bonn,APCOA,50.7356800,7.0966510,97,1.99,24.99,,"Poststraße 24-27, 53113 Bonn",https://www.apcoa.de/einmal-parken/standorte/bonn/city-garage-bonn
+CP01,Tiefgarage Brückenforum,Contipark,50.7382900,7.1160000,179,1.20,8.00,,"Friedrich-Breuer Straße 17-19, 53225 Bonn",https://www.contipark.de/de/parken/bonn/tiefgarage-brueckenforum/
+DB01,Parkhaus Hauptbahnhof City P1,DB BahnPark,50.7350970,7.0919360,258,1.50,7.00,,"Am alten Friedhof 17, 53111 Bonn",https://www.contipark.de/de/parken/bonn/parkhaus-hauptbahnhof-city-p1/
+DB02,Parkplatz Bahnhof Bad Godesberg Vorderseite P1,DB BahnPark,50.6828470,7.1606210,27,2.20,5.50,,"Moltkestraße, 53173 Bonn",https://www.contipark.de/de/parken/bonn/parkplatz-bahnhof-bad-godesberg-vorderseite-p1/
+DB03,Parkplatz Bahnhof Bad Godesberg Von-Groote-Platz Nord P3,DB BahnPark,50.6846060,7.1595110,54,2.20,3.50,,"Von-Groote-Platz 1, 53173 Bonn",https://www.contipark.de/de/parken/bonn/parkplatz-bahnhof-p3-bonn/
+DB04,Parkplatz Bahnhof Bad Godesberg Von-Groote-Platz Süd P2,DB BahnPark,50.6835870,7.1610510,70,2.20,3.50,,"Von-Groote-Platz 4, 53173 Bonn",https://www.contipark.de/de/parken/bonn/parkplatz-bahnhof-vongroote-pl-sued-p2/
+DB05,Parkplatz Bahnhof P1 (Bonn-Mehlem),DB BahnPark,50.6695840,7.1812520,87,0.50,2.00,,"Mainzer Straße 24, 53179 Bonn",https://www.contipark.de/de/parken/bonn/parkplatz-bahnhof-p1-bonn/
+BB01,Parkhaus Museumsmeile,B+B Parkhaus,50.7130681,7.1205956,535,2.00,20.00,True,"Emil-Nolde-Straße 11, 53113 Bonn",https://www.bb-parkhaus.de/staedte/bonn/parkhaus-museumsmeile
+BCP01,Marktgarage,Bonner City Parkraum (BCP),50.7347234,7.1034384,279,2.00,25.00,,"Stockenstraße, 53113 Bonn",https://bcp-bonn.de/marktgarage/
+BCP02,Münsterplatzgarage,Bonner City Parkraum (BCP),50.7354175,7.0969970,312,2.00,25.00,,"Budapester Straße, 53111 Bonn",https://bcp-bonn.de/muensterplatzgarage/
+BCP03,Friedensplatzgarage,Bonner City Parkraum (BCP),50.7369613,7.0969060,810,2.00,25.00,,"Oxfordstraße, 53111 Bonn",https://bcp-bonn.de/friedensplatzgarage/
+BCP04,Stadthausgarage,Bonner City Parkraum (BCP),50.7376180,7.0941252,300,2.00,25.00,,"Weiherstraße, 53111 Bonn",https://bcp-bonn.de/stadthausgarage/
+BCP05,Parkhaus Hauptbahnhof,Bonner City Parkraum (BCP),50.7332138,7.0942341,258,2.00,25.00,True,"Rabinstraße, 53111 Bonn",https://bcp-bonn.de/hauptbahnhof-park/
+BCP06,Operngarage,Bonner City Parkraum (BCP),50.7375992,7.1070124,380,2.00,25.00,True,"Brassertufer / Am Boeselagerhof, 53111 Bonn",https://bcp-bonn.de/operngarage/
+BCP07,Unigarage,Bonner City Parkraum (BCP),50.7340378,7.1045812,438,2.00,25.00,,"Regina-Pacis-Weg, 53113 Bonn",https://bcp-bonn.de/unigarage/
+BCP08,Beethoven-Parkhaus,Bonner City Parkraum (BCP),50.7394682,7.1031372,426,2.00,25.00,True,"Engeltalstraße, 53111 Bonn",https://bcp-bonn.de/beethoven-parkhaus/
+BCP09,Beethoven-Parkplatz,Bonner City Parkraum (BCP),50.7411609,7.1015514,58,2.50,25.00,True,"Wachsbleiche, 53111 Bonn",https://bcp-bonn.de/beethoven-parkplatz/
+BCP10,Alte Bahnhofgarage,Bonner City Parkraum (BCP),50.7338768,7.0959051,89,2.00,25.00,,"Münsterstraße, 53111 Bonn",https://bcp-bonn.de/alte-bahnhofgarage/
+BCP11,Parkplatz Charles de Gaulle Str.,Bonner City Parkraum (BCP),50.7171670,7.1330020,210,1.50,20.00,,"Charles-de-Gaulle-Straße 5, 53113 Bonn",https://bcp-bonn.de/parkplatz-charles-de-gaulle-str/

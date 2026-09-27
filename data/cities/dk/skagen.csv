@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,"Skagen Gl. Station - Sct. Laurentii Vej 20A - 20B",Q-Park,57.723746,10.592381,38,18,,True,"Skagen Gl. Station - Sct. Laurentii Vej 20A - 20B, 9990 Skagen","https://www.q-park.dk/da/parkering/skagen/skagen-gl,-d-,-station---sct,-d-,-laurentii-vej-20a---20b/"
+AP01,Auktionsvej 2,APCOA,57.7195258,10.58909057,131,20,480,,"Auktionsvej 2, 9990 Skagen",https://www.apcoa.dk/find-en-p-plads/lokationer/skagen/auktionsvej-2
+AP02,Stålkajen,APCOA,57.71569973,10.58577808,56,16,384,,"Stålkajen, 9990 Skagen",https://www.apcoa.dk/find-en-p-plads/lokationer/skagen/staalkajen

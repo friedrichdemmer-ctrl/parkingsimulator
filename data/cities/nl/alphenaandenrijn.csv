@@ -1,0 +1,6 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,P+R Sacharovlaan,Q-Park,52.127258,4.655757,205,1.99,8.00,,"Dr. A.D. Sacharovlaan, 2405 ZW Alphen aan den Rijn",https://www.q-park.nl/nl-nl/parkeren/alphen-aan-den-rijn/p-r-sacharovlaan/
+GA01,Castellum,Gemeente Alphen aan den Rijn,52.129113,4.657577,742,3.00,,True,"Raoul Wallenbergplein, 2405 CZ Alphen aan den Rijn",https://alphenaandenrijn.parkeerservice.nl/parkeren-in-garages/parkeergarages-en-terreinen/parkeergarage-castellum/
+GA02,Aarhof,Gemeente Alphen aan den Rijn,52.130059,4.666136,621,3.00,,True,"Aarplein 12, 2406 BT Alphen aan den Rijn",https://alphenaandenrijn.parkeerservice.nl/parkeren-in-garages/parkeergarages-en-terreinen/parkeerdak-aarhof/
+GA03,Hoogvliet,Gemeente Alphen aan den Rijn,52.127132,4.660527,48,3.00,,,"Paradijslaan, 2405 CC Alphen aan den Rijn",https://alphenaandenrijn.parkeerservice.nl/parkeren-in-garages/parkeergarages-en-terreinen/parkeerdak-hoogvliet/
+GA04,Bospark,Gemeente Alphen aan den Rijn,52.133493,4.656607,182,3.00,,,"Prins Bernhardlaan/Laan der Continenten, Alphen aan den Rijn",https://alphenaandenrijn.parkeerservice.nl/parkeren-in-garages/parkeergarages-en-terreinen/parkeerterrein-bospark/

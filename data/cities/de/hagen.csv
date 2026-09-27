@@ -1,0 +1,22 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Graf von Galen Carree,Q-Park,51.35961,7.46029,195,2.00,18.00,,"Wehringhauser Straße 2, 58095 Hagen",https://www.q-park.de/de-de/staedte/hagen/graf-von-galen-carree/
+QP02,Rathaus Galerie,Q-Park,51.3581679,7.4758729,424,2.50,13.00,,"Potthofstraße 17, 58095 Hagen",https://www.q-park.de/de-de/staedte/hagen/rathaus-galerie/
+QP03,Theater-Karree,Q-Park,51.359668,7.4666777,150,2.20,12.00,yes,"Neumarktstraße 11, 58095 Hagen",https://www.q-park.de/de-de/staedte/hagen/theater-karree/
+QP04,Volme Galerie,Q-Park,51.35938,7.47533,824,2.00,9.00,yes,"Holzmüllerstraße, 58095 Hagen",https://www.q-park.de/de-de/staedte/hagen/volme-galerie/
+QP05,Zentral Parkhaus,Q-Park,51.3615957,7.4638829,316,1.70,12.00,,"Stresemannstraße 3, 58095 Hagen",https://www.q-park.de/de-de/staedte/hagen/zentral-parkhaus/
+AP01,Bettermann,APCOA,51.359177,7.478951,153,2.09,20.00,,"Rembergstraße 4, 58095 Hagen",https://www.apcoa.de/einmal-parken/standorte/hagen/bettermann
+AP02,Volme Parkhaus,APCOA,51.362464,7.472378,505,2.00,20.00,,"Märkischer Ring 50, 58097 Hagen",https://www.apcoa.de/parken/hagen/volme-parkhaus/
+AP03,Parkplatz Rathausstraße,APCOA,51.358629,7.478024,67,2.99,20.00,,"Rathausstraße, 58095 Hagen",https://www.apcoa.de/einmal-parken/standorte/hagen/parkplatz-rathausstrasse
+AP04,Denkmalstr. 3 (Märkische Bank),APCOA,51.39594243,7.46940996,21,2.00,25.00,,"Denkmalstraße 3, 58099 Hagen",https://www.apcoa.de/einmal-parken/standorte/hagen/post
+CP01,Parkhaus City,Contipark,51.359499,7.471578,363,2.00,12.00,,"Körnerstraße 31, 58095 Hagen",https://www.contipark.de/de/parken/hagen/parkhaus-city-hagen/
+CP02,Parkplatz Hauptbahnhof P1,Contipark,51.364793,7.461589,112,1.50,5.00,,"Wehrstraße 1, 58089 Hagen",https://www.contipark.de/de/parken/hagen/parkplatz-hauptbahnhof-p1-hagen/
+CP03,Tiefgarage Sparkassen-Karree,Contipark,51.3593794,7.4731386,150,2.00,12.00,yes,"Sparkassen-Karree 1, 58095 Hagen",https://www.parkinglist.de/parkplatz/Hagen/Tiefgarage-Sparkasse-Hagen-1165
+GB01,Tiefgarage Berliner Platz,Goldbeck Parking Services,51.3618461,7.4616762,98,,18.00,,"Berliner Platz, 58095 Hagen",https://www.goldbeck-parking.de/en/Reservation/Hagen
+GB02,Parkhaus Elbershallen,Goldbeck Parking Services,51.3521088,7.4822813,350,1.50,5.00,,"Elbershallen 8, 58095 Hagen",https://www.elbershallen.de/anfahrt-parken/
+GB03,Parkhaus Springe (CineStar),Goldbeck Parking Services,51.354755,7.47965,240,,,,"Springe 1, 58095 Hagen",https://www.cinestar.de/kino-hagen/info/anfahrt
+GB04,Parkplatz Springe (Außenstellplatz),Goldbeck Parking Services,51.354755,7.47965,110,,,,"Springe 1, 58095 Hagen",https://www.cinestar.de/kino-hagen/info/anfahrt
+GB05,Parkhaus Mittelstadt,Goldbeck Parking Services,51.3567115,7.4646651,305,2.00,7.50,,"Bergischer Ring 82, 58095 Hagen",https://www.goldbeck.de/unternehmen/newsroom/news/doppelauftrag-fuer-goldbeck-parking-services-in-hagen-parkraummanagement-fuer-zwei-weitere-parkobjekte
+PE01,Potthof,Parkbetriebe Eckhardt,51.357721,7.4770494,54,1.50,12.00,,"Potthofstraße 20, 58095 Hagen",http://www.parken-mit-herz.de/potthof.html
+PE02,Peek & Cloppenburg,Parkbetriebe Eckhardt,51.3578662,7.468077,85,1.50,15.00,,"Hochstraße 80, 58095 Hagen",http://www.parken-mit-herz.de/peek.html
+PE03,Scherfig,Parkbetriebe Eckhardt,51.3577459,7.4689671,67,1.50,15.00,,"Hochstraße 116, 58095 Hagen",http://www.parken-mit-herz.de/scherfig.html
+IN01,Parkhaus Galeria Kaufhof,Unbekannt,51.3569798,7.470832,83,,,,"Hochstraße 91, 58095 Hagen",https://www.hagen.de/unser-service/mobilitaet-und-verkehr/auto-und-parken/

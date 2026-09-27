@@ -1,0 +1,15 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Gallerierne,Q-Park,55.9284139,12.3019244,215,16.00,380.00,True,"Hostrupsvej 22, 3400 Hillerød",https://www.q-park.dk/da/parkering/hiller%c3%b8d/gallerierne/
+QP02,"Banestræde, Ramblaen og Campusvej",Q-Park,55.9280734,12.3126281,50,25.00,,,"Banestræde, Ramblaen og Campusvej, 3400 Hillerød","https://www.q-park.dk/da/parkering/hiller%c3%b8d/banestr%c3%a6de,-ramblaen-og-campusvej/"
+QP03,Carlsbergvej 32 A-D,Q-Park,55.9265799,12.3129713,116,25.00,,,"Carlsbergvej 32 A-D, 3400 Hillerød",https://www.q-park.dk/da/parkering/hiller%c3%b8d/carlsbergvej-32-a-d/
+QP04,Munkeengen 4-32,Q-Park,55.9300113,12.2953538,500,12.00,,,"Munkeengen 4-32, 3400 Hillerød",https://www.q-park.dk/da/parkering/hiller%c3%b8d/munkeengen-4-32/
+QP05,Campusvej 169 - 373,Q-Park,55.9290585,12.3125762,36,15.00,50.00,,"Campusvej 169 - 373, 3400 Hillerød",https://www.q-park.dk/da/parkering/hiller%c3%b8d/campusvej-169---373/
+AP01,Slangerupgade 6,APCOA,55.932392,12.297321,20,15.00,,,"Slangerupgade 6, 3400 Hillerød",https://www.apcoa.dk/find-en-p-plads/lokationer/hilleroed/slangerupgade-6
+AP02,Slotsgade 65,APCOA,55.93309,12.297003,80,,,,"Slotsgade 65, 3400 Hillerød",https://www.apcoa.dk/find-en-p-plads/lokationer/hilleroed/slotsgade-65
+AP03,Frederiksborg Slot,APCOA,55.934912,12.297471,96,12.00,,,"Frederiksborg Slot 7, 3400 Hillerød",https://www.apcoa.dk/find-en-p-plads/lokationer/hilleroed/frederiksborg-slot
+AP04,Slotsgade 31-35,APCOA,55.9307,12.298248,45,20.00,,,"Slotsgade 31-35, 3400 Hillerød",https://www.apcoa.dk/find-en-p-plads/lokationer/hilleroed/slotsgade-31-35
+AP05,Slotsgade 63,APCOA,55.933172,12.297504,20,15.00,,,"Slotsgade 63, 3400 Hillerød",https://www.apcoa.dk/find-en-p-plads/lokationer/hilleroed/slotsgade-63
+AP06,Finn Bager Jensens Vej 1-15,APCOA,55.9418825,12.26129404,159,10.00,,,"Finn Bager Jensens Vej 1-15, 3400 Hillerød",https://www.apcoa.dk/find-en-p-plads/lokationer/hilleroed/finn-bager-jensens-vej-1-15
+AP07,Frederiksværksgade 154,APCOA,55.94220115,12.26019465,75,20.00,,,"Frederiksværksgade 154, 3400 Hillerød",https://www.apcoa.dk/find-en-p-plads/lokationer/hilleroed/frederiksvaerksgade-154
+AP08,Slotsgade 67,APCOA,55.93353266,12.29652658,32,15.00,,,"Slotsgade 67, 3400 Hillerød",https://www.apcoa.dk/find-en-p-plads/lokationer/hilleroed/slotsgade-67-1
+HK01,Parkeringshus Torvet,Hillerød Kommune,55.9297310,12.3055410,345,10.00,,,"Østergade 3, 3400 Hillerød",https://hillerod.dk/service-og-selvbetjening/veje-og-trafik/parkering/parkeringshus-torvet/

@@ -1,0 +1,2 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Saint Vincent,Q-Park,48.650404,-2.022453,480,2.7,40.6,True,"Place Saint-Vincent, 35400 Saint Malo",https://www.q-park.fr/fr-fr/villes/saint-malo/saint-vincent/

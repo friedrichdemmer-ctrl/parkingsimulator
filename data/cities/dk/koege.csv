@@ -1,0 +1,6 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Bag Haverne 5-7,Q-Park,55.4550152,12.1847111,40,10,,,"Bag Haverne 5-7, 4600 Køge","https://www.q-park.dk/da/parkering/k%c3%b8ge/brogade,-d-,-bag-haverne-matr,-d-,-233a,-231b,-233c/"
+AP01,Strædet Køge P-kælder,APCOA,55.4595510,12.1861400,500,10,,,"Rådhusstræde 12B, 4600 Køge",https://www.apcoa.dk/all-locations-by-city/koege/straedet-koege-p-kaelder/
+KK01,Søndre Molevej Parkeringshus,Køge Kommune,55.4520640,12.1936780,280,10,,,"Søndre Molevej, 4600 Køge",https://www.koege.dk/om-koege-kommune/presse-og-kommunikation/nyheder-og-aktuelt/nyheder/parkeringshuset-paa-soendre-havn-aabner-fredag-den-28-november
+CP01,Bag Haverne (Køge Kyst),CP Parking,55.4553913,12.1842947,,10,,,"Bag Haverne, 4600 Køge",https://koegekyst.dk/byen/parkering/
+CP02,Collstropgrunden (Køge Kyst),CP Parking,55.4584103,12.1874503,,10,,,"Østre Banevej, 4600 Køge",https://koegekyst.dk/byen/parkering/

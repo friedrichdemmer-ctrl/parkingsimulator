@@ -1,0 +1,17 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,City Plaza,Q-Park,51.2554427,7.1504004,151,1.50,9.00,,"Döppersberg 51, 42103 Wuppertal",https://www.q-park.de/de-de/staedte/wuppertal/city-plaza/
+AP01,Neumarkt,APCOA,51.258818,7.147249,89,2.60,20.00,,"Grabenstr. 5, 42103 Wuppertal",https://www.apcoa.de/einmal-parken/standorte/wuppertal/neumarkt
+CP01,Parkhaus Hofkamp,Contipark,51.258833,7.150839,534,2.20,16.00,,"Hofkamp 46, 42103 Wuppertal",https://www.contipark.de/de/parken/wuppertal/parkhaus-hofkamp/
+CP02,Parkhaus Hofaue City,Contipark,51.257391,7.15109,346,2.00,16.00,True,"Hofaue 71, 42103 Wuppertal",https://www.contipark.de/de/parken/wuppertal/parkhaus-hofaue-city/
+CP03,Parkhaus Islandufer Sparkasse,Contipark,51.255387,7.145638,225,2.00,12.00,,"Islandufer 15, 42103 Wuppertal",https://www.contipark.de/de/parken/wuppertal/parkhaus-islandufer-sparkasse/
+CP04,Parkhaus Alter Markt,Contipark,51.270239,7.19641,290,2.00,12.00,,"Steinweg 2, 42275 Wuppertal",https://www.contipark.de/de/parken/wuppertal/parkhaus-alter-markt/
+CP05,Tiefgarage Johannisberg,Contipark,51.25416,7.145341,344,2.00,14.00,,"Johannisberg 1, 42103 Wuppertal",https://www.contipark.de/de/parken/wuppertal/tiefgarage-johannisberg/
+DB01,Parkhaus Bundesallee P1,DB BahnPark,51.25615,7.15219,205,1.50,5.00,,"Bundesallee 218-222, 42103 Wuppertal",https://www.contipark.de/de/parken/wuppertal/parkhaus-bundesallee-p1/
+BB01,Parkplatz Bergstraße,B+B Parkhaus,51.2586095,7.1440178,,1.20,9.00,,"Bergstraße 21, 42105 Wuppertal",https://www.bb-parkhaus.de/staedte/wuppertal/parkplatz-bergstrasse
+BB02,Parkplatz Kleine Klotzbahn,B+B Parkhaus,51.2588023,7.1441295,,2.00,20.00,,"Kleine Klotzbahn 37, 42105 Wuppertal",https://www.bb-parkhaus.de/staedte/wuppertal/parkplatz-kleine-klotzbahn
+BB03,Parkplatz Teijin,B+B Parkhaus,51.2559633,7.1427973,,2.50,20.00,,"Mäuerchen 12, 42103 Wuppertal",https://www.bb-parkhaus.de/staedte/wuppertal/parkplatz-teijin
+BB04,Parkplatz Wilbergstraße,B+B Parkhaus,51.2595095,7.149067,,1.20,7.20,,"Wilbergstraße 15, 42107 Wuppertal",https://www.bb-parkhaus.de/staedte/wuppertal/parkplatz-wilbergstrasse
+WSW01,Parkhaus Hauptbahnhof,WSW mobil GmbH,51.2551407,7.1514461,250,1.50,12.00,True,"Döppersberg 53, 42103 Wuppertal",https://www.wsw-online.de/parken-wuppertal/parkhaus-hauptbahnhof/
+WSW02,Parkhaus Stadthalle,WSW mobil GmbH,51.2522931,7.1403637,168,1.50,12.00,True,"Südstraße 26, 42103 Wuppertal",https://www.wsw-online.de/parken-wuppertal/parken-stadthalle/
+WSW03,Parkplatz Stadthalle,WSW mobil GmbH,51.2522931,7.1403637,125,1.50,12.00,,"Südstraße 26, 42103 Wuppertal",https://www.wsw-online.de/parken-wuppertal/parken-stadthalle/
+WSW04,Parkplatz Carnaper Platz,WSW mobil GmbH,51.2767514,7.1880167,354,1.00,4.00,,"Carnaper Platz, 42283 Wuppertal",https://www.wsw-online.de/parken-wuppertal/parkplatz-carnaper-platz/

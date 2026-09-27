@@ -1,0 +1,5 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Val de Seine,Q-Park,48.82944,2.262639,297,2.50,23.20,True,"5 Rue Rouget de Lisle, 92130 Issy Les Moulineaux",https://www.q-park.fr/fr-fr/villes/issy-les-moulineaux/val-de-seine/
+IN01,Hôtel de Ville,Indigo,48.824512,2.27371,,,,True,"60 Rue du Général Leclerc, 92130 Issy-les-Moulineaux",https://www.indigoneo.fr/fr/parkings/2915/parking-hotel-de-ville
+IN02,Ile Saint Germain,Indigo,48.82541,2.258259,,,,True,"169 Quai de Stalingrad, 92130 Issy-les-Moulineaux",https://www.indigoneo.fr/fr/parkings/429/parking-ile-saint-germain
+IN03,Corentin Celton,Indigo,48.826701,2.277716,,,,True,"19 Rue Vaudetard, 92130 Issy-les-Moulineaux",https://www.indigoneo.fr/fr/parkings/2916/parking-corentin-celton

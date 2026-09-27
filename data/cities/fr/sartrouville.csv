@@ -1,0 +1,2 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Lamartine,Q-Park,48.938291,2.157479,430,2.6,15.1,True,"82 Avenue Jean Jaurès, 78500 Sartrouville",https://www.q-park.fr/fr-fr/villes/sartrouville/lamartine/

@@ -1,0 +1,8 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Lundegade 4,Q-Park,56.0376565,12.6097122,27,14,,,"Lundegade 4, 3000 Helsingør",https://www.q-park.dk/da/parkering/helsing%c3%b8r/lundegade-4/
+QP02,Mads Holms Vej 7,Q-Park,56.0313369,12.6017323,10,8,,,"Mads Holms Vej 7, 3000 Helsingør",https://www.q-park.dk/da/parkering/helsing%c3%b8r/mads-holms-vej-7/
+QP03,Murergade 8A-10,Q-Park,56.033133,12.604981,9,14,,,"Murergade 8A-10, 3000 Helsingør",https://www.q-park.dk/da/parkering/helsing%c3%b8r/murergade-8a-10/
+QP04,Marienlyst - Ndr. Strandvej 2,Q-Park,56.0441001,12.602656,300,10,140,,"Ndr. Strandvej 2, 3000 Helsingør","https://www.q-park.dk/da/parkering/helsing%c3%b8r/ndr,-d-,-strandvej-2/"
+QP05,Nordlysvænget 4-8,Q-Park,56.0402238,12.6114042,24,12,,,"Nordlysvænget 4-8, 3000 Helsingør",https://www.q-park.dk/da/parkering/helsing%c3%b8r/nordlysv%c3%a6nget-4-8/
+AP01,"Hammershave, Trækbanen",APCOA,56.033836,12.605955,109,,,True,"Murergade 5N, 3000 Helsingør",https://www.apcoa.dk/find-en-p-plads/lokationer/helsingoer/hammershave-traekbanen
+AP02,Kronborg Slot,APCOA,56.039812,12.614061,224,12,60,,"Nordhavnsvej 1A, 3000 Helsingør",https://www.apcoa.dk/find-en-p-plads/lokationer/helsingoer/kronborg-slot

@@ -1,0 +1,26 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Q-Park Sofienquartier,Q-Park,49.4101357,8.6932514,649,2.40,20.00,True,"Sofienstraße 7A, 69115 Heidelberg",https://www.q-park.de/de-de/staedte/heidelberg/sofienquartier/
+QP02,Q-Park Bismarckplatz,Q-Park,49.4099014,8.6918901,51,2.40,20.00,,"Schneidmühlstraße 5, 69115 Heidelberg",https://www.q-park.de/de-de/staedte/heidelberg/bismarckplatz/
+DB01,DB BahnPark Hauptbahnhof Lessingstraße P2,DB BahnPark,49.402839,8.677944,90,1.00,5.00,,"Lessingstraße, 69115 Heidelberg",https://www.contipark.de/de/parken/heidelberg/parkplatz-hauptbahnhof-lessingstrasse-p2/
+SW01,Henschel,Stadtwerke Heidelberg Garagen GmbH,49.41168783,8.69673066,220,2.5,20.5,True,"Untere Neckarstraße 2, 69117 Heidelberg",https://parken.heidelberg.de/detailView/P6
+SW02,Friedrich-Ebert-Platz,Stadtwerke Heidelberg Garagen GmbH,49.40857229,8.69861561,256,2.5,20.5,True,"Friedrich-Ebert-Platz, 69117 Heidelberg",https://parken.heidelberg.de/detailView/P10
+SW03,Kornmarkt/Schloss,Stadtwerke Heidelberg Garagen GmbH,49.41130104,8.71202897,258,2.5,20.5,True,"Neue Schlossstraße, 69117 Heidelberg",https://parken.heidelberg.de/detailView/P12
+SW04,Nordbrückenkopf,Stadtwerke Heidelberg Garagen GmbH,49.41362573,8.69252242,238,2.5,20.5,True,"Uferstraße, 69120 Heidelberg",https://parken.heidelberg.de/detailView/P16
+SW05,Campbell Barracks,Stadtwerke Heidelberg Garagen GmbH,49.38771538,8.68101524,365,2,20,True,"Nina-Simone-Straße 6, 69126 Heidelberg",https://parken.heidelberg.de/detailView/P19
+SW06,Parkhaus hip,Stadtwerke Heidelberg Garagen GmbH,49.3954774,8.6702232,671,2.5,21.5,True,"Caroline-Herschel-Straße 1, 69124 Heidelberg",https://parken.heidelberg.de/detailView/P20
+SW07,Heidelberg Congress Center,Stadtwerke Heidelberg Garagen GmbH,49.401034,8.673647,300,2,18,,"Goeppert-Mayer-Straße, 69115 Heidelberg",https://parken.heidelberg.de/detailView/P21
+SW08,Europaplatz,Stadtwerke Heidelberg Garagen GmbH,49.40317681,8.67428642,162,2,19.5,,"Max Planck Ring 14, 69115 Heidelberg",https://parken.heidelberg.de/detailView/P22
+SW09,Mathematikon,Stadtwerke Heidelberg Garagen GmbH,49.41844137,8.67531771,192,1.5,23.5,True,"Berliner Straße 41-49, 69120 Heidelberg",https://parken.heidelberg.de/detailView/P25
+PBW01,Am Theater,PBW (Parkraumgesellschaft Baden-Württemberg),49.40912579,8.70289004,474,2.3,16,True,"Friedrich-Ebert-Anlage 51c, 69117 Heidelberg",https://parken.heidelberg.de/detailView/P9
+PBW02,Unibibliothek,PBW (Parkraumgesellschaft Baden-Württemberg),49.41026927,8.705099,185,2.3,16,True,"Graben-/Sandgasse, 69117 Heidelberg",https://parken.heidelberg.de/detailView/P11
+PBW03,Klinikum Bergheim,PBW (Parkraumgesellschaft Baden-Württemberg),49.40981021,8.68734874,332,2.3,16,True,"Thibautstr. 1A, 69115 Heidelberg",https://parken.heidelberg.de/detailView/P15
+EB01,Kongresshaus,E.B. Parkgaragen,49.4120721,8.69962504,330,2,21,,"Untere Neckarstraße 44, 69117 Heidelberg",https://parken.heidelberg.de/detailView/P8
+EB02,Karlsplatz/Rathaus,E.B. Parkgaragen,49.41276116,8.71315965,295,2,21,,"Karlsplatz, 69117 Heidelberg",https://parken.heidelberg.de/detailView/P13
+HI01,Hilton,Hilton Heidelberg,49.40640258,8.69175979,116,2.5,25,,"Kurfürstenanlage 1, 69115 Heidelberg",https://parken.heidelberg.de/detailView/P3
+PT01,Poststraße,Park und Tank Betriebsgesellschaft Heidelberg,49.40772852,8.68947287,592,2.5,20,True,"Poststraße 7, 69115 Heidelberg",https://parken.heidelberg.de/detailView/P1
+EH01,Europäischer Hof,Europäischer Hof (Fritz Gabler),49.40774505,8.69449174,200,2.5,23,True,"Friedrich-Ebert-Anlage 1, 69117 Heidelberg",https://parken.heidelberg.de/detailView/P5
+WS01,Kaufhof,Würzburger Stadtverkehrs GmbH,49.409091,8.69682939,415,2,20,,"Plöck 31 - 41, 69117 Heidelberg",https://parken.heidelberg.de/detailView/P7
+GB01,ATOS-Klinik,Grundbesitzgesellschaft Heidelberg,49.4102938,8.69161067,190,3,25,True,"Luisenstraße 7, 69117 Heidelberg",https://parken.heidelberg.de/detailView/P14
+SB01,Stadtbücherei,Stadtbücherei Heidelberg,49.40749955,8.68612841,34,1.5,21.5,,"Poststraße 15, 69115 Heidelberg",https://parken.heidelberg.de/detailView/P17
+BG01,BG RCI,BG Rohstoffe und chemische Industrie,49.40567194,8.67582048,80,2,18,,"Kurfürsten-Anlage 62, 69115 Heidelberg",https://parken.heidelberg.de/detailView/P18
+PR01,P+R Kirchheim,Stadt Heidelberg (P+R),49.37612,8.6586,55,,,,"Heuauer Weg, 69126 Heidelberg",https://parken.heidelberg.de/detailView/P26

@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Parkhaus Parkhausstraße,Park One GmbH,50.8136408,12.3884241,300,1.00,5.00,,"Parkhausstraße 1, 08451 Crimmitschau",https://www.q-park.de/de-de/staedte/crimmitschau/parkhausstra%C3%9Fe/
+MU01,Parkplatz Am Bahnhof,Stadt Crimmitschau,50.8150998,12.3927204,37,,,True,"Bahnhofstraße 11A, 08451 Crimmitschau",https://www.crimmitschau.de/de/uebersicht-der-parkmoeglichkeiten-im-stadtzentrum.html
+MU02,Park & Ride Bahnstraße,Stadt Crimmitschau,50.8169988,12.3931917,92,,,,"Bahnstraße, 08451 Crimmitschau",https://www.crimmitschau.de/de/aktuelles-startseite/park-ride-anlage-am-bahnhof-crimmitschau-ist-eingeweiht.html

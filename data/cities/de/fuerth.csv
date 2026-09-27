@@ -1,0 +1,11 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Carré Fürther Freiheit,Q-Park,49.4724421,10.9897202,321,3.00,20.00,True,"Friedrichstraße 13-15, 90762 Fürth",https://www.q-park.de/de-de/staedte/f%C3%BCrth/carr%C3%A9-f%C3%BCrther-freiheit/
+AP01,Mathildenstraße,APCOA,49.473994,10.987624,274,,18.00,True,"Mathildenstraße 6, 90762 Fürth",https://www.apcoa.de/einmal-parken/standorte/fuerth/mathildenstrasse
+AP02,Hornschuch-Center,APCOA,49.469697,10.994175,685,2.00,20.00,True,"Gabelsberger Straße 1, 90762 Fürth",https://www.apcoa.de/einmal-parken/standorte/fuerth/hornschuch-center
+CP01,Tiefgarage FLAIR,Contipark,49.47597,10.99079,524,3.20,15.00,True,"Königstraße 112-114, 90762 Fürth",https://www.contipark.de/de/parken/fuerth/tiefgarage-flair/
+IF01,Parkhaus Comödie,infra Fürth,49.4710250,10.9860255,108,2.00,15.00,True,"Ottostraße 27, 90762 Fürth",https://www.infra-fuerth.de/privatkunden/produkte/mobilitaet/parken
+IF02,Parkhaus am Scherbsgraben,infra Fürth,49.4738502,10.9733183,313,,5.00,True,"Scherbsgraben, 90766 Fürth",https://www.infra-fuerth.de/privatkunden/produkte/mobilitaet/parken
+IF03,Parkhaus Jakobinenstraße,infra Fürth,49.4681854,10.9994391,506,1.50,9.00,True,"Gebhardtstraße 22, 90762 Fürth",https://www.infra-fuerth.de/privatkunden/produkte/mobilitaet/parken
+PR01,P+R Parkplatz Hardhöhe,VAG,49.4807380,10.9555335,78,,,,"Gaußstraße 1, 90766 Fürth",https://www.infra-fuerth.de/privatkunden/produkte/mobilitaet/parken
+PR02,P+R Klinikum Fürth,VAG,49.4847432,10.9746844,310,,,True,"Jakob-Henle-Straße 1, 90766 Fürth",https://www.infra-fuerth.de/privatkunden/produkte/mobilitaet/parken
+PR03,Tiefgarage Europaallee,infra Fürth,49.4495496,10.9975656,271,,,,"Europaallee 1, 90763 Fürth",https://www.infra-fuerth.de/privatkunden/produkte/mobilitaet/parken

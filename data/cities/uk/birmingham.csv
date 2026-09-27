@@ -1,0 +1,31 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Birmingham City Hospital,Q-Park,52.4890962,-1.9283158,1870,3.50,10.00,True,"Dudley Road, Birmingham, B18 7QH",https://www.q-park.co.uk/en-gb/cities/birmingham/birmingham-city-hospital/
+QP02,Brindleyplace,Q-Park,52.477665,-1.914648,890,2.80,26.00,True,"Brunswick Street, Birmingham, B1 2JF",https://www.q-park.co.uk/en-gb/cities/birmingham/brindleyplace/
+QP03,Mailbox,Q-Park,52.4770012,-1.9034063,686,,26.00,True,"Royal Mail Street, Mailbox, Birmingham, B1 1QH",https://www.q-park.co.uk/en-gb/cities/birmingham/mailbox/
+QP04,Midland Metropolitan University Hospital,Q-Park,52.4899958,-1.9500363,1677,3.50,10.00,True,"Keen Street, Smethwick, Birmingham, B66 2RT",https://www.q-park.co.uk/en-gb/cities/birmingham/midland-metropolitan-university-hospital/
+QP05,Newhall Street,Q-Park,52.4845013,-1.9068167,500,3.00,28.00,,"Newhall Street, Birmingham, B3 1SW",https://www.q-park.co.uk/en-gb/cities/birmingham/newhall-street/
+QP06,QEMC,Q-Park,52.45012,-1.940342,4122,4.40,21.90,,"Main Drive, Birmingham, B15 2TH",https://www.q-park.co.uk/en-gb/cities/birmingham/qemc/
+QP07,Rowley Regis Hospital,Q-Park,52.4816666,-2.0525903,179,3.50,10.00,,"Moor Lane, Rowley Regis, Birmingham, B65 8DA",https://www.q-park.co.uk/en-gb/cities/birmingham/rowley-regis-hospital/
+QP08,Sandwell General Hospital,Q-Park,52.5275077,-1.98694,1352,3.50,10.00,,"Hallam Street, West Bromwich, Birmingham, B71 4HH",https://www.q-park.co.uk/en-gb/cities/birmingham/sandwell-general-hospital/
+NC01,Birmingham City Centre,NCP,52.4762,-1.89948,54,,,,"Hill Street / St Judes Passage, Birmingham, B5 4AN",https://www.ncp.co.uk/find-a-car-park/car-parks/birmingham-city-centre/
+NC02,Birmingham High Street,NCP,52.4809622,-1.8928988,977,,,,"High Street, Dale End, Birmingham, B4 7LN",https://www.ncp.co.uk/find-a-car-park/car-parks/birmingham-high-street/
+NC03,Birmingham New Street,NCP,52.4757,-1.90004,334,,,,"New Street / St Judes Passage, Birmingham, B5 4AN",https://www.ncp.co.uk/find-a-car-park/car-parks/birmingham-ncp-new-street/
+NC04,Birmingham Horsefair,NCP,52.4737958,-1.9004876,302,,,,"Horsefair MSCP, Bow Street, Birmingham, B1 1DW",https://www.ncp.co.uk/find-a-car-park/car-parks/birmingham-horsefair/
+NC05,Birmingham Royal Angus,NCP,52.4848545,-1.897224,600,,,,"Royal Angus, St Chads Queensway, Birmingham, B4 6HY",https://www.ncp.co.uk/find-a-car-park/car-parks/birmingham-royal-angus/
+NC06,Birmingham Londonderry House,NCP,52.4823571,-1.89307,720,,,,"Londonderry House, Dalton Street, Birmingham, B4 7LX",https://www.ncp.co.uk/find-a-car-park/car-parks/birmingham-londonderry-house/
+NC07,Birmingham Arthur Place,NCP,52.483,-1.91438,30,,,,"Arthur Place, Birmingham, B1 3DA",https://www.ncp.co.uk/find-a-car-park/car-parks/birmingham-arthur-place/
+NC08,Birmingham Gough Street,NCP,52.4752,-1.90289,51,,,,"Gough Street, Birmingham, B1 1HN",https://www.ncp.co.uk/find-a-car-park/car-parks/birmingham-gough-street/
+AP01,Birmingham New Street Short Stay Station,APCOA,52.47732,-1.900797,35,,,True,"Queens Drive, Birmingham, B2 4ND",https://www.apcoa.co.uk/find-parking/locations/birmingham/birmingham-new-street-short-stay-station
+AP02,Utilita Arena Birmingham,APCOA,52.47908311,-1.91709259,1412,,,,"Sheepcote Street, Birmingham, B16 8ET",https://www.apcoa.co.uk/find-parking/locations/birmingham/utilita-arena-birmingham
+AP03,Dudley Street Car Park,APCOA,52.4763,-1.89679,57,,,,"Dudley Street, Birmingham",https://www.apcoa.co.uk/find-parking/locations/birmingham/dudley-street-car-park-birmingham
+AP04,Town Hall Multi-Storey Car Park,APCOA,52.4779,-1.90339,387,,,,Birmingham,https://www.apcoa.co.uk/find-parking/locations/birmingham/town-hall-multi-storey-car-park-birmingham
+AP05,Great Charles Street Car Park,APCOA,52.48307,-1.90311,82,,,,"Great Charles Street, Birmingham",https://www.apcoa.co.uk/find-parking/locations/birmingham/great-charles-street-car-park-birmingham
+AP06,Navigation Street Car Park,APCOA,52.47726,-1.90368,,,,,"Navigation Street, Birmingham",https://www.apcoa.co.uk/find-parking/locations/birmingham/navigation-street-car-park-birmingham
+AP07,Snow Hill Multi-Storey Car Park,APCOA,52.48398,-1.89987,,,,,Birmingham,https://www.apcoa.co.uk/find-parking/locations/birmingham/snow-hill-multi-storey-car-park-birmingham
+AP08,Jewellery Quarter Multi-Storey Car Park,APCOA,52.4884,-1.9123,55,,,,Birmingham,https://www.apcoa.co.uk/find-parking/locations/birmingham/jewellery-quarter-multi-storey-car-park
+AP09,Millennium Point Multi-Storey Car Park,APCOA,52.48395,-1.88515,959,,,,"Millennium Point, Birmingham, B4 7AP",https://www.apcoa.co.uk/find-parking/locations/birmingham/millennium-point-multi-storey-car-park
+AP10,Duchess Road / Huntley Road Car Park,APCOA,52.4738,-1.92704,93,,,,"Duchess Road / Huntley Road, Birmingham",https://www.apcoa.co.uk/find-parking/locations/birmingham/duchess-road-/-huntley-road-car-park-birmingham
+AP11,"Cannon Hill Park, Russell Road Car Park",APCOA,52.45155,-1.89981,40,,,,"Russell Road, Cannon Hill Park, Birmingham",https://www.apcoa.co.uk/find-parking/locations/birmingham/cannon-hill-park-russell-road-car-park
+AP12,"Cannon Hill Park, Queens Ride South Car Park",APCOA,52.45116,-1.90703,220,,,,"Queens Ride, Cannon Hill Park, Birmingham",https://www.apcoa.co.uk/find-parking/locations/birmingham/cannon-hill-park-queens-ride-south-car-park
+AP13,"Cannon Hill Park, Queens Ride Car Park",APCOA,52.45416,-1.90276,109,,,,"Queens Ride, Cannon Hill Park, Birmingham",https://www.apcoa.co.uk/find-parking/locations/birmingham/cannon-hill-park-queens-ride-car-park
+AP14,"Cannon Hill Park, Wildlife Conservation Centre",APCOA,52.45089,-1.90954,149,,,,"Cannon Hill Park, Birmingham",https://www.apcoa.co.uk/find-parking/locations/birmingham/cannon-hill-park-wildlife-conservation-centre

@@ -1,0 +1,7 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Stadsplein,Q-Park,50.966355,5.493882,602,1.80,16.00,True,"Europalaan, 3600 Genk",https://www.q-park.be/nl-be/parkeren/genk/stadsplein/
+QP02,St-Martinus,Q-Park,50.964514,5.500657,207,1.80,16.00,True,"Stationstraat 2, 3600 Genk","https://www.q-park.be/nl-be/parkeren/genk/genk---st,-d-,-martinus/"
+SG01,Portavida (P1),Stad Genk,50.972086,5.515593,565,1.00,5.00,,"Weg Naar As 50, 3600 Genk",https://www.genk.be/parking-portavida
+SG02,Toermalien (P2),Stad Genk,50.967531,5.512325,185,1.00,5.00,,"Welzijnscampus 15, 3600 Genk",https://www.genk.be/parking-toermalien
+SG03,De Villardel,Stad Genk,50.963146,5.504213,184,,,,"Burgemeester Gerard Bijnenslaan, 3600 Genk",https://www.genk.be/parking-de-villardel
+EF01,Shopping 1,Effia,50.964962,5.504626,1250,1.80,20.00,True,"Rootenstraat 8, 3600 Genk",https://shopping1.be/nl/services/90-minuten-gratis-parking

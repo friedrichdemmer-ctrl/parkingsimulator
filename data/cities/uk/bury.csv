@@ -1,0 +1,14 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Knowsley Place,Q-Park,53.5893884,-2.299998,404,2.50,16.00,True,"Knowsley Street, Bury, BL9 0EJ",https://www.q-park.co.uk/en-gb/cities/bury/knowsley-place/
+BCC01,Castle,Bury Council,53.593372,-2.299105,36,,13.00,False,"Bolton Street, Bury, BL9 0EY",https://www.bury.gov.uk/roads-travel-and-parking/parking/find-a-parking-space/car-parks-in-bury-town-centre
+BCC02,Foundry Street,Bury Council,53.592138,-2.289261,140,,6.00,False,"Foundry Street, Bury, BL9 7AZ",https://www.bury.gov.uk/roads-travel-and-parking/parking/find-a-parking-space/car-parks-in-bury-town-centre
+BCC03,George Street,Bury Council,53.592431,-2.290925,56,,6.00,False,"George Street, Bury, BL9 0QT",https://www.bury.gov.uk/roads-travel-and-parking/parking/find-a-parking-space/car-parks-in-bury-town-centre
+BCC04,Irwell Street,Bury Council,53.593827,-2.300468,36,,6.00,False,"Irwell Street, Bury, BL9 0LL",https://www.bury.gov.uk/roads-travel-and-parking/parking/find-a-parking-space/car-parks-in-bury-town-centre
+BCC05,Manchester Road,Bury Council,53.589462,-2.302567,95,,6.00,False,"Manchester Road (via Belle Vue Terrace), Bury, BL9 0SY",https://www.bury.gov.uk/roads-travel-and-parking/parking/find-a-parking-space/car-parks-in-bury-town-centre
+BCC06,Market,Bury Council,53.58989,-2.289503,335,,6.00,False,"Market, Bury, BL9 0RN",https://www.bury.gov.uk/roads-travel-and-parking/parking/find-a-parking-space/car-parks-in-bury-town-centre
+BCC07,Parsons Lane North,Bury Council,53.595198,-2.294978,21,,13.00,False,"Parsons Lane, Bury, BL9 0LY",https://www.bury.gov.uk/roads-travel-and-parking/parking/find-a-parking-space/car-parks-in-bury-town-centre
+BCC08,Parsons Lane South,Bury Council,53.595198,-2.294978,143,,13.00,False,"Parsons Lane, Bury, BL9 0LY",https://www.bury.gov.uk/roads-travel-and-parking/parking/find-a-parking-space/car-parks-in-bury-town-centre
+BCC09,Trinity Street,Bury Council,53.590137,-2.295124,229,,6.00,False,"Trinity Street, Bury, BL9 0BT",https://www.bury.gov.uk/roads-travel-and-parking/parking/find-a-parking-space/car-parks-in-bury-town-centre
+BCC10,Bolton Street Station,Bury Council,53.593615,-2.298895,98,,6.00,False,"Bolton Street Station (via Irwell Street), Bury, BL9 0LQ",https://www.bury.gov.uk/roads-travel-and-parking/parking/find-a-parking-space/car-parks-in-bury-town-centre
+BCC11,Castle Leisure Centre,Bury Council,53.593183,-2.302972,219,1.00,6.00,False,"Castle Leisure Centre (via Irwell Street), Bury, BL9 0HE",https://www.bury.gov.uk/roads-travel-and-parking/parking/find-a-parking-space/car-parks-in-bury-town-centre
+BCC12,Moorgate,Bury Council,53.596023,-2.288336,26,1.00,6.00,False,"Moorgate, Bury, BL9 7AQ",https://www.bury.gov.uk/roads-travel-and-parking/parking/find-a-parking-space/car-parks-in-bury-town-centre

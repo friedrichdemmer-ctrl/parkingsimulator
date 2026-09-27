@@ -1,0 +1,8 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+GW01,Poort van Limburg,Gemeente Weert,51.256456,5.703764,76,1.70,6.60,True,"Beekpoort / Penitentenstraat, 6001 GZ Weert",https://www.weert.nl/parkeermogelijkheden-en-tarieven
+GW02,Muntgarage,Gemeente Weert,51.255757,5.706874,149,1.70,6.60,True,"Oud Gasthuisplein / Hogesteenweg, 6001 EW Weert",https://www.weert.nl/parkeermogelijkheden-en-tarieven
+GW03,Ursulinengarage,Gemeente Weert,51.253062,5.705256,228,1.70,6.60,True,"Nieuwe Markt 5, 6001 EL Weert",https://www.weert.nl/parkeermogelijkheden-en-tarieven
+GW04,Walburgpassage,Gemeente Weert,51.251455,5.706779,128,1.70,6.60,True,"Kromstraat 16, 6001 CX Weert",https://www.weert.nl/parkeermogelijkheden-en-tarieven
+GW05,Centrumgarage,Gemeente Weert,51.251260,5.704031,276,1.70,6.60,True,"Wilhelminasingel 101, 6001 GS Weert",https://www.weert.nl/parkeermogelijkheden-en-tarieven
+GW06,Stationspleingarage,Gemeente Weert,51.249016,5.704266,97,1.70,6.60,False,"Stationsplein, 6001 CC Weert",https://www.weert.nl/parkeermogelijkheden-en-tarieven
+QP01,P+R Parallelweg,Q-Park,51.249517,5.695620,295,1.59,7.50,False,"Parallelweg, 6001 HM Weert",https://www.q-park.nl/nl-nl/parkeren/weert/p-r-parallelweg/

@@ -1,0 +1,14 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,BASF Medical Center,Q-Park,49.5038926,8.4149800,178,,,,"Magnetbandstr. 5, 67063 Ludwigshafen am Rhein",https://www.q-park.de/de-de/staedte/ludwigshafen/basf-medical-center/
+QP02,Dammstraße,Q-Park,49.4780100,8.4484800,394,2.00,15.00,,"Dammstraße 10, 67059 Ludwigshafen am Rhein",https://www.q-park.de/de-de/staedte/ludwigshafen/dammstraße/
+QP03,Otto-Stabel-Straße,Q-Park,49.4781347,8.4482815,59,2.00,15.00,,"Otto-Stabel-Straße, 67059 Ludwigshafen am Rhein",https://www.q-park.de/de-de/staedte/ludwigshafen/otto-stabel-straße/
+AP01,Lusanum,APCOA,49.4774910,8.4533090,77,,17.00,,"Yorkstr. 1, 67061 Ludwigshafen am Rhein",https://www.apcoa.de/einmal-parken/standorte/ludwigshafen/lusanum
+CP01,Parkhaus Bürgerhof,Contipark,49.4835130,8.4468230,570,2.00,15.00,True,"Bahnhofstraße 7-9, 67059 Ludwigshafen am Rhein",https://www.contipark.de/de/parken/ludwigshafen/parkhaus-buergerhof/
+CP02,Tiefgarage Pfalzbau,Contipark,49.4793060,8.4471340,375,2.00,15.00,True,"Wredestraße 26, 67059 Ludwigshafen am Rhein",https://www.contipark.de/de/parken/ludwigshafen/tiefgarage-pfalzbau/
+DB01,Parkplatz Hauptbahnhof P1,DB BahnPark,49.4750420,8.4337830,90,1.00,3.00,,"Richard-Dehmel-Straße, 67061 Ludwigshafen am Rhein",https://www.contipark.de/de/parken/ludwigshafen/parkplatz-hauptbahnhof-p1-ludwigshafen/
+DB02,Parkplatz Hauptbahnhof P2,DB BahnPark,49.4781370,8.4356350,44,1.60,3.60,,"Pasadenaallee, 67059 Ludwigshafen am Rhein",https://www.contipark.de/de/parken/ludwigshafen/parkplatz-hauptbahnhof-p2-ludwigshafen/
+LU01,Parkhaus Walzmühle,LUKOM,49.4788462,8.4535925,1239,1.50,13.10,,"Yorckstraße 2, 67061 Ludwigshafen am Rhein",https://lukom.com/parken/
+LU02,Parkhaus Bürgermeister-Grünzweigstraße,LUKOM,49.4849488,8.4357407,258,1.50,10.50,,"Bürgermeister-Grünzweig-Straße 8, 67063 Ludwigshafen am Rhein",https://lukom.com/parken/
+LU03,Parkhaus Mottstraße,LUKOM,49.4906646,8.4375954,394,1.50,10.50,,"Mottstraße 11, 67063 Ludwigshafen am Rhein",https://lukom.com/parken/
+LU04,Tiefgarage Schillerplatz,LUKOM,49.4931019,8.3759748,131,1.50,10.50,,"Schillerplatz 12-14, 67071 Ludwigshafen am Rhein",https://lukom.com/parken/
+LU05,Parkhaus BASF Pfalzgrafenstraße,LUKOM,49.4758099,8.4536494,300,,,,"Pfalzgrafenstraße 10a, 67071 Ludwigshafen am Rhein",https://lukom.com/parken/

@@ -1,0 +1,2 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Hôpital Sud Francilien,Q-Park,48.62162,2.45695,2413,1.60,35.20,True,"Avenue Serge Dassault, 91100 Corbeil-Essonnes",https://www.q-park.fr/fr-fr/villes/corbeil-essonnes/centre-hospitalier-sud-francilien/

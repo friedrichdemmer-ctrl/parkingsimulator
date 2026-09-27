@@ -1,0 +1,8 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Hilvertshof,Q-Park,52.22383,5.177436,575,3.00,15.00,,"Groest 100, 1211 ED Hilversum",https://www.q-park.nl/nl-nl/parkeren/hilversum/hilvertshof/
+QP02,Markt,Q-Park,52.226406,5.179517,320,3.91,17.50,True,"Schapenkamp 12, 1211 PA Hilversum",https://www.q-park.nl/nl-nl/parkeren/hilversum/markt/
+GH01,Gooiland,Gemeente Hilversum,52.221907,5.175143,364,2.77,16.11,True,"Koningshof 1, 1211 MG Hilversum",https://hilversum.parkeerservice.nl/tarieven/
+GH02,Gooische Brink,Gemeente Hilversum,52.223094,5.171678,400,2.77,16.11,True,"Brinkweg 1, 1211 RP Hilversum",https://hilversum.parkeerservice.nl/tarieven/
+CP01,City Parking,City Parking,52.226171,5.172881,400,3.50,35.00,,"Noordse Bosje 19-21, 1211 BD Hilversum",https://city-parking.nl/
+IP01,Tergooi Hospital,Interparking,52.21314,5.199975,1028,2.10,8.00,True,"Laan van Tergooi 2, 1212 VG Hilversum",https://www.interparking.nl/en/parkings/hilversum/tergooi-ziekenhuis-hilversum/
+PB01,Herenstraat,ParkBee,52.224041,5.176212,,,,,"Herenstraat 12, 1211 CB Hilversum",https://www.parkbee.nl/

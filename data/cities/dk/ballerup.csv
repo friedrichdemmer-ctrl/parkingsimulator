@@ -1,0 +1,5 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Borupvang 5C,Q-Park,55.730795,12.380898,94,14,,True,"Borupvang 5C, 2750 Ballerup",https://www.q-park.dk/da/parkering/ballerup/borupvang-5c/
+QP02,Tempovej 35,Q-Park,55.7237891,12.3732,150,10,,,"Tempovej 35, 2750 Ballerup",https://www.q-park.dk/da/parkering/ballerup/tempovej-35/
+QP03,Tempovej 42-46,Q-Park,55.7239766,12.3724789,25,15,,,"Tempovej 42-46, 2750 Ballerup",https://www.q-park.dk/da/parkering/ballerup/tempovej-42-46/
+CP01,Ballerup Centret,CP Parking System,55.7287937,12.3572220,1200,20,,True,"Ballerup-Centret 2, 2750 Ballerup",https://ballerupcentret.dk/information/parkering

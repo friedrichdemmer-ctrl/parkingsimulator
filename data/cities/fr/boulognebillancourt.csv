@@ -1,0 +1,8 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Hôtel de Ville,Q-Park,48.835315,2.240941,573,3.50,39.80,False,"24 bis Avenue André Morizet, 92100 Boulogne-Billancourt",https://www.q-park.fr/fr-fr/villes/boulogne-billancourt/h%c3%b4tel-de-ville/
+QP02,Parchamp,Q-Park,48.846721,2.23665,315,3.50,39.80,True,"7 Ter Rue du Parchamp, 92100 Boulogne-Billancourt",https://www.q-park.fr/fr-fr/villes/boulogne-billancourt/parchamp/
+IN01,Bellefeuille,Indigo,48.837479,2.243346,,3.20,18.40,False,"Passage Belle Feuille, 92100 Boulogne-Billancourt",https://www.indigoneo.fr/fr/parkings/2914/parking-bellefeuille
+IN02,Cours de l'Île Seguin,Indigo,48.826791,2.233237,,3.40,33.40,True,"50 Cours de l'Île Seguin, 92200 Boulogne-Billancourt",https://www.indigoneo.fr/fr/parkings/401/parking-cours-de-lile-seguin
+IN03,Marché,Indigo,48.831356,2.241715,,3.00,19.60,True,"150 Rue du Vieux Pont de Sèvres, 92100 Boulogne-Billancourt",https://www.indigoneo.fr/fr/parkings/402/parking-marche
+IN04,Point du Jour,Indigo,48.834732,2.255502,,4.20,35.40,False,"Place Abel Gance, 92100 Boulogne-Billancourt",https://www.indigoneo.fr/fr/parkings/400/parking-point-du-jour
+IN05,Rives de Seine,Indigo,48.824624,2.236651,,3.40,33.40,True,"38 Quai Georges Gorse, 92100 Boulogne-Billancourt",https://www.indigoneo.fr/fr/parkings/403/parking-rives-de-seine

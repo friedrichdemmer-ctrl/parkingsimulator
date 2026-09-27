@@ -1,0 +1,6 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Duinenwater,Q-Park,51.3388541,3.2831589,412,1.80,18.00,True,"Duinenwater 28, 8300 Knokke-Heist",https://www.q-park.be/nl-be/parkeren/knokke-heist/duinenwater/
+IP01,IJzerpark,Interparking,51.3523,3.2936,296,3.30,30.00,True,"Dumortierlaan 90A, 8300 Knokke-Heist",https://www.interparking.be/nl/parkeren/knokke-heist/ijzerpark/
+IP02,Minigolf Zoute,Interparking,51.35508,3.30483,420,3.50,35.00,True,"Sparrendreef 103, 8300 Knokke-Heist",https://www.interparking.be/nl/parkeren/knokke-heist/minigolf/
+OPC01,Parking Lippenslaan,Optimal Parking Control (OPC),51.3433278,3.2898110,245,2.00,25.00,True,"Alfred Verweeplein 1, 8300 Knokke-Heist",https://parkeren.be/parkings/parking-lippenslaan/tarieven-en-abonnementen
+AGSO01,Maes en Boereboomplein,AGSO Knokke-Heist,51.3371094,3.2367690,125,1.80,12.00,True,"Marktstraat / Molenstraat, 8301 Knokke-Heist (Heist)",https://www.agsoknokke-heist.be/parkeren

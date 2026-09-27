@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+SP01,Kazerneplein,Stadsparkeren,51.8296655,4.9701134,385,2.0,,True,"Pompstraat 27, 4201 HB Gorinchem",https://www.gorinchem.nl/parkeren-verkeer-en-vervoer/parkeren-voor-bezoekers
+SP02,Kweeklust,Stadsparkeren,51.8329928,4.9736024,246,2.0,,True,"Kweeklust 1, 4201 LC Gorinchem",https://www.gorinchem.nl/parkeren-verkeer-en-vervoer/parkeren-voor-bezoekers
+QP01,P+R Stationsweg,Q-Park,51.833656,4.968052,127,1.49,7.0,False,"Stationsweg, 4205 AA Gorinchem",https://www.q-park.nl/nl-nl/parkeren/gorinchem/p-r-stationsweg/

@@ -1,0 +1,8 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Roule,Q-Park,48.8842677,2.2704635,874,3.2,24.0,False,"94 Avenue Achille Peretti, 92200 Neuilly sur Seine",https://www.q-park.fr/fr-fr/villes/neuilly-sur-seine/roule/
+IN01,Bagatelle,Indigo,48.876683,2.250798,,,,True,"1 Place de Bagatelle, 92200 Neuilly-sur-Seine",https://www.indigoneo.fr/fr/parking-cities/neuilly-sur-seine-958
+IN02,Inkermann,Indigo,48.887015,2.275019,,,,True,"31 Boulevard d'Inkermann, 92200 Neuilly-sur-Seine",https://www.indigoneo.fr/fr/parking-cities/neuilly-sur-seine-958
+IN03,Madrid,Indigo,48.884303,2.260254,,,,True,"6 Avenue de Madrid, 92200 Neuilly-sur-Seine",https://www.indigoneo.fr/fr/parking-cities/neuilly-sur-seine-958
+IN04,Marché,Indigo,48.880199,2.27609,,,,True,"Place du Marché, 92200 Neuilly-sur-Seine",https://www.indigoneo.fr/fr/parking-cities/neuilly-sur-seine-958
+IN05,Parmentier,Indigo,48.882427,2.2777,,,,True,"43 Avenue du Roule, 92200 Neuilly-sur-Seine",https://www.indigoneo.fr/fr/parking-cities/neuilly-sur-seine-958
+IN06,Saint Jean Baptiste,Indigo,48.883727,2.26446,,,,False,"136 Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine",https://www.indigoneo.fr/fr/parking-cities/neuilly-sur-seine-958

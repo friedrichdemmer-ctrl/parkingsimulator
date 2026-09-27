@@ -1,0 +1,7 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Bytorvet 2,Q-Park,55.6561947,12.3531206,25,15,150,,"Bytorvet 2, 2620 Albertslund",https://www.q-park.dk/da/parkering/albertslund/bytorvet-2/
+QP02,Herstedvang 10-14,Q-Park,55.670006,12.368347,150,14,,,"Herstedvang 10-14, 2620 Albertslund",https://www.q-park.dk/da/parkering/albertslund/herstedvang-10-14/
+QP03,Roskildevej 22,Q-Park,55.6634145,12.3596884,100,50,,,"Roskildevej 22, 2620 Albertslund",https://www.q-park.dk/da/parkering/albertslund/roskildevej-22/
+AP01,Roskildevej 65,APCOA,55.662258,12.360845,466,12,100,,"Roskildevej 65, 2620 Albertslund",https://www.apcoa.dk/find-en-p-plads/lokationer/albertslund/roskildevej-65
+AP02,"Roskildevej 65, COOP Byen Terræn",APCOA,55.662258,12.360845,100,12,100,,"Roskildevej 65, COOP Byen Terræn, 2620 Albertslund",https://www.apcoa.dk/find-en-p-plads/lokationer/albertslund/roskildevej-65-coop-byen-terraen
+AP03,COOP HQ Personale,APCOA,55.66296127,12.36356361,450,15,360,,"Roskildevej 65, 2620 Albertslund",https://www.apcoa.dk/find-en-p-plads/lokationer/albertslund/coop-hq-personale

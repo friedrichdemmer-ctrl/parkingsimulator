@@ -1,0 +1,9 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Bryggergården 1-21,Q-Park,55.6370230,12.6545270,28,20,,,"Bryggergården, 2770 Kastrup",https://www.q-park.dk/da/parkering/kastrup/bryggerg%c3%a5rden-1-21/
+AP01,Tømmerup Stationsvej 10,APCOA,55.6159060,12.6311190,50,,,,"Tømmerup Stationsvej 10, 2770 Kastrup",https://www.apcoa.dk/find-en-p-plads/lokationer/kastrup
+AP02,Copenhagen Go Hotel,APCOA,55.6641720,12.6245850,100,14,90,,"Lergravsvej 53, 2300 København S",https://www.apcoa.dk/find-en-p-plads/lokationer/kastrup
+AP03,Amager Strandvej 401,APCOA,55.6353080,12.6547180,30,20,250,,"Amager Strandvej 401, 2770 Kastrup",https://www.apcoa.dk/all-locations-by-city/kastrup/amager-strandvej-401/
+AP04,Amager Strandvej 401-403,APCOA,55.6360020,12.6544220,55,15,360,,"Amager Strandvej 401-403, 2770 Kastrup",https://www.apcoa.dk/all-locations-by-city/kastrup/amager-strandvej-401-403/
+AP05,"Scanport, Amager Strandvej ved Kastrup Lufthavn",APCOA,55.6339022,12.6531674,300,15,,,"Amager Strandvej 399-405, 2770 Kastrup",https://www.apcoa.dk/all-locations-by-city/kastrup/scanport-amager-strandvej-ved-kastrup-lufthavn/
+AP06,Kajakvej ved Havnepladsen,APCOA,55.6374650,12.6539809,83,15,120,,"Kajakvej, 2770 Kastrup",https://www.apcoa.dk/all-locations-by-city/kastrup/kajakvej-ved-havnepladsen/
+AP07,Den Blå Planet,APCOA,55.6381433,12.6560998,575,,,,"Jacob Fortlingsvej, 2770 Kastrup",https://www.apcoa.dk/all-locations-by-city/kastrup/den-blaa-planet/

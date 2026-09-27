@@ -1,0 +1,11 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Corio Center,Q-Park,50.889796,5.975728,504,3.33,10.00,True,"Stationstraat 28, 6411 NK Heerlen",https://www.q-park.nl/nl-nl/parkeren/heerlen/corio-center/
+QP02,De Klomp,Q-Park,50.889105,5.981327,364,2.61,14.00,True,"Klompstraat 11, 6411 KR Heerlen",https://www.q-park.nl/nl-nl/parkeren/heerlen/de-klomp/
+QP03,P+R Parallelweg,Q-Park,50.890871,5.970530,236,1.49,7.50,,"Parallelweg 46, 6411 NA Heerlen",https://www.q-park.nl/nl-nl/parkeren/heerlen/p-r-parallelweg/
+QP04,Putgraaf,Q-Park,50.886470,5.981803,307,3.00,15.00,True,"Putgraaf 1 D, 6411 GT Heerlen",https://www.q-park.nl/nl-nl/parkeren/heerlen/putgraaf/
+QP05,Raadhuisparking,Q-Park,50.886213,5.977410,379,3.53,15.00,True,"Uilestraat 4, 6411 BX Heerlen",https://www.q-park.nl/nl-nl/parkeren/heerlen/raadhuisparking/
+QP06,'t Loon,Q-Park,50.887022,5.970050,383,2.61,14.00,True,"Apollolaan 11, 6411 BA Heerlen",https://www.q-park.nl/nl-nl/parkeren/heerlen/t-loon/
+QP07,Teleparking,Q-Park,50.890910,5.970649,451,2.50,16.00,True,"Parallelweg 1 K, 6411 NA Heerlen",https://www.q-park.nl/nl-nl/parkeren/heerlen/teleparking/
+QP08,Theater Heerlen Parking,Q-Park,50.887046,5.972282,504,3.00,14.00,True,"Muzenlaan 1, 6411 AC Heerlen",https://www.q-park.nl/nl-nl/parkeren/heerlen/theater-heerlen-parking/
+IP01,Maankwartier Centrum,Interparking,50.890448,5.975005,408,2.40,10.00,True,"Stationsplein 2, 6411 NE Heerlen",https://parkerenmaankwartier.nl/en/maankwartier-centre/
+IP02,Maanplein,Interparking,50.891573,5.976021,467,1.50,6.00,True,"Spoorsingel 63, 6412 GH Heerlen",https://parkerenmaankwartier.nl/en/maanplein/

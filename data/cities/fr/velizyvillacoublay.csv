@@ -1,0 +1,2 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Happy Vélizy,Q-Park,48.7807581,2.207052,111,1.5,23.9,False,"5 Avenue Morane Saulnier, 78140 Vélizy-Villacoublay",https://www.q-park.fr/fr-fr/villes/v%c3%a9lizy-villacoublay/happy-v%c3%a9lizy/

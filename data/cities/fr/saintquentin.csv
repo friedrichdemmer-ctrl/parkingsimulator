@@ -1,0 +1,2 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Hôpital,Q-Park,49.861062,3.271384,650,2.1,9.9,True,"93 Rue Henriette Cabot, 02100 Saint Quentin",https://www.q-park.fr/fr-fr/villes/saint-quentin/h%c3%b4pital/

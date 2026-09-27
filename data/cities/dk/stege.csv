@@ -1,0 +1,2 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Q-Park Storegade 75,Q-Park,54.987184,12.288305,15,,30,,"Storegade 75, 4780 Stege",https://www.q-park.dk/da/parkering/stege/storegade-75/

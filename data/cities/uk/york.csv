@@ -1,0 +1,20 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Barbican,Q-Park,53.952796,-1.074128,313,,21.5,True,"Kent Street, York, YO10 4AH",https://www.q-park.co.uk/en-gb/cities/york/barbican/
+QP02,Shambles,Q-Park,53.958257,-1.076638,265,,29.5,True,"Garden Place, York, YO1 7NT",https://www.q-park.co.uk/en-gb/cities/york/shambles/
+CYC01,Bishopthorpe Road,City of York Council,53.951247,-1.0856631,39,3.0,,False,"Bishopthorpe Road, York, YO23 1NA",https://www.york.gov.uk/directory-record/396/bishopthorpe-road-car-park
+CYC02,Bootham Row,City of York Council,53.963792,-1.0853887,73,5.0,,True,"Bootham Row, York, YO30 7BP",https://www.york.gov.uk/directory-record/397/bootham-row-car-park
+CYC03,Castle,City of York Council,53.956096,-1.0791868,298,5.0,,False,"Tower Street, York, YO1 9SA",https://www.york.gov.uk/directory-record/399/castle-car-park
+CYC04,Coppergate Centre,City of York Council,53.957194,-1.0793913,276,5.0,,False,"Piccadilly, York, YO1 9NX",https://www.york.gov.uk/directory-record/428/coppergate-centre-car-park
+CYC05,East Parade,City of York Council,53.9653,-1.0663323,14,3.0,,True,"East Parade, Heworth, York, YO31 0XH",https://www.york.gov.uk/directory-record/403/east-parade-car-park
+CYC06,Esplanade,City of York Council,53.960392,-1.0909042,80,5.0,,False,"West Esplanade, York, YO26 4ZP",https://www.york.gov.uk/directory-record/404/esplanade-car-park
+CYC07,Foss Bank,City of York Council,53.962007,-1.0752919,320,5.0,23.2,False,"Jewbury, York, YO31 7PL",https://www.york.gov.uk/directory-record/405/foss-bank-car-park
+CYC08,Marygate,City of York Council,53.962328,-1.0913803,356,5.0,23.2,True,"Frederic Street, York, YO30 7DT",https://www.york.gov.uk/directory-record/418/marygate-car-park
+CYC09,Monk Bar,City of York Council,53.964386,-1.0783945,225,5.0,23.2,False,"St John's Street, York, YO31 7QR",https://www.york.gov.uk/directory-record/421/monk-bar-car-park
+CYC10,Nunnery Lane,City of York Council,53.954805,-1.0890751,167,5.0,23.2,True,"Nunnery Lane, York, YO23 1AA",https://www.york.gov.uk/directory-record/424/nunnery-lane-car-park
+CYC11,Rowntree Park,City of York Council,53.949699,-1.0794649,52,3.0,,False,"Terry Avenue, York, YO23 1JQ",https://www.york.gov.uk/directory-record/431/rowntree-park-car-park
+CYC12,St George's Field,City of York Council,53.953412,-1.0796269,266,5.0,23.2,False,"Castle Mills Bridge, York, YO10 4AB",https://www.york.gov.uk/directory-record/2115/st-george-s-field-car-park
+CYC13,Union Terrace,City of York Council,53.966338,-1.083336,160,5.0,23.2,,"Union Terrace, Clarence Street, York, YO31 7ES",https://www.york.gov.uk/directory-record/2117/union-terrace-car-park
+NCP01,Tanner Row,NCP,53.957919,-1.087834,257,6.0,40.0,,"Tanner Row, York, YO1 6JL",https://www.ncp.co.uk/find-a-car-park/car-parks/york-tanner-row/
+NCP02,York Station South (Queen Street),NCP,53.955555,-1.0938,135,5.0,30.0,,"24 Queen Street, York, YO24 1AD",https://www.ncp.co.uk/find-a-car-park/car-parks/york-queen-street/
+APC01,York Commuter,APCOA,53.958476,-1.094789,205,,,,"Leeman Road, York, YO26 4XJ",https://www.apcoa.co.uk/find-parking/locations/york/york-commuter-york
+T2401,Toft Green,Times24,53.956973,-1.090574,6,,16.0,,"12 Toft Green, York, YO1 6JT",https://www.times24.co.uk/locations/york-toft-green

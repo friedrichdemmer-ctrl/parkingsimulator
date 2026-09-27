@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+saintmande-qpark-1,Parking Charles Digeon,Q-Park,48.843587,2.417994,204,2.40,20.20,True,"5 Place Charles Digeon, 94160 Saint Mandé",https://www.q-park.fr/fr-fr/villes/saint-mand%c3%a9/charles-digeon/
+saintmande-qpark-2,Parking Sacrot,Q-Park,48.839955,2.41613,105,,,False,"3 Rue Guynemer, 94160 Saint Mandé",https://www.q-park.fr/fr-fr/villes/saint-mand%c3%a9/sacrot/
+saintmande-qpark-3,Parking Sainte Marie,Q-Park,48.8362,2.412851,95,,,False,"Villa Carnot, 94160 Saint Mandé",https://www.q-park.fr/fr-fr/villes/saint-mand%c3%a9/sainte-marie/

@@ -1,0 +1,5 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Bolwerk,Q-Park,52.009997,4.703319,337,2.61,18.0,True,"Sint Mariewal 41, 2801 WS Gouda",https://www.q-park.nl/nl-nl/parkeren/gouda/bolwerk/
+QP02,Nieuwe Markt,Q-Park,52.01438,4.711289,472,,16.0,True,"Conventstraat 154, 2801 HZ Gouda",https://www.q-park.nl/nl-nl/parkeren/gouda/nieuwe-markt/
+GA01,Stationsgarage,Cooperatie ParkeerService,52.017789,4.707987,400,2.0,10.0,True,"Burg. Jamesplein 1C, 2803 PG Gouda",https://gouda.parkeerservice.nl/parkeren-in-garages/parkeergarages/
+PB01,Burgemeester Jamessingel,ParkBee,52.0185,4.7006,,,,False,"Burgemeester Jamessingel 33, 2803 WV Gouda",https://parkbee.com/en/city/gouda

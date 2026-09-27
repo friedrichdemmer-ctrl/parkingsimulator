@@ -1,0 +1,16 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Colibri La Rode,Q-Park,43.119345,5.942813,418,1.6,13.8,True,"126 Rue Lulli, 83000 Toulon",https://www.q-park.fr/fr-fr/villes/toulon/colibri-la-rode/
+QP02,Delaune Pont du Las,Q-Park,43.128379,5.914242,466,0.0,10.4,True,"1 Rue Lieutenant Colonel Bernard, 83000 Toulon",https://www.q-park.fr/fr-fr/villes/toulon/delaune-pont-du-las/
+QP03,Facultés,Q-Park,43.121272,5.938861,939,2.1,17.3,True,"Rue Alphonse Daudet, 83000 Toulon",https://www.q-park.fr/fr-fr/villes/toulon/facult%C3%A9s/
+QP04,Gare,Q-Park,43.127637,5.929486,320,2.8,18.7,True,"Face au 19 rue Mirabeau, 83000 Toulon",https://www.q-park.fr/fr-fr/villes/toulon/la-gare/
+QP05,Lafayette,Q-Park,43.1211897,5.9361579,410,2.1,17.3,True,"1 Avenue de Besagne, 83000 Toulon",https://www.q-park.fr/fr-fr/villes/toulon/lafayette/
+QP06,Liberté,Q-Park,43.126028,5.92971,658,0.0,18.7,True,"Face au 20 Rue Revel, 83000 Toulon",https://www.q-park.fr/fr-fr/villes/toulon/libert%C3%A9/
+QP07,Mayol Centre,Q-Park,43.120396,5.9358317,1281,2.1,17.3,True,"Avenue de Besagne (sous le tunnel), 83000 Toulon",https://www.q-park.fr/fr-fr/villes/toulon/mayol-centre/
+QP08,Peiresc Marché,Q-Park,43.123588,5.935586,538,2.1,17.3,True,"13 Rue de Lorgues, 83000 Toulon",https://www.q-park.fr/fr-fr/villes/toulon/peiresc-march%C3%A9/
+QP09,Place d'Armes Le Port,Q-Park,43.123606,5.92842,637,2.1,17.3,True,"Avenue Général Magnan, 83000 Toulon",https://www.q-park.fr/fr-fr/villes/toulon/place-d-armes-le-port/
+QP10,Porte d'Italie,Q-Park,43.121476,5.93817,583,1.6,13.8,True,"Square Colonel Reymond, 83000 Toulon",https://www.q-park.fr/fr-fr/villes/toulon/porte-d-italie/
+QP11,La Loubière,Q-Park,43.1250502,5.9396574,145,1.5,11.1,False,"Boulevard Raynouard, 83000 Toulon (geo approximated via Nominatim - Q-Park's own embedded schema.org geo was null/0,0; per Toulon Provence Méditerranée's own official metropole page (metropoletpm.fr), this ""Loubière"" facility in Toulon is actually listed as operated directly by the Régie Métropolitaine du Stationnement, not Q-Park - yet it appears on Q-Park's own Toulon city page with a live tariff API response, so kept here as a Q-Park row per Q-Park's own self-declared 12-facility count, matching the task's stated source of truth)",https://www.q-park.fr/fr-fr/villes/toulon/toulon---la-loubiere/
+QP12,Zénith Préfecture - Gare,Q-Park,43.1292305,5.9337848,667,2.0,16.5,True,"Boulevard du 112ème Régiment d'Infanterie, 83100 Toulon",https://www.q-park.fr/fr-fr/villes/toulon/zenith-prefecture/
+IN01,Palais Liberté,Indigo,43.125957,5.929742,,2.9,18.5,False,"Pl. de la Liberté, 83000 Toulon (capacity not published by Indigo Neo)",https://www.indigoneo.fr/fr/parkings/23650/parking-palais-liberte
+EF01,Toulon - Parking Gare SNCF Louis Armand,Effia,43.12887,5.927435,,3.6,25.1,True,"Boulevard Toesca, 83000 Toulon (capacity not published by Effia)",https://www.effia.com/parking/parking-gare-de-toulon-effia
+EF02,Toulon - Parking Gare SNCF Dépose Minute,Effia,43.128861,5.927658,,4.7,,False,"Boulevard Toesca, 83000 Toulon (short-stay kiss-and-ride drop-off zone at the station; only 15min/30min/1hr tariffs published, no daily cap; capacity not published)",https://www.effia.com/parking/parking-gare-de-toulon-depose-minute-effia

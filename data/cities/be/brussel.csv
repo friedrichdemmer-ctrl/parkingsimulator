@@ -1,0 +1,50 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Dansaert,Q-Park,50.851114,4.345504,204,,30.00,True,"Nieuwe Graanmarkt 2, 1000 Brussel",https://www.q-park.be/nl-be/parkeren/brussel/dansaert/
+QP02,Lepage,Q-Park,50.851953,4.345204,691,,30.00,True,"Leon Lepagestraat, 1000 Brussel",https://www.q-park.be/nl-be/parkeren/brussel/lepage/
+QP03,Brussel Centrum,Q-Park,50.853017,4.357954,517,,24.00,True,"Dambordstraat 26, 1000 Brussel",https://www.q-park.be/nl-be/parkeren/brussel/centrum/
+QP04,Pacheco,Q-Park,50.851493,4.362608,339,2.50,19.00,,"Pachecolaan 7, 1000 Brussel",https://www.q-park.be/nl-be/parkeren/brussel/pacheco/
+QP05,Zuidstation,Q-Park,50.837562,4.335656,1597,5.50,45.00,True,"Frankrijkstraat 40, 1060 Brussel",https://www.q-park.be/nl-be/parkeren/brussel/bru---zuid/midi/
+QP06,Louise,Q-Park,50.835196,4.357641,107,3.20,22.00,,"Kapitein Crespelstraat 27, 1050 Brussel",https://www.q-park.be/nl-be/parkeren/brussel/louise/
+QP07,Bascule,Q-Park,50.815829,4.366799,451,3.15,22.00,,"Waterloosesteenweg 715, 1180 Brussel",https://www.q-park.be/nl-be/parkeren/brussel/bascule/
+QP08,Esplanade | Hippocrate,Q-Park,50.852727,4.455429,865,1.90,,,"Hippocrateslaan 11, 1200 Brussel",https://www.q-park.be/nl-be/parkeren/brussel/esplanade---hippocrate/
+IP01,2 Portes,Interparking,50.83852,4.360681,915,4.00,30.00,True,"Boulevard de Waterloo 2a, 1000 Brussels",https://www.interparking.be/en/parkings/brussels/2-portes/
+IP02,Albertine-Square,Interparking,50.84354,4.35493,698,4.00,30.00,True,"Place de la Justice 16, 1000 Brussels",https://www.interparking.be/en/parkings/brussels/albertine-square/
+IP03,Alhambra,Interparking,50.85245,4.35319,192,3.60,30.00,,"Boulevard Emile Jacqmain 14, 1000 Brussels",https://www.interparking.be/en/parkings/brussels/alhambra/
+IP04,Bordet - Erasme,Interparking,50.813148,4.262822,876,2.80,18.00,True,"Rue Meylemeersch, 1070 Brussels",https://www.interparking.be/en/parkings/brussels/bordet/
+IP05,Botanique - Saint-Jean,Interparking,50.8549,4.36,328,3.60,30.00,True,"Boulevard du Jardin Botanique 29-31, 1000 Brussels",https://www.interparking.be/en/parkings/brussels/botanique-saint-jean/
+IP06,Brabant Gare du Nord,Interparking,50.861506,4.362955,158,3.60,20.00,True,"Rue de Quatrecht 38, 1030 Brussels",https://www.interparking.be/en/parkings/brussels/brabantgaredunord/
+IP07,Brucity,Interparking,50.850813,4.350604,451,4.00,30.00,True,"Rue de l'Eveque 1, 1000 Brussels",https://www.interparking.be/en/parkings/brussels/brucity/
+IP08,Chazal-Dailly,Interparking,50.853244,4.388165,39,2.00,12.00,,"Avenue Chazal 14, 1030 Brussels",https://www.interparking.be/en/parkings/brussels/chazal/
+IP09,City 2,Interparking,50.8538,4.3588,381,3.60,30.00,True,"Rue des Cendres 8, 1000 Brussels",https://www.interparking.be/en/parkings/brussels/city-2/
+IP10,De Brouckere,Interparking,50.850929,4.352201,449,4.00,30.00,True,"Rue des Augustins 14-16, 1000 Brussels",https://www.interparking.be/en/parkings/brussels/debrouckere/
+IP11,Ecuyer,Interparking,50.84926,4.353379,482,3.60,25.00,True,"Rue de l'Ecuyer 11-17, 1000 Brussels",https://www.interparking.be/en/parkings/brussels/ecuyer/
+IP12,Entre Deux Portes,Interparking,50.83711,4.358315,156,3.60,30.00,True,"Avenue de la Toison d'Or 28, 1000 Brussels",https://www.interparking.be/en/parkings/brussels/entredeuxportes/
+IP13,Grand Place,Interparking,50.846874,4.356525,913,4.00,30.00,True,"Rue du Marche aux Herbes 104, 1000 Brussels",https://www.interparking.be/en/parkings/brussels/grand-place/
+IP14,Industrie,Interparking,50.843,4.3698,311,3.60,30.00,True,"Rue de l'Industrie 26-38, 1000 Brussels",https://www.interparking.be/en/parkings/brussels/industrie/
+IP15,Loi,Interparking,50.8454,4.3695,780,3.10,25.10,True,"Rue de la Loi 19, 1040 Brussels",https://www.interparking.be/en/parkings/brussels/loi/
+IP16,Monnaie,Interparking,50.85046,4.35391,593,3.60,30.00,True,"Place de la Monnaie 25, 1000 Brussels",https://www.interparking.be/en/parkings/brussels/monnaie/
+IP17,Passage 44,Interparking,50.8525,4.3614,501,2.80,15.00,True,"Rue de l'Ommegang 16, 1000 Brussels",https://www.interparking.be/en/parkings/brussels/passage-44/
+IP18,Porte de Hal - Parvis,Interparking,50.83338,4.349859,520,3.60,30.00,True,"Boulevard de Waterloo 103a, 1000 Brussels",https://www.interparking.be/en/parkings/brussels/porte-de-hal/
+IP19,Rogier,Interparking,50.855291,4.359165,509,3.60,30.00,True,"Place Charles Rogier, 1000 Brussels",https://www.interparking.be/en/parkings/brussels/rogier/
+IP20,Sablon-Poelaert,Interparking,50.83794,4.35284,499,4.00,27.00,True,"Place Poelaert, 1000 Brussels",https://www.interparking.be/en/parkings/brussels/sablon-poelaert/
+IP21,Stephanie-Louise (Wiltchers),Interparking,50.832,4.3585,590,4.00,30.00,True,"Avenue Louise 83a, 1060 Brussels",https://www.interparking.be/en/parkings/brussels/stephanie-louise/
+IP22,Stockel Square,Interparking,50.8411131,4.4643993,400,2.00,12.50,True,"Rue de l'Eglise 96a, 1150 Brussels",https://www.interparking.be/en/parkings/brussels/stockel-square/
+IP23,Toison d'Or,Interparking,50.83715,4.35886,337,2.80,15.00,True,"Avenue de la Toison d'Or 20, 1000 Brussels",https://www.interparking.be/en/parkings/brussels/toison-d-or/
+IP24,Westland Shopping Center,Interparking,50.837669,4.288978,2240,2.00,14.40,True,"Boulevard Sylvain Dupuis 433, 1070 Brussels",https://www.interparking.be/en/parkings/brussels/westlandshoppingcenter/
+IP25,Woluwe Shopping Center,Interparking,50.8469643,4.4387687,1885,1.70,14.40,True,"Boulevard de la Woluwe 70, 1200 Brussels",https://www.interparking.be/en/parkings/brussels/woluwe-shopping-center/
+IP26,ZIN,Interparking,50.861682,4.356204,349,3.60,27.00,True,"Antwerpsesteenweg 59, 1000 Brussels",https://www.interparking.be/en/parkings/brussels/zin/
+IN01,Royal,Indigo,50.849052,4.362625,,3.60,28.00,True,"Rue de Ligne 27, 1000 Brussels",https://www.indigoneo.be/en/parkings/14563/parking-royal
+IN02,Spectrum,Indigo,50.849718,4.368189,,3.60,28.00,,"Pt Rue de N 6, 1000 Brussels",https://www.indigoneo.be/en/parkings/20816/parking-spectrum
+IN03,Up-site,Indigo,50.86316,4.35227,,3.60,28.00,True,"Willebroekkaai 35, 1000 Brussels",https://www.indigoneo.be/en/parkings/14915/parking-up-site
+IN04,Thon,Indigo,50.84354,4.37545,,3.60,45.00,,"Rue de Treves 120, 1040 Brussels",https://www.indigoneo.be/en/parkings/11453/parking-thon
+IN05,Gare du Midi 2,Indigo,50.835677,4.331091,,3.80,30.00,True,"Rue Bara 101, 1070 Brussels",https://www.indigoneo.be/en/parkings/14512/parking-gare-du-midi-2
+IN06,Flagey,Indigo,50.828318,4.372615,,3.80,23.00,True,"Place Eugene Flagey, 1050 Brussels",https://www.indigoneo.be/en/parkings/11403/parking-flagey
+PB01,Ceria-Coovi,parking.brussels,50.8159279,4.2700201,1263,1.00,15.00,True,"Boulevard Josse Leemans 110, 1070 Anderlecht",https://www.parking.brussels/en/park-your-car/parkride
+PB02,Crainhem-Kraainem,parking.brussels,50.8491789,4.4583358,193,,,,"Avenue de Wezembeek, 1200 Woluwe-Saint-Lambert",https://www.parking.brussels/en/park-your-car/parkride
+PB03,Lennik,parking.brussels,50.8157472,4.2647148,675,1.50,6.00,True,"Route de Lennik, 1070 Anderlecht",https://www.parking.brussels/en/park-your-car/parkride
+PB04,Heysel-Heizel,parking.brussels,50.8973863,4.3329343,100,,,,"Avenue Imperatrice Charlotte, 1020 Bruxelles",https://www.parking.brussels/en/park-your-car/parkride
+PB05,UZ Brussel,parking.brussels,50.8895867,4.3068339,20,,,,"Avenue de l'Arbre Ballon 253, 1090 Jette",https://www.parking.brussels/en/park-your-car/parkride
+PB06,Stalle,parking.brussels,50.7952335,4.3156456,380,0.00,0.00,,"Rue de Stalle, 1180 Uccle",https://www.parking.brussels/en/park-your-car/parkride
+PB07,Herrmann-Debroux,parking.brussels,50.8126752,4.4258026,103,0.00,0.00,,"Avenue Herrmann-Debroux, 1160 Auderghem",https://www.parking.brussels/en/park-your-car/parkride
+PB08,Delta,parking.brussels,50.8172824,4.3872557,385,0.00,0.00,,"Rue Jules Cockx 224, 1160 Auderghem",https://www.parking.brussels/en/park-your-car/parkride
+PB09,Roodebeek,parking.brussels,50.8487499,4.4305292,150,0.00,0.00,,"Chaussee de Roodebeek, 1200 Woluwe-Saint-Lambert",https://www.parking.brussels/en/park-your-car/parkride

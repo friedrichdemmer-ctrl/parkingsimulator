@@ -1,0 +1,2 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,P+R Westelijke Parallelweg,Q-Park,51.8144033,4.6422727,119,1.49,9.00,,"Westelijke Parallelweg, 3331 EW Zwijndrecht",https://www.q-park.nl/nl-nl/parkeren/zwijndrecht/p-r-westelijke-parallelweg/

@@ -1,0 +1,47 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Steendok,Q-Park,51.2078238,4.3865608,902,3.35,24.50,True,"Waalsekaai 69 A, 2000 Antwerpen",https://www.q-park.be/nl-be/parkeren/antwerpen/steendok/
+QP02,Astridplein,Q-Park,51.218335,4.421005,392,4.60,30.50,True,"Koningin Astridplein 41, 2018 Antwerpen",https://www.q-park.be/nl-be/parkeren/antwerpen/astridplein/
+QP03,Kooldok,Q-Park,51.2115899,4.3912148,1094,3.35,24.50,True,"Waalsekaai 1 A, 2000 Antwerpen",https://www.q-park.be/nl-be/parkeren/antwerpen/kooldok/
+QP04,Godefriduskaai,Q-Park,51.227682,4.409467,445,5.00,29.00,True,"Zeevaartstraat 11, 2000 Antwerpen",https://www.q-park.be/nl-be/parkeren/antwerpen/godefriduskaai/
+QP05,Handelsbeurs,Q-Park,51.219617,4.405334,282,5.40,32.00,True,"Sint Katelijnevest 55, 2000 Antwerpen",https://www.q-park.be/nl-be/parkeren/antwerpen/handelsbeurs/
+QP06,Shopping Meir,Q-Park,51.219127,4.40735,137,4.60,30.50,True,"Korte Klarenstraat 10, 2000 Antwerpen",https://www.q-park.be/nl-be/parkeren/antwerpen/shopping-meir/
+QP07,Berchem Station,Q-Park,51.201594,4.434688,451,4.20,32.50,True,"Burgemeester E. Ryckaertsplein 2, 2600 Antwerpen",https://www.q-park.be/nl-be/parkeren/antwerpen/berchem-station/
+QP08,Century Center,Q-Park,51.216407,4.419269,168,4.20,24.00,True,"Vestingstraat 45, 2000 Antwerpen",https://www.q-park.be/nl-be/parkeren/antwerpen/century-center/
+QP09,Emerald,Q-Park,51.215812,4.41723,24,,,,"Lange Herentalsestraat 20, 2018 Antwerpen",https://www.q-park.be/nl-be/parkeren/antwerpen/emerald/
+QP10,Infiniti,Q-Park,51.197694,4.432657,240,,,,"Posthofbrug 24, 2600 Antwerpen",https://www.q-park.be/nl-be/parkeren/antwerpen/inf%C3%ADniti/
+QP11,Keyserlei,Q-Park,51.215759,4.416092,91,4.60,31.50,,"Quellinstraat 39, 2018 Antwerpen",https://www.q-park.be/nl-be/parkeren/antwerpen/keyserlei/
+QP12,Kievit,Q-Park,51.211859,4.425328,48,3.90,29.50,,"Somersstraat 21, 2018 Antwerpen",https://www.q-park.be/nl-be/parkeren/antwerpen/kievit/
+QP13,Middelheim,Q-Park,51.183631,4.422677,942,1.90,9.50,,"Lindendreef 1, 2020 Antwerpen",https://www.q-park.be/nl-be/parkeren/antwerpen/middelheim/
+QP14,Centrum Antwerpen,Q-Park,51.217629,4.401423,222,4.80,30.50,True,"Lombardenvest, 2000 Antwerpen",https://www.q-park.be/nl-be/parkeren/antwerpen/centrum-antwerpen/
+QP15,'t Stad,Q-Park,51.219211,4.410446,124,4.60,30.50,True,"Eikenstraat 9, 2000 Antwerpen",https://www.q-park.be/nl-be/parkeren/antwerpen/t-stad/
+QP16,Zoo,Q-Park,51.219559,4.422481,62,3.85,28.00,,"Lange Winkelhaakstraat 33, 2060 Antwerpen",https://www.q-park.be/nl-be/parkeren/antwerpen/zoo/
+IP01,Arenberg,Interparking,51.21522,4.408961,385,3.60,26.80,True,"Oudevaartplaats 2-4, 2000 Antwerpen",https://www.interparking.be/en/parkings/antwerp/arenberg/
+IP02,Breidel,Interparking,51.21863,4.419506,281,3.70,25.00,,"Breydelstraat 15-17, 2018 Antwerpen",https://www.interparking.be/en/parkings/antwerp/breidel/
+IP03,Centraal,Interparking,51.213054,4.422963,1224,3.60,28.00,True,"Van Immerseelstraat 2, 2018 Antwerpen",https://www.interparking.be/en/parkings/antwerp/centraal/
+IP04,De Keyser,Interparking,51.218672,4.417298,223,3.60,28.00,True,"Van Ertbornstraat 13, 2060 Antwerpen",https://www.interparking.be/en/parkings/antwerp/de-keyser/
+IP05,Hopland,Interparking,51.216562,4.412234,222,3.60,28.00,True,"Hopland 38-40, 2000 Antwerpen",https://www.interparking.be/en/parkings/antwerp/hopland/
+IP06,Horta,Interparking,51.216589,4.411225,288,3.20,16.00,True,"Hopland 24, 2000 Antwerpen",https://www.interparking.be/en/parkings/antwerp/horta/
+IP07,Lombardia,Interparking,51.217718,4.401977,124,4.00,28.00,True,"Lombardenvest 11, 2000 Antwerpen",https://www.interparking.be/en/parkings/antwerp/lombardia/
+IP08,Meir,Interparking,51.219115,4.404445,501,4.00,28.00,,"Eiermarkt 33-35, 2000 Antwerpen",https://www.interparking.be/en/parkings/antwerp/meir/
+IP09,Meir-Opera,Interparking,51.22006,4.414583,202,3.20,22.00,True,"Sint-Jacobsmarkt 81-83, 2000 Antwerpen",https://www.interparking.be/en/parkings/antwerp/meir-opera/
+IP10,Oudaen,Interparking,51.216064,4.40378,365,4.80,40.00,True,"Oudaan 3, 2000 Antwerpen",https://www.interparking.be/en/parkings/antwerp/oudaen/
+IP11,Roosevelt,Interparking,51.219451,4.417673,379,3.60,28.00,,"F. Rooseveltplaats 12, 2060 Antwerpen",https://www.interparking.be/en/parkings/antwerp/roosevelt/
+IP12,Slachthuissite,Interparking,51.22873,4.43493,120,1.20,20.00,,"Lange Lobroekstraat 120, 2060 Antwerpen",https://www.interparking.be/en/parkings/antwerp/slachthuissite/
+IP13,Stadsschouwburg,Interparking,51.215688,4.410517,270,3.60,25.00,True,"Meistraat 4, 2000 Antwerpen",https://www.interparking.be/en/parkings/antwerp/stadsschouwburg/
+IP14,Vesting,Interparking,51.216639,4.418748,213,4.00,28.00,,"Vestingstraat 30, 2018 Antwerpen",https://www.interparking.be/en/parkings/antwerp/vesting/
+IN01,Groenplaats,Indigo Neo,51.21874,4.401197,,3.70,,True,"Groenplaats 46, 2000 Antwerpen",https://www.indigoneo.be/nl/parkings/12803/parking-groenplaats
+IN02,Inno Antwerpen,Indigo Neo,51.216802,4.411412,,3.00,,True,"Hopland 45, 2000 Antwerpen",https://www.indigoneo.be/nl/parkings/18753/parking-inno-antwerpen
+IN03,Leopold,Indigo Neo,51.21392,4.40797,,2.70,,True,"Henri van Heurckstraat 9, 2000 Antwerpen",https://www.indigoneo.be/nl/parkings/12804/parking-leopold
+IN04,Zuiderplein,Indigo Neo,51.204472,4.382511,,3.00,,True,"Michel de Braeystraat 55, 2000 Antwerpen",https://www.indigoneo.be/nl/parkings/13457/parking-zuiderplein
+IN05,Station-Zoo,Indigo Neo,51.2201,4.421694,,3.00,,,"Van Schoonhovenstraat 25, 2060 Antwerpen",https://www.indigoneo.be/nl/parkings/16356/parking-zoo
+IN06,Opera,Indigo Neo,51.217101,4.414901,,3.30,,True,"Frankrijklei 31, 2018 Antwerpen",https://www.indigoneo.be/nl/parkings/18153/parking-opera
+IN07,Nationale Bank,Indigo Neo,51.21018,4.407016,,3.20,,True,"Britselei 9, 2000 Antwerpen",https://www.indigoneo.be/nl/parkings/11954/parking-nationale-bank
+IN08,Sint-Jansplein,Indigo Neo,51.226266,4.418279,,2.90,,True,"Sint-Jansplein 1, 2060 Antwerpen",https://www.indigoneo.be/nl/parkings/29467/parking-sint-jansplein
+IN09,'t Zuid Zillion,Indigo Neo,51.206185,4.386594,,3.25,,True,"Vlaamsekaai 92, 2000 Antwerpen",https://www.indigoneo.be/nl/parkings/29468/parking-t-zuid-zillion
+IN10,Hangar 26,Indigo Neo,51.229272,4.401386,,2.80,,,"Rijnkaai 94, 2000 Antwerpen",https://www.indigoneo.be/nl/parkings/26915/parking-hangar-26
+IN11,Grote Markt,Indigo Neo,51.222101,4.398079,,4.50,,True,"Ernest Van Dijckkaai 3, 2000 Antwerpen",https://www.indigoneo.be/nl/parkings/31815/parking-grote-markt-antwerpen
+EF01,Brabo,Effia,51.21875,4.40027,476,3.40,24.50,True,"Kammenstraat 2, 2000 Antwerpen",https://www.effia.be/parking/parking-brabo/zoeken?id=51734335-4a5e-4dd2-bf56-c33fcc2e2483/parking-brabo
+EF02,Diamant,Effia,51.21654,4.41725,660,3.20,22.00,,"Appelmansstraat 35-38, 2018 Antwerpen",https://www.effia.be/parking/parking-diamant/zoeken?id=6bd5a033-668a-44f6-8ce2-fe67d0b40fad/parking-diamant
+EF03,Stuivenberg,Effia,51.2223097,4.4376204,455,2.60,12.00,,"Somméstraat 12A, 2060 Antwerpen",https://www.effia.be/parking/parking-stuivenberg/zoeken?id=711d377e-1701-462a-a4ad-1dadf92b0dad/parking-stuivenberg
+EF04,Antwerp Shopping,Effia,51.2202931,4.4151128,120,3.30,22.70,,"Molenbergstraat 9, 2000 Antwerpen",https://www.effia.be/parking/parking-antwerp-shopping/zoeken?id=e2372f55-9594-4e11-a9cf-261e28981cd5/parking-antwerp-shopping
+EF05,Cammerpoorte,Effia,51.2167221,4.3991573,152,3.60,26.00,,"Nationalestraat 38-40, 2000 Antwerpen",https://www.effia.be/parking/parking-cammerpoorte/zoeken?id=f4b70913-df24-494e-906b-fa51a632c9cf/parking-cammerpoorte

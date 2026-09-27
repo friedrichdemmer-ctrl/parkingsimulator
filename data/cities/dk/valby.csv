@@ -1,0 +1,19 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Carl Jacobsens Vej 29-31,Q-Park,55.654665,12.514739,60,10,,,"Carl Jacobsens Vej 29-31, 2500 Valby",https://www.q-park.dk/da/parkering/valby/carl-jacobsens-vej-29-31/
+QP02,"Gammel Køge Landevej 63, 2500 Valby",Q-Park,55.6567357,12.5140845,121,16,,,"Gammel Køge Landevej 63, 2500 Valby","https://www.q-park.dk/da/parkering/valby/gammel-k%c3%b8ge-landevej-63,-2500-valby/"
+QP03,Panumsvej 1-7,Q-Park,55.660865,12.501933,,20,,,"Panumsvej 1-7, 2500 Valby",https://www.q-park.dk/da/parkering/valby/panumsvej-1-7/
+AP01,"Gl. Køge Landevej 39-41,45",APCOA,55.65832353,12.51449866,275,34,,,"Gammel Køge Landevej 39-45, 2500 Valby",https://www.apcoa.dk/find-en-p-plads/lokationer/valby/gl-koege-landevej-39-4145
+AP02,Glostervej/Mutzuvej,APCOA,55.653433,12.504034,70,19,456,,"Glostervej/Mutzuvej, 2500 Valby",https://www.apcoa.dk/find-en-p-plads/lokationer/valby/glostervej/mutzuvej
+AP03,Grønttorvet Terræn,APCOA,55.654736,12.501838,125,17,408,,"Grønttorvet, 2500 Valby",https://www.apcoa.dk/find-en-p-plads/lokationer/valby/groenttorvet-terraen
+AP04,Grønttorvets parkeringskælder,APCOA,55.65429301,12.50579477,384,17,,True,"Grønttorvet, 2500 Valby",https://www.apcoa.dk/find-en-p-plads/lokationer/valby/groenttorvets-parkeringskaelder
+AP05,Hibicus Hus,APCOA,55.656311,12.506109,154,,,,"Ingrid Marievej 47-85, 2500 Valby",https://www.apcoa.dk/find-en-p-plads/lokationer/valby/hibicus-hus
+AP06,Høffdingsvej 32-36,APCOA,55.65737,12.506595,140,22,200,,"Høffdingsvej 32, 2500 Valby",https://www.apcoa.dk/find-en-p-plads/lokationer/valby/hoeffdingsvej-32-36
+AP07,Ottilia Jacobsens Plads 1,APCOA,55.6669834,12.53123418,84,32,,,"Ottilia Jacobsens Plads, 2500 Valby",https://www.apcoa.dk/find-en-p-plads/lokationer/valby/ottilia-jacobsens-plads-1
+AP08,Pakkerivej 10,APCOA,55.6609,12.514193,20,27,250,,"Pakkerivej 10, 2500 Valby",https://www.apcoa.dk/find-en-p-plads/lokationer/valby/pakkerivej-10
+AP09,Poul Bundgaards vej 5,APCOA,55.65931663,12.50971326,85,27,250,,"Poul Bundgaards vej 5, 2500 Valby",https://www.apcoa.dk/find-en-p-plads/lokationer/valby/poul-bundgaards-vej-5
+AP10,Retortvej 8B,APCOA,55.65698839,12.49999756,200,12,288,,"Retortvej 8 B, 2500 Valby",https://www.apcoa.dk/find-en-p-plads/lokationer/valby/retortvej-8b
+AP11,Sdr. Fasanvej 90-94,APCOA,55.668032,12.515764,200,20,150,,"Søndre Fasanvej 90-94, 2500 Valby",https://www.apcoa.dk/find-en-p-plads/lokationer/valby/sdr-fasanvej-90-94
+AP12,Valby Have,APCOA,55.65664254,12.5124086,190,17,408,,"Valby Have, 2500 Valby",https://www.apcoa.dk/find-en-p-plads/lokationer/valby/valby-have
+AP13,Valby Maskinfabrik,APCOA,55.658543,12.51358,470,27,250,,"Kirsten Walthers Vej 1, 2500 Valby",https://www.apcoa.dk/find-en-p-plads/lokationer/valby/valby-maskinfabrik
+AP14,"Valby Maskinfabrik, P-kælder 1",APCOA,55.659151,12.511981,496,27,250,,"Kirsten Walthers Vej 12, 2500 Valby",https://www.apcoa.dk/find-en-p-plads/lokationer/valby/valby-maskinfabrik-p-kaelder-1
+AP15,"Valby Maskinfabrik, P-kælder 2",APCOA,55.660924,12.513258,85,27,240,,"Pakkerivej 5, 2500 Valby",https://www.apcoa.dk/find-en-p-plads/lokationer/valby/valby-maskinfabrik-p-kaelder-2

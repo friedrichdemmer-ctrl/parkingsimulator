@@ -1,0 +1,2 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Vieille Porte,Q-Park,45.75882,5.69131,104,3.00,30.00,True,"41 Rue de la Résistance, 01300 Belley",https://www.q-park.fr/fr-fr/villes/belley/vieille-porte/

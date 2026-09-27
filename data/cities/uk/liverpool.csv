@@ -1,0 +1,27 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Dale Street,Q-Park,53.408811,-2.987975,279,,27.5,True,"Vernon Street, Off Dale Street, Liverpool, L2 2HJ",https://www.q-park.co.uk/en-gb/cities/liverpool/dale-street/
+QP02,Hanover Street,Q-Park,53.402956,-2.983718,554,2.9,26.0,True,"44 Hanover Street, Liverpool, L1 4AF",https://www.q-park.co.uk/en-gb/cities/liverpool/hanover-street/
+QP03,John Lewis,Q-Park,53.401504,-2.9868232,581,2.9,26.0,True,"17 Liver Street, Liverpool, L1 8LJ",https://www.q-park.co.uk/en-gb/cities/liverpool/john-lewis/
+QP04,Liverpool ONE,Q-Park,53.4024738,-2.9900133,1900,2.9,26.0,True,"35 Strand Street, Liverpool, L1 8LT",https://www.q-park.co.uk/en-gb/cities/liverpool/liverpool-one/
+QP05,Queen Square,Q-Park,53.40827,-2.983482,537,,21.0,True,"Queen Square, Liverpool, L1 1RH",https://www.q-park.co.uk/en-gb/cities/liverpool/queen-square/
+QP06,Royal Liverpool Hospital,Q-Park,53.4109611,-2.9667264,479,2.7,17.5,True,"Epworth Street, Liverpool, L6 1LY",https://www.q-park.co.uk/en-gb/cities/liverpool/royal-liverpool-hospital/
+NCP01,Liverpool Capital,NCP,53.408,-2.9953,881,,,,"Fazakerley Street, Liverpool, L3 9DL",https://www.ncp.co.uk/find-a-car-park/car-parks/liverpool-capital-car-park/
+NCP02,Liverpool Tithebarn Street,NCP,53.4102274,-2.9891516,21,,,,"69 Tithebarn Street, Liverpool, L2 2EE",https://www.ncp.co.uk/find-a-car-park/car-parks/liverpool-tithebarn-street/
+NCP03,Liverpool Smithfield,NCP,53.4108544,-2.9896839,58,,,,"Smithfield, Smithfield Street, Liverpool, L3 6AF",https://www.ncp.co.uk/find-a-car-park/car-parks/liverpool-smithfield/
+NCP04,Liverpool Primrose Hill,NCP,53.410867,-2.984275,11,,,,"Primrose Hill SP, off Truman Street, Liverpool, L3 2BA",https://www.ncp.co.uk/find-a-car-park/car-parks/liverpool-primrose-hill/
+AP01,101 Old Hall Street,Apex Parking,53.4108359,-2.9985996,38,,,,"101 Old Hall Street, Liverpool, L3 9BD",https://apex-parking.co.uk/car-parks/101-old-hall-street/
+AP02,Moorfields,Apex Parking,53.4089892,-2.9885512,577,,5.0,,"Moorfields, Liverpool, L2 2AY",https://apex-parking.co.uk/car-parks/moorfields-liverpool/
+AP03,Pall Mall,Apex Parking,53.4112886,-2.9930881,645,,8.0,,"Pall Mall, Liverpool, L3 6AL",https://apex-parking.co.uk/car-parks/pall-mall-liverpool/
+AP04,Rumford Street,Apex Parking,53.4073251,-2.9933651,78,3.5,21.0,,"Rumford Street, Liverpool, L2 8SZ",https://apex-parking.co.uk/car-parks/rumford-street-liverpool/
+AP05,St Johns Shopping Centre,Apex Parking,53.4066122,-2.9826401,607,2.5,20.0,,"St Johns Shopping Centre, Skelhorn Street, Liverpool, L1 1NQ",https://apex-parking.co.uk/car-parks/st-johns-shopping-centre-liverpool/
+LCC01,Dale Street,Liverpool City Council,53.4096791,-2.9844163,51,3.4,11.6,,"Dale Street, Liverpool, L2 2AH",https://liverpool.gov.uk/parking-roads-and-travel/find-parking/council-car-parks
+LCC02,Fontenoy Street,Liverpool City Council,53.4107428,-2.9834285,30,3.4,11.6,,"Fontenoy Street, Liverpool, L3 2BE",https://liverpool.gov.uk/parking-roads-and-travel/find-parking/council-car-parks
+LCC03,Hunter Street,Liverpool City Council,53.4107504,-2.9815871,63,3.4,11.6,,"Cuerden Street, Liverpool, L3 2AT",https://liverpool.gov.uk/parking-roads-and-travel/find-parking/council-car-parks
+LCC04,Kempston Street,Liverpool City Council,53.4104408,-2.9721586,45,2.8,9.6,,"Kempston Street, Liverpool, L3 8NG",https://liverpool.gov.uk/parking-roads-and-travel/find-parking/council-car-parks
+LCC05,Lambert Street,Liverpool City Council,53.4098903,-2.9736892,69,2.8,9.6,,"Lambert Street, Liverpool, L3 8NG",https://liverpool.gov.uk/parking-roads-and-travel/find-parking/council-car-parks
+LCC06,Fraser Street,Liverpool City Council,53.4099349,-2.9765056,82,1.8,8.5,,"Islington, Fraser Street, Liverpool, L3 8JX",https://liverpool.gov.uk/parking-roads-and-travel/find-parking/council-car-parks
+LCC07,Finch Place,Liverpool City Council,53.4108569,-2.9688552,22,,,,"Finch Place, Liverpool, L3 8HJ",https://liverpool.gov.uk/parking-roads-and-travel/find-parking/council-car-parks
+LCC08,King's Dock,Liverpool City Council,53.3964072,-2.9892791,1500,4.4,28.2,True,"Monarchs Quay, Liverpool, L3 4BX",https://liverpool.gov.uk/parking-roads-and-travel/find-parking/council-car-parks
+LCC09,Mount Pleasant,Liverpool City Council,53.4038845,-2.973382,1535,,,True,"38 Mount Pleasant, Liverpool, L3 5TB",https://liverpool.gov.uk/parking-roads-and-travel/find-parking/council-car-parks
+LCC10,Paddington Village,Liverpool City Council,53.4055742,-2.960073,1249,2.3,20.9,True,"Elm Grove, Liverpool, L7 3FA",https://liverpool.gov.uk/parking-roads-and-travel/find-parking/council-car-parks
+LCC11,Victoria Street,Liverpool City Council,53.4078787,-2.9851236,333,,20.9,True,"Victoria Street, Liverpool, L1 6BX",https://liverpool.gov.uk/parking-roads-and-travel/find-parking/council-car-parks

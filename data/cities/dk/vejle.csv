@@ -1,0 +1,33 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Q-Park Bryggen,Q-Park,55.705365,9.529003,700,14,,True,"Sønder Torv 2, 7100 Vejle",https://www.q-park.dk/da/parkering/vejle/bryggen/
+QP02,Q-Park Exxit 59,Q-Park,55.748187,9.588405,580,16,175,,"Danmarks Transport Center, 7100 Vejle",https://www.q-park.dk/da/parkering/vejle/exxit-59/
+QP03,Q-Park Fiskergade 2-8,Q-Park,55.706742,9.534296,30,32,148,,"Fiskergade 2-8, 7100 Vejle",https://www.q-park.dk/da/parkering/vejle/fiskergade-2-8/
+QP04,Q-Park Viborg Hovedvej 44,Q-Park,55.7820253,9.5750816,50,10,50,,"Viborg Hovedvej 44, 7100 Vejle",https://www.q-park.dk/da/parkering/vejle/viborg-hovedvej-44/
+AP01,Grønnegade 17-24,APCOA,55.708501,9.534947,16,22,526,,"Grønnegade 17-24, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/groennegade-17-24
+AP02,Vissingsgade 16-22,APCOA,55.70884331,9.53451379,32,27,,,"Vissingsgade 16-22, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/vissingsgade-16-22
+AP03,Kirkegade 25,APCOA,55.70813113,9.53532332,46,16,,,"Kirkegade 25, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/kirkegade-25
+AP04,Dæmningen 23,APCOA,55.709015,9.535784,60,32,768,True,"Dæmningen 23, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/daemningen-23
+AP05,Foldegade 31-39,APCOA,55.70602277,9.53424309,40,25,600,,"Foldegade 31-39, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/foldegade-31-39
+AP06,Havnegade 5-7,APCOA,55.70755954,9.53656164,45,22,528,,"Havnegade 5-7, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/havnegade-5-7
+AP07,Å-centret,APCOA,55.706059,9.530568,110,44,500,,"Enghavevej 15, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/aa-centret
+AP08,Borgvold 12,APCOA,55.7060376,9.53565498,45,22,528,,"Borgvold 12, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/borgvold-12
+AP09,Føtex Nørregade,APCOA,55.710565,9.532292,149,9,,,"Nørregade 15-27, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/foetex-noerregade
+AP10,Enghavecentret,APCOA,55.706354,9.528951,107,35,,,"Enghavevej 9A, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/enghavecentret
+AP11,Enghavevej 32,APCOA,55.70657597,9.52780311,60,25,600,,"Enghavevej 32, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/enghavevej-32
+AP12,Gl. Havn / Dæmningen,APCOA,55.704742,9.535246,90,16,,,"Gl. Havn/Dæmningen, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/gl-havn-/-daemningen
+AP13,Reinholdts Plads,APCOA,55.705269,9.537051,15,23,,,"Reinholdts Plads 10, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/reinholdts-plads
+AP14,Havneparken 14Q,APCOA,55.70669032,9.5400509,48,14,,,"Havneparken 14Q, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/havneparken-14q
+AP15,Staldgaardsgade 6-8,APCOA,55.712063,9.535224,16,17,408,,"Staldgaardsgade 6-8, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/staldgaardsgade-6-8
+AP16,Højbanetorvet 15,APCOA,55.711942,9.537127,20,15,,,"Højbanetorvet 15, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/hoejbanetorvet-15
+AP17,Fredericiagade 1/Sønderbrogade 35,APCOA,55.70315548,9.53201081,30,10,240,,"Fredericiagade 1/Sønderbrogade 35, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/fredericiagade-1/soenderbrogade-35
+AP18,Sjællandsgade 12-16,APCOA,55.704791,9.539834,60,12,,,"Sjællandsgade 12-16, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/sjaellandsgade-12-16
+AP19,Damhaven 5D,APCOA,55.70359035,9.52837527,4,16,370,,"Damhaven 5D, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/damhaven-5d
+AP20,Ejgil Jensens Vej,APCOA,55.7031247,9.53579844,178,18,432,,"Ejgil Jensens Vej, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/ejgil-jensens-vej
+AP21,Boulevarden 19,APCOA,55.70875048,9.52325331,134,12,288,,"Boulevarden 19, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/boulevarden-19
+AP22,Vesterbrogade 17-19,APCOA,55.71443727,9.53361523,11,12,288,,"Vesterbrogade 17-19, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/vesterbrogade-17-19
+AP23,Havneøens P-hus,APCOA,55.706917,9.552513,298,15,120,True,"Kahytten 2, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/havneoeens-p-hus
+AP24,Horsensvej 72,APCOA,55.71829072,9.56278579,200,15,360,,"Horsensvej 72, 7100 Vejle",https://www.apcoa.dk/find-en-p-plads/lokationer/vejle/horsensvej-72
+VK01,P-hus Cronhammar,Vejle Kommune,55.7034731,9.5379696,1000,9,38,True,"Sjællandsgade 10e, 7100 Vejle",https://www.vejle.dk/da/service-og-selvbetjening/borger/trafik-og-parkering/parkering-og-tilladelser/priser-og-betaling-for-parkering/hvad-koster-det-at-parkere/
+VK02,P-hus Tróndur,Vejle Kommune,55.710247,9.5374954,273,9,38,,"Volmersgade 9, 7100 Vejle",https://www.vejle.dk/da/service-og-selvbetjening/borger/trafik-og-parkering/parkering-og-tilladelser/priser-og-betaling-for-parkering/hvad-koster-det-at-parkere/
+VK03,P-hus Albert,Vejle Kommune,55.711361,9.533307,600,9,38,,"Ved Anlæget 24, 7100 Vejle",https://www.vejle.dk/da/service-og-selvbetjening/borger/trafik-og-parkering/parkering-og-tilladelser/priser-og-betaling-for-parkering/hvad-koster-det-at-parkere/
+VK04,Abelones Plads,Vejle Kommune,55.7147775,9.5352393,,6,26,,"Abelones Plads, 7100 Vejle",https://www.vejle.dk/da/service-og-selvbetjening/borger/trafik-og-parkering/parkering-og-tilladelser/priser-og-betaling-for-parkering/hvad-koster-det-at-parkere/

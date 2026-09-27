@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+brest-qpark-1,Parking Branda,Q-Park,48.3919413,-4.4802021,160,,,False,"32 Rue Yves Collet, 29200 Brest",https://www.q-park.fr/fr-fr/villes/brest/branda/
+brest-qpark-2,Parking CHRU Cavale Blanche,Q-Park,48.4005181,-4.5271995,3312,1.80,24.10,True,"1085 Rue Georges Kerbrat, 29200 Brest",https://www.q-park.fr/fr-fr/villes/brest/brest-chu---cavale-blanche/
+brest-qpark-3,Parking Q-Park CHRU Morvan,Q-Park,48.3921746,-4.4871627,700,3.00,36.70,True,"2 Avenue Foch, 29200 Brest",https://www.q-park.fr/fr-fr/villes/brest/brest-chu---morvan/

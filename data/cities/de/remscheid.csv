@@ -1,0 +1,13 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Allee Arkaden,Q-Park,51.1793235,7.1921005,367,1.50,10.00,,"Bankstraße, 42853 Remscheid",https://www.q-park.de/de-de/staedte/remscheid/allee-arkaden/
+AP01,Allee-Center,APCOA,51.183057,7.188151,910,1.40,25.00,True,"Theodor-Heuss-Platz 7, 42853 Remscheid",https://www.apcoa.de/einmal-parken/standorte/remscheid/allee-center
+CP01,Tiefgarage Engelspassage,Contipark,51.180743,7.192465,90,1.10,3.50,True,"Engelspassage 10, 42853 Remscheid",https://www.contipark.de/de/parken/remscheid/tiefgarage-engelspassage/
+CP02,Parkplatz Engelspassage,Contipark,51.180724,7.193057,90,1.10,3.50,,"Engelspassage 12, 42853 Remscheid",https://www.contipark.de/de/parken/remscheid/parkplatz-engelspassage/
+PSR01,Tiefgarage Rathaus,Park Service Remscheid,51.1817321,7.1847872,400,1.50,15.00,True,"Fastenrathstraße 1, 42853 Remscheid",https://www.parkservice-remscheid.de/parkeinrichtungen/tiefgarage-rathaus
+PSR02,Parkhaus Am Markt,Park Service Remscheid,51.1799601,7.1965945,100,1.50,8.00,,"Kirchhofstraße 8, 42853 Remscheid",https://www.parkservice-remscheid.de/parkeinrichtungen/parkhaus-am-markt
+PSR03,Parkhaus Daniel-Schürmann-Straße,Park Service Remscheid,51.1809117,7.1840438,225,1.50,15.00,,"Daniel-Schürmann-Straße 29, 42853 Remscheid",https://www.parkservice-remscheid.de/parkeinrichtungen/parkhaus-daniel-schuermann-strasse
+PSR04,Parkplatz Daniel-Schürmann-Straße,Park Service Remscheid,51.1802683,7.1871327,35,1.50,15.00,,"Daniel-Schürmann-Straße 16, 42853 Remscheid",https://www.parkservice-remscheid.de/parkeinrichtungen/parkplatz-daniel-schuermann-strasse
+PSR05,Theaterparkplatz,Park Service Remscheid,51.181874,7.1891157,50,1.50,15.00,True,"Scharffstraße 5, 42853 Remscheid",https://www.parkservice-remscheid.de/parkeinrichtungen/theaterparkplatz
+PSR06,Parkhaus Altstadt Lennep,Park Service Remscheid,51.1928001,7.2600841,120,1.50,10.00,,"Hardtstraße 17, 42897 Remscheid",https://www.parkservice-remscheid.de/parkeinrichtungen/parkhaus-altstadt-lennep
+SR01,P+R Hauptbahnhof Remscheid,Stadt Remscheid,51.1767422,7.2005024,230,0.00,0.00,,"Prešover Straße 20, 42859 Remscheid",https://www.bahnhof.de/en/remscheid-hbf/parking-spaces
+DB01,Parkpalette Bahnhof Lennep,DB BahnPark,51.1917589,7.2540072,120,1.50,,,"Bergstraße 6, 42897 Remscheid",https://www.bahnhof.de/en/remscheid-lennep/parking-spaces

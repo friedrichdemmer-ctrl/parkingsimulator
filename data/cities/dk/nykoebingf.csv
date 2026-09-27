@@ -1,0 +1,5 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Nygade 14A,Q-Park,54.765516,11.87061,35,10,60,,"Nygade 14A, 4800 Nykøbing F",https://www.q-park.dk/da/parkering/nyk%c3%b8bing-f/nygade/
+QP02,"Slotsbryggen 5 - 19",Q-Park,54.771841,11.865159,65,15,,,"Slotsbryggen 5 - 19, 4800 Nykøbing F","https://www.q-park.dk/da/parkering/nyk%c3%b8bing-f/slotsbryggen-5---19/"
+AP01,Langgade 6-12,APCOA,54.767345,11.865836,60,,,,"Langgade 6-12, 4800 Nykøbing F",https://www.apcoa.dk/find-en-p-plads/lokationer/nykoebing-f/langgade-6-12
+AP02,Hospitalsvej 8,APCOA,54.77846121,11.86518771,34,12,288,,"Hospitalsvej 8, 4800 Nykøbing F",https://www.apcoa.dk/find-en-p-plads/lokationer/nykoebing-f/hospitalsvej-8

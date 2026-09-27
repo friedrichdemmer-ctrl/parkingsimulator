@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Geve,Q-Park,50.713054,4.379182,65,1.20,12.00,,"Rue Fortemps, 1420 Braine-l'Alleud",https://www.q-park.be/fr-be/villes/braine-l'alleud/braine-l'alleud---geve/
+BP01,Gare Braine-l'Alleud P1 (Croix du Feu),B-Parking,50.681454,4.374509,422,,17.00,True,"Rue des Croix du Feu, 1420 Braine-l'Alleud",https://www.belgiantrain.be/fr/station-information/car-or-bike-at-station/b-parking/my-b-parking/braine-alleud
+BP02,Gare Braine-l'Alleud P2 (Pont Courbe),B-Parking,50.686313,4.376587,490,,17.00,,"Pont Courbe, 1420 Braine-l'Alleud",https://www.belgiantrain.be/fr/station-information/car-or-bike-at-station/b-parking/my-b-parking/braine-alleud

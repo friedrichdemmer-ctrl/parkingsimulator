@@ -1,0 +1,19 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,High Street,Q-Park,51.8917719,0.8974224,642,2.50,15.00,False,"Nunns Road, Colchester, CO1 1EJ",https://www.q-park.co.uk/en-gb/cities/colchester/high-street/
+QP02,Osborne Street,Q-Park,51.8868277,0.9029274,601,2.00,7.50,False,"Osborne Street, Colchester, CO2 7DP",https://www.q-park.co.uk/en-gb/cities/colchester/osborne-street/
+NCP01,Hythe Quay,NCP,51.8838,0.925504,20,,,False,"Garden House & Garden Court, Hythe Quay, Colchester, CO2 8JF",https://www.ncp.co.uk/find-a-car-park/car-parks/colchester-hythe-quay/
+CCC01,St Johns,Colchester City Council,51.8869256,0.8986332,645,2.70,15.00,False,"St John's Walk, Colchester, CO2 7AL",https://www.new.colchester.gov.uk/city-centre-car-parks/st-johns
+CCC02,Napier Road North,Colchester City Council,51.8831732,0.9026083,85,,4.70,False,"Napier Road, Colchester, CO2 7NR",https://www.new.colchester.gov.uk/city-centre-car-parks/napier-road-north
+CCC03,Britannia,Colchester City Council,51.886641,0.9037894,369,2.60,12.70,False,"St Botolphs Street, Colchester, CO2 7EA",https://www.new.colchester.gov.uk/city-centre-car-parks/britannia
+CCC04,Napier Road South,Colchester City Council,51.8833579,0.8994684,32,,4.70,False,"Circular Road East, Colchester, CO2 7GB",https://www.new.colchester.gov.uk/city-centre-car-parks/napier-road-south
+CCC05,Vineyard Street,Colchester City Council,51.88768,0.9010378,80,3.40,,False,"Vineyard Street, Colchester, CO1 1LS",https://www.new.colchester.gov.uk/city-centre-car-parks/vineyard-street
+CCC06,Priory Street,Colchester City Council,51.8881564,0.9063987,169,2.70,18.90,True,"Priory Street, Colchester, CO1 2QB",https://www.new.colchester.gov.uk/city-centre-car-parks/priory-street
+CCC07,Butt Road,Colchester City Council,51.8845627,0.8942029,120,,4.70,False,"Roman Circus Walk, Colchester, CO2 7NG",https://www.new.colchester.gov.uk/city-centre-car-parks/butt-road
+CCC08,St Marys,Colchester City Council,51.8892933,0.8931407,577,2.70,15.00,False,"St Mary's Fields, Colchester, CO3 3FF",https://www.new.colchester.gov.uk/city-centre-car-parks/st-marys
+CCC09,Sheepen Road,Colchester City Council,51.8926433,0.8923964,54,,8.20,False,"Sheepen Road, Colchester, CO3 3GT",https://www.new.colchester.gov.uk/city-centre-car-parks/sheepen-road-car-park
+CCC10,Three Crowns Road,Colchester City Council,51.9019874,0.8926747,32,,9.50,False,"Three Crowns Road, Colchester, CO4 5AD",https://www.new.colchester.gov.uk/outer-city-car-parks/three-crowns-road
+CCC11,Recreation Ground,Colchester City Council,51.8795879,0.9171268,,,8.40,False,"Recreation Road, Colchester, CO1 2HE",https://www.new.colchester.gov.uk/outer-city-car-parks/recreation-ground
+CCC12,Colchester Leisure World,Colchester City Council,51.8968126,0.9059435,439,2.20,11.60,False,"Cowdray Avenue, Colchester, CO1 1YH",https://www.new.colchester.gov.uk/parking-and-travel/car-parks/colchester-leisure-world-car-park
+CCC13,Colchester Sports Park (Northern Gateway),Colchester City Council,51.9264445,0.9020217,300,,8.80,False,"Cuckoo Farm Way, Colchester, CO4 5YX",https://www.new.colchester.gov.uk/parking-and-travel/car-parks/colchester-northern-gateway-car-park
+CCC14,High Woods Country Park,Colchester City Council,51.9066312,0.9023035,70,,8.00,False,"Turner Road, Colchester, CO4 5JR",https://www.new.colchester.gov.uk/parking-and-travel/car-parks/high-woods-country-park-car-park
+SB01,Colchester (North) Station,Saba,51.9018544,0.890108409,931,1.20,,False,"20 Three Crowns Road, Colchester, CO4 5AD",https://www.sabaparking.co.uk/en/car-park/colchester-north-station-car-park

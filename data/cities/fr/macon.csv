@@ -1,0 +1,5 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Centre,Q-Park,46.30107,4.82937,248,0.60,10.40,True,"Avenue E. Herriot, 71000 Mâcon",https://www.q-park.fr/fr-fr/villes/m%c3%a2con/centre/
+QP02,Halles,Q-Park,46.30489,4.83076,106,0.60,10.40,True,"30 Rue des Minimes, 71000 Mâcon",https://www.q-park.fr/fr-fr/villes/m%c3%a2con/halles/
+QP03,Lamartine,Q-Park,46.30177,4.83227,277,0.60,10.40,True,"3 Rue Gambetta, 71000 Mâcon",https://www.q-park.fr/fr-fr/villes/m%c3%a2con/lamartine/
+QP04,Rambuteau,Q-Park,46.30666,4.82748,120,0.60,10.40,True,"21 Rue Rambuteau, 71000 Mâcon",https://www.q-park.fr/fr-fr/villes/m%c3%a2con/rambuteau/

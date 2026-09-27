@@ -1,0 +1,16 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Beestenmarkt,Q-Park,52.155940,5.394360,360,3.60,18.00,True,"Sint Andriesstraat 79, 3811 HT Amersfoort",https://www.q-park.nl/nl-nl/parkeren/amersfoort/beestenmarkt/
+QP02,Centrum Mondriaan,Q-Park,52.152184,5.387238,575,3.16,16.00,True,"Soeverein 36, 3817 HV Amersfoort",https://www.q-park.nl/nl-nl/parkeren/amersfoort/centrum-mondriaan/
+QP03,St. Jorisplein,Q-Park,52.155676,5.385361,444,3.46,19.00,True,"Sint Jorisplein 34, 3811 DC Amersfoort",https://www.q-park.nl/nl-nl/parkeren/amersfoort/st-jorisplein/
+QP04,P+R Barchman Wuytierslaan,Q-Park,52.153030,5.370169,421,2.60,14.50,,"Barchman Wuytierslaan, 3818 LE Amersfoort",https://www.q-park.nl/nl-nl/parkeren/amersfoort/p-r-barchman-wuytierslaan/
+QP05,P+R Piet Mondriaanplein,Q-Park,52.154583,5.371542,491,2.60,14.50,,"Piet Mondriaanplein, 3818 LG Amersfoort",https://www.q-park.nl/nl-nl/parkeren/amersfoort/p-r-piet-mondriaanplein/
+GA01,Koestraat,Gemeente Amersfoort,52.152861,5.387183,406,3.24,16.22,True,"Grote Haag 2, 3811 HJ Amersfoort",https://amersfoort.parkeerservice.nl/parkeren-in-garages/parkeergarages/parkeergarage-koestraat/
+GA02,Stadhuisplein,Gemeente Amersfoort,52.156684,5.384396,177,3.24,16.22,True,"Stadhuisplein, 3811 LM Amersfoort",https://amersfoort.parkeerservice.nl/parkeren-in-garages/parkeergarages/parkeergarage-stadhuisplein/
+GA03,Flintplein,Gemeente Amersfoort,52.159069,5.391757,347,2.61,16.22,True,"Walikerstraat 14, 3811 WT Amersfoort",https://amersfoort.parkeerservice.nl/parkeren-in-garages/parkeergarages/parkeergarage-flintplein/
+GA04,Amerena,Gemeente Amersfoort,52.159781,5.412858,218,,,True,"De Velduil 2, 3815 XT Amersfoort",https://amersfoort.parkeerservice.nl/parkeren-in-garages/parkeergarages/parkeergarage-amerena/
+P101,Parkeergarage Asch van Wijck,P1,52.155080,5.381170,440,2.75,18.00,True,"Van Asch van Wijckstraat 55, 3811 LP Amersfoort",https://www.p1.nl/parkeerplaats/parkeergarage-asch-van-wijck/
+P102,Parking Eemplein,P1,52.159795,5.382063,625,3.33,15.00,True,"Eemlaan 21, 3812 ED Amersfoort",https://www.p1.nl/parkeerplaats/parking-eemplein/
+IP01,Oppidium,Interparking,52.158709,5.378060,600,3.33,17.00,,"Groningerstraat 46, 3812 EE Amersfoort",https://www.interparking.nl/en/parkings/amersfoort/oppidium/
+PB01,Utrechtsepoort,ParkBee,52.153889,5.383704,,,,,"Stadsring 83, 3811 NA Amersfoort",https://parkbee.com/en/city/amersfoort
+PB02,Amersfoort Station,ParkBee,52.154769,5.372482,,,,True,"Piet Mondriaanplein 57, 3812 GZ Amersfoort",https://parkbee.com/en/city/amersfoort
+PB03,Argonaut,ParkBee,52.152839,5.370088,,,,,"Stationsplein 107, 3818 LE Amersfoort",https://parkbee.com/en/city/amersfoort

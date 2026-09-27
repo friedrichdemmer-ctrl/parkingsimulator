@@ -1,0 +1,36 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Victoria Square,Q-Park,54.5978135,-5.9240446,1083,3.8,27.0,True,"Victoria Square, Belfast, BT1 4QG",https://www.q-park.co.uk/en-gb/cities/belfast/victoria-square/
+NCP01,Montgomery Street,NCP,54.5972138,-5.9265246,447,,,False,"Montgomery Street, Belfast, BT1 4NX",https://www.ncp.co.uk/find-a-car-park/car-parks/belfast-montgomery-street/
+NCP02,The Tannery,NCP,54.6003,-5.93509,610,,,False,"1 Francis Street, Belfast, BT1 1EJ",https://www.ncp.co.uk/find-a-car-park/car-parks/belfast-the-tannery/
+APC01,Lanyon Place,APCOA,54.59586,-5.918249,570,4.7,25.0,True,"6 Lanyon Place, Belfast, BT1 3LP",https://www.apcoa.co.uk/find-parking/locations/belfast/lanyon-place-belfast
+APC02,Oxford Street (Hilton),APCOA,54.5967,-5.9197,220,4.1,25.0,True,"3 Lanyon Place, Belfast, BT1 3LP",https://www.apcoa.co.uk/find-parking/locations/belfast/oxford-street-hilton-belfast
+BCC01,Dundela Crescent,Belfast City Council,54.599644,-5.879339,25,0,,False,"Dundela Crescent, Belfast, BT4 3BN",https://www.belfastcity.gov.uk/carparks
+BCC02,Glenburn Road,Belfast City Council,54.5494554,-6.0056381,123,0,,True,"Glenburn Road, Belfast, BT17 9AG",https://www.belfastcity.gov.uk/carparks
+BCC03,Grampian Avenue,Belfast City Council,54.5979099,-5.8860413,41,0,,False,"Grampian Avenue, Belfast, BT4 3AB",https://www.belfastcity.gov.uk/carparks
+BCC04,Northumberland Street,Belfast City Council,54.6004683,-5.9470886,87,0,,False,"Northumberland Street, Belfast, BT13 2JF",https://www.belfastcity.gov.uk/carparks
+BCC05,Parkgate Avenue,Belfast City Council,54.599773,-5.8866705,36,0,,False,"Parkgate Avenue, Belfast, BT4 1JA",https://www.belfastcity.gov.uk/carparks
+BCC06,Ravenscroft Avenue,Belfast City Council,54.595718,-5.8866299,53,0,,False,"Ravenscroft Avenue, Belfast, BT5 5BA",https://www.belfastcity.gov.uk/carparks
+BCC07,Sandown Road,Belfast City Council,54.5904887,-5.8648073,64,0,,False,"Sandown Road, Belfast, BT5 6GT",https://www.belfastcity.gov.uk/carparks
+BCC08,Shaw's Bridge,Belfast City Council,54.5524593,-5.952671,57,0,,False,"Shaw's Bridge, Belfast, BT9 5YN",https://www.belfastcity.gov.uk/carparks
+BCC09,Slievegallion Drive,Belfast City Council,54.5752143,-5.9937956,19,0,,False,"Slievegallion Drive, Belfast, BT11 8JP",https://www.belfastcity.gov.uk/carparks
+BCC10,Stranmillis Road,Belfast City Council,54.5735682,-5.9328087,87,0,,False,"Stranmillis Road, Belfast, BT9 5DT",https://www.belfastcity.gov.uk/carparks
+BCC11,Wandsworth Road,Belfast City Council,54.5977688,-5.8582726,22,0,,False,"Wandsworth Road, Belfast, BT4 3LS",https://www.belfastcity.gov.uk/carparks
+BCC12,Westminster Avenue (east),Belfast City Council,54.5982101,-5.8881295,10,0,,False,"Westminster Avenue (east), Belfast, BT4 1QQ",https://www.belfastcity.gov.uk/carparks
+BCC13,Westminster Avenue (north),Belfast City Council,54.5982101,-5.8881295,67,0,,False,"Westminster Avenue (north), Belfast, BT4 1QQ",https://www.belfastcity.gov.uk/carparks
+BCC14,Westminster Avenue (west),Belfast City Council,54.5982101,-5.8881295,10,0,,False,"Westminster Avenue (west), Belfast, BT4 1QQ",https://www.belfastcity.gov.uk/carparks
+BCC15,Whitla Street,Belfast City Council,54.610843,-5.9195685,50,0,,False,"Whitla Street, Belfast, BT15 1JP",https://www.belfastcity.gov.uk/carparks
+BCC16,Ashdale Street,Belfast City Council,54.5968748,-5.8895324,85,0.3,2.7,False,"Ashdale Street, Belfast, BT5 5AX",https://www.belfastcity.gov.uk/carparks
+BCC17,Charlotte Street,Belfast City Council,54.5908775,-5.9272026,90,0.7,7.5,False,"Charlotte Street, Belfast, BT7 1BG",https://www.belfastcity.gov.uk/carparks
+BCC18,Corporation Square,Belfast City Council,54.6050618,-5.9228117,168,0.4,3.6,False,"Corporation Square, Belfast, BT1 3AJ",https://www.belfastcity.gov.uk/carparks
+BCC19,Corporation Street,Belfast City Council,54.606409,-5.9223635,124,0.4,3.6,False,"Corporation Street, Belfast, BT1 3DG",https://www.belfastcity.gov.uk/carparks
+BCC20,Cromac Street,Belfast City Council,54.5936004,-5.9248821,99,0.6,5.4,True,"Cromac Street, Belfast, BT2 8JN",https://www.belfastcity.gov.uk/carparks
+BCC21,Dunbar Street,Belfast City Council,54.6026107,-5.9258722,32,1.0,9.0,False,"Dunbar Street, Belfast, BT2 1LH",https://www.belfastcity.gov.uk/carparks
+BCC22,Exchange Street,Belfast City Council,54.60388,-5.9274114,46,0.8,8.0,False,"Exchange Street, Belfast, BT1 2LJ",https://www.belfastcity.gov.uk/carparks
+BCC23,Hope Street North,Belfast City Council,54.5933608,-5.9346879,41,1.2,13.8,True,"Hope Street North, Belfast, BT12 5EE",https://www.belfastcity.gov.uk/carparks
+BCC24,Kent Street,Belfast City Council,54.6028695,-5.9317993,66,1.0,9.0,False,"Kent Street, Belfast, BT1 2JA",https://www.belfastcity.gov.uk/carparks
+BCC25,Little Donegall Street,Belfast City Council,54.6041597,-5.9322167,105,0.6,5.4,False,"Little Donegall Street, Belfast, BT1 2JD",https://www.belfastcity.gov.uk/carparks
+BCC26,Little Victoria Street,Belfast City Council,54.5931517,-5.9334234,87,1.2,13.8,True,"Little Victoria Street, Belfast, BT2 7JH",https://www.belfastcity.gov.uk/carparks
+BCC27,Marlborough Avenue,Belfast City Council,54.5758722,-5.9554326,31,0.2,1.8,False,"Marlborough Avenue, Belfast, BT9 7HB",https://www.belfastcity.gov.uk/carparks
+BCC28,Smithfield (Winetavern Street),Belfast City Council,54.6016671,-5.9335728,107,1.2,13.8,False,"Smithfield (Winetavern Street), Belfast, BT1 1JQ",https://www.belfastcity.gov.uk/carparks
+BCC29,Station Street,Belfast City Council,54.6013291,-5.9181142,115,0.6,5.4,False,"Station Street, Belfast, BT3 9DA",https://www.belfastcity.gov.uk/carparks
+BCC30,York Street - Lancaster Street,Belfast City Council,54.6102271,-5.9222171,53,0.4,3.6,False,"York Street - Lancaster Street, Belfast, BT15 1AS",https://www.belfastcity.gov.uk/carparks

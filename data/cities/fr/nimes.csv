@@ -1,0 +1,3 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Gare Feuchères,Q-Park,43.832134,4.366777,800,2.70,22.30,True,"1 Allée Boissy d'Anglas, 30000 Nîmes",https://www.q-park.fr/fr-fr/villes/n%c3%aemes/gare-feuch%c3%a8res/
+QP02,Jean Jaurès,Q-Park,43.83283,4.351761,468,2.20,19.50,True,"56 Rue du Mail, 30000 Nîmes",https://www.q-park.fr/fr-fr/villes/n%c3%aemes/jean-jaur%c3%a8s/

@@ -1,0 +1,5 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Central Park,Q-Park,45.775677,4.859965,361,2.00,22.00,False,"38 Rue Louis Guérin, 69100 Villeurbanne",https://www.q-park.fr/fr-fr/villes/villeurbanne/central-park/
+QP02,Centre Léon Blum,Q-Park,45.760801,4.906441,170,2.30,20.70,False,"173 Rue Léon Blum, 69100 Villeurbanne",https://www.q-park.fr/fr-fr/villes/villeurbanne/centre-l%c3%a9on-blum/
+QP03,Médipôle PA-PC,Q-Park,45.760618,4.907519,651,2.70,25.00,True,"158 Rue Léon Blum, 69100 Villeurbanne",https://www.q-park.fr/fr-fr/villes/villeurbanne/m%c3%a9dip%c3%b4le-pa-pc/
+LPA01,Hôtel de Ville Villeurbanne,LPA,45.76618,4.87877,481,3.20,49.60,False,"51 rue Racine, 69100 Villeurbanne",https://parking.lpa.fr/parkings/hotel-de-ville-villeurbanne/

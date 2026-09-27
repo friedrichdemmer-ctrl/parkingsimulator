@@ -1,0 +1,14 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Pfalztheater,Q-Park,49.4464516,7.7702555,296,2.00,18.00,,"Martin-Luther-Straße, 67655 Kaiserslautern",https://www.q-park.de/de-de/staedte/kaiserslautern/pfalztheater/
+QP02,Stiftsplatz,Q-Park,49.4444810,7.7719939,180,2.00,18.00,,"Stiftsplatz, 67655 Kaiserslautern",https://www.q-park.de/de-de/staedte/kaiserslautern/stiftsplatz/
+AP01,K in Lautern,APCOA,49.4438744,7.7645127,490,2.00,23.00,,"Fackelrondell 1, 67655 Kaiserslautern",https://www.apcoa.de/einmal-parken/standorte/kaiserslautern/k-in-lautern
+CP01,Parkhaus City Löwenstraße,Contipark,49.4433450,7.7659930,400,2.50,16.00,,"Löwenstraße 5, 67655 Kaiserslautern",https://www.contipark.de/de/parken/kaiserslautern/parkhaus-city-loewenstrasse/
+CP02,Parkhaus Lutrinastraße,Contipark,49.4416436,7.7727372,220,2.50,16.00,,"Badstraße 3, 67655 Kaiserslautern",https://www.contipark.de/de/parken/kaiserslautern/parkhaus-lutrinastrasse/
+DB01,Parkplatz Hauptbahnhof P1 Kiss+Ride,DB BahnPark,49.4356559,7.7660490,41,1.50,15.00,,"Zollamtstraße, 67663 Kaiserslautern",https://www.contipark.de/de/parken/kaiserslautern/parkplatz-hauptbahnhof-p1-kissride/
+DB02,Parkhaus Hauptbahnhof P2 Park+Ride,DB BahnPark,49.4355635,7.7708154,359,2.00,12.00,,"Zollamtstraße 5, 67663 Kaiserslautern",https://www.contipark.de/de/parken/kaiserslautern/parkhaus-hauptbahnhof-p2-parkride/
+PH01,Parkhaus Pfaff Areal,Park Service Hüfner,49.4355603,7.7509835,361,2.00,9.00,,"Lina-Pfaff-Straße 4a, 67655 Kaiserslautern",https://www.ps-huefner.de/standort.php?ort=Kaiserslautern&id=186
+PH02,Altstadtparkhaus Rittersberg,Park Service Hüfner,49.4466703,7.7734767,372,2.00,16.00,,"Salzstraße 7, 67657 Kaiserslautern",https://www.ps-huefner.de/standort.php?ort=Kaiserslautern&id=152
+ST01,Parkhaus Central,Stadt Kaiserslautern,49.4422952,7.7668960,70,1.50,15.00,,"Rosenstraße 6, 67655 Kaiserslautern",https://www.kaiserslautern.de/sozial_leben_wohnen/verkehr_parken/autos_und_co/parken/parkplatz/021338/index.html.de
+ST02,Tiefgarage Kreissparkasse,Stadt Kaiserslautern,49.4441082,7.7682505,210,2.00,20.00,,"Am Altenhof, 67655 Kaiserslautern",https://www.kaiserslautern.de/sozial_leben_wohnen/verkehr_parken/autos_und_co/parken/parkplatz/021341/index.html.de
+ST03,Parkplatz Meuthstraße I,Stadt Kaiserslautern,49.4467270,7.7646350,76,,2.50,,"Meuthstraße, 67655 Kaiserslautern",https://www.kaiserslautern.de/sozial_leben_wohnen/verkehr_parken/autos_und_co/parken/parkplatz/021342/index.html.de
+ST04,Parkplatz Meuthstraße II,Stadt Kaiserslautern,49.4467270,7.7646350,242,,,,"Meuthstraße, 67655 Kaiserslautern",https://www.kaiserslautern.de/sozial_leben_wohnen/verkehr_parken/autos_und_co/parken/parkplatz/021344/index.html.de

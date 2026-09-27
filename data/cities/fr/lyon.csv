@@ -1,0 +1,47 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Brotteaux,Q-Park,45.766777,4.859048,410,3.60,47.70,True,"Contre allée Place Jules Ferry, 69006 Lyon",https://www.q-park.fr/fr-fr/villes/lyon/brotteaux/
+QP02,Gare Part-Dieu,Q-Park,45.761366,4.862612,360,4.00,34.20,False,"2 Rue d'Aubigny, 69003 Lyon",https://www.q-park.fr/fr-fr/villes/lyon/gare-part-dieu/
+QP03,Gare Perrache,Q-Park,45.747062,4.82608,649,3.60,34.00,True,"2 Rue Smith, 69002 Lyon",https://www.q-park.fr/fr-fr/villes/lyon/gare-perrache/
+QP04,La Fabric',Q-Park,45.7307885,4.8301853,107,3.00,37.50,False,"225 rue Marcel Mérieux, 69007 Lyon",https://www.q-park.fr/fr-fr/villes/lyon/lyon---la-fabric/
+QP05,Perrache Carnot,Q-Park,45.7489569,4.8273479,82,3.40,32.00,False,"Cours Verdun Perrache, 69002 Lyon",https://www.q-park.fr/fr-fr/villes/lyon/perrache-carnot/
+LPA01,Antonin Poncet,LPA,45.75653,4.83587,801,3.40,52.80,True,6 Quai Docteur Gailleton — 69002 Lyon,https://parking.lpa.fr/parkings/antonin-poncet/
+LPA02,Berthelot,LPA,45.74617,4.83638,407,3.20,49.60,True,99 rue de Marseille — 69007 Lyon,https://parking.lpa.fr/parkings/berthelot/
+LPA03,Bonnel Servient,LPA,45.76178,4.84847,775,3.20,49.60,False,44 rue de Bonnel — 69003 Lyon,https://parking.lpa.fr/parkings/bonnel-servient/
+LPA04,Bourse,LPA,45.76386,4.83676,533,3.00,,False,55 rue de la Bourse — 69002 Lyon,https://parking.lpa.fr/parkings/bourse/
+LPA05,Célestins,LPA,45.75992,4.83087,529,3.40,52.80,True,1 rue Gaspard André — 69002 Lyon,https://parking.lpa.fr/parkings/celestins/
+LPA06,Cité Internationale P0,LPA,45.7841,4.8501,994,3.20,46.40,False,94 quai Charles de Gaulle — 69006 Lyon,https://parking.lpa.fr/parkings/cite-internationale-p0/
+LPA07,Cité Internationale P2,LPA,45.785853,4.856708,1173,3.20,49.60,False,22 quai Charles de Gaulle — 69006 Lyon,https://parking.lpa.fr/parkings/cite-internationale-p2/
+LPA08,Cordeliers,LPA,45.764463,4.837211,938,3.40,52.80,True,11 rue Antoine Sallès — 69002 Lyon,https://parking.lpa.fr/parkings/cordeliers/
+LPA09,Croix Rousse,LPA,45.78162,4.83287,446,3.20,49.60,False,73 rue de Belfort — 69004 Lyon,https://parking.lpa.fr/parkings/croix-rousse/
+LPA10,Fosse aux Ours,LPA,45.75714,4.84052,550,3.20,49.60,True,29 quai Victor Augagneur — 69003 Lyon,https://parking.lpa.fr/parkings/fosse-aux-ours/
+LPA11,Galaxie P3,LPA,45.758674,4.862898,820,3.60,34.00,True,70 rue Maurice Flandin — 69003 Lyon,https://parking.lpa.fr/parkings/galaxie-p3-part-dieu/
+LPA12,Grolée,LPA,45.76308,4.83654,270,3.40,52.80,False,4 rue Grolée — 69002 Lyon,https://parking.lpa.fr/parkings/grolee/
+LPA13,Gros Caillou,LPA,45.7747,4.833557,531,3.20,49.60,True,1 rue Aimé Boussange — 69004 Lyon,https://parking.lpa.fr/parkings/gros-caillou/
+LPA14,Hôtel de Ville,LPA,45.768522,4.83773,279,3.40,52.80,False,place Louis Pradel — 69001 Lyon,https://parking.lpa.fr/parkings/hotel-de-ville/
+LPA15,Jean Jaurès,LPA,45.727888,4.831583,273,2.00,10.00,False,317 avenue Jean Jaurès — 69007 Lyon,https://parking.lpa.fr/parkings/jean-jaures/
+LPA16,Les Halles,LPA,45.76287,4.85133,607,3.20,49.60,True,156 rue Garibaldi — 69003 Lyon,https://parking.lpa.fr/parkings/les-halles/
+LPA17,Marché Gare – La Confluence,LPA,45.741054,4.823733,889,3.20,49.60,True,41 quai Perrache — 69002 Lyon,https://parking.lpa.fr/parkings/marche-gare-la-confluence/
+LPA18,Morand,LPA,45.767741,4.841533,877,3.40,52.80,True,19 place Maréchal Lyautey — 69006 Lyon,https://parking.lpa.fr/parkings/morand/
+LPA19,Musée des Confluences-Gerland,LPA,45.731699,4.823836,158,3.40,49.40,False,rue Antonin Perrin — 69007 Lyon,https://parking.lpa.fr/parkings/musee-des-confluences-gerland/
+LPA20,Ney,LPA,45.770039,4.855157,160,,,False,19 rue Ney — 69006 Lyon,https://parking.lpa.fr/parkings/ney/
+LPA21,Parc minute Cité Internationale,LPA,45.784614,4.851647,15,,,False,81 quai Charles de Gaulle — 69006 Lyon,https://parking.lpa.fr/parkings/parc-minute-cite-internationale/
+LPA22,Béraudier P1,LPA,45.75958,4.858517,1064,3.60,34.00,True,47 bis Boulevard Marius Vivier Merle — 69003 Lyon,https://parking.lpa.fr/parkings/parking-gare-part-dieu-beraudier-p1/
+LPA23,Villette P2,LPA,45.76054,4.8617,1773,3.60,34.00,True,38 rue de la Villette — 69003 Lyon,https://parking.lpa.fr/parkings/parking-gare-part-dieu-villette-p2/
+LPA24,Parc des Sports Gerland – Gare routière internationale,LPA,45.724848,4.829207,270,2.00,,False,Rue Jean-Pierre Chevrot — 69007 Lyon,https://parking.lpa.fr/parkings/parking-parc-des-sports-gerland/
+LPA25,Perrache,LPA,45.749339,4.828786,899,3.40,32.00,True,37 Cr de Verdun Récamier — 69002 Lyon,https://parking.lpa.fr/parkings/perrache/
+LPA26,République,LPA,45.76011,4.83689,878,3.40,52.80,True,22 rue Childebert — 69002 Lyon,https://parking.lpa.fr/parkings/republique/
+LPA27,Saint Antoine,LPA,45.764325637692,4.8319463092892,1008,3.40,52.80,True,2 quai Saint-Antoine — 69002 Lyon,https://parking.lpa.fr/parkings/saint-antoine/
+LPA28,Saint Georges,LPA,45.759798,4.827721,815,3.40,52.80,True,8 quai Fulchiron — 69005 Lyon,https://parking.lpa.fr/parkings/saint-georges/
+LPA29,Saint Jean,LPA,45.760576,4.828487,976,3.40,52.80,False,25 quai Romain Rolland — 69005 Lyon,https://parking.lpa.fr/parkings/saint-jean/
+LPA30,Saint Just,LPA,45.75723,4.82138,67,,,False,23 rue des Farges — 69005 Lyon,https://parking.lpa.fr/parkings/saint-just/
+LPA31,Tables Claudiennes,LPA,45.770857,4.832605,202,,,False,14 rue des Tables Claudiennes — 69001 Lyon,https://parking.lpa.fr/parkings/tables-claudiennes/
+LPA32,Terreaux,LPA,45.767543,4.832217,1261,3.40,52.80,True,18 rue d’Algérie — 69001 Lyon,https://parking.lpa.fr/parkings/terreaux/
+LPA33,Tony Garnier,LPA,45.729445,4.822946,875,3.40,49.40,True,12 rue Jonas Salk — 69007 Lyon,https://parking.lpa.fr/parkings/tony-garnier/
+LPA34,Vendôme,LPA,45.76525,4.84667,175,,,False,139 rue de Créqui — 69006 Lyon,https://parking.lpa.fr/parkings/vendome/
+IND01,Opéra,Indigo,45.768992,4.837497,,4.00,,False,"21 Place Tolozan, 69001 Lyon",https://www.indigoneo.fr/fr/parkings/19159/parking-opera
+IND02,Bellecour,Indigo,45.75787,4.830626,,3.40,,True,"Place Bellecour, 69002 Lyon",https://www.indigoneo.fr/fr/parkings/804/parking-bellecour
+IND03,Cité Internationale P1,Indigo,45.784373,4.850515,,3.00,,False,"64 Quai Charles de Gaulle, 69006 Lyon",https://www.indigoneo.fr/fr/parkings/1351/parking-cite-internationale-p1
+IND04,Clinique Sauvegarde,Indigo,45.788346,4.787709,,4.50,,True,"Avenue Ben Gourion, 69009 Lyon",https://www.indigoneo.fr/fr/parkings/25976/parking-clinique-sauvegarde
+IND05,Lyon Vaise,Indigo,45.787664,4.81131,,4.00,,True,"5 Rue de la Navigation, 69009 Lyon",https://www.indigoneo.fr/fr/parkings/23812/parking-lyon-vaise
+EFF01,Gare de Lyon-Perrache (horodateurs),Effia,45.749225,4.825804,,2.30,48.80,False,"Rue de l'Esplanade, 69002 Lyon",https://www.effia.com/parking/parking-gare-de-lyon-perrache-horodateurs-effia
+EFF02,Lyon Part-Dieu,Effia,45.757242,4.860859,,,,False,"203 Rue Paul Bert, 69003 Lyon",https://www.effia.com/parking/parking-lyon-part-dieu-effia

@@ -1,0 +1,13 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Beekstraat,Q-Park,52.214000,5.965720,105,2.61,13.50,True,"Beekstraat 33, 7311 LE Apeldoorn",https://www.q-park.nl/nl-nl/parkeren/apeldoorn/beekstraat/
+QP02,Museum-Centrum,Q-Park,52.215298,5.956585,636,3.33,16.50,True,"Roggestraat 133, 7311 CC Apeldoorn",https://www.q-park.nl/nl-nl/parkeren/apeldoorn/museum-centrum/
+QP03,Oranjerie,Q-Park,52.212544,5.961800,519,3.33,16.50,True,"Oranjerie 1, 7311 WB Apeldoorn",https://www.q-park.nl/nl-nl/parkeren/apeldoorn/oranjerie/
+QP04,P+R Laan van de Mensenrechten,Q-Park,52.208816,5.970511,188,,,,"Laan van de Mensenrechten, 7331 VT Apeldoorn",https://www.q-park.nl/nl-nl/parkeren/apeldoorn/p-r-laan-van-de-mensenrechten/
+GA01,Parkeergarage Anklaar,Gemeente Apeldoorn,52.229116,5.986867,537,1.60,,True,"Sluisoordlaan 115, 7323 EK Apeldoorn",https://www.apeldoorn.nl/regelen-en-weten/parkeren-en-verkeer/parkeren-in-apeldoorn/parkeergarages/
+GA02,Parkeergarage Brinklaan,Gemeente Apeldoorn,52.211723,5.961204,240,1.10,8.80,,"Brinklaan 144, 7321 JM Apeldoorn",https://www.apeldoorn.nl/regelen-en-weten/parkeren-en-verkeer/parkeren-in-apeldoorn/parkeergarages/
+GA03,Parkeergarage Haven Centrum,Gemeente Apeldoorn,52.213146,5.968097,356,1.10,8.80,True,"Stationsstraat 94, 7311 NV Apeldoorn",https://www.apeldoorn.nl/regelen-en-weten/parkeren-en-verkeer/parkeren-in-apeldoorn/parkeergarages/
+GA04,Parkeergarage Marktplein,Gemeente Apeldoorn,52.215919,5.963828,685,2.80,,,"Deventerstraat 22, 7311 LS Apeldoorn",https://www.apeldoorn.nl/regelen-en-weten/parkeren-en-verkeer/parkeren-in-apeldoorn/parkeergarages/
+GA05,Parkeergarage Orpheus,Gemeente Apeldoorn,52.219811,5.951411,420,2.80,11.10,,"Churchillplein 15, 7314 CD Apeldoorn",https://www.apeldoorn.nl/regelen-en-weten/parkeren-en-verkeer/parkeren-in-apeldoorn/parkeergarages/
+IP01,Gelre Ziekenhuis,Interparking,52.181710,5.947240,473,2.00,7.00,,"Albert Schweitzerlaan 31, 7334 DZ Apeldoorn",https://www.interparking.nl/en/parkings/apeldoorn/gelre-ziekenhuis---apeldoorn/
+PB01,Sophialaan,ParkBee,52.211122,5.971942,,,,,"Sophialaan 52, Apeldoorn",https://parkbee.com/en/city/apeldoorn
+PB02,Prins Willem-Alexanderlaan 433,ParkBee,52.210040,5.961828,,,,,"Prins Willem-Alexanderlaan 433, 7311 SX Apeldoorn",https://parkbee.com/en/city/apeldoorn

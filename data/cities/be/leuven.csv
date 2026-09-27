@@ -1,0 +1,12 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Heilig Hart,Q-Park,50.872502,4.700056,285,2.95,25.00,True,"Naamsestraat 102, 3000 Leuven",https://www.q-park.be/nl-be/parkeren/leuven/heilig-hart/
+QP02,Leuven Centrum (Inno),Q-Park,50.881027,4.704611,39,4.40,36.50,,"Vital Decosterstraat 37, 3000 Leuven",https://www.q-park.be/nl-be/parkeren/leuven/centrum-leuven/
+IND01,Minckelersparking,Indigo,50.883522,4.706765,750,2.30,16.00,,"J.P. Minckelersstraat 94, 3000 Leuven",https://www.leuven.be/parkings/nl/wagens/minckelersparking
+IND02,Parking Diestsestraat,Indigo,50.881980,4.707424,249,2.80,22.40,True,"J.P. Minckelersstraat 35, 3000 Leuven",https://www.leuven.be/parkings/nl/wagens/parking-diestsestraat
+OPC01,Parking De Bond,Optimal Parking Control,50.881321,4.714947,385,2.70,22.00,True,"Martelarenplein 18, 3000 Leuven",https://www.leuven.be/parkings/nl/wagens/parking-de-bond
+OPC02,Parking Vaartkom,Optimal Parking Control,50.887913,4.705467,1000,2.00,10.00,True,"Engels Plein 32, 3000 Leuven",https://www.leuven.be/parkings/nl/wagens/parking-vaartkom
+EFF01,Parking Ladeuze,Effia,50.878236,4.707022,750,,23.60,,"Mgr. Ladeuzeplein 20, 3000 Leuven",https://www.leuven.be/parkings/nl/wagens/parking-ladeuze
+BPK01,P1 Parking Station,B-Parking,50.880280,4.718381,700,,27.50,True,"Spoordijk, 3010 Leuven",https://www.leuven.be/parkings/nl/wagens/p1-parking-station
+ALF01,Parking Kinepolis,Alfapark,50.881329,4.711858,230,2.60,20.80,True,"Bondgenotenlaan 145, 3000 Leuven",https://www.leuven.be/parkings/nl/wagens/parking-kinepolis
+VIR01,Parking Philipssite,Virix,50.867896,4.712321,1150,,,True,"Philipssite 2, 3001 Leuven",https://www.leuven.be/parkings/nl/wagens/parking-philipssite
+TWW01,Parking Tweewaters,Parking Tweewaters,50.884681,4.705076,247,2.10,18.00,True,"Vaartkom 32, 3000 Leuven",https://www.leuven.be/parkings/nl/wagens/parking-tweewaters

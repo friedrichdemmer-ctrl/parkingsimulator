@@ -1,0 +1,6 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Adelgade 38,Q-Park,56.031243,9.933654,7,16,,,"Adelgade 38, 8660 Skanderborg",https://www.q-park.dk/da/parkering/skanderborg/adelgade-38/
+QP02,Adelgade 45,Q-Park,56.0324166,9.9314324,16,16,,,"Adelgade 45, 8660 Skanderborg",https://www.q-park.dk/da/parkering/skanderborg/adelgade-45/
+QP03,Adelgade 47,Q-Park,56.032622,9.931983,10,16,,,"Adelgade 47, 8660 Skanderborg",https://www.q-park.dk/da/parkering/skanderborg/adelgade-47/
+QP04,Adelgade 49A,Q-Park,56.032877,9.931921,14,16,,,"Adelgade 49A, 8660 Skanderborg",https://www.q-park.dk/da/parkering/skanderborg/adelgade-49a/
+QP05,Bloms Butikker,Q-Park,56.032483,9.931284,400,,,,"Adelgade 61, 8660 Skanderborg",https://www.q-park.dk/da/parkering/skanderborg/bloms-butikker/

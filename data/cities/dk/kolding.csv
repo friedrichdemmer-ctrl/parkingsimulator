@@ -1,0 +1,20 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Q-Park Engstien 1,Q-Park,55.491024,9.46498,184,16.0,,,"Engstien 1, 6000 Kolding",https://www.q-park.dk/da/parkering/kolding/engstien-1/
+QP02,Q-Park Kolding Åpark,Q-Park,55.495973,9.473052,251,,,True,"Kolding Åpark, 6000 Kolding",https://www.q-park.dk/da/parkering/kolding/kolding-åpark/
+QP03,Q-Park Design City,Q-Park,55.487028,9.485115,140,10.0,,,"Kolding Åpark 2, 6000 Kolding",https://www.q-park.dk/da/parkering/kolding/kolding-åpark-2/
+QP04,Q-Park Kolding Åpark 24,Q-Park,55.4869022,9.4887031,60,14.0,,,"Kolding Åpark 24, 6000 Kolding",https://www.q-park.dk/da/parkering/kolding/kolding-åpark-24/
+QP05,Q-Park Saxovej 2-20,Q-Park,55.488246,9.463418,100,10.0,,,"Saxovej 2-20, 6000 Kolding",https://www.q-park.dk/da/parkering/kolding/saxovej-2-20/
+AP01,Koldinghus,APCOA,55.490777,9.475509,100,12.0,,,"Staldgården 1, 6000 Kolding",https://www.apcoa.dk/find-en-p-plads/lokationer/kolding/koldinghus
+AP02,Dalbygade 39-40,APCOA,55.483531,9.476706,115,10.0,,,"Dalbygade 39-40, 6000 Kolding",https://www.apcoa.dk/find-en-p-plads/lokationer/kolding/dalbygade-39-40
+AP03,Engstien 1,APCOA,55.491045,9.464992,200,12.0,,,"Engstien 1, 6000 Kolding",https://www.apcoa.dk/find-en-p-plads/lokationer/kolding/engstien-1
+AP04,Jernbanegade 33,APCOA,55.490517,9.479243,8,,,,"Jernbanegade 33, 6000 Kolding",https://www.apcoa.dk/find-en-p-plads/lokationer/kolding/jernbanegade-33
+AP05,Klostergade 16,APCOA,55.489021,9.476457,92,10.0,240.0,True,"Klostergade 16, 6000 Kolding",https://www.apcoa.dk/find-en-p-plads/lokationer/kolding/klostergade-16
+AP06,Kløvervej 46,APCOA,55.486005,9.499489,26,5.0,45.0,True,"Kløvervej 46, 6000 Kolding",https://www.apcoa.dk/find-en-p-plads/lokationer/kolding/kloevervej-46
+AP07,Brostræde 7,APCOA,55.48853,9.474356,14,,,,"Brostræde 7, 6000 Kolding",https://www.apcoa.dk/find-en-p-plads/lokationer/kolding/brostraede-7
+KK01,Ny Vestergade,Kolding Kommune,55.489605,9.47168,35,15.0,,,"Ny Vestergade, 6000 Kolding",https://parkering.kolding.dk/
+KK02,Markdanersgade,Kolding Kommune,55.490803,9.475955,14,12.0,,,"Markdanersgade, 6000 Kolding",https://parkering.kolding.dk/
+KK03,Staldgården,Kolding Kommune,55.49107,9.476667,59,12.0,,,"Staldgården, 6000 Kolding",https://parkering.kolding.dk/
+KK04,Låsbybanke,Kolding Kommune,55.491539,9.472067,32,15.0,,True,"Låsbybanke, 6000 Kolding",https://parkering.kolding.dk/
+KK05,Kolding Byferie,Kolding Kommune,55.492397,9.471052,28,15.0,,,"Kedelsmedgangen, 6000 Kolding",https://parkering.kolding.dk/
+KK06,Borchs Gård,Kolding Kommune,55.48967,9.473157,100,15.0,,True,"Naverstræde, 6000 Kolding",https://parkering.kolding.dk/
+KK07,Hyrdestræde,Kolding Kommune,55.49147,9.472974,39,15.0,,,"Hyrdestræde, 6000 Kolding",https://parkering.kolding.dk/

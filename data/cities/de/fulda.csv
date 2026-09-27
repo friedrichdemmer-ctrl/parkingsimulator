@@ -1,0 +1,16 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Parkhaus Altstadt,Q-Park,50.54894,9.67698,362,2.30,15.00,True,"Brauhausstraße 6, 36037 Fulda",https://www.q-park.de/de-de/staedte/fulda/altstadt/
+QP02,Tiefgarage Stadtschloss,Q-Park,50.55364,9.67603,310,2.30,15.00,True,"Schlossstraße 1, 36037 Fulda",https://www.q-park.de/de-de/staedte/fulda/stadtschloss/
+QP03,Tiefgarage Zentrum,Q-Park,50.55176,9.67999,215,2.00,15.00,True,"Rabanusstraße 32, 36037 Fulda",https://www.q-park.de/de-de/staedte/fulda/zentrum/
+DB01,Parkplatz Bahnhof Fulda links,DB BahnPark,50.556132,9.681124,15,2.80,12.00,,"Kurfürstenstraße, 36037 Fulda",https://www.contipark.de/de/parken/fulda/parkplatz-bahnhof-p1-links-fulda/
+DB02,Parkplatz Bahnhof Fulda rechts,DB BahnPark,50.552451,9.686140,14,2.80,12.00,,"Am Bahnhof, 36037 Fulda",https://www.contipark.de/de/parken/fulda/parkplatz-bahnhof-p2-rechts-fulda/
+DB03,Parkplatz Bahnhof Fulda Viehrampe,DB BahnPark,50.556132,9.681124,72,,,,"Kurfürstenstraße, 36037 Fulda",https://www.contipark.de/de/parken/fulda/parkplatz-bahnhof-p3-viehrampe/
+EPF01,City-Parkhaus,Eigenbetrieb Parkstätten der Stadt Fulda,50.5526253,9.6810041,271,1.50,11.00,,"Lindenstraße 12, 36037 Fulda",https://www.fulda.de/serviceportal/eintrag/parkplaetze-haeuser
+EPF02,Parkhaus Bahnhofsplatz,Eigenbetrieb Parkstätten der Stadt Fulda,50.5547541,9.6843823,50,1.20,10.00,,"Am Bahnhof, 36037 Fulda",https://www.fulda.de/serviceportal/eintrag/parkplaetze-haeuser
+EPF03,Parkhaus Freibad Rosenau,Eigenbetrieb Parkstätten der Stadt Fulda,50.5461699,9.6696734,270,1.00,3.50,True,"Bardostraße, 36041 Fulda",https://www.fulda.de/serviceportal/eintrag/parkplaetze-haeuser
+EPF04,Parkhaus Hotel Fulda Mitte,Eigenbetrieb Parkstätten der Stadt Fulda,50.5507649,9.6843159,40,,,,"Lindenstraße 41, 36037 Fulda",https://www.fulda.de/serviceportal/eintrag/parkplaetze-haeuser
+EPF05,Parkhaus Kongresszentrum,Eigenbetrieb Parkstätten der Stadt Fulda,50.5574496,9.6859629,150,,,,"Esperantoplatz 1, 36037 Fulda",https://www.fulda.de/serviceportal/eintrag/parkplaetze-haeuser
+EPF06,Parkhaus Ochsenwiese,Eigenbetrieb Parkstätten der Stadt Fulda,50.5583353,9.6853824,290,1.00,3.50,,"Magdeburger Straße 22, 36037 Fulda",https://www.fulda.de/serviceportal/eintrag/parkplaetze-haeuser
+EPF07,Parkhaus Richthalle,Eigenbetrieb Parkstätten der Stadt Fulda,50.5565207,9.6857574,595,1.00,7.00,,"Zieherser Weg 2, 36037 Fulda",https://www.fulda.de/serviceportal/eintrag/parkplaetze-haeuser
+EPF08,Parkhaus Rosengarten,Eigenbetrieb Parkstätten der Stadt Fulda,50.5474880,9.6708968,665,1.00,3.50,,"Am Rosengarten 27, 36037 Fulda",https://www.fulda.de/serviceportal/eintrag/parkplaetze-haeuser
+EPF09,Parkhaus Ruprechtstraße,Eigenbetrieb Parkstätten der Stadt Fulda,50.55348,9.68383,127,1.20,10.00,True,"Ruprechtstraße, 36037 Fulda",https://www.fulda.de/serviceportal/eintrag/parkplaetze-haeuser

@@ -1,0 +1,6 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,P+R Diemen,Q-Park,52.34556,4.96761,114,2.00,8.50,,"Dokter A.J.J. van Gemertplein 1, 1111 LZ Diemen",https://www.q-park.nl/nl-nl/parkeren/diemen/p-r-diemen/
+AR01,Parkeergarage Diemerplein,Arrivee,52.341701,4.961966,400,2.31,13.50,True,"René Cassinlaan 3, 1111 HB Diemen",https://arrivee.nl/diemerplein/
+PB01,OurDomain Amsterdam Diemen,ParkBee,52.32946,4.956506,,,,True,"Dalsteindreef 6002, 1112 XJ Diemen",https://parkbee.com/en/city/diemen
+PB02,Dalsteindreef,ParkBee,52.3289745,4.9543028,,,,False,"Dalsteindreef 141, 1112 XJ Diemen",https://parkbee.com/en/city/diemen
+PB03,Diemen Zuid,ParkBee,52.326878,4.952719,,,,False,"Wisselwerking 2, 1112 XK Diemen",https://parkbee.com/en/city/diemen

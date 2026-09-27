@@ -1,0 +1,20 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Commercial Road,Q-Park,50.6094743,-2.4566966,471,1.80,25.00,True,"Commercial Road, Weymouth, DT4 8LY",https://www.q-park.co.uk/en-gb/cities/weymouth/commercial-road/
+AP01,Weymouth Station,APCOA,50.615165,-2.454308,49,,9.90,,"King Street, Weymouth, DT4 7BN",https://www.apcoa.co.uk/find-parking/locations/weymouth/weymouth-station-weymouth
+AP02,Weymouth Overflow Station,APCOA,50.616202,-2.456317,175,,6.50,,"King Street, Weymouth, DT4 7BN",https://www.apcoa.co.uk/find-parking/locations/weymouth/weymouth-overflow-station-weymouth
+DC01,Weymouth Park and Ride,Dorset Council,50.6336426,-2.4607157,1000,0.00,0.00,,"Mercery Road, Weymouth, DT3 5HJ",https://www.dorsetcouncil.gov.uk/parking/find-a-carpark/find-a-car-park/-/ddl_display/ddl/267986/99395/maximized
+DC02,Swannery,Dorset Council,50.6143039,-2.4566821,915,1.50,9.00,,"Swannery, Weymouth, DT4 7TY",https://www.dorsetcouncil.gov.uk/parking/find-a-carpark/find-a-car-park/-/ddl_display/ddl/268247/99395/maximized
+DC03,Overcombe,Dorset Council,50.6344600,-2.4320500,180,3.20,15.80,,"Heron Close, Weymouth, DT3 6SX",https://www.dorsetcouncil.gov.uk/parking/find-a-carpark/find-a-car-park/-/ddl_display/ddl/268619/99395/maximized
+DC04,Park Street,Dorset Council,50.6125894,-2.4551062,162,3.20,,,"Park Street, Weymouth, DT4 7DQ",https://www.dorsetcouncil.gov.uk/parking/find-a-carpark/find-a-car-park/-/ddl_display/ddl/269052/99395/maximized
+DC05,Southill,Dorset Council,50.6243783,-2.4780762,87,0.00,0.00,,"Southill, Weymouth, DT4 9RT",https://www.dorsetcouncil.gov.uk/parking/find-a-carpark/find-a-car-park/-/ddl_display/ddl/5593329/99395/maximized
+DC06,Beach,Dorset Council,50.6341438,-2.4440010,281,3.20,15.80,,"Preston Road, Weymouth, DT3 6HS",https://www.dorsetcouncil.gov.uk/parking/find-a-carpark/find-a-car-park/-/ddl_display/ddl/268226/99395/maximized
+DC07,Lodmoor,Dorset Council,50.6256080,-2.4450183,565,3.20,15.80,,"Lodmoor, Weymouth, DT4 7SX",https://www.dorsetcouncil.gov.uk/parking/find-a-carpark/find-a-car-park/-/ddl_display/ddl/268316/99395/maximized
+DC08,Pavilion (Main),Dorset Council,50.608868,-2.448419,318,3.20,15.80,,"Pavilion, Weymouth, DT4 8DZ",https://www.dorsetcouncil.gov.uk/parking/find-a-carpark/find-a-car-park/-/ddl_display/ddl/268345/99395/maximized
+DC09,North Quay,Dorset Council,50.606764,-2.457514,148,1.20,6.30,,"North Quay, Weymouth, DT4 8TA",https://www.dorsetcouncil.gov.uk/parking/find-a-carpark/find-a-car-park/-/ddl_display/ddl/268396/99395/maximized
+DC10,Royal Yard,Dorset Council,50.6136123,-2.4539790,31,1.20,6.30,,"Turton Street, Weymouth, DT4 7DA",https://www.dorsetcouncil.gov.uk/parking/find-a-carpark/find-a-car-park/-/ddl_display/ddl/269932/99395/maximized
+DC11,Harbourside,Dorset Council,50.6115400,-2.4565700,94,3.20,,,"Harbourside, Weymouth, DT4 8NA",https://www.dorsetcouncil.gov.uk/parking/find-a-carpark/find-a-car-park/-/ddl_display/ddl/269029/99395/maximized
+DC12,Nothe,Dorset Council,50.6067700,-2.4496699,196,1.20,6.30,,"Nothe, Weymouth, DT4 8UD",https://www.dorsetcouncil.gov.uk/parking/find-a-carpark/find-a-car-park/-/ddl_display/ddl/269559/99395/maximized
+DC13,Governor's Lane,Dorset Council,50.6083896,-2.4536900,60,1.20,,,"East Street, Weymouth, DT4 8DD",https://www.dorsetcouncil.gov.uk/parking/find-a-carpark/find-a-car-park/-/ddl_display/ddl/269789/99395/maximized
+DC14,Cosens Quay,Dorset Council,50.6083464,-2.4567678,40,,,,"Commercial Road, Weymouth, DT4 8AQ",https://www.dorsetcouncil.gov.uk/parking/find-a-carpark/find-a-car-park
+DC15,Melcombe Regis,Dorset Council,50.6121188,-2.4560363,311,,,,"Melcombe Regis, Weymouth, DT4 7DY",https://www.dorsetcouncil.gov.uk/parking/find-a-carpark/find-a-car-park
+DC16,Pavilion (Forecourt),Dorset Council,50.608868,-2.448419,27,,,,"Pavilion, Weymouth, DT4 8DZ",https://www.dorsetcouncil.gov.uk/parking/find-a-carpark/find-a-car-park

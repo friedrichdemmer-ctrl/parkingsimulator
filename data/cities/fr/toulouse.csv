@@ -1,0 +1,22 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+qpark-toulouse-compans-caffarelli,Compans Caffarelli,Q-Park,43.610265,1.434144,990,3.7,29.6,False,"9 Esplanade Compans Caffarelli, 31000 Toulouse",https://www.q-park.fr/fr-fr/villes/toulouse/compans-caffarelli/
+qpark-toulouse-iot-labege,IOT Labège,Q-Park,43.5445626,1.5070544,307,2.6,18.5,False,"Avenue de l'Occitane, 31670 Toulouse (Labège)",https://www.q-park.fr/fr-fr/villes/toulouse/iot-lab%C3%A8ge/
+qpark-toulouse-jeanne-darc,Jeanne d'Arc / Centre-Ville,Q-Park,43.609404,1.446622,400,3.3,25.6,True,"8 Place Jeanne d'Arc, 31000 Toulouse",https://www.q-park.fr/fr-fr/villes/toulouse/jeanne-d-arc/
+qpark-toulouse-montaudran,Montaudran,Q-Park,43.570657,1.478564,352,2.8,20.1,True,"32 Avenue Bernard Maris, 31000 Toulouse",https://www.q-park.fr/fr-fr/villes/toulouse/montaudran/
+indigo-toulouse-capitole,Parking Capitole,Indigo,43.604099,1.44308,,3.6,,True,"Place du Capitole, 31000 Toulouse",https://www.indigoneo.fr/fr/parkings/755/parking-capitole
+indigo-toulouse-saint-aubin,Parking Saint Aubin,Indigo,43.603788,1.454648,,1.9,,True,"2 Boulevard Jules Michelet, 31000 Toulouse",https://www.indigoneo.fr/fr/parkings/756/parking-saint-aubin
+indigo-toulouse-arnaud-bernard,Parking Arnaud Bernard,Indigo,43.61047,1.439241,,1.9,,True,"Place Arnaud Bernard, 31000 Toulouse",https://www.indigoneo.fr/fr/parkings/757/parking-arnaud-bernard
+indigo-toulouse-saint-georges,Parking Saint-Georges,Indigo,43.603298,1.45072,,3.6,,True,"51 bis Rue du Rempart Saint-Etienne, 31000 Toulouse",https://www.indigoneo.fr/fr/parkings/758/parking-saint-georges
+indigo-toulouse-esquirol,Parking Esquirol,Indigo,43.600434,1.444588,,3.5,,True,"14 Place Etienne Esquirol, 31000 Toulouse",https://www.indigoneo.fr/fr/parkings/759/parking-esquirol
+indigo-toulouse-carnot,Parking Carnot,Indigo,43.600765,1.45218,,3.5,,True,"8 Place Dupuy, 31000 Toulouse",https://www.indigoneo.fr/fr/parkings/760/parking-carnot
+indigo-toulouse-parc-victor-hugo,Parking Parc Victor Hugo,Indigo,43.606087,1.446526,,3.5,,True,"Place Victor Hugo, 31000 Toulouse",https://www.indigoneo.fr/fr/parkings/761/parking-parc-victor-hugo
+indigo-toulouse-jean-jaures,Parking Jean Jaurès,Indigo,43.606888,1.450002,,3.5,,True,"16 Allées Jean Jaurès, 31000 Toulouse",https://www.indigoneo.fr/fr/parkings/762/parking-jean-jaures
+indigo-toulouse-saint-michel,Parking Saint-Michel,Indigo,43.592888,1.443876,,1.9,,True,"36 Rue de la Chaussée, 31000 Toulouse",https://www.indigoneo.fr/fr/parkings/764/parking-saint-michel
+indigo-toulouse-saint-cyprien,Parking Saint-Cyprien,Indigo,43.597843,1.429778,,1.9,,True,"11 Place Jean Diebold, 31300 Toulouse",https://www.indigoneo.fr/fr/parkings/765/parking-saint-cyprien
+indigo-toulouse-place-de-leurope,Parking Place de l'Europe,Indigo,43.610307,1.431087,,1.9,,True,"1 Rue de Sébastopol, 31000 Toulouse",https://www.indigoneo.fr/fr/parkings/766/parking-place-de-leurope
+indigo-toulouse-parc-des-carmes,Parking Parc des Carmes,Indigo,43.597534,1.444396,,3.5,,True,"Place des Carmes, 31000 Toulouse",https://www.indigoneo.fr/fr/parkings/767/parking-parc-des-carmes
+indigo-toulouse-clinique-pasteur,Parking Clinique Pasteur,Indigo,43.59476,1.415455,,3.2,,True,"1 Rue de la Petite Vitesse, 31300 Toulouse",https://www.indigoneo.fr/fr/parkings/768/parking-clinique-pasteur
+indigo-toulouse-gare-marengo,Parking Gare - Marengo,Indigo,43.611129,1.455706,,2.8,,True,"2 Boulevard de Marengo, 31500 Toulouse",https://www.indigoneo.fr/fr/parkings/769/parking-gare-marengo
+indigo-toulouse-matabiau-ramblas,Parking Matabiau Ramblas,Indigo,43.609124,1.453375,,3.5,,True,"75 Allées Jean Jaurès, 31000 Toulouse",https://www.indigoneo.fr/fr/parkings/15203/parking-matabiau-ramblas
+indigo-toulouse-saint-etienne,Parking Saint-Etienne,Indigo,43.600361,1.449788,,3.5,,True,"9 Rue Riguepels, 31000 Toulouse",https://www.indigoneo.fr/fr/parkings/16204/parking-saint-etienne
+effia-toulouse-matabiau,Parking Gare de Toulouse Matabiau,Effia,43.612362,1.453006,,3.5,23.4,True,"64 Boulevard Pierre Sémard, 31500 Toulouse",https://www.effia.com/parking/parking-gare-de-toulouse-matabiau-effia

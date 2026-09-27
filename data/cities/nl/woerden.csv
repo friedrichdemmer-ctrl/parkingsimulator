@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+GW01,Castellum,Cooperatie ParkeerService,52.086131,4.882009,520,2.50,18.60,True,"Meulmansweg 8s, 3441 AT Woerden",https://woerden.parkeerservice.nl/garageparkeren/parkeergarages/
+GW02,Defensie-eiland,Cooperatie ParkeerService,52.084505,4.888353,80,2.50,18.60,True,"Defensie-eiland 93a, 3441 VG Woerden",https://woerden.parkeerservice.nl/garageparkeren/parkeergarages/
+QP01,P+R Spoorlaan,Q-Park,52.085737,4.893100,172,2.09,11.00,,"Spoorlaan, 3445 AE Woerden",https://www.q-park.nl/nl-nl/parkeren/woerden/p-r-spoorlaan/

@@ -1,0 +1,7 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,8 Mai 1945,Q-Park,43.294329,5.564113,375,0.00,18.30,True,"120 Chemin de l'Isle des Marronniers, 13400 Aubagne",https://www.q-park.fr/fr-fr/villes/aubagne/8-mai-1945/
+QP02,Aubagne - Hôpital,Q-Park,43.2916538,5.5635998,940,,,False,"179 Avenue des Soeurs Gastine, 13400 Aubagne",https://www.q-park.fr/fr-fr/villes/aubagne/aubagne---h%c3%b4pital/
+QP03,Potiers,Q-Park,43.28931,5.57154,74,0.00,18.30,False,"Rue des Tuiliers, 13400 Aubagne",https://www.q-park.fr/fr-fr/villes/aubagne/aubagne---potiers/
+QP04,Beaumond,Q-Park,43.290751,5.570099,234,0.00,18.30,False,"65 Rue de la République, 13400 Aubagne",https://www.q-park.fr/fr-fr/villes/aubagne/beaumond/
+QP05,Centre Ancien,Q-Park,43.29395,5.570462,331,0.00,18.30,False,"30 Avenue Elzéard Rougier, 13400 Aubagne",https://www.q-park.fr/fr-fr/villes/aubagne/centre-ancien/
+QP06,Marché,Q-Park,43.2949841,5.5712981,590,2.40,18.30,True,"216 Avenue Gabriel Péri, 13400 Aubagne",https://www.q-park.fr/fr-fr/villes/aubagne/march%c3%a9/

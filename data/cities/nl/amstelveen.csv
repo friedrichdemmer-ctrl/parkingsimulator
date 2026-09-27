@@ -1,0 +1,8 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Buitenplein,Q-Park,52.300956,4.864999,592,2.40,21.00,True,"Meander 725, 1181 WN Amstelveen",https://www.q-park.nl/nl-nl/parkeren/amstelveen/buitenplein/
+QP02,Handelsplein,Q-Park,52.301632,4.866134,573,2.40,21.00,True,"Handelsweg 51, 1181 ZA Amstelveen",https://www.q-park.nl/nl-nl/parkeren/amstelveen/handelsplein/
+QP03,Schouwburggarage,Q-Park,52.302525,4.857837,575,6.00,40.00,True,"Thomas Cookstraat 1, 1181 ZS Amstelveen",https://www.q-park.nl/nl-nl/parkeren/amstelveen/schouwburggarage/
+P101,Stadspleingarage,P1,52.303196,4.857529,908,6.00,40.00,True,"Stadsplein 101, 1181 ZM Amstelveen",https://www.p1.nl/parkeren/amstelveen/parkeergarage-stadsplein
+PB01,Adagio Amsterdam City South,ParkBee,52.318978,4.871248,,,,True,"Professor J.H. Bavincklaan 5, 1183 AT Amstelveen",https://parkbee.com/en/city/amstelveen
+PB02,Bovenkerkerweg 2-4,ParkBee,52.284224,4.842636,,,,,"Bovenkerkerweg 2, 1185 XE Amstelveen",https://parkbee.com/en/city/amstelveen
+PB03,Doctor Willem Dreesweg,ParkBee,52.279787,4.841353,,,,,"Doctor Willem Dreesweg 6, 1185 VB Amstelveen",https://parkbee.com/en/city/amstelveen

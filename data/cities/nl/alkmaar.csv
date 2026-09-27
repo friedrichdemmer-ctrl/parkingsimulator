@@ -1,0 +1,10 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Grote Kerk,Q-Park,52.632380,4.742723,86,3.00,20.00,,"Bagijnenstraat 13-15, 1811 KA Alkmaar",https://www.q-park.nl/nl-nl/parkeren/alkmaar/grote-kerk/
+QP02,P+R Kruseman van Eltenweg,Q-Park,52.639063,4.740048,228,2.95,13.50,,"Kruseman van Eltenweg 1, 1817 BC Alkmaar",https://www.q-park.nl/nl-nl/parkeren/alkmaar/p-r-kruseman-van-eltenweg/
+P101,Parkeergarage Kanaalschiereiland,P1,52.635307,4.746581,353,2.27,18.80,True,"Mallegatsplein 1, 1815 AG Alkmaar",https://www.p1.nl/parkeerplaats/parkeergarage-kanaalschiereiland/
+P102,Parkeergarage De Kazerne,P1,52.636413,4.746230,87,2.27,18.80,True,"Helderseweg 8a, 1811 AG Alkmaar",https://www.p1.nl/parkeerplaats/parkeergarage-de-kazerne/
+P103,Parkeergarage Karperton,P1,52.632367,4.751961,439,2.27,18.80,True,"Dijk 16-20, 1811 MB Alkmaar",https://www.p1.nl/parkeerplaats/parkeergarage-karperton/
+P104,Parkeergarage Schelphoek,P1,52.627454,4.753807,495,2.27,18.80,True,"Korte Vondelstraat 4, 1811 AE Alkmaar",https://www.p1.nl/parkeerplaats/parkeergarage-schelphoek/
+P105,Parkeergarage De Singel,P1,52.628174,4.740385,396,2.27,18.80,True,"Wilhelminalaan, 1811 DP Alkmaar",https://www.p1.nl/parkeerplaats/parkeergarage-de-singel/
+P106,Parkeergarage De Vest,P1,52.634415,4.745163,67,2.27,18.80,True,"Paternosterstraat 2-18, 1811 KG Alkmaar",https://www.p1.nl/parkeerplaats/parkeergarage-de-vest/
+P107,Parkeergarage Ringers,P1,52.633505,4.751567,750,2.60,17.50,,"Noorderkade 100, 1823 CJ Alkmaar",https://www.p1.nl/parkeerplaats/parkeergarage-ringers/

@@ -1,0 +1,8 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,De Boreel,Q-Park,52.25262,6.16564,604,2.40,10.00,True,"Boreelplein 32, 7411 EH Deventer",https://www.q-park.nl/nl-nl/parkeren/deventer/de-boreel/
+QP02,P+R Handelskade,Q-Park,52.254652,6.166144,247,2.85,11.50,,"Handelskade, 7417 DE Deventer",https://www.q-park.nl/nl-nl/parkeren/deventer/p-r-handelskade/
+P101,Brink,P1,52.250263,6.160773,280,2.22,10.00,True,"Emmastraat, 7411 GG Deventer",https://www.p1.nl/parkeerplaats/parkeergarage-brink/
+P102,Stadspoort,P1,52.256574,6.152519,259,2.22,10.00,True,"Binnensingel 8 / T.G. Gibsonstraat, 7411 PM Deventer",https://www.p1.nl/parkeren/deventer/parkeergarage-stadspoort
+P103,Stationsplein,P1,52.256700,6.161797,147,2.22,10.00,True,"Stationsplein 1, 7411 HB Deventer",https://www.p1.nl/parkeerplaats/parkeergarage-stationsplein/
+P104,Beestenmarkt,P1,52.257239,6.163530,60,0.00,0.00,,"Hoge Rij 95, 7413 WX Deventer",https://www.p1.nl/parkeren/deventer/parkeergarage-beestenmarkt
+CG01,Centrumgarage,Centrumgarage,52.254895,6.159213,575,2.22,12.00,True,"Op de Keizer 1, 7411 TC Deventer",https://centrumgaragedeventer.nl/tarieven/

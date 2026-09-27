@@ -1,0 +1,21 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Parkhaus Stiftstraße,Q-Park,50.775761,6.0936171,124,3.00,15.00,,"Stiftstr. 38, 52062 Aachen",https://www.q-park.de/de-de/staedte/aachen/stiftstra%C3%9Fe/
+CP01,Parkhaus Grosskölnstraße,Contipark,50.778115,6.084988,350,4.00,22.00,True,"Seilgraben 45, 52062 Aachen",https://www.contipark.de/de/parken/aachen/parkhaus-grosskoelnstrasse/
+CP02,Parkhaus Lothringerstraße,Contipark,50.771309,6.093772,342,3.50,17.00,True,"Lothringerstraße 2-14, 52062 Aachen",https://www.contipark.de/de/parken/aachen/parkhaus-lothringerstrasse/
+APAG01,Parkhaus Adalbertsteinweg,APAG,50.774352,6.099715,,2.00,12.00,True,"Adalbertsteinweg 34, 52070 Aachen",https://www.apag.de/de/parkobjekte/parkhaus-adalbertsteinweg
+APAG02,Parkhaus Adalbertstraße,APAG,50.775886,6.090755,,2.50,18.00,,"Blondelstraße, 52062 Aachen",https://www.apag.de/de/parkobjekte/parkhaus-adalbertstrasse
+APAG03,Parkhaus Couvenstraße,APAG,50.777325,6.089694,,2.50,18.00,True,"Couvenstraße 6, 52062 Aachen",https://www.apag.de/de/parkobjekte/parkhaus-couvenstrasse
+APAG04,Parkhaus EBV Carré,APAG,50.777007,6.092057,,2.50,18.00,,"Schumacherstr. 12, 52062 Aachen",https://www.apag.de/de/parkobjekte/parkhaus-ebv-carre
+APAG05,Parkhaus Eurogress,APAG,50.780654,6.09267,,2.00,12.00,True,"Monheimsallee 44, 52062 Aachen",https://www.apag.de/de/parkobjekte/parkhaus-eurogress
+APAG06,Parkhaus Galeria Kaufhof/City,APAG,50.772661,6.089889,,2.50,18.00,True,"Wirichsbongardstr. 47, 52062 Aachen",https://www.apag.de/de/parkobjekte/parkhaus-galeria-kaufhofcity
+APAG07,Parkhaus Hauptbahnhof,APAG,50.767971,6.089309,,2.50,18.00,True,"Lagerhausstraße 20, 52064 Aachen",https://www.apag.de/de/parkobjekte/parkhaus-hauptbahnhof
+APAG08,Parkplatz Ludwig Forum,APAG,50.78184,6.101984,,2.00,12.00,,"Lombardenstraße 4, 52070 Aachen",https://www.apag.de/de/parkobjekte/parkplatz-ludwig-forum
+APAG09,Parkhaus Luisenhospital,APAG,50.767855,6.07804,,1.50,8.00,,"Weberstraße 2, 52064 Aachen",https://www.apag.de/de/parkobjekte/parkhaus-luisenhospital
+APAG10,Parkplatz Luisenhospital,APAG,50.767823,6.076306,,2.40,16.00,,"Boxgraben 99, 52064 Aachen",https://www.apag.de/de/parkobjekte/parkplatz-luisenhospital
+APAG11,Parkplatz Pontstraße,APAG,50.781642,6.0797,,2.00,12.00,,"Wittekindstraße, 52062 Aachen",https://www.apag.de/de/parkobjekte/parkplatz-pontstrasse
+APAG12,Parkhaus Rathaus,APAG,50.777266,6.084305,380,2.50,18.00,True,"Mostardstraße 5, 52062 Aachen",https://www.apag.de/de/parkobjekte/parkhaus-rathaus
+APAG13,Parkhaus Tivoli,APAG,50.794143,6.096725,,1.00,5.00,True,"Krefelderstraße 205, 52070 Aachen",https://www.apag.de/de/parkobjekte/parkhaus-tivoli
+APAG14,Parkplatz Uniklinik Franziskus,APAG,50.76486,6.07049,,1.50,8.00,True,"Lütticher Str., 52074 Aachen",https://www.apag.de/de/parkobjekte/parkplatz-uniklinik-franziskus
+APAG15,Parkhaus Uniklinik RWTH,APAG,50.7739,6.045749,,2.00,10.00,True,"Kullenhofstraße 80, 52074 Aachen",https://www.apag.de/de/parkobjekte/parkhaus-uniklinik-rwth
+APAG16,Parkplatz Uniklinik RWTH P1,APAG,50.774804,6.0457,,2.00,10.00,,"Kullenhofstraße, 52074 Aachen",https://www.apag.de/de/parkobjekte/parkplatz-uniklinik-rwth-p1
+APAG17,Parkplatz Uniklinik RWTH P2,APAG,50.775,6.042,,2.00,10.00,,"Kullenhofstraße, 52074 Aachen",https://www.apag.de/de/parkobjekte/parkplatz-uniklinik-rwth-p2

@@ -1,0 +1,13 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Pulse,Q-Park,48.6879864,9.008429,350,2.00,7.50,True,"Wolfgang-Brumme-Allee 3, 71034 Böblingen",https://www.q-park.de/de-de/staedte/b%C3%B6blingen/pulse/
+DB01,Parkplatz Bahnhof P1,DB BahnPark,48.687828,9.005529,30,2.40,12.00,,"Talstraße, 71032 Böblingen",https://www.contipark.de/de/parken/boeblingen/parkplatz-bahnhof-p1-boeblingen/
+BB01,Parkhaus KaufCentrum,B+B Parkhaus,48.6877779,9.0096409,252,1.50,10.00,False,"Wolfgang-Brumme-Allee 18, 71034 Böblingen",https://www.bb-parkhaus.de/staedte/boeblingen/parkhaus-kaufcentrum
+SW01,Postplatz,Stadtwerke Böblingen,48.6866606,9.0157328,,1.50,21.50,True,"Stuttgarter Straße 12, 71032 Böblingen",https://www.stadtwerke-boeblingen.de/parken/postplatz
+SW02,Kongresshalle,Stadtwerke Böblingen,48.6832493,9.0110013,,1.50,21.50,True,"Ida-Ehre-Platz 1, 71032 Böblingen",https://www.stadtwerke-boeblingen.de/parken/kongresshalle
+SW03,Im Höfle,Stadtwerke Böblingen,48.6836091,9.0148844,,1.50,21.50,False,"Pestalozzistraße 3, 71032 Böblingen",https://www.stadtwerke-boeblingen.de/parken/im-hoefle
+SW04,Hautana,Stadtwerke Böblingen,48.6857442,9.0062761,,1.50,21.50,False,"Karlstraße 14, 71032 Böblingen",https://www.stadtwerke-boeblingen.de/parken/hautana
+SW05,Marktplatz | Schlossberg,Stadtwerke Böblingen,48.6846323,9.0114982,,1.50,21.50,True,"Pfarrgasse 12, 71032 Böblingen",https://www.stadtwerke-boeblingen.de/parken/marktplatz-schlossberg
+SW06,Am Käppele,Stadtwerke Böblingen,48.6857384,9.0172002,,,,False,"Lange Str. 1, 71032 Böblingen",https://www.stadtwerke-boeblingen.de/parken/am-kaeppele
+SW07,Park & Ride Hulb,Stadtwerke Böblingen,48.6837466,8.9790873,,,3.00,False,"Dornierstraße, 71032 Böblingen",https://www.stadtwerke-boeblingen.de/parken/hulb
+SW08,Park & Ride Goldberg,Stadtwerke Böblingen,48.6970503,9.0196638,,,3.00,True,"Leibnizstraße, 71032 Böblingen",https://www.stadtwerke-boeblingen.de/parken/goldberg
+GB01,Mercaden,Goldbeck GmbH,48.6876295,9.0061604,800,1.50,8.00,False,"Wolfgang-Brumme-Allee 27, 71034 Böblingen",https://www.mercaden-boeblingen.de/services/parken/

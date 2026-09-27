@@ -1,0 +1,6 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Gladsaxevej 386,Q-Park,55.7388409,12.4871892,116,10,,,"Gladsaxevej 386, 2860 Søborg",https://www.q-park.dk/da/parkering/s%c3%b8borg/gladsaxevej-386/
+QP02,Rosenkæret 22,Q-Park,55.738617,12.483442,70,10,,,"Rosenkæret 22, 2860 Søborg",https://www.q-park.dk/da/parkering/s%c3%b8borg/rosenk%c3%a6ret-22/
+QP03,Sydmarken 32,Q-Park,55.733545,12.477678,100,10,,,"Sydmarken 32, 2860 Søborg",https://www.q-park.dk/da/parkering/s%c3%b8borg/sydmarken-32/
+QP04,Tobaksvejen 4B m. flere,Q-Park,55.7405592,12.4832502,120,15,,,"Rosendal 1-15 & 2-28, 2860 Søborg","https://www.q-park.dk/da/parkering/s%c3%b8borg/tobaksvejen-4b-m,-d-,-flere/"
+AP01,Søborg Hovedgade 66-70 - Erik Bøghs Alle 1-7,APCOA,55.733891,12.51666,100,,,,"Erik Bøghs Alle 2, 2860 Søborg",https://www.apcoa.dk/find-en-p-plads/lokationer/soeborg/soeborg-hovedegade-66-70-erik-boeghs-alle-1-7

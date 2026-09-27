@@ -1,0 +1,19 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Ajoux,Q-Park,48.9018129,2.2734324,59,,,,"206 Boulevard Saint Denis, 92400 Courbevoie",https://www.q-park.fr/fr-fr/villes/courbevoie/ajoux/
+QP02,Blot,Q-Park,48.90344,2.25441,117,1.60,23.10,,"25 Rue Pierre Curie, 92400 Courbevoie",https://www.q-park.fr/fr-fr/villes/courbevoie/blot/
+QP03,Camille Claudel,Q-Park,48.89904,2.23981,187,1.60,23.10,,"77 Boulevard de la Mission Marchand, 92400 Courbevoie",https://www.q-park.fr/fr-fr/villes/courbevoie/camille-claudel/
+QP04,Capricorne,Q-Park,48.89621,2.24996,133,1.60,23.10,,"7 Rue de l'Alma, 92400 Courbevoie",https://www.q-park.fr/fr-fr/villes/courbevoie/capricorne/
+QP05,Charras,Q-Park,48.8966,2.25294,561,2.10,26.70,True,"37 Rue de l'Alma, 92400 Courbevoie",https://www.q-park.fr/fr-fr/villes/courbevoie/charras/
+QP06,Courbevoie Colombier,Q-Park,48.8980666,2.2567017,180,,,,"18 Rue de Colombes, 92400 Courbevoie",https://www.q-park.fr/fr-fr/villes/courbevoie/courbevoie-colombier/
+QP07,Courbevoie Marceau,Q-Park,48.90118,2.24412,148,1.60,23.10,,"69 Avenue Marceau, 92400 Courbevoie",https://www.q-park.fr/fr-fr/villes/courbevoie/courbevoie-marceau/
+QP08,Fontanes,Q-Park,48.89423,2.25348,55,1.60,23.10,,"4 Rue Auguste Beau, 92400 Courbevoie",https://www.q-park.fr/fr-fr/villes/courbevoie/fontanes/
+QP09,Gaultier,Q-Park,48.89923,2.24449,438,1.60,23.10,,"58 Rue Gaultier, 92400 Courbevoie",https://www.q-park.fr/fr-fr/villes/courbevoie/gaultier/
+QP10,Jean-Pierre Timbaud,Q-Park,48.89864,2.25245,170,1.60,23.10,,"47 Rue Jean Pierre Timbaud, 92400 Courbevoie",https://www.q-park.fr/fr-fr/villes/courbevoie/jean-pierre-timbaud/
+QP11,Mermoz,Q-Park,48.90213,2.27335,130,,,,"263 boulevard Saint Denis, 92400 Courbevoie",https://www.q-park.fr/fr-fr/villes/courbevoie/mermoz/
+QP12,Paix,Q-Park,48.90339,2.26752,320,1.60,23.10,,"2 bis Place de Belgique, 92400 Courbevoie",https://www.q-park.fr/fr-fr/villes/courbevoie/paix/
+QP13,Renardières,Q-Park,48.89308,2.25254,255,1.60,23.10,,"11 Rue de Bezons, 92400 Courbevoie",https://www.q-park.fr/fr-fr/villes/courbevoie/renardieres/
+QP14,Verdun Carpeaux Briand,Q-Park,48.89953,2.25833,727,1.60,23.10,,"5 Boulevard Aristide Briand, 92400 Courbevoie",https://www.q-park.fr/fr-fr/villes/courbevoie/verdun-carpeaux-briand/
+QP15,Villebois Mareuil,Q-Park,48.90215,2.26772,204,1.60,23.10,,"96 Rue Armand Silvestre, 92400 Courbevoie",https://www.q-park.fr/fr-fr/villes/courbevoie/villebois-mareuil/
+QP16,Watteau,Q-Park,48.90346,2.27402,799,1.60,23.10,,"8 Rue Adolphe Lalyre, 92400 Courbevoie",https://www.q-park.fr/fr-fr/villes/courbevoie/watteau/
+IN01,Coeur Défense,Indigo Neo,48.891881,2.244103,,,,,"10 Avenue André Prothin, 92400 Courbevoie",https://www.indigoneo.fr/fr/parkings/23671/parking-coeur-defense
+IN02,Jacques Cartier,Indigo Neo,48.895787,2.239436,,3.60,35.00,,"36 Avenue Léonard de Vinci, 92400 Courbevoie",https://www.indigoneo.fr/fr/parkings/31715/parking-jacques-cartier

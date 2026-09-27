@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+nice-qpark-1,Parking Aéroport Nice Côte d'Azur - Arénas,Q-Park,43.669585,7.216308,536,3.90,44.10,True,"125 Boulevard René Cassin, 06000 Nice",https://www.q-park.fr/fr-fr/villes/nice/a%c3%a9roport-nice-ar%c3%a9nas/
+nice-qpark-2,Parking Gare du Sud,Q-Park,43.708798,7.261417,502,3.90,41.90,True,"7 Rue Alfred Binet, 06000 Nice",https://www.q-park.fr/fr-fr/villes/nice/gare-du-sud/
+nice-qpark-3,Parking Notre Dame,Q-Park,43.703725,7.267189,206,4.80,46.40,False,"28 Avenue Notre Dame, 06000 Nice",https://www.q-park.fr/fr-fr/villes/nice/notre-dame/

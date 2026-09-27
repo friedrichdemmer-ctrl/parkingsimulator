@@ -1,0 +1,17 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Q-Park Ørbækvej 2-6,Q-Park,55.070988,10.6312206,60,8,80,,"Ørbækvej 2-6, 5700 Svendborg",https://www.q-park.dk/da/parkering/svendborg/ørbækvej-2-6/
+QP02,Q-Park Frederiksgade 6,Q-Park,55.0592848,10.6135933,25,14,,,"Frederiksgade 6, 5700 Svendborg",https://www.q-park.dk/da/parkering/svendborg/frederiksgade-6/
+QP03,Q-Park Korsgade & Jernbanegade,Q-Park,55.057451,10.609506,90,12,,,"Korsgade 11-13 + 15-17 & Jernbanegade 26, 5700 Svendborg","https://www.q-park.dk/da/parkering/svendborg/korsgade-,-a-,-jernbanegade/"
+QP04,Q-Park Nordre Havnevej 11,Q-Park,55.0626851,10.6170338,180,12,,,"Nordre Havnevej 11, 5700 Svendborg",https://www.q-park.dk/da/parkering/svendborg/nordre-havnevej-11/
+QP05,Q-Park Sundhedshus Svendborg,Q-Park,55.0611056,10.6115649,30,14,,,"Hulgade 9 og 4, 5700 Svendborg",https://www.q-park.dk/da/parkering/svendborg/sundhedshus-svendborg/
+QP06,Q-Park Tinghusgade 43,Q-Park,55.060388,10.602531,35,14,,,"Tinghusgade 43, 5700 Svendborg",https://www.q-park.dk/da/parkering/svendborg/tinghusgade-43/
+QP07,Q-Park Toldbodvej 8,Q-Park,55.0622606,10.6136922,75,14,,,"Toldbodvej 8, 5700 Svendborg",https://www.q-park.dk/da/parkering/svendborg/toldbodvej-8/
+AP01,Svendborg Bycenter,APCOA,55.059877,10.604592,156,12,,,"Tinghusgade 29, 5700 Svendborg",https://www.apcoa.dk/find-en-p-plads/lokationer/svendborg/svendborg-bycenter
+AP02,Centrumpladsen 1,APCOA,55.06053188,10.60599546,60,10,120,,"Centrumpladsen 1, 5700 Svendborg",https://www.apcoa.dk/find-en-p-plads/lokationer/svendborg/centrumpladsen-1
+AP03,Voldgade 16,APCOA,55.059206,10.604583,30,10,,,"Voldgade 16, 5700 Svendborg",https://www.apcoa.dk/find-en-p-plads/lokationer/svendborg/voldgade-16
+AP04,Toldbodvej 17-19,APCOA,55.062087,10.612223,70,0,,,"Toldbodvej 17-19, 5700 Svendborg",https://www.apcoa.dk/find-en-p-plads/lokationer/svendborg/toldbodvej-17-19
+AP05,Korsgade 16,APCOA,55.057753,10.609561,50,0,,,"Korsgade 16, 5700 Svendborg",https://www.apcoa.dk/find-en-p-plads/lokationer/svendborg/korsgade-16
+AP06,Svendborg Sygehus,APCOA,55.056384,10.607809,677,0,,,"Valdemarsgade 51C, 5700 Svendborg",https://www.apcoa.dk/find-en-p-plads/lokationer/svendborg/svendborg-sygehus
+AP07,Valdemarsgade 73,APCOA,55.058012,10.606783,75,14,,,"Valdemarsgade 73, 5700 Svendborg",https://www.apcoa.dk/find-en-p-plads/lokationer/svendborg/valdemarsgade-73
+AP08,Kedelsmedestræde 15,APCOA,55.060319,10.605464,18,0,,,"Kedelsmedestræde 15, 5700 Svendborg",https://www.apcoa.dk/find-en-p-plads/lokationer/svendborg/kedelsmedestraede-15
+AP09,Møllergade 104,APCOA,55.06446058,10.61408868,10,0,,,"Møllergade 104, 5700 Svendborg",https://www.apcoa.dk/find-en-p-plads/lokationer/svendborg/moellergade-104

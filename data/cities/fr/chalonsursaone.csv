@@ -1,0 +1,6 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Banque,Q-Park,46.782983,4.85032,309,1.6,15.9,True,"17 Rue de la Banque, 71100 Chalon sur Saône",https://www.q-park.fr/fr-fr/villes/chalon-sur-sa%c3%b4ne/banque/
+QP02,Colombière,Q-Park,46.784472,4.84513,186,,,False,"18 Avenue Baucicaut, 71100 Chalon sur Saône",https://www.q-park.fr/fr-fr/villes/chalon-sur-sa%c3%b4ne/colombi%c3%a8re/
+QP03,Gloriette,Q-Park,46.780463,4.851069,37,,,False,"14 Rue Philibert Leon Couturier, 71100 Chalon sur Saône",https://www.q-park.fr/fr-fr/villes/chalon-sur-sa%c3%b4ne/gloriette/
+QP04,Hôtel de Ville,Q-Park,46.78026,4.853346,450,1.6,15.9,True,"Passage du Milon, 71100 Chalon sur Saône",https://www.q-park.fr/fr-fr/villes/chalon-sur-sa%c3%b4ne/h%c3%b4tel-de-ville/
+QP05,Motte,Q-Park,46.78422,4.855957,608,1.6,15.9,True,"29 Rue de la Motte, 71100 Chalon sur Saône",https://www.q-park.fr/fr-fr/villes/chalon-sur-sa%c3%b4ne/motte/

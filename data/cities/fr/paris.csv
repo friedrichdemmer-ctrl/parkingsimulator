@@ -1,0 +1,90 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Marceau - Champs-Elysées,Q-Park,48.8717623,2.2967282,510,6.60,54.45,True,"77 Avenue Marceau, 75008 Paris",https://www.q-park.fr/fr-fr/villes/paris/marceau-champs-elys%c3%a9es/
+QP02,Edouard VII - Haussmann,Q-Park,48.871539,2.328393,339,5.00,45.00,,"16 Rue Bruno Coquatrix, 75009 Paris",https://www.q-park.fr/fr-fr/villes/paris/edouard-vii-olympia-haussmann/
+QP03,Marais Lobau Notre Dame,Q-Park,48.85612,2.35336,828,5.60,50.40,True,"4 Rue Lobau, 75004 Paris",https://www.q-park.fr/fr-fr/villes/paris/lobau/
+QP04,Meyerbeer Opéra,Q-Park,48.8713,2.33407,813,5.15,42.30,True,"4 Rue de la Chaussée d'Antin, 75009 Paris",https://www.q-park.fr/fr-fr/villes/paris/meyerbeer-opera/
+QP05,Philharmonie,Q-Park,48.8904483,2.3954284,564,4.60,35.20,,"185 Boulevard Sérurier, 75019 Paris",https://www.q-park.fr/fr-fr/villes/paris/philharmonie/
+QP06,Daumesnil - Gare de Lyon,Q-Park,48.8444084,2.3818924,337,5.70,49.00,,"6 Rue de Rambouillet, 75012 Paris",https://www.q-park.fr/fr-fr/villes/paris/gare-de-lyon/
+QP07,Rivoli Pont Neuf - Samaritaine,Q-Park,48.8592418,2.3433341,387,7.20,55.00,True,"2 Rue du Boucher, 75001 Paris",https://www.q-park.fr/fr-fr/villes/paris/rivoli-pont-neuf/
+QP08,Anvers - Montmartre - Sacré Coeur,Q-Park,48.8826801,2.3440288,612,5.15,46.00,True,"41 Boulevard de Rochechouart, 75009 Paris",https://www.q-park.fr/fr-fr/villes/paris/anvers/
+QP09,Tour Maubourg,Q-Park,48.862368,2.30971,440,6.15,50.75,True,"45 Quai d'Orsay, 75007 Paris",https://www.q-park.fr/fr-fr/villes/paris/tour-maubourg/
+QP10,Saint-Placide - Sèvres - rue de Rennes,Q-Park,48.84883,2.32554,452,,,,"33 Rue Saint-Placide, 75006 Paris",https://www.q-park.fr/fr-fr/villes/paris/saint-placide-s%c3%a8vres-rue-de-rennes/
+QP11,Porte de Clignancourt,Q-Park,48.89959,2.3444,505,4.05,36.45,True,"20 Avenue de la Porte de Clignancourt, 75018 Paris",https://www.q-park.fr/fr-fr/villes/paris/porte-de-clignancourt/
+QP12,Cardinet Batignolles,Q-Park,48.888805,2.315292,199,5.20,45.60,True,"3 Rue Mstislav Rostropovitch, 75017 Paris",https://www.q-park.fr/fr-fr/villes/paris/cardinet-batignolles/
+QP13,Cité de la Musique - La Villette,Q-Park,48.8893922,2.3941663,367,4.60,35.30,True,"221 Avenue Jean Jaurès, 75019 Paris",https://www.q-park.fr/fr-fr/villes/paris/cit%c3%a9-de-la-musique-la-villette/
+QP14,Le Méridien Porte Maillot,Q-Park,48.880129,2.2865766,517,4.80,57.60,,"9 Rue Waldeck Rousseau, 75017 Paris",https://www.q-park.fr/fr-fr/villes/paris/le-m%c3%a9ridien-porte-maillot/
+QP15,Cité de la Musique - Conservatoire,Q-Park,48.888468,2.388962,152,,,True,"6 Rue Adolphe Mille, 75019 Paris",https://www.q-park.fr/fr-fr/villes/paris/cit%c3%a9-de-la-musique-conservatoire/
+QP16,Institut Judo - Porte de Versailles,Q-Park,48.822895,2.315575,306,5.70,43.80,True,"21 Avenue de la Porte de Châtillon, 75014 Paris",https://www.q-park.fr/fr-fr/villes/paris/institut-judo-porte-de-versailles/
+QP17,Bastille Saint Antoine,Q-Park,48.85234,2.37243,200,5.10,51.00,True,"45 Rue du Faubourg St Antoine, 75011 Paris",https://www.q-park.fr/fr-fr/villes/paris/bastille-saint-antoine/
+QP18,Bourse Grands Boulevards,Q-Park,48.86971,2.34081,889,5.00,45.00,,"30 Place de la Bourse, 75002 Paris",https://www.q-park.fr/fr-fr/villes/paris/bourse/
+QP19,Cardinet,Q-Park,48.89007,2.317,666,,,True,"168 Rue Cardinet, 75017 Paris",https://www.q-park.fr/fr-fr/villes/paris/cardinet/
+QP20,Damrémont,Q-Park,48.89284,2.33578,159,,,True,"73 Rue Damrémont, 75018 Paris",https://www.q-park.fr/fr-fr/villes/paris/damremont/
+QP21,Firmin Gemier,Q-Park,48.89472,2.33024,154,,,True,"5 Rue Firmin Gémier, 75018 Paris",https://www.q-park.fr/fr-fr/villes/paris/firmin-gemier/
+QP22,Malesherbes Anjou,Q-Park,48.87317,2.32122,1016,4.50,40.50,True,"35 Boulevard Malesherbes, 75008 Paris",https://www.q-park.fr/fr-fr/villes/paris/malesherbes-anjou/
+QP23,Louvre Saint Honoré,Q-Park,48.8620182,2.3391633,206,5.20,50.00,,"1 Rue de Marengo, 75001 Paris",https://www.q-park.fr/fr-fr/villes/paris/louvre-saint-honore/
+SA01,de la Porte de Versailles,Saemes,48.833487,2.285643,482,5.0,55.0,,"40 ter boulevard Victor, 75015 Paris",http://www.saemes.fr/fr/parking/parking-porte-versailles
+SA02,Jean Bouin,Saemes,48.845261,2.253626,487,4.4,39.6,True,"17 rue Nungesser et Coli, 75016 Paris",http://www.saemes.fr/fr/parking/parking-jean-bouin
+SA03,Mairie du 17ème,Saemes,48.884606,2.321516,387,4.7,42.3,True,"16/20 rue des Batignolles, 75017 Paris",http://www.saemes.fr/fr/parking/parking-mairie-17eme
+SA04,Maubert Collège des Bernardins,Saemes,48.849577,2.350867,655,5.0,45.0,True,"37 boulevard St Germain, 75005 Paris",http://www.saemes.fr/fr/parking/parking-maubert-college-bernardins
+SA05,Porte d'Orléans,Saemes,48.87926,2.34258,688,4.2,37.8,True,"1 rue de la Légion Etrangère, 75014 Paris",http://www.saemes.fr/fr/parking/parking-porte-orleans
+SA06,Quai branly-Tour Eiffel,Saemes,48.861935,2.298733,543,5.1,39.2,,"25 Quai Jacques Chirac, 75007 Paris",http://www.saemes.fr/fr/parking/parking-quai-branly-tour-eiffel
+SA07,Saint Augustin-Bergson,Saemes,48.875673,2.320402,910,5.0,45.0,True,"18 rue de Laborde, 75008 Paris",https://www.saemes.fr/fr/parking/parking-bergson
+SA08,Ternes,Saemes,48.87897,2.29319,1092,5.0,45.0,True,"38 avenue des Ternes, 75017 Paris",https://www.saemes.fr/fr/parking/parking-ternes
+SA09,Carnot,Saemes,48.8759745,2.29327722,505,5.0,45.0,,"20 bis avenue Carnot, 75017 Paris",http://www.saemes.fr/fr/parking/parking-carnot
+SA10,Hôpital Sainte Anne,Saemes,48.827057,2.341523,278,3.8,22.4,True,"100 rue de la Santé, 75014 Paris",http://www.saemes.fr/fr/parking/parking-hopital-sainte-anne
+SA11,Lagrange-Maubert,Saemes,48.850541,2.348671,447,4.8,43.2,True,"19 rue Lagrange, 75005 Paris",http://www.saemes.fr/fr/parking/parking-lagrange-maubert
+SA12,Mairie du 15ème - Lecourbe,Saemes,48.841671,2.299584,314,4.7,42.3,True,"143 rue Lecourbe, 75015 Paris",http://www.saemes.fr/fr/parking/parking-mairie-15eme
+SA13,Montholon,Saemes,48.87684,2.34597,426,4.6,41.4,,"1 Rue Mayran, 75009 Paris",https://www.saemes.fr/fr/parking/parking-montholon
+SA14,Rivoli-Sébastopol,Saemes,48.858396,2.350484,267,5.3,47.7,True,"5 rue pernelle, 75004 Paris",http://www.saemes.fr/fr/parking/parking-rivoli-sebastopol
+SA15,Bercy Seine,Saemes,48.833875,2.382319,310,4.6,41.4,True,"210 quai de Bercy, 75012 Paris",http://www.saemes.fr/fr/parking/parking-bercy
+SA16,Hôpital Saint Louis,Saemes,48.873379,2.369972,478,4.1,22.2,,"1 avenue Claude Vellefaux, 75010 Paris",http://www.saemes.fr/fr/parking/parking-hopital-saint-louis
+SA17,Madeleine-Tronchet,Saemes,48.8701243,2.3246848,975,5.0,45.0,True,"Face au 21 place de la Madeleine, 75008 Paris",http://www.saemes.fr/fr/parking/parking-madeleine-tronchet
+SA18,Picpus Nation,Saemes,48.84711,2.39927,944,3.8,34.2,,"Face au 96 boulevard de Picpus, 75012 Paris",https://www.saemes.fr/fr/parking/parking-picpus-nation
+SA19,Porte d'Auteuil,Saemes,48.847473,2.256245,1128,4.7,42.3,True,"1-3 avenue du Général Sarail, 75016 Paris",http://www.saemes.fr/fr/parking/parking-porte-auteuil
+SA20,Reuilly-Diderot,Saemes,48.84622,2.387776,147,4.7,42.3,True,"34 rue de Reuilly, 75012 Paris",http://www.saemes.fr/fr/parking/parking-reuilly-diderot
+SA21,Bac Montalembert,Saemes,48.8566579,2.32699912,417,5.1,45.9,True,"9 rue Montalembert, 75007 Paris",http://www.saemes.fr/fr/parking/parking-bac
+SA22,Champs Elysées,Saemes,48.870672,2.305418,827,5.5,49.5,,"Face au 62 avenue des Champs-Élysées, 75008 Paris",https://www.saemes.fr/fr/parking/parking-champs-elysees
+SA23,Charléty Coubertin,Saemes,48.817356,2.344178,445,3.8,34.2,True,"17 avenue Pierre de Coubertin, 75013 Paris",http://www.saemes.fr/fr/parking/parking-charlety-coubertin
+SA24,Claude Bernard,Saemes,48.899575,2.378149,494,3.2,24.0,True,"12-14 Rue Chana Orloff, 75019 Paris",https://www.saemes.fr/fr/parking/parking-claude-bernard
+SA25,Haussmann Berri,Saemes,48.875263,2.309631,2182,5.0,45.0,,"Face au 155 boulevard Haussmann, 75008 Paris",http://www.saemes.fr/fr/parking/parking-haussmann-berri
+SA26,Hôpital Robert-Debré,Saemes,48.87929,2.40177,180,4.1,22.2,True,"48 boulevard Sérurier, 75019 Paris",http://www.saemes.fr/fr/parking/parking-hopital-robert-debre
+SA27,Hôtel de Ville,Saemes,48.8566,2.349481,505,4.6,41.4,True,"6 Quai de Gesvres, 75004 Paris",http://www.saemes.fr/fr/parking/parking-hotel-ville
+SA28,George V,Saemes,48.87215419,2.29949965,1127,5.5,49.5,,"Face au 32 avenue des Champs-Élysées, 75008 Paris",https://www.saemes.fr/fr/parking/parking-george-v
+SA29,Les Halles-St Eustache,Saemes,48.860212,2.346654,375,5.0,45.0,True,"22 rue des Halles, 75001 Paris",http://www.saemes.fr/fr/parking/parking-halles-saint-eustache
+SA30,Méditerranée - Gare de Lyon,Saemes,48.845002,2.375691,1622,,,True,"26 rue de Chalon, 75012 Paris",http://www.saemes.fr/fr/parking/parking-mediterranee-gare-lyon
+SA31,Porte de Champerret,Saemes,48.88507,2.28735,1465,4.5,40.5,True,"10 Bvd de l'Yser, 75017 Paris",https://www.saemes.fr/fr/parking/parking-porte-de-champerret
+SA32,Saint Sulpice,Saemes,48.851193,2.333569,528,5.4,48.6,,"Sous la Place Saint Sulpice, 75006 Paris",http://www.saemes.fr/fr/parking/parking-saint-sulpice
+IN01,Harlay Pont Neuf,Indigo,48.855701,2.342716,,5.20,,,"Quai des Orfèvres, 75001 Paris",https://www.indigoneo.fr/fr/parkings/340/parking-harlay-pont-neuf
+IN02,Croix des Petits Champs,Indigo,48.863091,2.339648,,5,,,"14 Rue Croix des Petits Champs, 75001 Paris",https://www.indigoneo.fr/fr/parkings/341/parking-croix-des-petits-champs
+IN03,Vendôme,Indigo,48.867905,2.330046,,5.85,,True,"28 Place Vendôme, 75001 Paris",https://www.indigoneo.fr/fr/parkings/344/parking-vendome
+IN04,Sébastopol,Indigo,48.860607,2.349304,,5.40,,True,"43 Boulevard de Sébastopol, 75001 Paris",https://www.indigoneo.fr/fr/parkings/342/parking-sebastopol
+IN05,Réaumur Saint-Denis,Indigo,48.866943,2.349594,,5.40,,True,"40 Rue Dussoubs, 75002 Paris",https://www.indigoneo.fr/fr/parkings/345/parking-reaumur-saint-denis
+IN06,Beaubourg Horloge,Indigo,48.861969,2.35381,,6.20,,,"31 Rue Beaubourg, 75003 Paris",https://www.indigoneo.fr/fr/parkings/348/parking-beaubourg-horloge
+IN07,Notre Dame - Ile de la Cité,Indigo,48.855503,2.346225,,4.40,,,"Boulevard du Palais, 75004 Paris",https://www.indigoneo.fr/fr/parkings/349/parking-notre-dame-ile-de-la-cite
+IN08,Soufflot-Panthéon,Indigo,48.847019,2.34247,,5.20,,True,"22 Rue Soufflot, 75005 Paris",https://www.indigoneo.fr/fr/parkings/351/parking-soufflot-pantheon
+IN09,Jardin des Plantes,Indigo,48.840674,2.355684,,4.80,,,"25 Rue Geoffroy-Saint-Hilaire, 75005 Paris",https://www.indigoneo.fr/fr/parkings/1411/parking-jardin-des-plantes
+IN10,Saint-Germain des Prés,Indigo,48.854099,2.331784,,5.80,,True,"171 Boulevard Saint-Germain, 75006 Paris",https://www.indigoneo.fr/fr/parkings/354/parking-saint-germain-des-pres
+IN11,Invalides,Indigo,48.85928,2.314575,,5.40,,,"23 Rue de Constantine, 75007 Paris",https://www.indigoneo.fr/fr/parkings/356/parking-invalides
+IN12,Alma George V,Indigo,48.8652,2.30151,,5.80,,True,"19 Avenue George V, 75008 Paris",https://www.indigoneo.fr/fr/parkings/363/parking-alma-george-v
+IN13,Etoile Friedland,Indigo,48.874149,2.29919,,5.80,,True,"41 Avenue de Friedland, 75008 Paris",https://www.indigoneo.fr/fr/parkings/364/parking-etoile-friedland
+IN14,Rond Point des Champs Elysées,Indigo,48.86937,2.310915,,5.80,,True,"3 Avenue Matignon, 75008 Paris",https://www.indigoneo.fr/fr/parkings/360/parking-rond-point-des-champs-elysees
+IN15,Haussmann Printemps,Indigo,48.874142,2.327052,,6.60,,,"98 Rue de Provence, 75009 Paris",https://www.indigoneo.fr/fr/parkings/370/parking-haussmann-printemps
+IN16,Magenta - Gare de l'Est,Indigo,48.875432,2.354884,,5,,True,"11 Square Alban Satragne, 75010 Paris",https://www.indigoneo.fr/fr/parkings/13769/parking-magenta-gare-de-lest
+IN17,Faubourg Saint-Antoine,Indigo,48.850849,2.375396,,5.40,,True,"82 bis Avenue Ledru Rollin, 75012 Paris",https://www.indigoneo.fr/fr/parkings/375/parking-faubourg-saint-antoine
+IN18,Gare de Lyon,Indigo,48.843678,2.373433,,6.20,,,"191 Rue de Bercy, 75012 Paris",https://www.indigoneo.fr/fr/parkings/377/parking-gare-de-lyon
+IN19,Bibliothèque François Mitterrand,Indigo,48.832328,2.378043,,4.20,,True,"21 Rue Emile Durkheim, 75013 Paris",https://www.indigoneo.fr/fr/parkings/380/parking-bibliotheque-francois-mitterrand
+IN20,Alésia,Indigo,48.830322,2.32611,,4.90,,True,"204 Avenue du Maine, 75014 Paris",https://www.indigoneo.fr/fr/parkings/382/parking-alesia
+IN21,Pasteur-Montparnasse,Indigo,48.839527,2.312268,,5.20,,True,"81 Rue Falguière, 75015 Paris",https://www.indigoneo.fr/fr/parkings/2934/parking-pasteur-montparnasse
+IN22,Passy,Indigo,48.858101,2.27517,,5.20,,True,"80 Rue de Passy, 75016 Paris",https://www.indigoneo.fr/fr/parkings/19966/parking-passy
+IN23,Villiers,Indigo,48.881954,2.313877,,5.40,,True,"14 Avenue de Villiers, 75017 Paris",https://www.indigoneo.fr/fr/parkings/387/parking-villiers
+IN24,Parc de la Villette Nord - Cité des Sciences,Indigo,48.897349,2.388356,,4.80,,True,"61 Boulevard Macdonald, 75019 Paris",https://www.indigoneo.fr/fr/parkings/393/parking-parc-de-la-villette-nord-cite-des-sciences
+EF01,Parking Paris gare de Bercy Accor Arena,Effia,48.838098,2.383169,,,,,"48 bis boulevard de Bercy, Gare de Bercy, 75012 PARIS",https://www.effia.com/parking/parking-gare-de-bercy-accor-arena-effia
+EF02,Parking Paris gare de l'Est P1,Effia,48.876458,2.357833,,,,,"Rue du 8 mai 1945, 75010 PARIS",https://www.effia.com/parking/parking-paris-gare-de-lest-p1-effia
+EF03,Parking Paris gare de l'Est P2,Effia,48.876199,2.360216,,,,,"Cour du 11 Novembre 1918, Rue du Faubourg St-Martin, 75010 PARIS",https://www.effia.com/parking/parking-paris-gare-de-lest-p2-effia
+EF04,Parking Lyon Diderot – Paris Gare de Lyon,Effia,48.84466,2.37222,,,,,"198 rue de Bercy, 75012 PARIS",https://www.effia.com/parking/parking-paris-gare-de-lyon-diderot-effia
+EF05,Parking Paris gare de Lyon,Effia,48.8451,2.3699,,,,,"2-4 rue de la Traversière, 75012 PARIS",https://www.effia.com/parking/parking-paris-gare-de-lyon-effia
+EF06,Parking Paris Gare du Nord,Effia,48.879885,2.353501,,,,True,"4, rue de Compiègne, 75010 PARIS",https://www.effia.com/parking/parking-paris-gare-du-nord-effia
+EF07,Parking Paris gare Montparnasse Catalogne,Effia,48.838017,2.319101,,,,,"36 rue du Commandant René Mouchotte, 75014 PARIS",https://www.effia.com/parking/parking-paris-gare-montparnasse-catalogne-effia
+EF08,Parking Paris gare Montparnasse Pasteur,Effia,48.837909,2.317754,,,,,"24 Place des 5 martyrs du lycée Buffon, 75015 PARIS",https://www.effia.com/parking/parking-paris-gare-montparnasse-pasteur-effia
+EF09,Parking Paris gare Saint-Lazare,Effia,48.877412,2.328081,,,,,"Accès voiture : 29 rue de Londres, Accès piéton : 10 place Budapest, 75009 PARIS",https://www.effia.com/parking/parking-paris-gare-saint-lazare-effia
+EF10,Parking Paris Rome Batignolles,Effia,48.882075,2.321219,,,,True,"43 bis, Boulevard des Batignolles, 75008 PARIS",https://www.effia.com/parking/parking-paris-rome-batignolles-effia

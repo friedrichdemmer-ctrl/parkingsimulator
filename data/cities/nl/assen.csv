@@ -1,0 +1,9 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,P+R Stationsplein,Q-Park,52.990107,6.569674,266,2.89,14.50,,"Stationsplein, 9404 RT Assen",https://www.q-park.nl/nl-nl/parkeren/assen/p-r-stationsplein/
+P101,Parkeergarage Citadel,P1,52.997224,6.566487,575,2.00,8.00,True,"Kloekhorststraat 26, 9401 BE Assen",https://www.p1.nl/parkeerplaats/parkeergarage-citadel/
+P102,Parkeergarage De Nieuwe Kolk,P1,52.995374,6.557428,500,2.00,8.00,True,"Alteveerstraat 1, 9401 ET Assen",https://www.p1.nl/parkeerplaats/parkeergarage-de-nieuwe-kolk/
+P103,Parkeergarage Drents Museum,P1,52.993233,6.561234,245,2.00,8.00,True,"Torenlaan 18C, 9401 HR Assen",https://www.p1.nl/parkeerplaats/parkeergarage-drents-museum/
+P104,Parkeergarage Mercurius,P1,52.996219,6.558757,250,2.00,8.00,True,"Mercuriusplein 211, 9401 DK Assen",https://www.p1.nl/parkeerplaats/parkeergarage-mercurius/
+P105,Parkeergarage Neptunus,P1,52.997454,6.559219,190,2.00,8.00,True,"Apollopad 72-74, 9401 ZA Assen",https://www.p1.nl/parkeerplaats/parkeergarage-neptunus/
+P106,Parkeergarage Stadhuis,P1,52.994843,6.566469,190,2.00,8.00,True,"Doevenkamp 2, 9401 JW Assen",https://www.p1.nl/parkeerplaats/parkeergarage-stadhuis/
+P107,Parkeergarage Triade,P1,52.997976,6.560816,550,2.00,8.00,True,"Neptunusplein 16, 9401 CZ Assen",https://www.p1.nl/parkeerplaats/parkeergarage-triade/

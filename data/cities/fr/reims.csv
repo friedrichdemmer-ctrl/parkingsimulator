@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+reims-qpark-1,Parking Bezannes,Q-Park,49.2178522,4.0016119,709,3.10,13.70,False,"109 Rue Louis Victor de Broglie, 51430 Reims",https://www.q-park.fr/fr-fr/villes/reims/bezannes/
+reims-qpark-2,Parking Courlancy,Q-Park,49.2452345,4.0182711,195,3.10,13.70,False,"38 bis Rue de Courlancy, 51100 Reims",https://www.q-park.fr/fr-fr/villes/reims/courlancy/
+reims-qpark-3,Parking Les Bleuets,Q-Park,49.2502584,4.0168866,185,3.10,13.70,False,"24 Rue du Colonel Fabien, 51003 Reims",https://www.q-park.fr/fr-fr/villes/reims/les-bleuets/

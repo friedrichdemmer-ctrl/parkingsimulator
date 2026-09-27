@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Smørmosevej 16,Q-Park,55.7540197,12.4492288,71,50,,,"Smørmosevej 16, 2880 Bagsværd",https://www.q-park.dk/da/parkering/bagsv%c3%a6rd/sm%c3%b8rmosevej-16/
+QP02,Vadstrupvej 35-41,Q-Park,55.7589735,12.4492467,120,10,,,"Vadstrupvej 35-41, 2880 Bagsværd",https://www.q-park.dk/da/parkering/bagsv%c3%a6rd/vadstrupvej-35-41/
+AP01,Laurentsvej 16,APCOA,55.7594003,12.45167021,57,15,,,"Laurentsvej 16, 2880 Bagsværd",https://www.apcoa.dk/find-en-p-plads/lokationer/bagsvaerd/laurentsvej-16

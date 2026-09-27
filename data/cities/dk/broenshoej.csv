@@ -1,0 +1,5 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Frederikssundsvej 324,Q-Park,55.7128015,12.4717429,100,15,150,,"Frederikssundsvej 324, 2700 Brønshøj",https://www.q-park.dk/da/parkering/br%c3%b8nsh%c3%b8j/frederikssundsvej-324/
+QP02,Stavnstrupvej 1-3 - Hagestedvej 2-8,Q-Park,55.704463,12.491411,5,20,,,"Stavnstrupvej 1-3 - Hagestedvej 2-8, 2700 Brønshøj",https://www.q-park.dk/da/parkering/br%c3%b8nsh%c3%b8j/stavnstrupvej-1-3---hagestedvej-2-08/
+AP01,Frederikssundsvej 266-270,APCOA,55.71022,12.481096,60,25,600,,"Frederikssundsvej 266-270, 2700 Brønshøj",https://www.apcoa.dk/find-en-p-plads/lokationer/broenshoej/frederikssundsvej-266-270
+AP02,Kobbelvænget 74,APCOA,55.7105327,12.48053179,18,25,250,,"Kobbelvænget 74, 2700 Brønshøj",https://www.apcoa.dk/find-en-p-plads/lokationer/broenshoej/kobbelvaenget-74

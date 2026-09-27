@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Houdan Gare,Q-Park,48.7952804,1.6020194,634,,,False,"Route de Gressey - P1, P2 et P3, 78550 Houdan",https://www.q-park.fr/fr-fr/villes/houdan/houdan-gare/
+QP02,Mont Roti,Q-Park,48.7888272,1.5993803,100,,,False,"241 Rue de la Tour, 78550 Houdan",https://www.q-park.fr/fr-fr/villes/houdan/mont-roti/
+QP03,Pot d'Étain MGT,Q-Park,48.7901656,1.6027998,15,,,False,"38 rue des jeux de billes, 78550 Houdan",https://www.q-park.fr/fr-fr/villes/houdan/houdan-pot-d'etain-mgt/

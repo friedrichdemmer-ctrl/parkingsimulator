@@ -1,0 +1,6 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,P+R Smalstraat,Q-Park,51.476373,5.662412,170,1.11,6.75,False,"Smalstraat, 5701 NX Helmond",https://www.q-park.nl/nl-nl/parkeren/helmond/p-r-smalstraat/
+GH01,Parkeergarage Doorneind,Gemeente Helmond,51.478152,5.658951,470,2.65,16.20,False,"Doorneind 1, 5701 ML Helmond",https://www.helmond.nl/1/parkeren/parkeergarage-doorneind
+GH02,Parkeergarage Boscotondo,Gemeente Helmond,51.478059,5.649814,279,2.65,16.20,True,"Frans Joseph van Thielpark 1, 5707 BX Helmond",https://www.helmond.nl/1/parkeren/parkeergarage-boscotondo
+GH03,Parkeergarage City,Gemeente Helmond,51.480940,5.653874,,2.31,14.00,False,"Watermolenwal 14, 5701 RV Helmond",https://www.helmond.nl/1/parkeren/parkeergarage-city
+CO01,Parkeergarage Elzaspassage,Colliers,51.480553,5.654172,195,2.60,17.50,False,"De Elzas, 5701 RZ Helmond",https://www.helmond.nl/1/parkeren/parkeergarage-winkelcentrum-elzaspassage

@@ -1,0 +1,25 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,John Dobson Street,Q-Park,54.9762185,-1.6114099,527,3.00,18.00,,"John Dobson Street, Newcastle-Upon-Tyne, NE1 8HL",https://www.q-park.co.uk/en-gb/cities/newcastle-upon-tyne/john-dobson-street/
+QP02,Stowell Street,Q-Park,54.9730941,-1.6194269,266,,24.00,True,"Stowell Street, Newcastle-Upon-Tyne, NE1 4YB",https://www.q-park.co.uk/en-gb/cities/newcastle-upon-tyne/stowell-street/
+NCC01,Eldon Square car park,Newcastle City Council,54.976058,-1.615535,497,2.90,,True,"Percy Street, Newcastle upon Tyne, NE1 7RZ",https://new.newcastle.gov.uk/parking/car-parks/find/eldon-square
+NCC02,Quayside car park,Newcastle City Council,54.971336,-1.605238,499,1.50,11.00,True,"City Road, Newcastle upon Tyne, NE1 2AQ",https://new.newcastle.gov.uk/parking/car-parks/find/quayside
+NCC03,Manors car park,Newcastle City Council,54.972723,-1.606598,486,1.40,10.00,,"Trafalgar Street, Newcastle upon Tyne, NE1 2LA",https://new.newcastle.gov.uk/parking/car-parks/find/manors
+NCC04,Eldon Garden car park,Newcastle City Council,54.975617,-1.617011,445,2.60,13.00,True,"Percy Street, Newcastle upon Tyne, NE1 7RA",https://new.newcastle.gov.uk/parking/car-parks/find/eldon-garden
+NCC05,Grainger Town car park,Newcastle City Council,54.969333,-1.622255,401,1.70,11.00,True,"Waterloo Street, Newcastle upon Tyne, NE1 4DP",https://new.newcastle.gov.uk/parking/car-parks/find/grainger-town-car-park
+NCC06,NUFC Stadium car park,Newcastle City Council,54.975902,-1.624431,545,1.40,,,"Barrack Road, Newcastle upon Tyne, NE1 4ST",https://new.newcastle.gov.uk/parking/car-parks/find/nufc-stadium
+NCC07,Civic Centre car park,Newcastle City Council,54.979492,-1.610489,267,2.10,,True,"Civic Centre, Newcastle upon Tyne, NE1 8PB",https://new.newcastle.gov.uk/parking/car-parks/find/civic-centre
+NCC08,Dean Street car park,Newcastle City Council,54.970239,-1.609040,257,2.30,,True,"22 Dean Street, Newcastle upon Tyne, NE1 1PG",https://new.newcastle.gov.uk/parking/car-parks/find/dean-street
+NCC09,Spillers car park,Newcastle City Council,54.970613,-1.586996,144,0.70,,,"Quayside, Newcastle upon Tyne, NE6 1AP",https://new.newcastle.gov.uk/parking/car-parks/find/spillers
+NCC10,St Georges car park,Newcastle City Council,54.979861,-1.605120,139,1.50,,,"Sandyford Road, Newcastle upon Tyne, NE2 1DF",https://new.newcastle.gov.uk/parking/car-parks/find/st-georges
+NCC11,Oxford car park,Newcastle City Council,54.975026,-1.608111,139,2.10,,,"Oxford Street, Newcastle upon Tyne, NE1 8AN",https://new.newcastle.gov.uk/parking/car-parks/find/oxford
+NCC12,Ellison Place car park,Newcastle City Council,54.975889,-1.608243,119,2.30,,,"Ellison Place, Newcastle upon Tyne, NE1 8ST",https://new.newcastle.gov.uk/parking/car-parks/find/ellison-place
+T2401,Newcastle Corporation Street,Times24,54.971857,-1.626932,9,,,,"Cross Villa Place No 4, Newcastle upon Tyne, NE4 5QF",https://www.times24.co.uk/our-car-parks
+T2402,Newcastle Framlington Place,Times24,54.982571,-1.621573,3,,,,"1 Framlington Place, Newcastle upon Tyne, NE2 4AD",https://www.times24.co.uk/our-car-parks
+T2403,Newcastle Jesmond Dun Cow,Times24,54.985061,-1.609780,22,,,,"Dun Cow, Brandling Park Village, Jesmond, Newcastle upon Tyne, NE2 4RS",https://www.times24.co.uk/our-car-parks
+T2404,Newcastle Lovers Lane,Times24,54.982188,-1.621794,4,,,,"Lovers Lane, Newcastle upon Tyne, NE2 4AB",https://www.times24.co.uk/our-car-parks
+T2405,Newcastle North Street,Times24,54.975958,-1.611222,38,,,,"North Street, Newcastle upon Tyne, NE1 8DF",https://www.times24.co.uk/our-car-parks
+T2406,Newcastle Queens Lane 1,Times24,54.968653,-1.611095,12,,,,"Queens Lane, Newcastle upon Tyne, NE1 1RQ",https://www.times24.co.uk/our-car-parks
+T2407,Newcastle Queens Lane 2,Times24,54.968403,-1.611126,6,,,,"Queens Lane, Newcastle upon Tyne, NE1 1RQ",https://www.times24.co.uk/our-car-parks
+T2408,Newcastle Riverside,Times24,54.968069,-1.608987,21,,,,"Neptune House, 1 Close, Newcastle upon Tyne, NE1 3RQ",https://www.times24.co.uk/our-car-parks
+T2409,Newcastle St John Street,Times24,54.970468,-1.614992,16,,,,"St John Street, Newcastle upon Tyne, NE1 5JG",https://www.times24.co.uk/our-car-parks
+T2410,Newcastle Stoddart Street,Times24,54.976871,-1.598743,8,,,,"Shieldfield Service Station, Newcastle upon Tyne, NE2 1AN",https://www.times24.co.uk/our-car-parks

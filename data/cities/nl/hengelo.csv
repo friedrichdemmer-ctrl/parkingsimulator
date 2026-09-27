@@ -1,0 +1,5 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,De Brink,Q-Park,52.26366,6.791815,375,2.73,11.50,True,"Brink 118, 7551 JC Hengelo",https://www.q-park.nl/nl-nl/parkeren/hengelo/de-brink/
+QP02,P+R Station,Q-Park,52.261059,6.795784,270,2.19,10.50,,"Gieskesstraat, 7553 LL Hengelo",https://www.q-park.nl/nl-nl/parkeren/hengelo/p-r-station/
+P101,De Beurs,P1,52.263638,6.795487,315,2.14,11.10,True,"B.P. Hofstedestraat 41, 7551 DG Hengelo",https://www.p1.nl/parkeren/hengelo/parkeergarage-de-beurs
+TB01,Thiemsbrug,Thiemsbrug,52.267001,6.793852,380,1.80,14.00,,"Thiemsbrug 33, 7551 EZ Hengelo",https://uitinhengelo.nl/parkeren/parkeergarage-thiemsbrug

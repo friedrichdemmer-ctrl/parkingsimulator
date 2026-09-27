@@ -1,0 +1,90 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Q-Park Nørrebrogade 28,Q-Park,56.163865,10.210458,14,10.0,,,"Nørrebrogade 28, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/nørrebrogade-28/
+QP02,Q-Park Nørrebrogade 22,Q-Park,56.1633158,10.2106721,21,15.0,100.0,,"Nørrebrogade 22, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/nørrebrogade-22/
+QP03,"Q-Park Vestgården, Vesterbro Torv 3",Q-Park,56.1578874,10.1999476,40,29.0,,,"Vestgården, Vesterbro Torv 3, 8000 Aarhus C","https://www.q-park.dk/da/parkering/aarhus/vestgården,-vesterbro-torv-3/"
+QP04,Q-Park Hjortensgade 23,Q-Park,56.1595963,10.1959131,90,20.0,,,"Hjortensgade 23, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/hjortensgade-23/
+QP05,Q-Park Mejlgade 47-51,Q-Park,56.1596713,10.2126094,8,22.0,,,"Mejlgade  47-51, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/mejlgade-47-51/
+QP06,Q-Park Magasin Aarhus,Q-Park,56.156753,10.204983,381,27.0,310.0,True,"Åboulevarden 70, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/magasin-aarhus/
+QP07,Q-Park Møllegade,Q-Park,56.156591,10.200881,12,32.0,300.0,,"Møllegade 1, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/q-park-møllegade/
+QP08,Q-Park Vestergade,Q-Park,56.1565746,10.2008834,59,32.0,300.0,True,"Vestergade 65, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/vestergade/
+QP09,Q-Park Kystvejen 17,Q-Park,56.1588455,10.2135079,60,23.0,,,"Kystvejen 17, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/kystvejen-17/
+QP10,Q-Park Skovvejen 2,Q-Park,56.1630053,10.2160576,12,22.0,,,"Skovvejen 2, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/skovvejen-2/
+QP11,Q-Park Prismet,Q-Park,56.1578345,10.1922054,58,23.0,,,"Silkeborgvej 2, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/prismet/
+QP12,Q-Park Aarhus City,Q-Park,56.153893,10.204773,90,32.0,230.0,True,"Hans Hartvig Seedorffs Stræde 6, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/aarhus-city/
+QP13,Q-Park Hveensgade PH77,Q-Park,56.1622451,10.2205293,60,17.0,,,"Hveensgade  PH77, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/hveensgade-ph77/
+QP14,Q-Park Musikhuset Aarhus,Q-Park,56.1538833,10.1980984,128,25.0,225.0,,"Thomas Jensens Alle 2, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/thomas-jensens-allé-2/
+QP15,"Q-Park Aarhus Lystbådehavn, Kystpromenaden, 8000 Aarhus C",Q-Park,56.1641459,10.2210924,300,25.0,,,"Aarhus Lystbådehavn, Kystpromenaden, 8000 Aarhus C","https://www.q-park.dk/da/parkering/aarhus/aarhus-lystbådehavn,-kystpromenaden,-8000-aarhus-c/"
+QP16,Q-Park Nicolinehus,Q-Park,56.163879,10.221592,431,27.0,220.0,,"Johanne Bergs Gade 8, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/nicolinehus/
+QP17,Q-Park Ceres Byen,Q-Park,56.155978,10.190805,1244,25.0,230.0,True,"Ceres Allé 2, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/ceres-byen/
+QP18,Q-Park Bispegården,Q-Park,56.152834,10.2075949,28,24.0,,,"Fredensgade 36 -  Bispegården, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/bispegården/
+QP19,Q-Park Brendstrupvej 8,Q-Park,56.1746953,10.2012526,3,15.0,,,"Brendstrupvej 8, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/brendstrupvej-8/
+QP20,Q-Park Bassin 7,Q-Park,56.164295,10.225826,380,27.0,220.0,True,"Irma Pedersens Gade  58, 116, 154, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/bassin-7/
+QP21,Q-Park Karolinegården,Q-Park,56.151019,10.1982854,120,25.0,200.0,,"Karolinegården, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/karolinegården/
+QP22,Q-Park Eckersberg Parken,Q-Park,56.1514913,10.1949138,45,22.0,275.0,,"Gebauersgade 2, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/eckersberg-parken/
+QP23,Q-Park Mindet 1,Q-Park,56.1518998,10.2152096,10,22.0,,,"Mindet 1, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/mindet-1/
+QP24,Q-Park Z-huset,Q-Park,56.166351,10.226318,307,24.0,220.0,True,"Esther Aggebos Gade 8, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/z-huset/
+QP25,Q-Park Filmbyen,Q-Park,56.151278,10.213993,168,16.0,,,"Filmbyen, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/filmbyen/
+QP26,Q-Park Friskohuset,Q-Park,56.155031,10.184583,258,23.0,160.0,True,"Daugbjergvej  22-28, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/friskohuset/
+QP27,Q-Park Åhusene 1-11,Q-Park,56.1525032,10.1887896,50,25.0,250.0,True,"Åhusene  1-11, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/åhusene-1-11/
+QP28,Q-Park Morten Børups Gade 8-10 - kælder,Q-Park,56.1496486,10.1976703,66,26.0,,,"Morten Børups Gade  8-10, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/morten-børups-gade-8-10/
+QP29,Q-Park DGI Huset,Q-Park,56.1492269,10.2068075,20,24.0,175.0,,"Værkmestergade 17, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/dgi-huset/
+QP30,Q-Park Lighthouse,Q-Park,56.166894,10.22808,574,24.0,220.0,True,"Helga Pedersens Gade 17, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/lighthouse/
+QP31,Q-Park Kulhuset Sydhavnen,Q-Park,56.1499682,10.2136119,800,28.0,250.0,True,"Mediebyen 1, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/kulhuset-sydhavnen/
+QP32,Q-Park Katrinebjergvej 107,Q-Park,56.1738704,10.1872438,55,7.0,,,"Katrinebjergvej 107, 8200 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/katrinebjergvej-107/
+QP33,Q-Park Søren Frichs Vej 25,Q-Park,56.1528025,10.1833613,45,20.0,,,"Søren Frichs Vej 25, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/søren-frichs-vej-25/
+QP34,Q-Park Trindsøvej 4-10,Q-Park,56.154007,10.180648,200,17.0,,,"Trindsøvej  4-10, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/trindsøvej-4-10/
+QP35,Q-Park Sydhavnsgade,Q-Park,56.147592,10.212289,80,20.0,475.4,,"Sydhavnsgade, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/sydhavnsgade/
+QP36,"Q-Park Kroghsgade 3, 8000 Aarhus C",Q-Park,56.145422,10.196814,8,20.0,,,"Kroghsgade 3, 8000 Aarhus C","https://www.q-park.dk/da/parkering/aarhus/kroghsgade-3,-8000-aarhus-c/"
+QP37,Q-Park Paludan-Müllers Vej 82-84,Q-Park,56.1756065,10.1805917,100,22.0,,,"Paludan-Müllers Vej  82-84, 8200 Aarhus N",https://www.q-park.dk/da/parkering/aarhus/paludan-müllers-vej-82-84/
+QP38,Q-Park Sydhavnsgade 7,Q-Park,56.1450068,10.209825,40,15.0,,,"Sydhavnsgade 7, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/sydhavnsgade-7/
+QP39,Q-Park Dalgas Avenue 2,Q-Park,56.1435596,10.2007265,60,24.0,,,"Dalgas Avenue 2, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/dalgas-avenue-2/
+QP40,Q-Park Ingerslev Boulevard 3,Q-Park,56.1435924,10.1962438,50,25.0,,,"Ingerslev Boulevard 3, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/ingerslev-boulevard-3/
+QP41,Q-Park Sumatravej,Q-Park,56.140326,10.207832,30,22.0,,,"Sumatravej, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/sumatravej/
+QP42,Q-Park Viborgvej 155,Q-Park,56.1674305,10.1616988,100,15.0,,,"Viborgvej 155, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/viborgvej-155/
+QP43,Q-Park Haslegaardsvej 8-10,Q-Park,56.1708334,10.160965,110,15.0,,,"Haslegaardsvej  8-10, 8200 Aarhus N",https://www.q-park.dk/da/parkering/aarhus/haslegaardsvej-8-10/
+QP44,Q-Park Marselis Boulevard 169,Q-Park,56.1393263,10.1791313,14,15.0,,,"Marselis Boulevard 169, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/marselis-boulevard-169/
+QP45,Q-Park Brendstrupgårdsvej 23,Q-Park,56.1888856,10.1804058,70,12.0,100.0,,"Brendstrupgårdsvej 23, 8200 Aarhus N",https://www.q-park.dk/da/parkering/aarhus/brendstrupgårdsvej-23/
+QP46,Q-Park Olof Palmes Alle 37-39,Q-Park,56.189794,10.1822948,183,7.0,,,"Olof Palmes Alle  37-39, 8200 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/olof-palmes-alle-37-39/
+QP47,Q-Park Færgevej 7A,Q-Park,56.1497225,10.2520264,255,21.0,200.0,,"Færgevej  7A, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/færgevej-7a/
+QP48,Q-Park Oddervej 19-21,Q-Park,56.1247893,10.2086773,40,23.0,,,"Oddervej 19-21, 8000 Aarhus C",https://www.q-park.dk/da/parkering/aarhus/oddervej-19-21/
+APC01,APCOA Ny Banegårdsgade 53,APCOA,56.151573,10.206977,65,40.0,240.0,True,"Ny Banegårdsgade 53, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/ny-banegaardsgade-53
+APC02,APCOA Godsterminalen Skovgaardsgade,APCOA,56.154192,10.193919,120,20.0,,,"Skovgaardsgade 3, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/godsterminalen-skovgaardsgade
+APC03,APCOA Europaplads 16,APCOA,56.151925,10.212036,100,20.0,,,"Europaplads 16, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/europaplads-16
+APC04,APCOA Thit Jensens Gade 1-34,APCOA,56.165252,10.226197,310,22.0,365.0,,"Thit Jensens Gade 1-34, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/thit-jensens-gade-1-34
+APC05,"APCOA Pakhusene, Mariane Thomsens Gade 1",APCOA,56.16608,10.228162,140,15.0,,,"Mariane Thomsens Gade 1A, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/pakhusene-mariane-thomsens-gade-1
+APC06,"APCOA Åboulevarden P-hus, Telefontorvet",APCOA,56.156275,10.205433,46,40.0,400.0,,"Åboulevarden 47, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/aaboulevarden-p-hus-telefontorvet
+APC07,APCOA Latinergården,APCOA,56.159776,10.208893,92,40.0,250.0,,"Borggade 6, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/latinergaarden
+APC08,APCOA Åboulevarden 80,APCOA,56.156694,10.204924,12,38.0,,,"Åboulevarden 80, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/aaboulevarden-80
+APC09,APCOA Hveensgade 1,APCOA,56.163873,10.220771,250,20.0,250.0,,"Hveensgade 1, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/hveensgade-1
+APC10,"APCOA Trianglen, H.C. Tvenges Vej 3",APCOA,56.151858,10.184168,110,19.0,340.0,,"H. C. Tvenges Vej 3, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/trianglen-hc-tvenges-vej-3
+APC11,APCOA Irma Pedersens Gade 23,APCOA,56.1634,10.228491,23,16.0,384.0,,"Irma Pedersens Gade 23, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/irma-pedersens-gade-23
+APC12,APCOA Mariane Thomsens Gade 30-58,APCOA,56.165484,10.229448,199,,,,"Mariane Thomsens Gade 30-58, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/mariane-thomsens-gade-30-58
+APC13,APCOA Vestervang 26-34,APCOA,56.164626,10.193818,100,14.0,175.0,,"Vestervang 26-34, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/vestervang-26-34
+APC14,APCOA Mariane Thomsens Gade 1,APCOA,56.165401,10.229553,94,15.0,360.0,,"Mariane Thomsens Gade 1, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/mariane-thomsens-gade-1
+APC15,APCOA Mariane Thomsens Gade 1,APCOA,56.165939,10.228093,134,15.0,360.0,,"Mariane Thomsens Gade 1, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/mariane-thomsens-gade-1-1
+APC16,APCOA Scandinavian Center P-kælder,APCOA,56.151665,10.198344,667,30.0,280.0,,"Margrethepladsen 1, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/scandinavian-center-p-kaelder
+APC17,"APCOA Scandinavian Center, terræn",APCOA,56.152228,10.198949,164,30.0,280.0,,"Margrethepladsen 2, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/scandinavian-center-terraen
+APC18,APCOA Sonnesgade 50,APCOA,56.153419,10.196187,86,30.0,280.0,,"Sonnesgade 50, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/sonnesgade-50
+APC19,APCOA Eckersbergsgade 17-15,APCOA,56.151962,10.195741,35,30.0,,,"Eckersbergsgade 17-15, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/eckersbergsgade-17-15
+APC20,APCOA Kongsvang Allé 29,APCOA,56.13940405,10.18613685,300,10.0,,,"Kongsvang Allé 29, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/kongsvang-alle-29
+APC21,APCOA Europaplads 16 E-Charge,APCOA,56.15243063,10.21256241,,20.0,,True,"Europaplads 16, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/europaplads-16-e-charge
+APC22,APCOA Daugbjergvej 15-19,APCOA,56.15457526,10.1869326,222,14.0,,,"Daugbjergvej 15-19, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/daugbjergvej-15-19
+APC23,APCOA Domkirkepladsen 1,APCOA,56.1572014,10.21088582,11,27.0,696.0,,"Domkirkepladsen 1, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/domkirkepladsen-1
+APC24,APCOA Jægergårdsgade 170,APCOA,56.14756518,10.21145102,119,16.0,,,"Jægergårdsgade 170, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/jaegergaardsgade-170
+APC25,"APCOA Thit Jensens Gade 2-34, Terræn",APCOA,56.16515198,10.22613303,6,22.0,365.0,,"Thit Jensens Gade 2-34, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/thit-jensens-gade-2-34-terraen
+APC26,APCOA Ceres Allé 11A,APCOA,56.1546268,10.18947344,62,25.0,600.0,,"Ceres Allé 11A, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/ceres-alle-11a
+APC27,"APCOA SHIP, Esther Aggebos Gade 26B",APCOA,56.16740492,10.22527243,118,22.0,220.0,,"Esther Aggebos Gade 26B, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/esther-aggebos-gade-26b
+APC28,"APCOA Thomas Koppels Gade 30B, P-kælder",APCOA,56.15195125,10.18803378,178,15.0,360.0,,"Thomas Koppels Gade 30B, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/thomas-koppels-gade-30b-p-kaelder
+APC29,"APCOA Thomas Koppels Gade 30B, Terræn",APCOA,56.15196,10.18813898,13,15.0,360.0,,"Thomas Koppels Gade 30B, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/thomas-koppels-gade-30b-terraen
+APC30,APCOA Finderupvej 1,APCOA,56.15480754,10.18137046,107,18.0,432.0,,"Finderupvej 1, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/finderupvej-1
+APC31,APCOA Ankersgade 12,APCOA,56.14807104,10.19102748,104,22.0,,,"Ankersgade 12, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/ankersgade-12
+APC32,APCOA Mindet 6,APCOA,56.15060965,10.21436363,450,28.0,300.0,,"Mindet 6, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/mindet-6
+APC33,APCOA Mindet 2,APCOA,56.15123906,10.21405407,144,28.0,672.0,,"Mindet 2, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/mindet-2
+APC34,APCOA Nørre Allé 70 A-F,APCOA,56.15979616,10.20311855,15,25.0,600.0,,"Nørre Allé 70, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/noerre-alle-70-a-f
+APC35,APCOA Silkeborgvej 45-47 / Karupvej 2-4,APCOA,56.15562026,10.17878881,63,17.0,408.0,,"Silkeborgvej/ Karupvej, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/silkeborgvej-45-47-/-karupvej-2-4
+APC36,APCOA Thomas Koppels Gade,APCOA,56.15115629,10.18727259,120,,,,"Thomas Koppels Gade, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/thomas-koppels-gade
+APC37,APCOA Ny Banegårdsgade 55,APCOA,56.1515644,10.20705515,19,30.0,720.0,,"Ny Banegårdsgade 55, 8000 Aarhus C",https://www.apcoa.dk/find-en-p-plads/lokationer/aarhus-c/ny-banegaardsgade-55
+AAK01,Navitas P-hus,Aarhus Kommune,56.1586821,10.215553,450,16.0,,,"Inge Lehmanns Gade 10, 8000 Aarhus C",https://www.aarhus.dk/borger/trafik-og-parkering/parkering/parkering-i-aarhus/parker-billigere-eller-gratis-i-de-kommunale-p-huse
+AAK02,Parkeringshuset Nørreport,Aarhus Kommune,56.1619558,10.2133649,80,16.0,,,"Kaløgade 9, 8000 Aarhus C",https://www.aarhus.dk/borger/trafik-og-parkering/parkering/parkering-i-aarhus/parker-billigere-eller-gratis-i-de-kommunale-p-huse
+AAK03,Busgadehuset P-kælder,Aarhus Kommune,56.155195,10.2060317,150,16.0,,,"Sonnesgade, 8000 Aarhus C",https://www.aarhus.dk/borger/trafik-og-parkering/parkering/parkering-i-aarhus/parker-billigere-eller-gratis-i-de-kommunale-p-huse
+CP01,DOKK1 Parkeringsanlæg,CP Parking System,56.153602,10.214111,1000,,,True,"Hack Kampmanns Plads 6, 8000 Aarhus C",https://dokk1.dk/parkering

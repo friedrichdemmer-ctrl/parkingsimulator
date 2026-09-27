@@ -1,0 +1,5 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Berges,Q-Park,43.605197,2.242464,250,2.2,26.0,True,"18 Quai des Jacobins, 81100 Castres",https://www.q-park.fr/fr-fr/villes/castres/berges/
+QP02,Buisson,Q-Park,43.603329,2.244068,200,2.2,26.0,False,"23 Boulevard Raymond Vittoz, 81100 Castres",https://www.q-park.fr/fr-fr/villes/castres/buisson/
+QP03,Les Lices,Q-Park,43.606627,2.237292,64,1.9,21.8,False,"1 Boulevard des Lices, 81100 Castres",https://www.q-park.fr/fr-fr/villes/castres/les-lices/
+QP04,République,Q-Park,43.602652,2.241141,210,2.2,26.0,False,"Place de l'Alsace Lorraine, 81100 Castres",https://www.q-park.fr/fr-fr/villes/castres/r%C3%A9publique/

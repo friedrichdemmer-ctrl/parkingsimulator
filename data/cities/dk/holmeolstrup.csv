@@ -1,0 +1,2 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Glasværksvej 53,Q-Park,55.2842986,11.8179572,300,,,,"Glasværksvej 53, 4684 Holme-Olstrup",https://www.q-park.dk/da/parkering/holme-olstrup/glasværksvej-53/

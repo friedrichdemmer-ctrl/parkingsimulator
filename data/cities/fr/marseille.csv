@@ -1,0 +1,45 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Beaugeard,Q-Park,43.3176548,5.4058552,84,,,True,"Avenue de Saint Just, 13013 Marseille",https://www.q-park.fr/fr-fr/villes/marseille/beaugeard/
+QP02,Blancarde,Q-Park,43.295337,5.40633,340,2.1,14.7,True,"2 Boulevard Louis Frangin, 13005 Marseille",https://www.q-park.fr/fr-fr/villes/marseille/blancarde/
+QP03,Breteuil,Q-Park,43.286448,5.377697,260,3.3,23.2,True,"Impasse Montevideo, 13006 Marseille",https://www.q-park.fr/fr-fr/villes/marseille/breteuil/
+QP04,Espercieux,Q-Park,43.3079982,5.3670713,500,3.3,43.0,True,"Rue des Docks, 13002 Marseille",https://www.q-park.fr/fr-fr/villes/marseille/espercieux/
+QP05,Joliette,Q-Park,43.303871,5.366039,450,3.7,45.2,True,"37 Rue Mazenod, 13002 Marseille",https://www.q-park.fr/fr-fr/villes/marseille/joliette/
+QP06,La Timone,Q-Park,43.292085,5.40198,725,1.6,14.7,True,"264 Rue Saint-Pierre, 13005 Marseille",https://www.q-park.fr/fr-fr/villes/marseille/la-timone/
+QP07,Les Docks Arvieux,Q-Park,43.306294,5.366602,283,3.3,43.0,False,"Rue des Docks, 13002 Marseille",https://www.q-park.fr/fr-fr/villes/marseille/les-docks-arvieux/
+QP08,Marseille Voirie - Enclos Clôt Bey,Q-Park,43.2603422,5.3866864,153,,,False,"Avenue Clôt Bey, 13008 Marseille",https://www.q-park.fr/fr-fr/villes/marseille/marseille-voirie---enclos-clôt-bey/
+QP09,Marseille Voirie - Enclos P1 Palm Beach,Q-Park,43.2641993,5.373599,125,,,False,"Promenade Georges Pompidou, 13008 Marseille",https://www.q-park.fr/fr-fr/villes/marseille/marseille-voirie---enclos-p1-palm-beach/
+QP10,Marseille Voirie - Enclos P2 David,Q-Park,43.2625656,5.3746647,67,,,False,"101 Promenade Georges Pompidou, 13008 Marseille",https://www.q-park.fr/fr-fr/villes/marseille/marseille-voirie---enclos-p2-david/
+QP11,Marseille Voirie - Enclos P3 Huveaune,Q-Park,43.2588908,5.375463,64,,,False,"Avenue Pierre Mendes France, 13008 Marseille",https://www.q-park.fr/fr-fr/villes/marseille/marseille-voirie---enclos-p3-huveaune/
+QP12,Marseille Voirie - Enclos P4 Véliplanchistes,Q-Park,43.2574551,5.3764501,89,,,False,"Avenue Pierre Mendes France, 13008 Marseille",https://www.q-park.fr/fr-fr/villes/marseille/marseille-voirie---enclos-p4-véliplanchistes/
+QP13,Marseille Voirie - Enclos P5 La Mer Restaurant,Q-Park,43.2502513,5.3754717,128,,,False,"Avenue Pierre Mendes France, 13008 Marseille",https://www.q-park.fr/fr-fr/villes/marseille/marseille-voirie---enclos-p5-la-mer-restaurant/
+QP14,Marseille Voirie - Enclos P6 Escale,Q-Park,43.2546165,5.3750254,137,,,False,"Avenue Pierre Mendes France, 13008 Marseille",https://www.q-park.fr/fr-fr/villes/marseille/marseille-voirie---enclos-p6-escale/
+QP15,P7 Vielle Chapelle,Q-Park,43.2500203,5.3750829,157,,,False,"Avenue Pierre Mendes France, 13008 Marseille",https://www.q-park.fr/fr-fr/villes/marseille/p7-vielle-chapelle/
+QP16,Pharo,Q-Park,43.291925,5.359518,414,4.9,44.1,True,"75 Impasse Clerville, 13007 Marseille",https://www.q-park.fr/fr-fr/villes/marseille/pharo/
+QP17,Puget Estrangin,Q-Park,43.289976,5.37702,230,3.6,25.1,False,"6 rue Docteur Combalat, 13006 Marseille",https://www.q-park.fr/fr-fr/villes/marseille/puget-estrangin/
+QP18,Tilleuls,Q-Park,43.318772,5.4086256,69,,,True,"16 Boulevard des Tilleuls, 13013 Marseille",https://www.q-park.fr/fr-fr/villes/marseille/tilleuls/
+QP19,Vallier,Q-Park,43.299252,5.401881,460,2.1,14.6,False,"41 Avenue du Maréchal Foch, 13004 Marseille",https://www.q-park.fr/fr-fr/villes/marseille/vallier/
+QP20,Vieux Port Hôtel de Ville,Q-Park,43.296335,5.368792,545,3.0,19.2,True,"Passage Pentecontore, 13002 Marseille",https://www.q-park.fr/fr-fr/villes/marseille/vieux-port-hôtel-de-ville/
+IN01,Parking Prado Périer,Indigo,43.281002,5.38903,,3.2,31,False,"20 Allée Turcat Méry, 13008 Marseille",https://www.indigoneo.fr/fr/parkings/731/parking-prado-perier
+IN02,Parking Sainte-Barbe,Indigo,43.300549,5.374356,,4.4,30.9,False,"16 Rue Sainte-Barbe, 13001 Marseille",https://www.indigoneo.fr/fr/parkings/732/parking-sainte-barbe
+IN03,Parking Bourse - Musée d'Histoire,Indigo,43.29698,5.374289,,4.0,32,True,"1 Rue Reine Elisabeth, 13001 Marseille",https://www.indigoneo.fr/fr/parkings/733/parking-bourse-musee-dhistoire
+IN04,Parking Jean Jaurès,Indigo,43.295613,5.387378,,3.6,30.7,False,"Place Jean Jaurès, 13005 Marseille",https://www.indigoneo.fr/fr/parkings/734/parking-jean-jaures
+IN05,Parking Charles de Gaulle,Indigo,43.294543,5.375994,,3.6,37.5,True,"22 Place Général de Gaulle, 13001 Marseille",https://www.indigoneo.fr/fr/parkings/735/parking-charles-de-gaulle
+IN06,Parking Préfecture,Indigo,43.290451,5.379514,,3.8,31.7,False,"Boulevard Paul Peytral, 13006 Marseille",https://www.indigoneo.fr/fr/parkings/736/parking-prefecture
+IN07,Parking Castellane,Indigo,43.284489,5.386332,,3.7,31.8,True,"14 Avenue Jules Cantini, 13006 Marseille",https://www.indigoneo.fr/fr/parkings/737/parking-castellane
+IN08,Parking Vieux Port la Criée,Indigo,43.292365,5.366306,,4.4,33,True,"38 Quai de Rive Neuve, 13007 Marseille",https://www.indigoneo.fr/fr/parkings/738/parking-vieux-port-la-criee
+IN09,Parking Hôpital de la Conception,Indigo,43.288614,5.393751,,3.1,22.5,False,"145 Boulevard Baille, 13005 Marseille",https://www.indigoneo.fr/fr/parkings/739/parking-hopital-de-la-conception
+IN10,Parking République,Indigo,43.29892,5.372014,,4.4,17.9,True,"Rue de la République, 13002 Marseille",https://www.indigoneo.fr/fr/parkings/740/parking-republique
+IN11,Parking Vieux Port MUCEM,Indigo,43.298576,5.363102,,3.5,31.8,True,"Esplanade J4, 13002 Marseille",https://www.indigoneo.fr/fr/parkings/741/parking-vieux-port-mucem
+IN12,Parking Paradis Mélizan,Indigo,43.283844,5.380769,,4.0,29,True,"202 Rue Paradis, 13006 Marseille",https://www.indigoneo.fr/fr/parkings/742/parking-paradis-melizan
+IN13,Parking Quai d'Arenc,Indigo,43.312142,5.367873,,3.2,34,True,"2 Boulevard Euromediterranée, Quai d'Arenc, 13002 Marseille",https://www.indigoneo.fr/fr/parkings/743/parking-quai-darenc
+IN14,Parking Hôpital Européen,Indigo,43.310388,5.373179,,2.8,31,True,"Avenue Roger Salengro, 13003 Marseille",https://www.indigoneo.fr/fr/parkings/745/parking-hopital-europeen
+IN15,Parking Marseille Euromed,Indigo,43.311087,5.367524,,4.0,41.6,True,"52 Quai du Lazaret, 13002 Marseille",https://www.indigoneo.fr/fr/parkings/23792/parking-marseille-euromed
+EF01,Parking gare de Marseille Saint-Charles P1,Effia,43.302512,5.381384,,4.3,26.1,True,"1 avenue Pierre Semard, 13001 Marseille",https://www.effia.com/parking/parking-gare-de-marseille-saint-charles-p1-effia
+EF02,Parking gare de Marseille Saint-Charles P2 Voltaire,Effia,43.303057,5.384359,,3.9,24.2,True,"31 bis boulevard Voltaire, 13001 Marseille",https://www.effia.com/parking/parking-gare-de-marseille-saint-charles-p2-voltaire-effia
+EF03,Parking gare de Marseille Saint-Charles P3,Effia,43.303014,5.386509,,4.6,24.2,False,"32 Boulevard National, 13001 Marseille",https://www.effia.com/parking/parking-gare-de-marseille-saint-charles-p3-effia
+EF04,Parking Marseille Baret,Effia,43.2911053,5.380242,,2.4,15.5,True,"4 Rue Armény, 13006 Marseille",https://www.effia.com/parking/parking-marseille-baret-effia
+EF05,Parking Marseille Corderie,Effia,43.29039,5.36936,,2.4,15.5,False,"33 Boulevard de la Corderie, 13007 Marseille",https://www.effia.com/parking/parking-marseille-corderie-effia
+EF06,Parking Marseille Cours Julien,Effia,43.2943,5.3832,,2.4,15.5,True,"58 Cours Julien, 13006 Marseille",https://www.effia.com/parking/parking-marseille-cours-julien-effia
+EF07,Parking Marseille Gambetta,Effia,43.298912,5.383008,,2.4,15.5,False,"38 Allée Léon Gambetta, 13001 Marseille",https://www.effia.com/parking/parking-marseille-gambetta-effia
+EF08,Parking Marseille Monthyon,Effia,43.29107,5.37546,,2.4,15.5,False,"31 Rue Breteuil, 13006 Marseille",https://www.effia.com/parking/parking-marseille-monthyon-effia
+EF09,Parking Résidence Rail de Marseille,Effia,43.302136,5.383006,,,,False,"31 bis bd Voltaire, 13001 Marseille",https://www.effia.com/parking/parking-residence-rail-de-marseille-effia

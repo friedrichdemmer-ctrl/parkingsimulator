@@ -1,0 +1,2 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Intermarché,Q-Park,47.28764,5.06226,111,,,False,"1 Rue Roland Dorgelès, 21600 Longvic",https://www.q-park.fr/fr-fr/villes/longvic/intermarch%c3%a9/

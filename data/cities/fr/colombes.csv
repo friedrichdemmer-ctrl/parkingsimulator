@@ -1,0 +1,8 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Aragon,Q-Park,48.915366,2.228258,51,2.00,17.50,True,"152 Boulevard Charles de Gaulle, 92700 Colombes",https://www.q-park.fr/fr-fr/villes/colombes/aragon/
+QP02,Charles De Gaulle,Q-Park,48.9101349,2.2352919,450,2.00,17.50,,"50 Boulevard Charles De Gaulle, 92700 Colombes",https://www.q-park.fr/fr-fr/villes/colombes/charles-de-gaulle/
+QP03,Hôtel de Ville,Q-Park,48.92288,2.254065,273,2.00,17.50,True,"9 Rue de la liberté, 92700 Colombes",https://www.q-park.fr/fr-fr/villes/colombes/h%c3%b4tel-de-ville/
+QP04,Marceau,Q-Park,48.928354,2.265832,26,,15.70,,"Rue de Belgique, 92700 Colombes",https://www.q-park.fr/fr-fr/villes/colombes/marceau/
+QP05,Saint Denis,Q-Park,48.924311,2.2488901,100,2.00,17.50,,"114 Rue St Denis, 92700 Colombes",https://www.q-park.fr/fr-fr/villes/colombes/saint-denis/
+QP06,Tribunal,Q-Park,48.922594,2.250064,33,,15.70,,"19 Rue Beaurepaire, 92700 Colombes",https://www.q-park.fr/fr-fr/villes/colombes/tribunal/
+QP07,Village,Q-Park,48.92291,2.255893,97,2.00,17.50,True,"61 Rue Bournard, 92700 Colombes",https://www.q-park.fr/fr-fr/villes/colombes/village/

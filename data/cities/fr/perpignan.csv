@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+perpignan-qpark-1,Parking Clémenceau Centre-Ville,Q-Park,42.701113,2.889744,449,3.40,29.80,True,"39 Avenue du Général Leclerc, 66000 Perpignan",https://www.q-park.fr/fr-fr/villes/perpignan/cl%c3%a9menceau/
+perpignan-qpark-2,Parking République,Q-Park,42.698224,2.895326,318,2.90,37.50,True,"9 Place de la République, 66000 Perpignan",https://www.q-park.fr/fr-fr/villes/perpignan/r%c3%a9publique/
+perpignan-qpark-3,Parking Wilson,Q-Park,42.702386,2.897477,498,2.90,37.30,True,"14 Boulevard Thomas Wilson, 66000 Perpignan",https://www.q-park.fr/fr-fr/villes/perpignan/wilson/

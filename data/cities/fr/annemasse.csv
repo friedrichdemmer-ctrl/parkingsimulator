@@ -1,0 +1,8 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Chablais Park,Q-Park,46.197083,6.236685,614,1.6,18.0,True,"13 Rue des Alpes, 74100 Annemasse",https://www.q-park.fr/fr-fr/villes/annemasse/chablais-park/
+QP02,Clos Fleury,Q-Park,46.192187,6.232508,160,2.0,14.6,False,"2 Place du Clos Fleury, 74100 Annemasse",https://www.q-park.fr/fr-fr/villes/annemasse/clos-fleury/
+QP03,Étoile Gare,Q-Park,46.199954,6.23859,516,1.6,18.0,True,"2 Rue des Frères Tassile, 74100 Annemasse",https://www.q-park.fr/fr-fr/villes/annemasse/etoile-gare/
+QP04,Hôtel de Ville Montessuit,Q-Park,46.194016,6.232034,239,1.6,18.0,True,"11 Rue Molière, 74100 Annemasse",https://www.q-park.fr/fr-fr/villes/annemasse/hotel-de-ville-montessuit/
+QP05,Libération,Q-Park,46.192767,6.235742,634,1.6,18.0,True,"4 Place de la Libération, 74100 Annemasse",https://www.q-park.fr/fr-fr/villes/annemasse/liberation/
+QP06,Place des Marchés,Q-Park,46.191554,6.235399,300,2.0,14.6,False,"6 Rue Charles Dupraz, 74100 Annemasse",https://www.q-park.fr/fr-fr/villes/annemasse/place-des-march%C3%A9s/
+QP07,Sémard,Q-Park,46.199707,6.239531,71,1.4,14.6,False,"7 Rue des Frères Tassile, 74100 Annemasse",https://www.q-park.fr/fr-fr/villes/annemasse/semard/

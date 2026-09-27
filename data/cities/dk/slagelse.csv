@@ -1,0 +1,12 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Ingemannsvej 30,Q-Park,55.402548,11.364996,1000,,,True,"Ingemannsvej 30, 4200 Slagelse",https://www.q-park.dk/da/parkering/slagelse/ingemannsvej-30/
+QP02,Klingeberg 3B,Q-Park,55.402267,11.356028,61,13,,,"Klingeberg 3B, 4200 Slagelse",https://www.q-park.dk/da/parkering/slagelse/klingeberg-3b/
+QP03,Løvegade 4 og Frederiksgade 1,Q-Park,55.404378,11.352673,50,23,,,"Løvegade og Frederiksgade 4 og 1, 4200 Slagelse","https://www.q-park.dk/da/parkering/slagelse/l%c3%b8vegade-4/"
+QP04,Marievangsvej 49-51,Q-Park,55.3993187,11.3298517,50,7,,,"Marievangsvej 49-51, 4200 Slagelse",https://www.q-park.dk/da/parkering/slagelse/marievangsvej-49-51/
+QP05,Parkvænget 10 og Ingemannsvej 17,Q-Park,55.404239,11.360246,100,10,,,"Parkvænget og Ingemannsvej 10 og 17, 4200 Slagelse","https://www.q-park.dk/da/parkering/slagelse/parkv%c3%a6nget-10-og-ingemannsvej-17/"
+QP06,Rytterstaldstræde 10-18,Q-Park,55.40047,11.354984,17,12,,,"Rytterstaldstræde 10-18, 4200 Slagelse","https://www.q-park.dk/da/parkering/slagelse/rytterstaldstr%c3%a6de-10-18/"
+QP07,Søndre Stationsvej,Q-Park,55.406977,11.347873,116,8,,,"Sdr. Stationsvej 28 K-S & 30, 4200 Slagelse","https://www.q-park.dk/da/parkering/slagelse/s%c3%b8ndre-stationsvej/"
+QP08,Stop 39 (Lastvogn),Q-Park,55.3868145,11.3625522,50,25,100,,"Trafikcenter Alle 4, 4200 Slagelse","https://www.q-park.dk/da/parkering/slagelse/stop-39-(lastvogn)/"
+QP09,Stop 39 (Personbil),Q-Park,55.3880901,11.3622867,70,28,150,,"Trafikcenter Alle 4 - Stop 39, 4200 Slagelse","https://www.q-park.dk/da/parkering/slagelse/trafikcenter-alle-4-,-a-,-stop-39/"
+AP01,Ndr. Ringgade 24,APCOA,55.41372006,11.35302651,40,10,,,"Ndr. Ringgade 24, 4200 Slagelse",https://www.apcoa.dk/find-en-p-plads/lokationer/slagelse/ndr-ringgade-24
+AP02,Kalvehaven 7-52,APCOA,55.41064435,11.34366215,108,10,,,"Kalvehaven 7 - 52, 4200 Slagelse",https://www.apcoa.dk/find-en-p-plads/lokationer/slagelse/kalvehaven-7-52

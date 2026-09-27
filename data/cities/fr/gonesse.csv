@@ -1,0 +1,2 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Centre Hospitalier,Q-Park,48.9938445,2.4516209,1150,,23.80,True,"2 Boulevard du 19 Mars 1962, 95500 Gonesse",https://www.q-park.fr/fr-fr/villes/gonesse/centre-hospitalier/

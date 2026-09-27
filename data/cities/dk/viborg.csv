@@ -1,0 +1,11 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Q-Park Reberbanen 11A,Q-Park,56.453108,9.40948,22,,30,,"Reberbanen 11A, 8800 Viborg",https://www.q-park.dk/da/parkering/viborg/reberbanen-11a/
+QP02,Q-Park Sct. Mathias Gade 3,Q-Park,56.450498,9.403508,45,10,,,"Sct. Mathias Gade 3, 8800 Viborg","https://www.q-park.dk/da/parkering/viborg/sct,-d-,-mathias-gade-3/"
+AP01,Gl. Århusvej 19,APCOA,56.44195278,9.40383573,20,12,288,,"Gl. Århusvej 19, 8800 Viborg",https://www.apcoa.dk/find-en-p-plads/lokationer/viborg/gl-aarhusvej-19
+AP02,Jernbanegade 19,APCOA,56.4491588,9.40131593,2,12,288,,"Jernbanegade 19, 8800 Viborg",https://www.apcoa.dk/find-en-p-plads/lokationer/viborg/jernbanegade-19
+AP03,Tingvej 10,APCOA,56.45420114,9.40485491,150,12,288,,"Tingvej 10, 8800 Viborg",https://www.apcoa.dk/find-en-p-plads/lokationer/viborg/tingvej-10
+AP04,Vesterbrogade 7,APCOA,56.44960189,9.4008657,46,12,288,,"Vesterbrogade 7, 8800 Viborg",https://www.apcoa.dk/find-en-p-plads/lokationer/viborg/vesterbrogade-7
+AP05,Viborg Baneby Gadeparkering,APCOA,56.44622347,9.39169902,7,13.5,67.5,,"Erik Ejegods Vej 22, 8800 Viborg",https://www.apcoa.dk/find-en-p-plads/lokationer/viborg/viborg-baneby-gadeparkering
+AP06,Viborg Baneby P-hus,APCOA,56.44607048,9.39128867,193,13.5,67.5,,"Erik Ejegods Vej 22, 8800 Viborg",https://www.apcoa.dk/find-en-p-plads/lokationer/viborg/viborg-baneby-p-hus
+AP07,Viborg Baneby Terræn,APCOA,56.44612343,9.39115968,200,18,108,,"Erik Ejegods Vej, 8800 Viborg",https://www.apcoa.dk/find-en-p-plads/lokationer/viborg/viborg-baneby-terraen
+AP08,Vilhelm Ehlerts Alle 6,APCOA,56.44464035,9.39356405,150,15,360,,"Vilhelm Ehlerts Alle 6, 8800 Viborg",https://www.apcoa.dk/find-en-p-plads/lokationer/viborg/vilhelm-ehlerts-alle-6

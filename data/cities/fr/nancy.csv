@@ -1,0 +1,10 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Brabois,Q-Park,48.6483908,6.1448623,2707,,36.00,True,"Rue du Morvan, 54000 Nancy",https://www.q-park.fr/fr-fr/villes/nancy/brabois/
+QP02,CHRU Central,Q-Park,48.6856707,6.1937634,1065,,23.20,True,"29 Avenue du Marechal DeLattre de Tassigny, 54000 Nancy",https://www.q-park.fr/fr-fr/villes/nancy/chru-central/
+QP03,CHRU Maternité,Q-Park,48.6812635,6.1902642,347,,36.00,True,"10 Avenue du Dr Heydenreich, 54000 Nancy",https://www.q-park.fr/fr-fr/villes/nancy/chru-maternit%c3%a9/
+QP04,Kinepolis,Q-Park,48.691297,6.1974719,540,1.80,30.00,False,"3 Rue du Maréchal Victor duc de Bellune, 54000 Nancy",https://www.q-park.fr/fr-fr/villes/nancy/kinepolis/
+IN01,Carnot,Indigo,48.693163,6.178426,371,1.90,15.50,True,"2 Place Carnot, 54000 Nancy",https://www.indigoneo.fr/fr/parkings/777/parking-carnot
+IN02,Léopold,Indigo,48.696647,6.174606,339,1.90,15.50,False,"23 Cours Léopold, 54000 Nancy",https://www.indigoneo.fr/fr/parkings/778/parking-leopold
+IN03,Charles III,Indigo,48.68925,6.182275,382,1.90,15.50,True,"11 Rue des 4 Églises, 54000 Nancy",https://www.indigoneo.fr/fr/parkings/780/parking-charles-iii
+IN04,Saint-Dizier Saint-Nicolas,Indigo,48.68932,6.184192,209,1.90,15.50,True,"1-5 Rue du Docteur Schmitt, 54000 Nancy",https://www.indigoneo.fr/fr/parkings/781/parking-saint-dizier-saint-nicolas
+IN05,Joffre Saint-Thiébaut,Indigo,48.68773,6.179848,682,2.10,21.90,True,"22 Rue Grand Rabbin Haguenauer, 54000 Nancy",https://www.indigoneo.fr/fr/parkings/782/parking-joffre-saint-thiebaut

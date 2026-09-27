@@ -1,0 +1,7 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+AL01,Parkhaus An der Festung,ALPINA Parking,49.996334,8.417527,242,1.00,5.00,,"Frankfurter Straße 5, 65428 Rüsselsheim am Main",https://www.ruesselsheim.de/mobilitaet/autoverkehr/faqs-parkhaeuser/
+AL02,Park & Ride-Parkhaus Grabenstraße,ALPINA Parking,49.9931314,8.4176999,233,1.50,7.00,,"Grabenstraße 42, 65428 Rüsselsheim am Main",https://www.ruesselsheim.de/mobilitaet/autoverkehr/faqs-parkhaeuser/
+AL03,Tiefgarage Löwenplatz,ALPINA Parking,49.9940398,8.4133773,267,1.50,8.00,,"Löwenplatz 2, 65428 Rüsselsheim am Main",https://www.ruesselsheim.de/mobilitaet/autoverkehr/faqs-parkhaeuser/
+BP01,City Forum Eichsfeld,Bavaria Parkgaragen,49.9908114,8.4139567,517,2.50,20.00,,"Ferdinand-Stuttmann-Straße 7, 65428 Rüsselsheim am Main",https://www.q-park.de/de-de/staedte/r%C3%BCsselsheim/city-forum-eichsfeld/
+AW01,F25 Parking,Autowerk RM GmbH,49.9899167,8.4120713,330,1.40,12.00,,"Darmstädter Straße 55, 65428 Rüsselsheim am Main",https://autowerk.de/
+MU01,Parkplatz Elisabethenstraße,Stadt Rüsselsheim,49.990848,8.412223,32,1.00,,,"Elisabethenstraße 2, 65428 Rüsselsheim am Main",https://www.bahnhof.de/en/ruesselsheim/parking-spaces

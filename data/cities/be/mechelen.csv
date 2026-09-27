@@ -1,0 +1,14 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Bruul,Q-Park,51.02077,4.483608,350,2.60,18.50,,"Hendrik Speecqvest 1000, 2800 Mechelen",https://www.q-park.be/nl-be/parkeren/mechelen/bruul/
+QP02,Lamot,Q-Park,51.025461,4.477409,227,,28.00,,"Guldenstraat 18, 2800 Mechelen",https://www.q-park.be/nl-be/parkeren/mechelen/lamot/
+IN01,Grote Markt,Indigo Neo,51.02817,4.47939,155,3.40,,True,"Grote Markt 39, 2800 Mechelen",https://www.indigoneo.be/nl/parkings/2352/parking-grote-markt-mechelen
+IN02,Veemarkt,Indigo Neo,51.02896,4.48513,129,2.90,,True,"Veemarkt 19, 2800 Mechelen",https://www.indigoneo.be/nl/parkings/2353/parking-veemarkt
+IN03,Tinel,Indigo Neo,51.03326,4.48315,124,2.10,,True,"Edgard Tinellaan 5, 2800 Mechelen",https://www.indigoneo.be/nl/parkings/9101/parking-tinel
+IN04,Hoogstraat,Indigo Neo,51.023284,4.474822,170,2.90,,True,"Ganzendries 21, 2800 Mechelen",https://www.indigoneo.be/nl/parkings/2355/parking-hoogstraat
+IN05,Kathedraal,Indigo Neo,51.02951,4.47794,130,3.40,,True,"Sint-Romboutskerkhof 6, 2800 Mechelen",https://www.indigoneo.be/nl/parkings/2354/parking-kathedraal
+IN06,Keerdok,Indigo Neo,51.034555,4.470211,516,2.10,,True,"Antonia Wolversstraat 1, 2800 Mechelen",https://www.indigoneo.be/nl/parkings/24915/parking-mechelen-keerdok
+IN07,Komet,Indigo Neo,51.024305,4.470334,124,2.10,,True,"Koningin Astridlaan 134, 2800 Mechelen",https://www.indigoneo.be/nl/parkings/25665/parking-komet
+IN08,Maarten,Indigo Neo,51.020074,4.476836,189,2.10,,True,"Leopoldstraat 2, 2800 Mechelen",https://www.indigoneo.be/nl/parkings/25666/parking-maarten
+CM01,Zandpoortvest,City of Mechelen,51.0276125,4.4895704,622,2.10,12.50,True,"Zandpoortvest, 2800 Mechelen",https://www.mechelen.be/mobiliteit/parkeren/parkings/parking-zandpoortvest
+CM02,Douaneplein,City of Mechelen,51.0255038,4.4936745,150,0.00,,,"Douaneplein, 2800 Mechelen",https://www.mechelen.be/mobiliteit/parkeren/parkings/parking-douaneplein
+CM03,De Nekker,City of Mechelen,51.0252173,4.5041481,500,0.00,,,"Nekkerspoel-Borcht 19, 2800 Mechelen",https://www.mechelen.be/mobiliteit/parkeren/parkings/parking-de-nekker

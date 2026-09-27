@@ -1,0 +1,31 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Surrey Street,Q-Park,51.3718983,-0.1026938,685,2.80,21.00,True,"Charles Street, Croydon, CR0 1TR",https://www.q-park.co.uk/en-gb/cities/croydon/surrey-street/
+APC01,Wandle Road,APCOA,51.370224,-0.101198,1021,2.20,15.00,False,"Wandle Road, Croydon, CR0 1DX",https://www.apcoa.co.uk/find-parking/locations/croydon/wandle-road-croydon
+APC02,South Croydon Station,APCOA,51.362975,-0.093877,81,,7.10,True,"Blunt Road, South Croydon, CR2 7PA",https://www.apcoa.co.uk/find-parking/locations/south-croydon/south-croydon-station-south-croydon
+APC03,Purley Oaks Station,APCOA,51.347579,-0.098673,67,,4.60,False,"Brantwood Road, South Croydon, CR2 0ND",https://www.apcoa.co.uk/find-parking/locations/south-croydon/purley-oaks-station-south-croydon
+APC04,Sanderstead Station,APCOA,51.348472,-0.09377,122,,7.60,False,"Station Approach, Sanderstead Road, South Croydon, CR2 0PL",https://www.apcoa.co.uk/find-parking/locations/south-croydon/sanderstead-station-south-croydon
+NCP01,Prospect West,NCP,51.378808,-0.1020387,450,,,,"65 Station Road, Croydon",https://www.ncp.co.uk/find-a-car-park/car-parks/croydon-prospect-west/
+NCP02,Wellesley Grove,NCP,51.3753558,-0.0960211,90,,,,"Wellesley Grove, Croydon",https://www.ncp.co.uk/find-a-car-park/car-parks/croydon-wellesley-grove/
+NCP03,St Georges Walk,NCP,51.3728996,-0.0986376,50,,,,"St Georges Walk, Croydon",https://www.ncp.co.uk/find-a-car-park/car-parks/croydon-st-georges-walk/
+NCP04,Poplar Walk,NCP,51.3783868,-0.0999169,57,,,,"Poplar Walk, Croydon",https://www.ncp.co.uk/find-a-car-park/car-parks/croydon-poplar-walk/
+FMS01,Centrale,Centrale & Whitgift (FMS),51.376015,-0.1026448,950,2.75,8.75,False,"Centrale Shopping Centre, 21 North End, Croydon, CR0 1XT",https://centraleandwhitgift.co.uk/visit/parking/
+FMS02,Whitgift,Centrale & Whitgift (FMS),51.376261,-0.1003854,1059,2.50,6.50,False,"Whitgift Shopping Centre, North End, Croydon, CR9 1AT",https://centraleandwhitgift.co.uk/visit/parking/
+CYC01,Clifford Road,Croydon Council,51.398133,-0.0735961,26,1.36,9.47,False,"Clifford Road, South Norwood, SE25 5JH",https://www.croydon.gov.uk/parking/find-council-car-parks-croydon/clifford-road-car-park
+CYC02,East Croydon (surface),Croydon Council,51.3753195,-0.0909718,7,,,False,"Cherry Orchard Road, Croydon, CR0 6BT",https://www.croydon.gov.uk/parking/find-council-car-parks-croydon/east-croydon-surface-car-park
+CYC03,Factory Lane,Croydon Council,51.377893,-0.1131833,21,2.08,16.53,False,"Factory Lane, West Croydon, CR0 3RH",https://www.croydon.gov.uk/parking/find-council-car-parks-croydon/factory-lane-car-park
+CYC04,Fairfield Halls,Croydon Council,51.3723178,-0.0955132,258,2.08,16.53,False,"Fairfield Halls, Croydon, CR0 1JN",https://www.croydon.gov.uk/parking/find-council-car-parks-croydon/fairfield-hall
+CYC05,Garnet Road,Croydon Council,51.3980898,-0.0968412,28,1.36,9.47,True,"Garnet Road, Thornton Heath, CR7 8RD",https://www.croydon.gov.uk/parking/find-council-car-parks-croydon/garnet-road-car-park
+CYC06,Granville Gardens,Croydon Council,51.4146403,-0.1224711,112,1.36,9.47,False,"Granville Gardens, Norbury, SW16 4EU",https://www.croydon.gov.uk/parking/find-council-car-parks-croydon/granville-gardens-car-park
+CYC07,Jubilee Bridge,Croydon Council,51.3744596,-0.106944,117,2.08,16.53,False,"Lower Church Street, Croydon, CR0 1XF",https://www.croydon.gov.uk/parking/find-council-car-parks-croydon/jubilee-bridge-car-park
+CYC08,Lion Green Road,Croydon Council,51.3196055,-0.1407089,88,1.36,9.47,True,"Lion Green Road, Coulsdon, CR5 2NL",https://www.croydon.gov.uk/parking/find-council-car-parks-croydon/lion-green-road-car-park
+CYC09,New Addington Central Market,Croydon Council,51.3402229,-0.0133893,26,,,False,"Central Parade, New Addington, CR0 0JL",https://www.croydon.gov.uk/parking/find-council-car-parks-croydon/new-addington-central-market-car-park
+CYC10,New Addington Central Parade,Croydon Council,51.3402229,-0.0133893,136,1.36,9.47,False,"Central Parade, New Addington, CR0 0JL",https://www.croydon.gov.uk/parking/find-council-car-parks-croydon/new-addington-central-parade-car-park
+CYC11,New Addington Swimming Pool,Croydon Council,51.3402229,-0.0133893,46,0.70,4.90,False,"Central Parade, New Addington, CR0 0JB",https://www.croydon.gov.uk/parking/find-council-car-parks-croydon/new-addington-swimming-pool-car-park
+CYC12,Purley (multi-storey),Croydon Council,51.3376441,-0.1152048,387,1.36,9.47,False,"Whytecliffe Road South, Purley, CR8 2AH",https://www.croydon.gov.uk/parking/find-council-car-parks-croydon/purley-multi-storey-car-park
+CYC13,Reedham Station,Croydon Council,51.3308209,-0.1244545,53,,4.76,True,"Reedham Station, Purley, CR8 4DG",https://www.croydon.gov.uk/parking/find-council-car-parks-croydon/reedham-station-car-park
+CYC14,Russell Hill Place,Croydon Council,51.3396556,-0.1161047,51,1.36,9.47,False,"Russell Hill Place, Purley, CR8 2LT",https://www.croydon.gov.uk/parking/find-council-car-parks-croydon/russell-hill-place-car-park
+CYC15,Sanderstead Road,Croydon Council,51.342994,-0.0893342,32,1.31,9.13,True,"Sanderstead Road, Sanderstead, CR2 0LY",https://www.croydon.gov.uk/parking/find-council-car-parks-croydon/sanderstead-road-car-park
+CYC16,Spice's Yard,Croydon Council,51.3646879,-0.0989246,117,2.08,16.53,False,"South End, South Croydon, CR9 1LT",https://www.croydon.gov.uk/parking/find-council-car-parks-croydon/spices-yard-car-park
+CYC17,Waddon Leisure Centre,Croydon Council,51.3654441,-0.1173536,27,1.36,10.83,False,"London Road, Waddon, Croydon, CR0 2TA",https://www.croydon.gov.uk/parking/find-council-car-parks-croydon/waddon-leisure-centre-car-park
+CYC18,Wandle (surface),Croydon Council,51.3703293,-0.101088,78,2.08,16.53,False,"Wandle Road, Croydon, CR0 1DX",https://www.croydon.gov.uk/parking/find-council-car-parks-croydon/wandle-surface-car-park
+CYC19,West Croydon,Croydon Council,51.378808,-0.1020387,29,2.08,16.53,False,"London Road, Croydon, CR0 2TA",https://www.croydon.gov.uk/parking/find-council-car-parks-croydon/west-croydon-car-park

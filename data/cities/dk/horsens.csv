@@ -1,0 +1,37 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Q-Park Emil Møllers Gade 59-69,Q-Park,55.8675661,9.837777,59,15,,,"Emil Møllers Gade 59-69, 8700 Horsens",https://www.q-park.dk/da/parkering/horsens/emil-møllers-gade-59-69/
+QP02,Q-Park Fabriksvej 2,Q-Park,55.865427,9.8423205,49,16,160,,"Fabriksvej 2, 8700 Horsens",https://www.q-park.dk/da/parkering/horsens/fabriksvej-2/
+QP03,Q-Park Godsbanegade 2,Q-Park,55.8656945,9.8407105,52,16,,,"Godsbanegade 2, 8700 Horsens",https://www.q-park.dk/da/parkering/horsens/godsbanegade-2/
+QP04,Q-Park Løvenørnsgade 25,Q-Park,55.860103,9.841328,110,16,,,"Løvenørnsgade 25, 8700 Horsens",https://www.q-park.dk/da/parkering/horsens/løvenørnsgade-25/
+AP01,Levysgade P-hus,APCOA,55.86151271,9.84369041,223,22,528,True,"Levysgade 8, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/levysgade-p-hus
+AP02,Løvenørnsgade 12,APCOA,55.86041162,9.84299287,50,17,396,True,"Løvenørnsgade 12, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/loevenoernsgade-12
+AP03,Jessensgade 1,APCOA,55.86239356,9.84420795,22,22,340,True,"Jessensgade 1, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/jessensgade-1
+AP04,Søndergade 13,APCOA,55.86253,9.846808,14,,,,"Søndergade 13, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/soendergade-13
+AP05,"Lilli Gyldenkildes Torv, P-hus",APCOA,55.85923971,9.84442301,102,12,,True,"Sønderbrogade 21A, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/lilli-gyldenkildes-torv-p-hus
+AP06,Rådhusgade 3-5,APCOA,55.861284,9.848556,15,20,480,,"Rådhusgade 3, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/raadhusgade-3-5
+AP07,Rædersgade 1-3,APCOA,55.8636,9.845964,95,20,,,"Rædersgade 1-3, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/raedersgade-1-3
+AP08,"Lilli Gyldenkildes Torv, Terræn",APCOA,55.858564,9.84581,384,16,,True,"Sankt Helene Vej 20, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/lilli-gyldenkildes-torv-terraen
+AP09,Mælketorvets P-hus,APCOA,55.86358244,9.84718118,176,22,230,,"Rædersgade 9, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/maelketorvets-p-hus
+AP10,Rådhustorvet 13-19,APCOA,55.86126662,9.84958783,30,17,408,,"Rådhustorvet 13-19, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/raadhustorvet-13-19
+AP11,Buchwalds Bro,APCOA,55.85810533,9.84378264,70,12,288,True,"Buchwalds Bro, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/buchwalds-bro
+AP12,Blumersgade 3,APCOA,55.85955911,9.83958261,110,12,288,True,"Blumersgade 3, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/blumersgade-3
+AP13,Søndergade 42,APCOA,55.860786,9.850229,30,17,,,"Søndergade 42, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/soendergade-42
+AP14,Rådhustorvet 4 (Rådhusparken),APCOA,55.85912569,9.84915924,217,19,456,,"Rådhustorvet 4, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/raadhustorvet-4-1
+AP15,Rådhustorvet 4 (J Chr Juliussens Vej 2),APCOA,55.85992016,9.85007681,62,19,456,,"Rådhustorvet 4, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/raadhustorvet-4
+AP16,"AL Bank, Åboulevarden 57",APCOA,55.860708,9.850934,55,20,,,"Åboulevarden 57, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/al-bank-aaboulevarden-57
+AP17,Nørregade 34,APCOA,55.862591,9.850508,30,29,696,,"Nørregade 34, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/noerregade-34
+AP18,Emilies Plads 2,APCOA,55.859773,9.851364,225,20,75,,"Emilies Plads 2B, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/emilies-plads-2
+AP19,Horsens Sundhedshus,APCOA,55.858653,9.851986,450,15,75,,"Grønlandsvej 3B, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/horsens-sundhedshus
+AP20,Åboulevarden 96,APCOA,55.85973516,9.85374096,15,15,360,,"Åboulevarden 96, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/aaboulevarden-96
+AP21,Holmboes Allé 11,APCOA,55.856412,9.849691,60,,,,"Holmboes Allé 11, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/holmboes-alle-11
+AP22,Holmboes Allé 4,APCOA,55.855943,9.848074,65,,,True,"Holmboes Allé 4, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/holmboes-alle-4
+AP23,Holmboes Allé 15,APCOA,55.856416,9.849912,120,,,,"Holmboes Allé 15, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/holmboes-alle-15
+AP24,Guldberghus,APCOA,55.858952,9.853811,119,,,,"Grønlandsvej 5, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/guldberghus
+AP25,Høegh Guldbergsgade 5,APCOA,55.856336,9.853655,150,12,288,,"Ove Jensens Allé 19D, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/hoeegh-guldbergsgade-5
+AP26,Havnen 1,APCOA,55.858832,9.859318,50,19,,,"Havnen 1, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/havnen-1
+AP27,Gasvej 21,APCOA,55.860168,9.860805,60,12,288,True,"Gasvej 21, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/gasvej-21
+AP28,Nordhavnens P-hus,APCOA,55.859191,9.862477,210,19,100,True,"Jenny Kammersgaards Vej 40, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/nordhavnens-p-hus
+AP29,Jenny Kammersgaards Vej 2a,APCOA,55.85954683,9.8677475,40,17,399,True,"Jenny Kammersgaards Vej 2a, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/jenny-kammersgaards-vej-2a
+AP30,Regionshospitalet Horsens,APCOA,55.863793,9.872654,1050,17,78,True,"Sundvej 30, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/regionshospitalet-horsens
+AP31,Chr. M. Østergaards Vej,APCOA,55.87159134,9.88546051,953,13,,,"Chr. M. Østergaards Vej 4, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/chr-m-oestergaards-vej
+AP32,Recharge City,APCOA,55.84575404,9.73569554,80,18,,,"Kai Lindbergs Vej, 8700 Horsens",https://www.apcoa.dk/find-en-p-plads/lokationer/horsens/recharge-city

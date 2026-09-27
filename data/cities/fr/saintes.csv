@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+saintes-qpark-1,Parking Bois d'Amour,Q-Park,45.747688,-0.632909,248,1.80,13.10,False,"5 Rue Bois d'Amour, 17100 Saintes",https://www.q-park.fr/fr-fr/villes/saintes/bois-damour/
+saintes-qpark-2,Parking Centre Ville Saintes,Q-Park,45.746651,-0.628065,225,1.60,8.80,False,"10 Rue Eugène Pelletan, 17100 Saintes",https://www.q-park.fr/fr-fr/villes/saintes/centre-ville/
+saintes-qpark-3,Parking Saint Pierre,Q-Park,45.7443515,-0.6306947,117,1.60,8.80,False,"quai de Verdun, 17100 Saintes",https://www.q-park.fr/fr-fr/villes/saintes/saint-pierre/

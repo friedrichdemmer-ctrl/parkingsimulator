@@ -1,0 +1,12 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Q-Park Århusvej 45,Q-Park,56.169793,9.5674,400,10,50,,"Århusvej 45, 8600 Silkeborg",https://www.q-park.dk/da/parkering/silkeborg/århusvej-45/
+QP02,Q-Park Borgergade 72,Q-Park,56.1810818,9.5493706,30,12,,,"Borgergade 72, 8600 Silkeborg",https://www.q-park.dk/da/parkering/silkeborg/borgergade-72/
+QP03,Q-Park Papirfabrikken/Smedebakken,Q-Park,56.1728578,9.5572302,600,17,,True,"Papirfabrikken/Smedebakken, 8600 Silkeborg",https://www.q-park.dk/da/parkering/silkeborg/papirfabrikken/smedebakken/
+QP04,Q-Park Sølystvej 2,Q-Park,56.176457,9.55415,12,14,,,"Sølystvej 2, 8600 Silkeborg",https://www.q-park.dk/da/parkering/silkeborg/sølystvej-2/
+QP05,Q-Park Stagehøjvej 25,Q-Park,56.1872868,9.5602593,40,8,,,"Stagehøjvej 25, 8600 Silkeborg",https://www.q-park.dk/da/parkering/silkeborg/stagehøjvej-25/
+QP06,Q-Park Torvet Silkeborg,Q-Park,56.169838,9.54949,224,16,160,True,"Rådhusgade 4, 8600 Silkeborg",https://www.q-park.dk/da/parkering/silkeborg/torvet-silkeborg/
+QP07,Q-Park Vestergade 38,Q-Park,56.1678701,9.5433247,12,15,,,"Vestergade 38, 8600 Silkeborg",https://www.q-park.dk/da/parkering/silkeborg/vestergade-38/
+QP08,Q-Park Vestergade 8-30,Q-Park,56.1690921,9.5450789,865,15,,,"Vestergade 8-30, 8600 Silkeborg",https://www.q-park.dk/da/parkering/silkeborg/vestergade-8-30/
+AP01,Silkeborg Sygehus P-hus,APCOA,56.170213,9.559284,730,16,76,,"Falkevej 1, 8600 Silkeborg",https://www.apcoa.dk/find-en-p-plads/lokationer/silkeborg/silkeborg-sygehus-p-hus
+AP02,Christian 8's vej 8,APCOA,56.166567,9.551913,65,,,,"Christian 8's vej 8, 8600 Silkeborg",https://www.apcoa.dk/find-en-p-plads/lokationer/silkeborg/christian-8s-vej-8
+AP03,Søtorvet,APCOA,56.17312407,9.55515334,196,,,,"Søtorvet, 8600 Silkeborg",https://www.apcoa.dk/find-en-p-plads/lokationer/silkeborg/soetorvet

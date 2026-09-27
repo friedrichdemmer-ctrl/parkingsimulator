@@ -1,0 +1,50 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Østerbro 62,Q-Park,57.0454415,9.9399755,32,20,250,,"Østerbro 62, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/%c3%b8sterbro-62/
+QP02,Østre Havnegade 5B,Q-Park,57.0464742,9.9390132,32,14,,,"Østre Havnegade 5B, 9000 Aalborg","https://www.q-park.dk/da/parkering/aalborg/%c3%b8stre-havnegade-5b,-9000-aalborg/"
+QP03,Østre Havnepark 10,Q-Park,57.047171,9.943163,220,,,,"Østre Havnepark 10, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/%c3%b8stre-havnepark-10/
+QP04,Aalborg City Campus,Q-Park,57.0398135,9.9190267,369,20,200,True,"Kielersvej 11, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/aalborg-city-campus/
+QP05,Adelgade 18-20,Q-Park,57.048384,9.918134,35,24,,True,"Adelgade 18-20, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/adelgade-18-20/
+QP06,Beddingen,Q-Park,57.048607,9.944268,36,20,,,"Beddingen, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/beddingen/
+QP07,Comwell Hotel Hvidehus Aalborg,Q-Park,57.042153,9.911825,90,14,110,True,"Vesterbro 2, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/comwell-hotel-hvidehus-aalborg/
+QP08,Dannebrogscentret,Q-Park,57.053474,9.90647,122,12,100,,"Kastetvej 26, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/dannebrogscentret/
+QP09,Gasværksvej 18,Q-Park,57.047657,9.946824,33,12,,,"Gasværksvej 18, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/gasv%c3%a6rksvej-18/
+QP10,Gasværksvej 7,Q-Park,57.048851,9.946765,38,14,120,,"Gasværksvej 7, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/gasv%c3%a6rksvej-7/
+QP11,Havnemøllen,Q-Park,57.0474397,9.9372738,590,22,180,,"Østre Havnegade 17, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/havnem%c3%b8llen/
+QP12,Jyllandsgade 24,Q-Park,57.0421445,9.9294753,80,12,150,,"Jyllandsgade 24, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/jyllandsgade-24/
+QP13,Karolinelundsvej 11,Q-Park,57.045787,9.934744,50,14,120,,"Karolinelundvej 11, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/karolinelundsvej-11/
+QP14,Kennedy Arkaden,Q-Park,57.041572,9.9184424,352,27,260,True,"J. F. Kennedy Plads 1, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/kennedy-arkaden/
+QP15,Kildestrømme 6-8,Q-Park,57.033679,9.937353,54,16,62,,"Kildestrømme, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/kildestr%c3%b8mme-6-8/
+QP16,Kornmøllen,Q-Park,57.0478014,9.9362733,396,22,180,True,"Østre Havnegade 31, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/kornm%c3%b8llen/
+QP17,"Kridtsløjfen 4, 4a",Q-Park,57.035945,9.937761,26,12,150,,"Kridtsløjfen 4, 4a, 9000 Aalborg","https://www.q-park.dk/da/parkering/aalborg/kridtsl%c3%b8jfen-4,-4a/"
+QP18,Kulturen,Q-Park,57.047582,9.930958,299,24,240,True,"Nyhavnsgade 21, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/kulturen/
+QP19,Nørre Tranders Vej 3-9,Q-Park,57.042409,9.950881,14,14,,,"Nørre Tranders Vej 3-9, 9000 Aalborg","https://www.q-park.dk/da/parkering/aalborg/n%c3%b8rre-tranders-vej-3-9,-9000-aalborg/"
+QP20,Palads,Q-Park,57.05049,9.920042,469,27,260,True,"Ved Stranden 11, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/palads/
+QP21,Plaza Aalborg,Q-Park,57.052026,9.918291,80,19,,True,"Strandvejen 3, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/plaza-aalborg/
+QP22,Riishøjvej 109,Q-Park,57.036186,9.945516,10,12,,,"Riishøjvej 109, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/riish%c3%b8jvej-109/
+QP23,Saxogade 10,Q-Park,57.0494216,9.9097018,60,10,100,,"Saxogade 10, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/saxogade-10/
+QP24,Sohngårdsholmvej 2 & Alexander Foss Gade,Q-Park,57.0366,9.93698,66,12,150,,"Sohngårdsholmvej & Alexander Foss Gade 2, 9000 Aalborg","https://www.q-park.dk/da/parkering/aalborg/sohng%c3%a5rdsholmvej-2-,-a-,-alexander-foss-gade/"
+QP25,Spritten,Q-Park,57.054915,9.908686,85,14,,,"Akvavitvej, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/spritten/
+QP26,Stormgade 17-19,Q-Park,57.046533,9.940961,39,16,,,"Stormgade 17-19, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/stormgade-17-19/
+QP27,Strandvejen 25,Q-Park,57.0536258,9.9091762,60,10,100,,"Strandvejen 25, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/strandvejen-25/
+QP28,Sundhedens Hus,Q-Park,57.043668,9.926118,50,22,,,"Dag Hammerskjöldsgade 4, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/sundhedens-hus/
+QP29,Turøgade 1,Q-Park,57.0420611,9.94222,47,8,80,,"Turøgade 1, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/tur%c3%b8gade-1/
+QP30,Vesterbro 21 A-G,Q-Park,57.044836,9.911435,36,20,,,"Vesterbro 21 A-G, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/vesterbro-21-a-g/
+QP31,Vesterbro 23,Q-Park,57.044954,9.911341,10,20,,,"Vesterbro 23, 9000 Aalborg",https://www.q-park.dk/da/parkering/aalborg/vesterbro-23/
+QP32,Voergårdvej 2,Q-Park,57.015317,9.892819,,10,,,"Voergårdvej 2, 9200 Aalborg SV",https://www.q-park.dk/da/parkering/aalborg/voerg%c3%a5rdvej-2/
+APC01,APCOA Østerbro Brygge,APCOA,57.046633,9.937005,114,15,,,"Østerbro 35, 9000 Aalborg",https://www.apcoa.dk/find-en-p-plads/lokationer/aalborg/oesterbro-brygge
+APC02,APCOA Salling Aalborg,APCOA,57.047377,9.923222,300,15,,,"Braskensgade 8, 9000 Aalborg",https://www.apcoa.dk/find-en-p-plads/lokationer/aalborg/salling-aalborg
+APC03,APCOA Slotsgade 8-14,APCOA,57.047666,9.924598,116,15,,,"Slotsgade 8-14, 9000 Aalborg",https://www.apcoa.dk/find-en-p-plads/lokationer/aalborg/slotsgade-8-14
+APC04,APCOA C.W. Obel P-hus,APCOA,57.052555,9.911599,376,7,,,"Badehusvej 5, 9000 Aalborg",https://www.apcoa.dk/find-en-p-plads/lokationer/aalborg/badehusvej-p-hus
+APC05,APCOA Kjellerups Torv 10-22,APCOA,57.046572,9.929832,90,12,,,"Kjellerups Torv 10, 9000 Aalborg",https://www.apcoa.dk/find-en-p-plads/lokationer/aalborg/kjellerups-torv-10-22
+APC06,APCOA Budolfi Plads 1,APCOA,57.047336,9.918842,105,8,,,"Budolfi Plads 1, 9000 Aalborg",https://www.apcoa.dk/find-en-p-plads/lokationer/aalborg/budolfi-plads-1
+APC07,APCOA Karolinehaven,APCOA,57.036095,9.931795,100,15,,,"Karolinehaven, 9000 Aalborg",https://www.apcoa.dk/find-en-p-plads/lokationer/aalborg/karolinehaven
+APC08,APCOA Poul Larsens Vej 2,APCOA,57.03483,9.933119,292,13,,,"Poul Larsens Vej 2, 9000 Aalborg",https://www.apcoa.dk/find-en-p-plads/lokationer/aalborg/poul-larsens-vej-2
+APC09,APCOA Aalborg Streetfood,APCOA,57.05708627,9.89813233,40,20,,,"Skudehavnsvej 35, 9000 Aalborg",https://www.apcoa.dk/find-en-p-plads/lokationer/aalborg/aalborg-streetfood
+APC10,APCOA Hobrovej 42,APCOA,57.03522274,9.90867871,57,18,,,"Hobrovej 42, 9000 Aalborg",https://www.apcoa.dk/find-en-p-plads/lokationer/aalborg/hobrovej-42
+APC11,APCOA Østerbro Brygge - Terræn,APCOA,57.04615348,9.93652856,15,15,,,"Østerbro Brygge, 9000 Aalborg",https://www.apcoa.dk/find-en-p-plads/lokationer/aalborg/oesterbro-brygge-terraen
+APC12,APCOA Hjulmagervej 50,APCOA,57.038906,9.918952,50,10,,,"Hjulmagervej 50, 9000 Aalborg",https://www.apcoa.dk/find-en-p-plads/lokationer/aalborg/hjulmagervej-50
+APC13,APCOA Østre Havnepark 10,APCOA,57.04736421,9.94359741,61,18,,,"Østre Havnepark 10, 9000 Aalborg",https://www.apcoa.dk/find-en-p-plads/lokationer/aalborg/oestre-havnepark-10
+APC14,"APCOA Østre Havnepark 10, Blå zone",APCOA,57.04736391,9.94363735,66,18,,,"Østre Havnepark 10, 9000 Aalborg",https://www.apcoa.dk/find-en-p-plads/lokationer/aalborg/oestre-havnepark-10-blaa-zone
+APC15,APCOA Boeck-Hansens Vej 14,APCOA,57.03276249,9.93422201,83,15,,,"Boeck-Hansens Vej 14, 9000 Aalborg",https://www.apcoa.dk/find-en-p-plads/lokationer/aalborg/boeck-hansens-vej-14
+APC16,APCOA Jyllandsgade 30,APCOA,57.04232938,9.92909579,75,14,,,"Jyllandsgade 30, 9000 Aalborg",https://www.apcoa.dk/find-en-p-plads/lokationer/aalborg/jyllandsgade-30
+SP01,Friis Shoppingcenter,SikkerParkering,57.047702,9.926089,850,17,,True,"Nytorv 27, 9000 Aalborg",https://friisaalborg.dk/information/parkering

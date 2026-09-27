@@ -1,0 +1,5 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,P+R Gasstraat,Q-Park,51.765131,5.53196,246,1.99,8.50,,"Gasstraat, 5349 AV Oss",https://www.q-park.nl/nl-nl/parkeren/oss/p-r-gasstraat/
+GM01,Bergoss,Gemeente Oss,51.7681848,5.5288132,270,2.00,6.00,True,"Oostwal 177, 5341 KS Oss",https://loket.oss.nl/parkeertarieven-en-belparkeren-in-oss
+GM02,Oostwal-Oost,Gemeente Oss,51.7697725,5.5280922,114,2.00,6.00,,"Oostwal 241, 5341 KN Oss",https://loket.oss.nl/parkeertarieven-en-belparkeren-in-oss
+GM03,Jurgensplein,Gemeente Oss,51.7661242,5.5255615,193,2.00,12.00,True,"Boterstraat 1, 5341 KR Oss",https://loket.oss.nl/parkeertarieven-en-belparkeren-in-oss

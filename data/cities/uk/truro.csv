@@ -1,0 +1,9 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Highcross,Q-Park,50.265501,-5.05189,445,3.00,12.00,False,"St Clement Street, Truro, TR1 1DQ",https://www.q-park.co.uk/en-gb/cities/truro/highcross/
+NCP01,Fairmantle Street,NCP,50.261014,-5.051222,69,,,True,"Fairmantle Street, Truro, TR1 2EE",https://web.archive.org/web/20241206194958/https://www.ncp.co.uk/find-a-car-park/car-parks/truro-fairmantle-street/
+AP01,Truro Station,APCOA,50.263929,-5.064130,180,,,False,"Station Road, Truro, TR1 3HH",https://www.apcoa.co.uk/find-parking/locations/truro/truro-station-truro
+CC01,Old Bridge Street,Cornwall Council,50.264200,-5.050036,119,2.70,,False,"Old Bridge Street, Truro, TR1 2AH",https://www.cornwall.gov.uk/transport-parking-and-streets/parking/cornwall-council-car-parks/old-bridge-street-truro-tr1-2ah/
+CC02,Edward Street,Cornwall Council,50.264481,-5.056481,134,2.70,11.70,False,"Edward Street, Truro, TR1 3AJ",https://www.cornwall.gov.uk/transport-parking-and-streets/parking/cornwall-council-car-parks/edward-street-truro-tr1-3aj/
+CC03,Garras Wharf,Cornwall Council,50.260952,-5.046965,315,2.70,11.70,False,"Garras Wharf, Truro, TR1 2TN",https://www.cornwall.gov.uk/transport-parking-and-streets/parking/cornwall-council-car-parks/garras-wharf-truro-tr1-2tn/
+CC04,Moorfield,Cornwall Council,50.262087,-5.052413,236,2.70,11.70,False,"Calenick Street, Truro, TR1 2QD",https://www.cornwall.gov.uk/transport-parking-and-streets/parking/cornwall-council-car-parks/moorfield-calenick-street-truro-tr1-2qd/
+CC05,Moresk,Cornwall Council,50.266359,-5.053458,115,2.70,11.70,False,"Oakway, Truro, TR1 1DW",https://www.cornwall.gov.uk/transport-parking-and-streets/parking/cornwall-council-car-parks/moresk-oakway-truro-tr1-1dw/

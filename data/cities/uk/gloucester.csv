@@ -1,0 +1,21 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,The Forum,Q-Park,51.8649876,-2.2411941,398,,12.00,True,"Station Road, Gloucester, GL1 1SZ",https://www.q-park.co.uk/en-gb/cities/gloucester/the-forum/
+NCP01,Northgate Street,NCP,51.8663,-2.24266,6,,,False,"Spread Eagle Street, Gloucester, GL1 1SL",https://www.ncp.co.uk/find-a-car-park/car-parks/gloucester-north-gate-street/
+AP01,Gloucester Station,APCOA,51.8654801,-2.23895216,200,,12.00,False,"Bruton Way, Gloucester, GL1 1DE",https://www.apcoa.co.uk/find-parking/locations/gloucester/gloucester-station-gloucester
+AP02,Gloucester Station - Short Stay,APCOA,51.86532,-2.23889,20,2.00,,False,"Bruton Way, Gloucester, GL1 1DE",https://www.apcoa.co.uk/find-parking/locations/gloucester/gloucester-station-short-stay-gloucester
+AP03,Gloucester Station - Overflow,APCOA,51.86607,-2.23715,240,,12.00,True,"Bruton Way, Gloucester, GL1 1DE",https://www.apcoa.co.uk/find-parking/locations/gloucester/gloucester-station-overflow-gloucester
+SB01,Castlemeads,Saba,51.863808,-2.256948,249,1.40,8.40,False,"Castlemeads Way, Gloucester, GL1 2NH",https://www.gloucester.gov.uk/parking-transport-and-streets/parking/gloucester-city-car-parks/castlemeads-car-park/
+SB02,Eastgate Shopping Centre,Saba,51.86449,-2.244883,380,1.50,8.40,False,"Eastgate Street, Gloucester, GL1 1PA",https://www.gloucester.gov.uk/parking-transport-and-streets/parking/gloucester-city-car-parks/eastgate-shopping-centre/
+SB03,Gloucester Leisure Centre (GL1),Saba,51.862893,-2.238906,53,,,False,"Car Park r/o GL1 Leisure Centre, Bruton Way, Gloucester, GL1 1DT",https://www.gloucester.gov.uk/parking-transport-and-streets/parking/gloucester-city-car-parks/gloucester-leisure-centre-gl1/
+SB04,Great Western Road,Saba,51.866796,-2.238317,56,,5.20,False,"Great Western Road, Gloucester, GL1 3NF",https://www.gloucester.gov.uk/parking-transport-and-streets/parking/gloucester-city-car-parks/great-western-road/
+SB05,Hampden Way,Saba,51.862893,-2.243437,72,1.40,8.40,False,"Hampden Way, Gloucester, GL1 1SX",https://www.gloucester.gov.uk/parking-transport-and-streets/parking/gloucester-city-car-parks/hampden-way/
+SB06,Hare Lane North,Saba,51.869062,-2.242976,79,1.40,5.30,False,"Hare Lane, Gloucester, GL1 2DF",https://www.gloucester.gov.uk/parking-transport-and-streets/parking/gloucester-city-car-parks/hare-lane-north/
+SB07,Hare Lane South,Saba,51.868682,-2.2437,97,1.40,,False,"Hare Lane, Gloucester, GL1 2DA",https://www.gloucester.gov.uk/parking-transport-and-streets/parking/gloucester-city-car-parks/hare-lane-south/
+SB08,Kings Walk,Saba,51.865008,-2.242025,291,1.50,8.40,False,"Kings Walk, Gloucester, GL1 1EA",https://www.gloucester.gov.uk/parking-transport-and-streets/parking/gloucester-city-car-parks/kings-walk/
+SB09,Ladybellegate Street,Saba,51.864112,-2.24918,28,1.50,8.40,False,"Ladybellegate Street, Gloucester, GL1 2HN",https://www.gloucester.gov.uk/parking-transport-and-streets/parking/gloucester-city-car-parks/ladybellegate-street/
+SB10,Longsmith Street,Saba,51.8648,-2.247223,300,1.50,8.40,False,"Longsmith Street, Gloucester, GL1 2HH",https://www.gloucester.gov.uk/parking-transport-and-streets/parking/gloucester-city-car-parks/longsmith-street/
+SB11,North Warehouse,Saba,51.86416,-2.252026,66,,8.40,False,"North Warehouse, The Docks, Gloucester, GL1 2FB",https://www.gloucester.gov.uk/parking-transport-and-streets/parking/gloucester-city-car-parks/north-warehouse/
+SB12,St Michaels Square,Saba,51.86173,-2.244621,97,1.30,8.00,False,"St. Michael's Square, Gloucester, GL1 1HX",https://www.sabaparking.co.uk/en/car-park/st-michaels-square-car-park
+SB13,Station Road,Saba,51.863116,-2.239749,110,1.40,8.40,False,"Station Road, Gloucester, GL1 1QD",https://www.gloucester.gov.uk/parking-transport-and-streets/parking/gloucester-city-car-parks/station-road/
+SB14,Westgate Coach and Car Park,Saba,51.868135,-2.251744,95,1.30,8.00,True,"Westgate Street, Gloucester, GL1 2TU",https://www.sabaparking.co.uk/en/car-park/westgate-coach-and-car-park
+GCC01,Southgate Moorings,Gloucester City Council,51.863547,-2.248523,179,,8.40,False,"Southgate Street, Gloucester, GL1 2DB",https://www.gloucester.gov.uk/parking-transport-and-streets/parking/gloucester-city-car-parks/southgate-moorings/

@@ -1,0 +1,12 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+GM01,Het Groene Woud,Gemeente Middelburg,51.495166,3.609613,,2.30,11.30,,"Het Groene Woud 1, 4331 NB Middelburg",https://www.middelburg.nl/parkeren-in-middelburg
+GM02,Geere,Gemeente Middelburg,51.496379,3.609393,,2.30,11.30,,"Kalverstraat 4, 4331 LZ Middelburg",https://www.middelburg.nl/parkeren-in-middelburg
+GM03,Kousteensedijk,Gemeente Middelburg,51.495876,3.615032,,2.30,11.30,,"Kousteensedijk 1, 4331 JE Middelburg",https://www.middelburg.nl/parkeren-in-middelburg
+GM04,Achter de Houttuinen,Gemeente Middelburg,51.497969,3.606047,194,2.30,11.30,True,"Achter de Houttuinen 12, 4331 NJ Middelburg",https://www.centrumparkeren.nl/middelburg/parkeergarages/achter-de-houttuinen
+GM05,Kanaalweg,Gemeente Middelburg,51.497034,3.623534,,2.30,11.30,,"Kanaalweg, 4337 Middelburg",https://www.middelburg.nl/parkeren-in-middelburg
+GM06,Hof van Tange,Gemeente Middelburg,51.497077,3.604950,,3.20,16.00,,"Hof van Tange, 4331 NH Middelburg",https://www.middelburg.nl/parkeren-in-middelburg
+GM07,Damplein,Gemeente Middelburg,51.500212,3.616723,,3.20,,,"Damplein, 4331 GC Middelburg",https://www.middelburg.nl/parkeren-in-middelburg
+GM08,Loskade,Gemeente Middelburg,51.497564,3.620858,,3.20,16.00,,"Loskade, 4331 VC Middelburg",https://www.middelburg.nl/parkeren-in-middelburg
+GM09,Molenwater,Gemeente Middelburg,51.504129,3.613943,,3.20,16.00,,"Molenwater, 4331 SE Middelburg",https://www.middelburg.nl/parkeren-in-middelburg
+GM10,Oude Veerseweg,Gemeente Middelburg,51.502223,3.631598,,0.00,,True,"Oude Veerseweg, 4332 SH Middelburg",https://www.middelburg.nl/parkeren-in-middelburg
+QP01,P+R Segeersingel,Q-Park,51.493889,3.615232,240,1.89,9.00,,"Segeersingel, 4337 LE Middelburg",https://www.q-park.nl/nl-nl/parkeren/middelburg/p-r-segeersingel/

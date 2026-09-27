@@ -1,0 +1,9 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Am Kino,Q-Park,51.5372444,7.2236862,444,1.20,9.00,True,"Museumsstraße 2, 44623 Herne",https://www.q-park.de/de-de/staedte/herne/am-kino/
+QP02,City-Center,Q-Park,51.5373124,7.2254813,481,1.20,9.00,True,"Bahnhofstraße 7, 44623 Herne",https://www.q-park.de/de-de/staedte/herne/city-center/
+LM01,Neue Höfe,Landmarken Parkhaus Neue Höfe Herne GmbH,51.5420265,7.2196509,524,,25.00,,"Poststraße 22, 44629 Herne",https://landmarken.de/de/projekte/neue-hoefe-herne
+WZ01,WEZ Wanner Einkaufszentrum,P wie Parken,51.5304303,7.157177,297,1.00,5.00,,"Hauptstraße 241, 44649 Herne",https://www.parkopedia.de/parken/garage/wez_wanner_einkaufszentrum/44649/herne/
+MH01,Parkhaus Marien Hospital,St. Elisabeth Gruppe GmbH,51.5289,7.2258,340,,,True,"Hölkeskampring 40, 44625 Herne",https://medecon.ruhr/2022/10/neues-parkhaus-des-marien-hospital-herne-eroeffnet/
+EVK01,Parkhaus am EvK,Evangelisches Krankenhaus Herne,51.5345,7.2311,264,1.00,5.00,True,"Wiescherstraße 24, 44623 Herne",https://www.parkinglist.de/parkplatz/herne/parkhaus-parkhaus-am-evk-herne-4996
+KZ01,Tiefgarage Kulturzentrum / Berliner Platz,Kulturzentrum.Herne Tagungsstätten- und Gastronomiegesellschaft Herne mbH,51.5365207,7.2228029,64,0.90,,,"Berliner Platz, 44623 Herne",https://www.parkinglist.de/parkplatz/herne/parkhaus-kulturzentrum-sparkasse-herne-5006
+WW01,wewole Quartiersparkhaus,wewole STIFTUNG,51.5551748,7.2408844,160,1.50,,True,"Langforthstraße, 44628 Herne",https://www.halloherne.de/artikel/wewole-quartiersparkhaus-eroeffnet-73880

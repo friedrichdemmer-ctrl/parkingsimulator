@@ -1,0 +1,8 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Tirou,Q-Park,50.408447,4.439019,484,2.15,12.50,True,"Boulevard Tirou 20, 6000 Charleroi",https://www.q-park.be/fr-be/villes/charleroi/tirou/
+QP02,Inno Centre Ville,Q-Park,50.40854,4.4437,288,2.15,12.50,,"Rue de Montigny 16, 6000 Charleroi",https://www.q-park.be/fr-be/villes/charleroi/inno-centre-ville/
+IN01,Rive Gauche,Indigo,50.408384,4.438737,1000,2.20,,True,"Boulevard Joseph Tirou 22, 6000 Charleroi",https://www.indigoneo.be/fr/parkings/16964/parking-rive-gauche
+RC01,Parking de la Digue,RCA Charleroi,50.409932,4.437060,270,2.10,16.80,True,"Rue du Grand Central 35, 6000 Charleroi",https://www.parkingmalin.be/
+RC02,Parking Campus,RCA Charleroi,50.417408,4.449697,200,1.00,10.00,True,"Boulevard Gustave Roullier, 6000 Charleroi",https://www.parkingmalin.be/
+RC03,Parking Zoé Drion,RCA Charleroi,50.414606,4.453733,670,1.90,14.00,,"Boulevard Zoé Drion 19, 6000 Charleroi",https://www.parkingmalin.be/
+RC04,Parking Caserne Trésignies,RCA Charleroi,50.411086,4.450944,60,2.00,16.00,True,"Avenue du Général Michel 3, 6000 Charleroi",https://www.parkingmalin.be/

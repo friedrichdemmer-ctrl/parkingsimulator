@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Q-Park Sylbækvej 34,Q-Park,56.14305,10.1422674,8,12.0,,,"Sylbækvej 34, 8230 Aabyhøj",https://www.q-park.dk/da/parkering/aabyhøj/sylbækvej-34/
+APC01,APCOA Søren Frichs vej 38 A,APCOA,56.15264385,10.17750494,792,18.0,432.0,,"Søren Frichs Vej 38 A, 8230 Åbyhøj",https://www.apcoa.dk/find-en-p-plads/lokationer/aabyhoej/soeren-frichs-vej-38-a
+APC02,APCOA Klamsagervej 19-31 & 35,APCOA,56.14233293,10.15215281,287,15.0,360.0,,"Klamsagervej 19-35, 8230 Åbyhøj",https://www.apcoa.dk/find-en-p-plads/lokationer/aabyhoej/klamsagervej-19-31-35

@@ -1,0 +1,18 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Marktstieg,Q-Park,51.1949112,6.432992,155,1.70,17.00,,"Marktstieg 12, 41061 Mönchengladbach",https://www.q-park.de/de-de/staedte/m%C3%B6nchengladbach/marktstieg/
+QP02,Peek & Cloppenburg,Q-Park,51.1935084,6.4340662,123,1.70,17.00,,"Krichelstraße 26, 41061 Mönchengladbach","https://www.q-park.de/de-de/staedte/m%c3%b6nchengladbach/peek-,-a-,-cloppenburg/"
+SABA01,Parking Saba Mönchengladbach,Saba,51.19627,6.43957,,2.00,20.00,,"Steinmetzstraße 46, 41061 Mönchengladbach",https://www.sabaparking.com/de/parkplatze-m%C3%B6nchengladbach/parking-saba-m%C3%B6nchengladbach
+BB01,Parkhaus Oskar-Kühlen-Straße,B+B Parkhaus,51.193785,6.440922,280,,10.00,True,"Oskar-Kühlen-Straße 1-15, 41061 Mönchengladbach",https://www.bb-parkhaus.de/staedte/moenchengladbach/parkhaus-oskar-kuehlen-strasse
+BB02,Parkhaus Stepgesstraße/Minto Süd,B+B Parkhaus,51.193267,6.4384,350,,12.00,True,"Stepgesstraße 21, 41061 Mönchengladbach",https://www.bb-parkhaus.de/staedte/moenchengladbach/parkhaus-stepgesstrasse-minto-sued
+PMG01,Parkhaus Rheydt Marktplatz (Tiefgarage Rheydt Markt),ParkenMG,51.1632896,6.4464312,223,1.50,15.00,True,"Limitenstraße 21, 41236 Mönchengladbach",https://parkenmg.de/
+DBP01,Mönchengladbach Hbf City-Ost / Vitusbad,DB BahnPark,51.1972144,6.4501595,575,2.00,,,"Breitenbachstraße 50, 41065 Mönchengladbach",https://www.bahnhof.de/en/moenchengladbach-hbf/parking-spaces
+DBP02,Mönchengladbach Hbf Güterstraße 43,DB BahnPark,51.1977142,6.4485256,33,,,,"Güterstraße 43, 41065 Mönchengladbach",https://www.bahnhof.de/en/moenchengladbach-hbf/parking-spaces
+DBP03,Mönchengladbach Hbf Hindenburgstraße 232,DB BahnPark,51.1985456,6.4470802,22,,,,"Hindenburgstraße 232, 41061 Mönchengladbach",https://www.bahnhof.de/en/moenchengladbach-hbf/parking-spaces
+DBP04,Mönchengladbach Hbf Sittardplatz 13,DB BahnPark,51.1965464,6.4423921,29,,,,"Sittardplatz 13, 41061 Mönchengladbach",https://www.bahnhof.de/en/moenchengladbach-hbf/parking-spaces
+DBP05,Mönchengladbach Hbf Sittardstraße 32,DB BahnPark,51.1987249,6.4400387,117,,,,"Sittardstraße 32, 41061 Mönchengladbach",https://www.bahnhof.de/en/moenchengladbach-hbf/parking-spaces
+DBP06,Mönchengladbach Hbf Stadtsparkasse Mönchengladbach,DB BahnPark,51.1958682,6.4443818,220,1.20,,,"Goebenstraße 12, 41061 Mönchengladbach",https://www.bahnhof.de/en/moenchengladbach-hbf/parking-spaces
+DBP07,Rheydt Hbf Mittelstraße 4,DB BahnPark,51.1656145,6.4384706,44,,,,"Mittelstraße 4, 41236 Mönchengladbach",https://www.bahnhof.de/en/rheydt-hbf/parking-spaces
+DBP08,Rheydt Hbf Rheydt Hauptbahnhof,DB BahnPark,51.1632253,6.4396734,60,,,,"Mittelstraße, 41063 Mönchengladbach",https://www.bahnhof.de/en/rheydt-hbf/parking-spaces
+DBP09,Rheydt Hbf Rheydter Ring-Hbf.,DB BahnPark,51.1646291,6.4402631,301,2.00,14.00,,"Langensgasse 12, 41236 Mönchengladbach",https://www.bahnhof.de/en/rheydt-hbf/parking-spaces
+DBP10,Mönchengladbach-Lürrip Park & Ride,DB BahnPark,51.2033548,6.474436,221,,,,"Volksbadstraße 72, 41065 Mönchengladbach",https://www.bahnhof.de/en/moenchengladbach-luerrip/parking-spaces
+PPG01,Nordpark P8,PPG-Nordpark,51.1746249,6.3864883,400,1.50,7.00,True,"Hennes-Weisweiler-Allee 1, 41179 Mönchengladbach",https://www.ppg-nordpark.de/parken/

@@ -1,0 +1,17 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Dickens Yard,Q-Park,51.5137835,-0.3082817,510,1.80,16.00,False,"1 Longfield Avenue, Ealing, W5 2UQ",https://www.q-park.co.uk/en-gb/cities/ealing/dickens-yard/
+AP01,Ealing Hospital NHS Trust - Southall,APCOA,51.508224,-0.345642,170,3.30,14.80,False,"Uxbridge Road, Southall, UB1 3HW",https://www.apcoa.co.uk/find-parking/locations/southall/ealing-hospital-nhs-trust-southall
+SB01,North Ealing Station Car Park (TfL),Saba,51.51756558,-0.289265586,99,,5.50,False,"Station Road, London, W5 3AF",https://www.sabaparking.co.uk/en/car-park/north-ealing-station-car-park-tfl
+EC01,Arden Road,Ealing Council,51.512263,-0.315041,29,,,False,"Arden Road, West Ealing, W13 8RP",https://www.ealing.gov.uk/download/downloads/id/5404/car_park_charges_spaces_and_opening_times.pdf
+EC02,Featherstone Terrace,Ealing Council,51.502851,-0.383627,140,,,True,"Featherstone Terrace, Southall, UB2 5AL",https://www.ealing.gov.uk/download/downloads/id/5404/car_park_charges_spaces_and_opening_times.pdf
+EC03,George Street,Ealing Council,51.508107,-0.338913,86,,,False,"George Street, Hanwell, W7 3TA",https://www.ealing.gov.uk/download/downloads/id/5404/car_park_charges_spaces_and_opening_times.pdf
+EC04,Greenford Broadway,Ealing Council,51.5284067,-0.3562287,159,,,False,"Greenford Broadway, Greenford, UB6 9PY",https://www.ealing.gov.uk/download/downloads/id/5404/car_park_charges_spaces_and_opening_times.pdf
+EC05,Herbert Road MSCP,Ealing Council,51.510636,-0.376924,262,,,False,"Herbert Road, Southall, UB1 1LH",https://www.ealing.gov.uk/download/downloads/id/5404/car_park_charges_spaces_and_opening_times.pdf
+EC06,Norwood Road 1,Ealing Council,51.495943,-0.373787,39,,,False,"Norwood Road, Southall, UB2 4JT",https://www.ealing.gov.uk/download/downloads/id/5404/car_park_charges_spaces_and_opening_times.pdf
+EC07,Perivale Station,Ealing Council,51.537933,-0.333083,106,,,False,"Perivale Station, Perivale, UB6 8LE",https://www.ealing.gov.uk/download/downloads/id/5404/car_park_charges_spaces_and_opening_times.pdf
+EC08,Perceval House,Ealing Council,51.514026,-0.308173,91,,,False,"Longfield Avenue, Ealing, W5 2UQ",https://www.ealing.gov.uk/download/downloads/id/5404/car_park_charges_spaces_and_opening_times.pdf
+EC09,Salisbury Street,Ealing Council,51.50611,-0.267355,66,,,False,"Salisbury Street, Acton, W3 8NW",https://www.ealing.gov.uk/download/downloads/id/5404/car_park_charges_spaces_and_opening_times.pdf
+EC10,Singapore Road,Ealing Council,51.5112707,-0.3265747,2,0.00,0.00,False,"Singapore Road, Ealing, W13 0RJ",https://www.ealing.gov.uk/download/downloads/id/5404/car_park_charges_spaces_and_opening_times.pdf
+EC11,South Ealing Road,Ealing Council,51.50269,-0.306605,30,,,False,"South Ealing Road, Ealing, W5 4QT",https://www.ealing.gov.uk/download/downloads/id/5404/car_park_charges_spaces_and_opening_times.pdf
+EC12,Springbridge Road MSCP,Ealing Council,51.514215,-0.305111,473,,,False,"Springbridge Road, Ealing, W5 2AB",https://www.ealing.gov.uk/download/downloads/id/5404/car_park_charges_spaces_and_opening_times.pdf
+EC13,Witham Road,Ealing Council,51.511317,-0.322468,20,,,False,"Witham Road, West Ealing, W13 0TU",https://www.ealing.gov.uk/download/downloads/id/5404/car_park_charges_spaces_and_opening_times.pdf

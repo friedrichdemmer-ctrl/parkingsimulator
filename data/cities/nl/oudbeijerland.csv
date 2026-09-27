@@ -1,0 +1,3 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,De Veiling,Q-Park,51.82571,4.41313,124,1.70,5.00,True,"Wilhelminastraat 23, 3262 SV Oud-Beijerland",https://www.q-park.nl/nl-nl/parkeren/oud-beijerland/de-veiling/
+DK01,Dirk Parkeergarage/Parkeerdek (Vierwiekenplein),Dirk van den Broek,51.828241,4.409898,173,0.50,,,"Vierwiekenplein 46-48, 3262 AN Oud-Beijerland",https://www.parkopedia.nl/parking/carpark/dirk_parkeerdek/3262/oud_beijerland/

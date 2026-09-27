@@ -1,0 +1,5 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,La Ciotat Verdun,Q-Park,43.17628,5.60601,295,1.40,17.20,False,"171 Boulevard de la République, 13600 La Ciotat",https://www.q-park.fr/fr-fr/villes/la-ciotat/la-ciotat-verdun/
+QP02,Port de Plaisance,Q-Park,43.17874,5.61098,475,1.80,22.90,True,"4 Avenue du Président Wilson, 13600 La Ciotat",https://www.q-park.fr/fr-fr/villes/la-ciotat/port-de-plaisance/
+IN01,Vieux Port,Indigo Neo,43.173675,5.603017,,,,True,"Boulevard André Bertolucci, 13600 La Ciotat",https://www.indigoneo.fr/fr/parkings/11803/parking-vieux-port
+IN02,Parc du Centre,Indigo Neo,43.178925,5.608177,,,,True,"Boulevard Alphonse de Lamartine, 13600 La Ciotat",https://www.indigoneo.fr/fr/parkings/11853/parking-parc-du-centre

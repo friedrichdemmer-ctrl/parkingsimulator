@@ -1,0 +1,16 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Altstadt,Q-Park,54.3227328,10.1415187,572,2.50,17.00,True,"Flämische Straße 15, 24103 Kiel",https://www.q-park.de/de-de/staedte/kiel/altstadt/
+QP02,Holstenstraße I,Q-Park,54.3217519,10.1394588,355,2.50,17.00,,"Holstenstraße 1, 24103 Kiel",https://www.q-park.de/de-de/staedte/kiel/holstenstra%C3%9Fe/
+QP03,Holstenstraße II,Q-Park,54.3220162,10.1399776,332,2.50,17.00,,"Eggerstedtstraße 4, 24103 Kiel",https://www.q-park.de/de-de/staedte/kiel/holstenstra%C3%9Fe-ii/
+CP01,Parkhaus CAP,Contipark,54.3135,10.132356,414,2.00,12.00,,"Kaistraße 54-56, 24114 Kiel",https://www.contipark.de/de/parken/kiel/parkhaus-cap/
+CP02,Parkhaus Querpassage,Contipark,54.318381,10.130619,172,2.00,12.00,,"Hopfenstr. 66, 24103 Kiel",https://www.contipark.de/de/parken/kiel/parkhaus-querpassage/
+CP03,Parkhaus Sophienhof,Contipark,54.316044,10.129132,821,2.00,12.00,,"Hopfenstraße 32, 24103 Kiel",https://www.contipark.de/de/parken/kiel/parkhaus-sophienhof/
+FP01,Förde Parkhaus,Förde Parkhaus GmbH & Co. KG,54.3203555,10.1379323,450,,19.00,,"Kaistraße 1, 24103 Kiel",https://foerdeparkhaus.de/
+EP01,Parkhaus ZOB,PSG / Eigenbetrieb Parken Kiel,54.317399,10.134265,541,2.00,16.00,True,"Auguste-Viktoria-Straße 9, 24103 Kiel",https://parkhaus-zob-kiel.de/
+EP02,Parkhaus Karstadt am Sophienblatt,GALERIA Karstadt Kaufhof GmbH,54.318801,10.131476,610,2.00,15.00,,"Hopfenstraße 60, 24114 Kiel",https://ahoi.kiel-sailing-city.de/de/kiel-sailing-city/streaming/detail/POI/p_100046078/parkhaus-karstadt-sophienblatt
+SW01,Arena-Parkhaus,Stadtwerke Kiel AG,54.320957,10.129191,180,2.00,24.00,True,"Exerzierplatz 3, 24103 Kiel",https://www.goingelectric.de/stromtankstellen/Deutschland/Kiel/Parkhaus-Arena-Parken-Wunderino-Arena-Exerzierplatz-3/63845/
+KM01,Parkplatz Exerzierplatz,Kiel-Marketing e.V./GmbH,54.321167,10.127656,450,1.50,,,"Exerzierplatz, 24114 Kiel",https://ahoi.kiel-sailing-city.de/de/kiel-sailing-city/streaming/detail/POI/p_100046084/parkplatz-exerzierplatz
+KM02,Parkhaus Dreiecksplatz,Kiel-Marketing e.V./GmbH,54.329638,10.133986,305,,,,"Preußerstraße 11, 24105 Kiel",https://ahoi.kiel-sailing-city.de/de/kiel-sailing-city/streaming/detail/POI/p_100046136/parkhaus-dreiecksplatz-preusserstrasse
+KM03,Parkhaus Gaarden,Kiel-Marketing e.V./GmbH,54.314220,10.144458,163,0.20,,,"Schulstraße 31, 24143 Kiel",https://ahoi.kiel-sailing-city.de/de/kiel-sailing-city/streaming/detail/POI/p_100046123/parkhaus-gaarden
+KM04,Parkhaus HBZ/Schauspielhaus,Kiel-Marketing e.V./GmbH,54.335857,10.132935,28,,,,"Beselerallee 67, 24105 Kiel",https://ahoi.kiel-sailing-city.de/de/kiel-sailing-city/wlan/detail/POI/p_100046129/parkhaus-hbz-schauspielhaus
+ST01,Parkhaus Steigenberger Conti Hansa,Steigenberger Hotel Conti Hansa,54.326310,10.142634,54,1.70,23.00,True,"Schloßgarten 7, 24103 Kiel",https://ahoi.kiel-sailing-city.de/de/kiel-sailing-city/streaming/detail/POI/p_100046124/parkhaus-steigenberger-conti-hansa

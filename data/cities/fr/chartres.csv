@@ -1,0 +1,7 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Cœur de Ville,Q-Park,48.44382,1.483916,1118,3.00,25.10,True,"Place des Épars, 28000 Chartres",https://www.q-park.fr/fr-fr/villes/chartres/c%c5%93ur-de-ville/
+QP02,Cathédrale,Q-Park,48.44737,1.484147,331,3.00,25.10,True,"Place Châtelet, 28000 Chartres",https://www.q-park.fr/fr-fr/villes/chartres/cath%c3%a9drale/
+QP03,Gare-Colisée,Q-Park,48.448729,1.4791,1085,3.00,25.10,True,"25 Rue du Faubourg Saint-Jean, 28000 Chartres",https://www.q-park.fr/fr-fr/villes/chartres/gare-colis%c3%a9e/
+QP04,Grand Faubourg,Q-Park,48.443721,1.481989,163,3.00,25.10,False,"17 Rue du Grand Faubourg, 28000 Chartres",https://www.q-park.fr/fr-fr/villes/chartres/grand-faubourg/
+QP05,Hôtel de Ville,Q-Park,48.443509,1.487573,403,3.00,25.10,False,"16 Rue Mathurin Régnier, 28000 Chartres",https://www.q-park.fr/fr-fr/villes/chartres/h%c3%b4tel-de-ville/
+QP06,République,Q-Park,48.446169,1.481111,586,3.00,25.10,True,"Face au 10 Rue Danielle Casanova, 28000 Chartres",https://www.q-park.fr/fr-fr/villes/chartres/r%c3%a9publique/

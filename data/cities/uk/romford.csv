@@ -1,0 +1,14 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Romford Town,Q-Park,51.579957,0.1811934,252,2.30,16.50,True,"Ducking Stool Court, Romford, RM1 3AB",https://www.q-park.co.uk/en-gb/cities/romford/romford-town/
+LIB01,The Liberty Shopping Centre,The Liberty Shopping Centre,51.576851,0.182899,800,,7.50,True,"11 Western Road, Romford, RM1 3LD",https://www.theliberty.co.uk/parking/
+MER01,The Mercury Mall,The Mercury Mall,51.579434,0.185693,1000,,10.00,False,"Mercury Gardens, Romford, RM1 3EE",https://www.themercurymall.co.uk/parking/
+HAV01,Angel Way Car Park,London Borough of Havering,51.57814,0.178833,320,2.60,15.00,False,"Angel Way, Romford, RM1 1JH",https://www.havering.gov.uk/car-parks-1/angel-way-car-park
+HAV02,Como Street Car Park,London Borough of Havering,51.580555,0.176668,134,2.60,15.00,False,"Como Street, Romford, RM7 7DL",https://www.havering.gov.uk/car-parks-1/como-street-car-park
+HAV03,Cottons Park Car Park,London Borough of Havering,51.576424,0.174898,,0.00,,False,"Cottons Approach, Romford, RM7 7AA",https://www.havering.gov.uk/car-parks-1/cottons-park-car-park
+HAV04,Lodge Farm Park North Car Park,London Borough of Havering,51.584884,0.194312,,0.00,,False,"Main Road, Romford, RM2 5JB",https://www.havering.gov.uk/car-parks-1/lodge-farm-park-north-car-park
+HAV05,Lodge Farm Park South Car Park,London Borough of Havering,51.577915,0.190946,,0.00,,False,"Carlton Road, Romford, RM2 5AA",https://www.havering.gov.uk/car-parks-1/lodge-farm-park-south-car-park
+HAV06,Market Place Car Park,London Borough of Havering,51.580246,0.181186,160,2.60,,False,"Market Place, Romford, RM1 1XL",https://www.havering.gov.uk/car-parks-1/market-place-car-park
+HAV07,Marshalls Park Car Park,London Borough of Havering,51.582241,0.181772,123,,,False,"Park End Road, Romford, RM1 4AU",https://www.havering.gov.uk/car-parks-1/marshalls-park-car-park
+HAV08,Oldchurch Rise Car Park,London Borough of Havering,51.570762,0.180992,82,2.60,15.00,False,"Oldchurch Rise, Romford, RM7 0AW",https://www.havering.gov.uk/car-parks-1/oldchurch-rise-car-park
+HAV09,Slaney Road Car Park,London Borough of Havering,51.576142,0.185232,100,2.60,15.00,False,"Slaney Road, Romford, RM1 3NH",https://www.havering.gov.uk/car-parks-1/slaney-road-car-park
+HAV10,Town Hall Car Park,London Borough of Havering,51.581398,0.183565,60,2.60,15.00,False,"Main Road, Romford, RM1 3BB",https://www.havering.gov.uk/car-parks-1/town-hall-car-park

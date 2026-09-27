@@ -1,0 +1,7 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Charles de Gaulle,Q-Park,46.4012655,6.5888103,258,1.5,16.4,True,"Place Charles De Gaulle, 74500 Evian Les Bains",https://www.q-park.fr/fr-fr/villes/evian-les-bains/charles-de-gaulle/
+QP02,Centre,Q-Park,46.3997883,6.5893805,98,1.5,16.4,True,"28 Avenue Commandant Madelaine, 74500 Evian Les Bains",https://www.q-park.fr/fr-fr/villes/evian-les-bains/evian-les-bains-centre/
+QP03,Gare d'Evian-les-Bains,Q-Park,46.3975247,6.5736937,142,1.5,16.4,True,"46 Avenue de la Gare, 74500 Evian Les Bains",https://www.q-park.fr/fr-fr/villes/evian-les-bains/gare-evian-les-bains/
+QP04,Office du Tourisme,Q-Park,46.4011348,6.5854967,529,1.5,16.4,True,"7 Place Porte d'Allinges, 74500 Evian Les Bains",https://www.q-park.fr/fr-fr/villes/evian-les-bains/office-du-tourisme/
+QP05,Port Hilton,Q-Park,46.4012188,6.5979371,321,1.5,16.4,True,"53 Quai Paul Léger, 74500 Evian Les Bains",https://www.q-park.fr/fr-fr/villes/evian-les-bains/port-hilton/
+QP06,Princess,Q-Park,46.4013937,6.5986325,112,1.5,16.4,False,"49 Quai Paul Léger, 74500 Evian Les Bains",https://www.q-park.fr/fr-fr/villes/evian-les-bains/princess/

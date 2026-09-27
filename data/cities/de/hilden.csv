@@ -1,0 +1,10 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Bismarckpassage,Q-Park,51.1681103,6.9361301,57,2.00,10.00,,"Bismarckpassage 26, 40721 Hilden",https://www.q-park.de/de-de/staedte/hilden/bismarckpassage/
+QP02,City Parkhaus,Q-Park,51.1673383,6.9329437,89,2.00,10.00,,"Robert-Gies-Straße 3, 40721 Hilden",https://www.q-park.de/de-de/staedte/hilden/city-parkhaus/
+QP03,Nove Mesto Platz,Q-Park,51.1697641,6.9328051,338,2.00,10.00,,"Nove Mesto Platz 1, 40721 Hilden",https://www.q-park.de/de-de/staedte/hilden/nove-mesto-platz/
+QP04,Penny,Q-Park,51.16705,6.9328493,39,2.00,10.00,,"Robert-Gies-Straße 3, 40721 Hilden",https://www.q-park.de/de-de/staedte/hilden/penny/
+QP05,Rathaus Hilden,Q-Park,51.1702486,6.9368721,360,2.00,10.00,,"Am Rathaus 1, 40721 Hilden",https://www.q-park.de/de-de/staedte/hilden/rathaus-hilden/
+QP06,Sparkassen Center,Q-Park,51.1696598,6.9351355,91,2.00,10.00,True,"Bismarckstraße, 40721 Hilden",https://www.q-park.de/de-de/staedte/hilden/sparkassen-center/
+QP07,Suedstraße,Q-Park,51.165901,6.9361865,128,2.00,10.00,,"Südstraße 22, 40721 Hilden",https://www.q-park.de/de-de/staedte/hilden/suedstra%C3%9Fe/
+CP01,Parkhaus Am Kronengarten,Contipark,51.168228,6.93828,310,1.80,6.00,,"Am Kronengarten 4-14, 40721 Hilden",https://www.contipark.de/de/parken/hilden/parkhaus-am-kronengarten/
+CP02,Parkhaus Itter-Karree,Contipark,51.166701,6.934524,320,1.50,5.00,,"Warringtonplatz 10, 40721 Hilden",https://www.contipark.de/de/parken/hilden/parkhaus-itter-karree/

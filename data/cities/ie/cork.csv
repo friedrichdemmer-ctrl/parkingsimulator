@@ -1,0 +1,18 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Carroll's Quay,Q-Park,51.901722,-8.472167,369,4.00,37.00,True,"Carroll's Quay, Cork, T23 P2TX",https://www.q-park.ie/en-gb/cities/cork/carrolls-quay/
+QP02,City Hall,Q-Park,51.89675,-8.464316,388,4.20,45.00,True,"City Hall, Eglinton Street, Cork, T12 H795",https://www.q-park.ie/en-gb/cities/cork/city-hall/
+QP03,Grand Parade,Q-Park,51.89757,-8.475106,350,4.50,45.00,True,"Grafton Mall, Cork, T12 PXR5",https://www.q-park.ie/en-gb/cities/cork/grand-parade/
+QP04,St Finbarr's,Q-Park,51.8964571,-8.4812431,344,4.20,36.00,,"Sharman Crawford St., Cork, T12 WC78",https://www.q-park.ie/en-gb/cities/cork/st-finbarr's/
+APC01,Merchants Quay,APCOA,51.899435,-8.467845,710,3.80,22.80,True,"Parnell Place, Cork, T12 H299",https://www.apcoa.ie/location-overview/location/cork/merchants-quay-cork
+APC02,St Patrick's Quay,APCOA,51.90076,-8.46748,,2.50,9.00,,"St Patrick's Quay, Cork",https://www.apcoa.ie/location-overview/location/cork/st-patricks-quay-cork
+APC03,Douglas East Village,APCOA,51.877399,-8.4345876,100,1.60,,,"East Douglas Street, Cork, T12 KCF2",https://www.apcoa.ie/location-overview/location/cork/douglas-east-village-cork
+APC04,St Patricks Woollen Mills Douglas,APCOA,51.877,-8.44,150,,1.90,,"West Douglas, Cork, T12 EW44",https://www.apcoa.ie/location-overview/location/cork/st-patricks-woollen-mills-douglas-cork
+APC05,Monkey Maze,APCOA,51.91819,-8.39645,70,3.40,16.00,,"Dunkettle, Glanmire Business Park, Cork, T45 WY07",https://www.apcoa.ie/location-overview/location/cork/monkey-maze-cork
+APC06,Motor Tax Office Model Farm Road,APCOA,51.89768,-8.5285,150,1.50,4.00,,"Model Farm Road, Cork, T12 XP80",https://www.apcoa.ie/location-overview/location/cork/motor-tax-office-model-farm-road-cork
+APC07,The Village Centre P&D Ballincollig,APCOA,51.88764,-8.59269,50,1.50,7.00,,"The Village Centre, Ballincollig, Cork, P31",https://www.apcoa.ie/location-overview/location/cork/the-village-centre-pd-ballincollig-cork
+APC08,The Wilton Pub,APCOA,51.88119,-8.5104,15,2.20,,,"Cardinal Way, Cork, T12 XV21",https://www.apcoa.ie/location-overview/location/cork/the-wilton-pub-cork
+APC09,Highfield Rugby Club (Lot 1),APCOA,51.88617,-8.51939,15,,5.00,,"Woodleigh Park, Glasheen, Cork",https://www.apcoa.ie/location-overview/location/cork/highfield-rugby-club-cork
+APC10,Highfield Rugby Club (Lot 2),APCOA,51.88748706,-8.51749207,15,,5.40,,"Woodleigh Park, Cork, T12 T027",https://www.apcoa.ie/location-overview/location/cork/highfield-rugby-club-cork-1
+CCC01,Paul Street Car Park,Cork City Council,51.900542,-8.475415,749,3.00,,,"Paul Street, Cork",https://www.corkcity.ie/en/council-services/services/parking-services/parking-news/revised-multi-storey-car-park-charges
+CCC02,North Main Street Car Park,Cork City Council,51.901008,-8.477804,330,3.00,,,"North Main Street, Cork",https://www.corkcity.ie/en/council-services/services/parking-services/parking-news/revised-multi-storey-car-park-charges
+CCC03,Black Ash Park & Ride,Cork City Council,51.878279,-8.466956,935,,5.00,,"Black Ash, South Ring Road, Cork",https://www.corkcity.ie/en/council-services/services/parking-services/i-need-a-city-centre-car-park/cork-city-centre-parking-map/

@@ -1,0 +1,6 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,P+R Transferium,Q-Park,51.001691,5.857022,525,2.48,11.00,True,"Geerweg 4, 6135 KC Sittard",https://www.q-park.nl/nl-nl/parkeren/sittard/p-r-transferium/
+IP01,ODA Parking,Interparking,51.000666,5.867213,640,1.90,5.00,True,"Haspelsestraat 41, 6131 GD Sittard",https://www.interparking.nl/en/parkings/sittard/oda-parking/
+IP02,ABC,Interparking,50.997437,5.866270,275,1.90,10.00,,"De Wieer 2b, 6131 CV Sittard",https://www.interparking.nl/en/parkings/sittard/abc-sittard/
+IP03,Hub Dassenplein,Interparking,50.995872,5.867339,285,1.90,10.00,,"Hub Dassenplein 7, 6131 LB Sittard",https://www.interparking.nl/en/parkings/sittard/hub-dassenplein/
+LP01,Ligne,Ligne Parking,51.000673,5.866959,386,1.75,6.00,True,"Haspelsestraat 42, 6131 GB Sittard",https://ligneparking.nl/

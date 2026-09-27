@@ -1,0 +1,13 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Q-Park Agerbækvej 36-82,Q-Park,56.1881546,10.2207562,36,10.0,,,"Agerbækvej 36-82, 8240 Risskov",https://www.q-park.dk/da/parkering/risskov/agerbækvej-36-82/
+QP02,"Q-Park Broloftet 1-29, Terræn",Q-Park,56.1857852,10.2144435,10,15.0,,,"Broloftet 1-29, Terræn, 8240 Risskov","https://www.q-park.dk/da/parkering/risskov/broloftet-1-29,-terræn/"
+QP03,Q-Park Børglumvej 2H,Q-Park,56.1872377,10.2121005,89,12.0,100.0,,"Børglumvej 2H, 8240 Risskov",https://www.q-park.dk/da/parkering/risskov/børglumvej-2h/
+QP04,Q-Park Møllehatten,Q-Park,56.1873286,10.215216,115,16.0,,,"Møllehatten, 8240 Risskov",https://www.q-park.dk/da/parkering/risskov/møllehatten/
+QP05,"Q-Park Risskov Brynet - Møllehatten 1-13, Terræn",Q-Park,56.1864932,10.2110877,75,10.0,,,"Risskov Brynet - Møllehatten 1-13, Terræn, 8240 Risskov","https://www.q-park.dk/da/parkering/risskov/risskov-brynet---møllehatten-1-13,-terræn/"
+QP06,Q-Park Vindrosen 19-45,Q-Park,56.1869674,10.2154359,78,16.0,,,"Vindrosen 19-45, 8240 Risskov",https://www.q-park.dk/da/parkering/risskov/vindrosen-19-45/
+APC01,APCOA Broloftet 2-42,APCOA,56.185306,10.214242,43,12.0,288.0,,"Broloftet 2-42, 8240 Risskov",https://www.apcoa.dk/find-en-p-plads/lokationer/risskov/broloftet-2-42
+APC02,APCOA Kværnloftet 2-44,APCOA,56.18552,10.212698,25,12.0,288.0,,"Kværnloftet 2-44, 8240 Risskov",https://www.apcoa.dk/find-en-p-plads/lokationer/risskov/kvaernloftet-2-44
+APC03,APCOA J.R. Hübertz Gade 13-33,APCOA,56.18560967,10.23011362,88,7.0,50.0,,"J.R. Hübertz Gade 13-33, 8240 Risskov",https://www.apcoa.dk/find-en-p-plads/lokationer/risskov/jr-huebertz-gade-13-33
+APC04,APCOA Brassøvej 17,APCOA,56.20315703,10.23553813,40,13.0,165.0,True,"Brassøvej 17, 8240 Risskov",https://www.apcoa.dk/find-en-p-plads/lokationer/risskov/brassoevej-17
+APC05,APCOA F.K. Hallagers Gade,APCOA,56.18575893,10.22723611,50,7.0,50.0,,"F.K. Hallagers Gade, 8240 Risskov",https://www.apcoa.dk/find-en-p-plads/lokationer/risskov/fk-hallagers-gade
+APC06,APCOA Stationsgade 2C,APCOA,56.18085063,10.23441628,30,12.0,288.0,,"Stationsgade 2C, 8240 Risskov",https://www.apcoa.dk/find-en-p-plads/lokationer/risskov/stationsgade-2c

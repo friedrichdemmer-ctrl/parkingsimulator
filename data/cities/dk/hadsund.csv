@@ -1,0 +1,2 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Havblik 2 Øster Hurup,Q-Park,56.8065432,10.2724942,37,14,,,"Havblik 2, Øster Hurup, 9560 Hadsund","https://www.q-park.dk/da/parkering/hadsund/havblik-4,-øster-hurup/"

@@ -1,0 +1,24 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Meadows,Q-Park,51.730688,0.4759222,454,,21.5,True,"Baddow Road, Chelmsford, CM2 0WP",https://www.q-park.co.uk/en-gb/cities/chelmsford/meadows/
+BSC01,Bond Street,Bond Street Chelmsford,51.7340632,0.4755551,286,3.0,25.0,False,"Bond Street, Chelmsford, CM1 1GD",https://www.bondstreetchelmsford.com/parking
+CCC01,Baddow Road,Chelmsford City Council,51.7291615,0.4777829,250,2.5,8.5,True,"Baddow Road, Chelmsford, CM2 7PJ",https://www.chelmsford.gov.uk/parking-and-travel/car-parks/baddow-road-car-park/
+CCC02,Beaulieu Station A,Chelmsford City Council,51.757694,0.5194956,290,3.5,11.5,True,"Beaulieu Park Station Approach, Chelmsford, CM3 3QW",https://www.chelmsford.gov.uk/parking-and-travel/car-parks/beaulieu-station-a-car-park/
+CCC03,Coval Lane,Chelmsford City Council,51.7352198,0.4618018,188,3.0,8.5,False,"Coval Lane, Chelmsford, CM1 1TG",https://www.chelmsford.gov.uk/parking-and-travel/car-parks/coval-lane-car-park/
+CCC04,Fairfield Road,Chelmsford City Council,51.7364524,0.4661678,352,3.0,11.0,True,"Fairfield Road, Chelmsford, CM1 1TD",https://www.chelmsford.gov.uk/parking-and-travel/car-parks/fairfield-road-car-park/
+CCC05,Great Baddow Parish,Chelmsford City Council,51.7181131,0.501919,35,,,False,"The Causeway, Great Baddow, Chelmsford, CM2 7DW",https://www.chelmsford.gov.uk/parking-and-travel/car-parks/great-baddow-parish-car-park/
+CCC06,High Chelmer,Chelmsford City Council,51.7328623,0.4712684,1012,2.5,20.0,False,"Bellmead, Chelmsford, CM1 1LE",https://www.chelmsford.gov.uk/parking-and-travel/car-parks/high-chelmer-car-park/
+CCC07,Meadows Retail,Chelmsford City Council,51.7318784,0.4796238,391,2.5,8.5,False,"Wharf Road, Chelmsford, CM2 6LU",https://www.chelmsford.gov.uk/parking-and-travel/car-parks/meadows-retail-car-park/
+CCC08,Meadows Surface,Chelmsford City Council,51.7305315,0.4754289,250,2.5,20.0,True,"Can Bridge Way, Chelmsford, CM2 0WP",https://www.chelmsford.gov.uk/parking-and-travel/car-parks/meadows-surface-car-park/
+CCC09,Moulsham Street,Chelmsford City Council,51.729967,0.4724667,170,2.0,8.5,False,"Moulsham Street, Chelmsford, CM2 0LF",https://www.chelmsford.gov.uk/parking-and-travel/car-parks/moulsham-street-car-park/
+CCC10,Parkway,Chelmsford City Council,51.730244,0.4744168,97,2.5,20.0,False,"Parkway, Chelmsford, CM2 0DG",https://www.chelmsford.gov.uk/parking-and-travel/car-parks/parkway-car-park/
+CCC11,Rectory Lane West,Chelmsford City Council,51.741362,0.4676473,305,,9.0,True,"Rectory Lane, Chelmsford, CM1 1RE",https://www.chelmsford.gov.uk/parking-and-travel/car-parks/rectory-lane-west-car-park/
+CCC12,Regina Road,Chelmsford City Council,51.7373243,0.4773814,46,,9.0,False,"Eckersley Road, Chelmsford, CM1 1SL",https://www.chelmsford.gov.uk/parking-and-travel/car-parks/regina-road-car-park/
+CCC13,Riverside,Chelmsford City Council,51.7369929,0.4762811,81,2.5,20.0,False,"Victoria Road, Chelmsford, CM1 1PA",https://www.chelmsford.gov.uk/parking-and-travel/car-parks/riverside-car-park/
+CCC14,The Granary,Chelmsford City Council,51.7363293,0.4791362,180,2.0,7.0,False,"Victoria Road, Chelmsford, CM2 6LJ",https://www.chelmsford.gov.uk/parking-and-travel/car-parks/the-granary-car-park/
+CCC15,Townfield Street,Chelmsford City Council,51.7369867,0.4679083,726,3.0,11.0,False,"Railway Street, Chelmsford, CM1 1QX",https://www.chelmsford.gov.uk/parking-and-travel/car-parks/townfield-street-car-park/
+CCC16,Waterhouse Lane,Chelmsford City Council,51.7334155,0.4581642,86,,7.0,False,"Meteor Way, Chelmsford, CM1 2RL",https://www.chelmsford.gov.uk/parking-and-travel/car-parks/waterhouse-lane-car-park/
+CCC17,Waterloo Lane 1,Chelmsford City Council,51.7350754,0.4750803,67,2.5,20.0,False,"Waterloo Lane, Chelmsford, CM1 1BD",https://www.chelmsford.gov.uk/parking-and-travel/car-parks/waterloo-lane-1-car-park/
+CCC18,Waterloo Lane 2,Chelmsford City Council,51.7350754,0.4750803,53,2.5,20.0,False,"Waterloo Lane, Chelmsford, CM1 1BD",https://www.chelmsford.gov.uk/parking-and-travel/car-parks/waterloo-lane-2-car-park/
+CCC19,Waterloo Lane 3,Chelmsford City Council,51.7350754,0.4750803,70,2.5,20.0,False,"Waterloo Lane, Chelmsford, CM1 1BD",https://www.chelmsford.gov.uk/parking-and-travel/car-parks/waterloo-lane-3-car-park/
+CCC20,West End,Chelmsford City Council,51.7369867,0.4679083,45,2.0,,False,"Railway Street, Chelmsford, CM1 1QS",https://www.chelmsford.gov.uk/parking-and-travel/car-parks/west-end-car-park/
+CCC21,West End Business,Chelmsford City Council,51.7369867,0.4679083,22,,,False,"Railway Street, Chelmsford, CM1 1QS",https://www.chelmsford.gov.uk/parking-and-travel/car-parks/west-end-business-car-park/

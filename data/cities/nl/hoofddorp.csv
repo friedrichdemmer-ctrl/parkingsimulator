@@ -1,0 +1,14 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Primark,Q-Park,52.303696,4.6919219,250,1.50,35.00,,"Marktplein 212, 2132 CW Hoofddorp",https://www.q-park.nl/nl-nl/parkeren/hoofddorp/primark/
+QP02,Spaarne Gasthuis,Q-Park,52.324124,4.655274,961,2.73,15.00,True,"Spaarnepoort 2, 2134 TM Hoofddorp",https://www.q-park.nl/nl-nl/parkeren/hoofddorp/spaarne-gasthuis/
+P101,Winkelcentrum Hoofddorp,P1,52.302498,4.690375,1008,1.20,10.00,,"Burgemeester van Stamplein 46, 2132 BH Hoofddorp",https://www.p1.nl/parkeerplaats/winkelcentrum-hoofddorp/
+P102,Polderplein,P1,52.300837,4.694444,417,1.20,10.00,,"Melis Spaansweg 149, 2132 BJ Hoofddorp",https://www.p1.nl/parkeerplaats/polderplein/
+PB01,Capellalaan 65,ParkBee,52.29291,4.704663,,,,,"Capellalaan 65, 2132 JL Hoofddorp",https://www.parkbee.nl/
+PB02,Intercity Hotel,ParkBee,52.28978085,4.694557113,,,,,"Spark Ave 1, 2133 LC Hoofddorp",https://www.parkbee.nl/
+PB03,Polarisavenue,ParkBee,52.2920865,4.7062167,,,,,"Polarisavenue 130, 2132 JX Hoofddorp",https://www.parkbee.nl/
+PB04,Spicalaan,ParkBee,52.291325,4.708272,,,,,"Spicalaan 1-59, 2132 JG Hoofddorp",https://www.parkbee.nl/
+PB05,Siriusdreef,ParkBee,52.291997,4.710792,,,,,"Siriusdreef 17-27, 2132 WT Hoofddorp",https://www.parkbee.nl/
+PB06,Rijnlanderweg,ParkBee,52.292052,4.714091,,,,,"Rijnlanderweg 1056, 2132 MP Hoofddorp",https://www.parkbee.nl/
+PB07,The Florian Hotel,ParkBee,52.291419,4.720255,,,,,"Kruisweg 609, 2132 NA Hoofddorp",https://www.parkbee.nl/
+PB08,Ninety Nine Hotel,ParkBee,52.2912481,4.720505425,,,,,"Kruisweg 601, 2132 NA Hoofddorp",https://www.parkbee.nl/
+PB09,Van der Valk Hotel Schiphol,ParkBee,52.259161,4.688094,,,,,"A4 3, 2132 MA Hoofddorp",https://www.parkbee.nl/

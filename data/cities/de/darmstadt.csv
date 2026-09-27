@@ -1,0 +1,19 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Tiefgarage Darmstadtium,Q-Park,49.8749382,8.6581774,454,2.70,17.00,,"Alexanderstraße, 64283 Darmstadt",https://www.q-park.de/de-de/staedte/darmstadt/darmstadtium/
+QP02,Grafenstraße,Q-Park,49.8715,8.64886,463,2.40,17.00,,"Grafenstraße 31, 64283 Darmstadt",https://www.q-park.de/de-de/staedte/darmstadt/grafenstra%C3%9Fe/
+QP03,Luisencenter,Q-Park,49.87136,8.65133,824,2.50,17.00,,"Luisenplatz 3, 64283 Darmstadt",https://www.q-park.de/de-de/staedte/darmstadt/luisencenter/
+QP04,Schlossgarage Friedensplatz,Q-Park,49.8745457,8.6538108,300,2.70,17.00,,"Friedensplatz 4, 64283 Darmstadt",https://www.q-park.de/de-de/staedte/darmstadt/schlossgarage-friedensplatz/
+QP05,Schlossgarage Karolinenplatz,Q-Park,49.8745457,8.6538108,315,2.70,17.00,,"Friedensplatz 4, 64283 Darmstadt",https://www.q-park.de/de-de/staedte/darmstadt/schlossgarage-karolinenplatz/
+QP06,Zentrum (Ludwigsplatz),Q-Park,49.8696729,8.6539461,530,2.70,17.00,,"Ludwigplatz 6, 64283 Darmstadt",https://www.q-park.de/de-de/staedte/darmstadt/zentrum/
+AP01,Carree Darmstadt,APCOA,49.872553,8.649315,318,2.50,25.00,True,"Luisenstraße 5, 64283 Darmstadt",https://www.apcoa.de/einmal-parken/standorte/darmstadt/carree-darmstadt
+AP02,P&R Darmstadt,APCOA,49.870579,8.624023,410,2.00,10.00,,"Robert-Bosch-Straße 15, 64293 Darmstadt",https://www.apcoa.de/einmal-parken/standorte/darmstadt/pr-darmstadt
+CP01,Tiefgarage Hauptbahnhof P1 (DB BahnPark),Contipark,49.874134,8.631907,180,1.50,5.00,,"Poststraße, 64293 Darmstadt",https://www.contipark.de/de/parken/darmstadt/tiefgarage-hauptbahnhof-p1-darmstadt/
+BV01,Parkhaus Bad Nauheimer Straße 2,Bauverein AG,49.8863334,8.6537268,402,0.50,5.00,,"Bad Nauheimer Straße 2, 64289 Darmstadt",https://www.bauvereinag.de/kunde-werden/parkhaeuser
+BV02,Parkhaus Holzstraße 6 (Justus-Liebig-Garage),Bauverein AG,49.8722208,8.6575994,222,1.80,,,"Holzstraße 6, 64293 Darmstadt",https://www.bauvereinag.de/kunde-werden/parkhaeuser
+BV03,Parkhaus Lauteschlägerstraße 25,Bauverein AG,49.87786385,8.66082085,84,1.00,,,"Lauteschlägerstraße 25, 64289 Darmstadt",https://www.bauvereinag.de/kunde-werden/parkhaeuser
+BV04,Parkhaus Stiftstraße 15,Bauverein AG,49.8753856,8.6633635,128,1.80,,,"Stiftstraße 15, 64287 Darmstadt",https://www.bauvereinag.de/kunde-werden/parkhaeuser
+BV05,Parkhaus Heidelberger Landstraße 186,Bauverein AG,49.8206089,8.6445527,50,1.50,,,"Heidelberger Landstraße 186, 64297 Darmstadt",https://www.bauvereinag.de/kunde-werden/parkhaeuser
+BV06,Parkhaus Stresemannstraße 24,Bauverein AG,49.8034641,8.6437533,360,0.50,5.00,,"Stresemannstraße 24, 64297 Darmstadt",https://www.bauvereinag.de/kunde-werden/parkhaeuser
+AD01,Parkhaus Adelungstraße,Independent (Parkhaus Adelungstraße),49.8710476,8.6480936,96,2.00,12.00,,"Adelungstraße 23, 64283 Darmstadt",https://www.parkhaus-adelungstrasse.de/parkhaus.html
+WI01,Parkgarage WILHELMIN,City Parking Deutschland,49.8695438,8.6523234,,2.00,16.00,,"Wilhelminenstraße 10, 64283 Darmstadt",https://city-parking.de/standorte/darmstadt-parkgarage-wilhelmin/
+ST01,Parkhaus Staatstheater,WVV Parken,49.8690462,8.6493444,330,,15.00,,"Hügelstraße 55, 64283 Darmstadt",https://www.darmstadt-citymarketing.de/service/parken.html

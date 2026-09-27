@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Gide,Q-Park,44.013738,4.42165,230,1.50,12.40,False,"26 Boulevard Gide, 30700 Uzès",https://www.q-park.fr/fr-fr/villes/uz%c3%a8s/gide/
+QP02,Uzès Cordeliers,Q-Park,44.012698,4.415945,445,0.00,11.50,False,"1 Place des Cordeliers, 30700 Uzès",https://www.q-park.fr/fr-fr/villes/uz%c3%a8s/uz%c3%a8s-cordeliers/
+QP03,Uzès Gare,Q-Park,44.011068,4.412924,120,0.00,11.50,False,"28 Avenue de la Gare, 30700 Uzès",https://www.q-park.fr/fr-fr/villes/uz%c3%a8s/uz%c3%a8s-gare/

@@ -1,0 +1,2 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Coeur de Ville,Q-Park,48.781454,2.262885,212,,24.80,True,"12 Grand'Place, 92350 Le Plessis Robinson",https://www.q-park.fr/fr-fr/villes/le-plessis-robinson/coeur-de-ville/

@@ -1,0 +1,16 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Eyre Square,Q-Park,53.27246,-9.050019,444,3.60,30.00,True,"Merchants Road, Galway H91 F38Y",https://www.q-park.ie/en-gb/cities/galway/eyre-square/
+QP02,Hynes Yard,Q-Park,53.2714373,-9.0513223,650,,29.00,True,"Merchants Road, Galway H91 XA6P",https://www.q-park.ie/en-gb/cities/galway/hynes-yard/
+AP01,Galway Cathedral,APCOA,53.2751,-9.0575,,1.50,8.00,,"Galway Cathedral, H91 A780, Galway",https://www.apcoa.ie/location-overview/location/galway/galway-cathedral-galway
+AP02,Claddagh Church,APCOA,53.268226,-9.056167,80,1.90,1.90,False,"Claddagh, H91 CD36, Galway",https://www.apcoa.ie/location-overview/location/galway/claddagh-church-galway-galway
+AP03,Headford Road,APCOA,53.278645,-9.050391,50,2.00,2.00,False,"Headford Road, N84, Galway",https://www.apcoa.ie/location-overview/location/galway/headford-road-galway
+AP04,The Mercy College,APCOA,53.274311,-9.05412,66,,2.40,False,"The Mercy College, Galway",https://www.apcoa.ie/location-overview/location/galway/the-mercy-college-galway-galway
+AP05,NUI Galway South Campus,APCOA,53.290631,-9.071001,2270,1.40,,False,"University Road, H91 TK33, Galway",https://www.apcoa.ie/location-overview/location/galway/nui-galway-south-campus-galway
+AP06,NUI Galway Sector L Arus Moyola,APCOA,53.27929601,-9.06170502,1500,1.50,6.00,False,"University Road, H91 TK33, Galway",https://www.apcoa.ie/location-overview/location/galway/nui-galway-sector-l-arus-moyola-galway
+AP07,Westwood Student Accommodation,APCOA,53.28862,-9.0715,20,1.20,6.60,,"Newcastle Road, H91 R7XN, Galway",https://www.apcoa.ie/location-overview/location/galway/westwood-student-accommodation-galway
+CP01,City Centre,City Park,53.2735485,-9.0452487,410,3.20,25.00,,"Fairgreen Road, Galway",https://www.citypark.ie/
+CP02,Coach Station,City Park,53.2735485,-9.0452487,168,3.20,25.00,,"Fairgreen Road, Galway",https://www.citypark.ie/
+CP03,Market Street,City Park,53.2730825,-9.0535,83,3.20,25.00,,"13 Market Street, Galway",https://www.citypark.ie/
+GC01,Dyke Road,Galway City Council,53.2783771,-9.0505663,390,,10.00,,"Dyke Road, Galway H91 C9PP",https://www.galwaycity.ie/services/roads-and-transport/roads-and-transport-services/parking-in-galway-city
+GC02,Mill Street,Galway City Council,53.2710782,-9.0576523,82,2.50,,,"Mill Street, Galway H91 FX61",https://www.galwaycity.ie/services/roads-and-transport/roads-and-transport-services/parking-in-galway-city
+GC03,Bowling Green,Galway City Council,53.2738516,-9.0542358,40,2.50,,,"Bowling Green / Newtownsmith, Galway H91 DP11",https://www.galwaycity.ie/services/roads-and-transport/roads-and-transport-services/parking-in-galway-city

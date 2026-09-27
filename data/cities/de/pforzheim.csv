@@ -1,0 +1,9 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Schlössle Galerie,Q-Park,48.8928193,8.696074,374,2.0,14.0,,"Westliche Karl-Friedrich-Straße 80, 75172 Pforzheim",https://www.q-park.de/de-de/staedte/pforzheim/schl%C3%B6ssle-galerie/
+AP01,Kino Pforzheim (Zerrennerstraße),APCOA,48.891067,8.6957,61,2.2,14.0,,"Zerrennerstraße 33, 75172 Pforzheim",https://www.apcoa.de/einmal-parken/standorte/pforzheim/kino-pforzheim-zerrennerstrasse
+CP01,Parkhaus Central,Contipark,48.89069,8.69716,344,2.2,13.0,,"Zerrennerstraße 20a, 75172 Pforzheim",https://www.contipark.de/de/parken/pforzheim/parkhaus-central/
+PSH01,Parkhaus Bertha-Benz-Halle,Park Service Hüfner,48.893070,8.698819,97,1.6,12.0,,"Kiehnlestraße 25, 75172 Pforzheim",https://www.ps-huefner.de/standort.php?ort=Pforzheim&id=107
+PSH02,Parkhaus Alfons-Kern-Schule,Park Service Hüfner,48.890743,8.705724,81,1.8,10.0,,"Theaterstraße 10, 75175 Pforzheim",https://www.ps-huefner.de/standort.php?ort=Pforzheim&id=74
+PSH03,Parkhaus am Bahnhof,Park Service Hüfner,48.893070,8.705470,250,1.8,10.0,,"Lindenstraße 1, 75175 Pforzheim",https://www.ps-huefner.de/standort.php?ort=Pforzheim&id=73
+PSH04,Parkhaus Marktplatz,Park Service Hüfner,48.890308,8.701740,416,2.0,15.0,True,"Am Waisenhausplatz 6, 75175 Pforzheim",https://www.ps-huefner.de/standort.php?ort=Pforzheim&id=91
+PSH05,Parkhaus Stadttheater,Park Service Hüfner,48.889938,8.701620,244,2.0,15.0,True,"Am Waisenhausplatz 5, 75175 Pforzheim",https://www.ps-huefner.de/standort.php?ort=Pforzheim&id=71

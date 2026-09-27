@@ -1,0 +1,18 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Hillfield Road,Q-Park,51.7526664,-0.471265,160,1.50,7.00,False,"Hillfield Road, Hemel Hempstead, HP2 4AA",https://www.q-park.co.uk/en-gb/cities/hemel-hempstead/hillfield-road/
+DBC01,Wood Lane End,Dacorum Borough Council,51.759602,-0.4401,19,0.70,3.50,True,"Wood Lane End, Hemel Hempstead, HP2 4RA",https://webapps.dacorum.gov.uk/carparks/
+DBC02,The Gables,Dacorum Borough Council,51.75971,-0.471224,20,1.10,3.50,False,"The Gables, Hemel Hempstead, HP2 5HL",https://webapps.dacorum.gov.uk/carparks/
+DBC03,High Street,Dacorum Borough Council,51.760757,-0.473272,80,1.10,3.50,False,"High Street, Hemel Hempstead, HP1 3AQ",https://webapps.dacorum.gov.uk/carparks/
+DBC04,Gadebridge Lane,Dacorum Borough Council,51.76266,-0.477822,181,0.00,0.00,False,"Gadebridge Lane, Hemel Hempstead",https://webapps.dacorum.gov.uk/carparks/
+DBC05,Queensway,Dacorum Borough Council,51.75742,-0.474967,144,1.50,5.00,False,"Queensway, Hemel Hempstead, HP1 1HR",https://webapps.dacorum.gov.uk/carparks/
+DBC06,Alexandra Road,Dacorum Borough Council,51.757255,-0.471396,19,1.50,5.00,False,"Alexandra Road, Hemel Hempstead, HP2 5BS",https://webapps.dacorum.gov.uk/carparks/
+DBC07,Water Gardens (North) Lower Deck,Dacorum Borough Council,51.752368,-0.47473,307,2.00,6.00,False,"Leighton Buzzard Road, Hemel Hempstead, HP1 1EF",https://webapps.dacorum.gov.uk/carparks/
+DBC08,Water Gardens (North) Upper Deck,Dacorum Borough Council,51.751804,-0.474687,309,2.00,6.00,False,"Leighton Buzzard Road, Hemel Hempstead, HP1 1EF",https://webapps.dacorum.gov.uk/carparks/
+DBC09,Water Gardens (South),Dacorum Borough Council,51.750695,-0.47472,92,2.00,,False,"Leighton Buzzard Road, Hemel Hempstead, HP1 1EF",https://webapps.dacorum.gov.uk/carparks/
+DBC10,Moor End,Dacorum Borough Council,51.74811,-0.474678,82,,6.00,False,"Moor End Road, Hemel Hempstead, HP1 1BT",https://webapps.dacorum.gov.uk/carparks/
+DBC11,Park Road,Dacorum Borough Council,51.74619,-0.476611,73,1.20,3.90,False,"Park Road, Hemel Hempstead, HP1 1JS",https://webapps.dacorum.gov.uk/carparks/
+DBC12,Dacorum Way,Dacorum Borough Council,51.755588,-0.473006,,1.50,5.00,False,"Dacorum Way, Hemel Hempstead, HP1 1BF",https://webapps.dacorum.gov.uk/carparks/
+DBC13,Cowper Road,Dacorum Borough Council,51.746554,-0.487392,18,0.00,,False,"Cowper Road, Boxmoor, Hemel Hempstead, HP1 1QQ",https://webapps.dacorum.gov.uk/carparks/
+DBC14,Durrants Hill,Dacorum Borough Council,51.739171,-0.469364,64,0.60,3.50,True,"Durrants Hill Road, Apsley, Hemel Hempstead, HP3 9SD",https://webapps.dacorum.gov.uk/carparks/
+MSC01,The Marlowes Shopping Centre,The Marlowes Shopping Centre,51.751094,-0.471105,1200,,15.00,False,"The Marlowes Shopping Centre, Wolsey Road, Hemel Hempstead, HP2 4TU",https://www.themarlowes.co.uk/visiting/getting-here
+RSC01,Riverside Shopping Centre,Riverside Shopping Centre,51.746815,-0.472525,328,,,False,"Riverside Shopping Centre, Leighton Buzzard Road, Hemel Hempstead, HP2 4FW",https://www.riversidehemel.com/car-parking/

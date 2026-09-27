@@ -1,0 +1,35 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Burlington,Q-Park,51.510612,-0.140875,311,12.50,67.50,,"Old Burlington Street, London, W1S 3AF",https://www.q-park.co.uk/en-gb/cities/london/burlington/
+QP02,Chinatown,Q-Park,51.512314,-0.129657,254,11.50,67.00,True,"Newport Place, London, WC2H 7PU",https://www.q-park.co.uk/en-gb/cities/london/chinatown/
+QP03,Covent Garden,Q-Park,51.510449,-0.126735,33,9.00,44.00,,"Bedfordbury, London, WC2N 4HX",https://www.q-park.co.uk/en-gb/cities/london/covent-garden/
+QP04,Gatwick,Q-Park,51.1424925,-0.2105948,3200,,,True,"Charlwood Road, London, RH11 0QB",https://www.q-park.co.uk/en-gb/cities/london/gatwick/
+QP05,Harley Street,Q-Park,51.517938,-0.1455005,214,11.50,67.00,True,"Queen Anne Mews, London, W1G 9HF",https://www.q-park.co.uk/en-gb/cities/london/harley-street/
+QP06,Heathrow,Q-Park,51.4797901,-0.4257516,2200,,,True,"Bath Road, London, TW6 2AL",https://www.q-park.co.uk/en-gb/cities/london/heathrow/
+QP07,Knightsbridge,Q-Park,51.499927,-0.156909,200,11.50,67.00,True,"Kinnerton Street, London, SW1X 8EA",https://www.q-park.co.uk/en-gb/cities/london/knightsbridge/
+QP08,Leicester Square,Q-Park,51.509606,-0.130967,247,11.50,67.00,True,"Whitcomb Street, London, WC2H 7DT",https://www.q-park.co.uk/en-gb/cities/london/leicester-square/
+QP09,Marble Arch,Q-Park,51.5122633,-0.1612373,981,11.00,58.00,True,"Cumberland Gate, London, W2 2ET",https://www.q-park.co.uk/en-gb/cities/london/marble-arch/
+QP10,Oxford Street,Q-Park,51.5166622,-0.1443238,432,11.50,66.00,,"Oxford Street, London, W1G 0PR",https://www.q-park.co.uk/en-gb/cities/london/oxford-street/
+QP11,Park Lane,Q-Park,51.50915,-0.15591,1017,11.00,58.00,True,"Park Lane, London, W1K 7AN",https://www.q-park.co.uk/en-gb/cities/london/park-lane/
+QP12,Pimlico,Q-Park,51.490134,-0.146234,195,6.50,46.00,True,"Cumberland Street, London, SW1V 4LR",https://www.q-park.co.uk/en-gb/cities/london/pimlico/
+QP13,Queensway,Q-Park,51.511031,-0.187166,171,6.50,40.00,True,"26 Queensway, London, W2 3RX",https://www.q-park.co.uk/en-gb/cities/london/queensway/
+QP14,Soho,Q-Park,51.514177,-0.136835,162,11.50,67.00,True,"Poland Street, London, W1F 7NQ",https://www.q-park.co.uk/en-gb/cities/london/soho/
+QP15,St John's Wood,Q-Park,51.534463,-0.17327,200,7.50,39.00,True,"Kingsmill Terrace, London, NW8 6AA",https://www.q-park.co.uk/en-gb/cities/london/st-john's-wood/
+QP16,Tower Bridge,Q-Park,51.502336,-0.0736088,502,8.00,45.00,True,"Gainsford Street, London, SE1 2NE",https://www.q-park.co.uk/en-gb/cities/london/tower-bridge/
+QP17,Victoria,Q-Park,51.4955311,-0.131987,359,11.00,56.00,,"Arneway Street, London, SW1P 2TX",https://www.q-park.co.uk/en-gb/cities/london/victoria/
+AP01,The O2 Centre,APCOA,51.54799,-0.181409,500,5.00,,True,"255 Finchley Road, London, NW3 6LU",https://www.apcoa.co.uk/find-parking/locations/london/the-o2-centre-london
+AP02,South Bank,APCOA,51.50623774,-0.11150845,500,,26.00,,"51 Cornwall Rd, London, SE1 9PU",https://www.apcoa.co.uk/find-parking/locations/london/south-bank-london
+AP03,Central Middlesex Hospital,APCOA,51.53162,-0.269769,,3.30,14.80,,"Acton Lane, London, NW10 7NS",https://www.apcoa.co.uk/find-parking/locations/london/central-middlesex-hospital-london
+AP04,London Paddington Station,APCOA,51.517896,-0.18121,81,5.15,35.20,,"Bishops Bridge Road, London, W2 6AA",https://www.apcoa.co.uk/find-parking/locations/london/london-paddington-station-london
+AP05,London Victoria Station,APCOA,51.495209,-0.144541,81,9.00,34.00,True,"Eccleston Bridge, London, SW1W 9SJ",https://www.apcoa.co.uk/find-parking/locations/london/london-victoria-station-london
+AP06,London Waterloo Station,APCOA,51.501538,-0.112655,20,9.20,30.00,True,"Station Approach, London, SE1 8SW",https://www.apcoa.co.uk/find-parking/locations/london/london-waterloo-station-london
+AP07,Clapham Junction Station,APCOA,51.4656,-0.17077,53,2.20,16.50,,"Grant Road, London, SW11 2NU",https://www.apcoa.co.uk/find-parking/locations/london/clapham-junction-station-clapham
+AP08,Wandsworth Southside 1,APCOA,51.453121,-0.193356,875,2.50,20.00,,"Garratt Lane, Southside Shopping Centre, Wandsworth, London, SW18 4AU",https://www.apcoa.co.uk/find-parking/locations/london/wandsworth-southside-1-london
+AP09,Wandsworth Southside 2,APCOA,51.455426,-0.195348,315,2.50,20.00,True,"Buckhold Road, Wandsworth, London, SW18 4BS",https://www.apcoa.co.uk/find-parking/locations/london/wandsworth-southside-2-london
+NC01,Marylebone Road,NCP,51.522,-0.15959,120,10.95,49.95,,"170 Marylebone Road, London, NW1 5AR",https://www.ncp.co.uk/find-a-car-park/car-parks/london-marylebone-road1/
+NC02,London Bridge,NCP,51.502,-0.0872,478,7.00,50.00,,"London Bridge, London, SE1 3RU",https://www.ncp.co.uk/find-a-car-park/car-parks/london-bridge/
+NC03,Finsbury Square,NCP,51.5215,-0.08678,171,8.95,39.95,,"Finsbury Square, London, EC2A 1RR",https://www.ncp.co.uk/find-a-car-park/car-parks/london-finsbury-square/
+NC04,Saffron Hill,NCP,51.521,-0.10678,353,8.00,30.00,True,"Saffron Hill, London, EC1N 8XA",https://www.ncp.co.uk/find-a-car-park/car-parks/london-saffron-hill/
+NC05,Thames Exchange,NCP,51.5103,-0.09249,215,4.95,36.95,True,"Thames Exchange, London, EC4R 3TB",https://www.ncp.co.uk/find-a-car-park/car-parks/london-vintry-thames-exchange/
+NC06,Whitechapel High Street,NCP,51.5155,-0.07121,90,6.95,39.95,,"Whitechapel High Street, London, E1 7RA",https://www.ncp.co.uk/find-a-car-park/car-parks/london-whitechapel-high-st/
+SB01,West India Quay,Saba (formerly Indigo),51.508055,-0.0231134,558,,24.00,True,"Hertsmere Road, London, E14 4AN",https://www.sabaparking.co.uk/en/car-park/west-india-quay-car-park
+SB02,Kensington High Street,Saba (formerly Indigo),51.5027125,-0.1948867,322,4.90,33.00,True,"Hornton Street, Kensington, London, W8 7NX",https://new.sabaparking.co.uk/en/car-park/kensington-high-street-car-park

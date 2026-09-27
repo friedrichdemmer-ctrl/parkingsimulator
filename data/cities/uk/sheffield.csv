@@ -1,0 +1,32 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Castlegate,Q-Park,53.3838333,-1.4621856,403,2.80,25.00,True,"3 Broad Street West, Sheffield, S1 2BQ",https://www.q-park.co.uk/en-gb/cities/sheffield/castlegate/
+QP02,Charles Street,Q-Park,53.378483,-1.469464,530,3.40,25.50,True,"St Paul's Place, Sheffield, S1 2NA",https://www.q-park.co.uk/en-gb/cities/sheffield/charles-street/
+QP03,Durham Road,Q-Park,53.3802774,-1.4888808,561,2.50,21.00,,"Durham Road, Sheffield, S10 2JA",https://www.q-park.co.uk/en-gb/cities/sheffield/durham-road/
+QP04,Riverside,Q-Park,53.386566,-1.466631,533,3.90,25.00,True,"5 Millsands, Sheffield, S3 8NH",https://www.q-park.co.uk/en-gb/cities/sheffield/riverside/
+QP05,Rockingham Street,Q-Park,53.38146,-1.4773,531,2.80,21.00,True,"2 Holland Street, Sheffield, S1 4NL",https://www.q-park.co.uk/en-gb/cities/sheffield/rockingham-street/
+QP06,Sheffield Station,Q-Park,53.376685,-1.463504,678,3.70,27.50,True,"Turner Street, Sheffield, S2 4AA",https://www.q-park.co.uk/en-gb/cities/sheffield/sheffield-station/
+QP07,Solly Street,Q-Park,53.3847264,-1.4731325,552,2.50,11.00,,"Solly Street, Sheffield, S1 4DE",https://www.q-park.co.uk/en-gb/cities/sheffield/solly-street/
+NCP01,Campo Lane,NCP,53.3836707,-1.4693034,150,4.00,15.00,,"Campo Lane, Sheffield, S1 2EF",https://www.ncp.co.uk/find-a-car-park/car-parks/sheffield-campo-lane/
+NCP02,Wellington Street,NCP,53.3784949,-1.4748754,449,2.50,15.00,True,"Wellington Street, Sheffield, S1 4HF",https://www.ncp.co.uk/find-a-car-park/car-parks/sheffield-wellington-street/
+NCP03,Furnival Gate,NCP,53.3775677,-1.4708699,449,2.50,15.00,,"Furnival Gate, Matilda Way, Sheffield, S1 4QJ",https://www.ncp.co.uk/find-a-car-park/car-parks/sheffield-furnival-gate/
+NCP04,Sidney Street,NCP,53.374834,-1.4695367,71,2.50,12.50,,"Sidney Street, Sheffield, S1 4RG",https://www.ncp.co.uk/find-a-car-park/car-parks/sheffield-sidney-street/
+AP01,The Moor,APCOA,53.37592196,-1.47161736,670,3.00,24.00,True,"Eyre Street, Sheffield, S1 4QW",https://www.apcoa.co.uk/find-parking/locations/sheffield/the-moor-sheffield
+AP02,Atkinson's,APCOA,53.376101,-1.47502,433,2.00,12.00,True,"Charter Row, Sheffield, S1 4HS",https://www.apcoa.co.uk/find-parking/locations/sheffield/atkinsons-sheffield
+AP03,New Era Square,APCOA,53.372266,-1.474563,86,2.50,,,"4 New Era Square, Sheffield, S2 4BF",https://www.apcoa.co.uk/find-parking/locations/sheffield/new-era-square-sheffield
+SCC01,Carver Lane,Sheffield City Council,53.3807451,-1.4734616,,1.55,5.95,,"Carver Lane, Sheffield, S1 2GT",https://www.sheffield.gov.uk/sites/default/files/2024-02/Parking%20Tariff%20Public%20Variation%20Notice%202024.pdf
+SCC02,Devonshire Green,Sheffield City Council,53.3788792,-1.4783978,,1.55,5.95,,"Devonshire Green, Sheffield",https://www.sheffield.gov.uk/sites/default/files/2024-02/Parking%20Tariff%20Public%20Variation%20Notice%202024.pdf
+SCC03,Milton Street,Sheffield City Council,53.3750727,-1.4800515,,1.55,5.95,,"Milton Street, Sheffield, S3 7WH",https://www.sheffield.gov.uk/sites/default/files/2024-02/Parking%20Tariff%20Public%20Variation%20Notice%202024.pdf
+SCC04,West Street Lane,Sheffield City Council,53.3812226,-1.4734732,,1.55,5.95,,"West Street Lane, Sheffield, S1 4UA",https://www.sheffield.gov.uk/sites/default/files/2024-02/Parking%20Tariff%20Public%20Variation%20Notice%202024.pdf
+SCC05,Rockingham Street (council),Sheffield City Council,53.3790186,-1.4749601,,1.55,7.85,,"Rockingham Street, Sheffield, S1 4US",https://www.sheffield.gov.uk/sites/default/files/2024-02/Parking%20Tariff%20Public%20Variation%20Notice%202024.pdf
+SCC06,Workhouse Lane,Sheffield City Council,53.3858285,-1.4695770,,1.55,7.85,,"Workhouse Lane, Sheffield, S3 8PS",https://www.sheffield.gov.uk/sites/default/files/2024-02/Parking%20Tariff%20Public%20Variation%20Notice%202024.pdf
+SCC07,Eldon Street,Sheffield City Council,53.3798013,-1.4779773,,1.55,19.40,,"Eldon Street, Sheffield, S3 7SF",https://www.sheffield.gov.uk/sites/default/files/2024-02/Parking%20Tariff%20Public%20Variation%20Notice%202024.pdf
+SCC08,Fitzwilliam Street,Sheffield City Council,53.3769524,-1.4773290,,1.55,19.40,,"Fitzwilliam Street, Sheffield, S1 4JP",https://www.sheffield.gov.uk/sites/default/files/2024-02/Parking%20Tariff%20Public%20Variation%20Notice%202024.pdf
+SCC09,Brook Hill,Sheffield City Council,53.3814000,-1.4870238,,1.55,19.40,,"Brook Hill, Sheffield, S10 2TG",https://www.sheffield.gov.uk/sites/default/files/2024-02/Parking%20Tariff%20Public%20Variation%20Notice%202024.pdf
+SCC10,Broad Lane,Sheffield City Council,53.3825015,-1.4794876,,1.55,19.40,,"Broad Lane, Sheffield, S3 7HQ",https://www.sheffield.gov.uk/sites/default/files/2024-02/Parking%20Tariff%20Public%20Variation%20Notice%202024.pdf
+SCC11,Ebenezer Street,Sheffield City Council,53.3878108,-1.4751175,,1.00,3.90,,"Ebenezer Street, Sheffield, S3 8UH",https://www.sheffield.gov.uk/sites/default/files/2024-02/Parking%20Tariff%20Public%20Variation%20Notice%202024.pdf
+SCC12,Stanley Lane,Sheffield City Council,53.3879895,-1.4634696,,1.00,3.90,,"Stanley Lane, Sheffield, S3 8HQ",https://www.sheffield.gov.uk/sites/default/files/2024-02/Parking%20Tariff%20Public%20Variation%20Notice%202024.pdf
+SCC13,Trinity Street,Sheffield City Council,53.3865239,-1.4737291,,1.00,3.90,,"Trinity Street, Sheffield, S3 7AJ",https://www.sheffield.gov.uk/sites/default/files/2024-02/Parking%20Tariff%20Public%20Variation%20Notice%202024.pdf
+SCC14,Windrush Way,Sheffield City Council,53.3868391,-1.4622379,,1.00,3.90,,"Windrush Way, Sheffield, S3 8JU",https://www.sheffield.gov.uk/sites/default/files/2024-02/Parking%20Tariff%20Public%20Variation%20Notice%202024.pdf
+SCC15,Silver Street,Sheffield City Council,53.3849496,-1.4706088,,1.55,4.65,,"Silver Street, Sheffield, S1 2FQ",https://www.sheffield.gov.uk/sites/default/files/2024-02/Parking%20Tariff%20Public%20Variation%20Notice%202024.pdf
+SCC16,Copper Street,Sheffield City Council,53.3871045,-1.4730114,,1.00,7.80,,"Copper Street, Sheffield, S3 7AG",https://www.sheffield.gov.uk/sites/default/files/2024-02/Parking%20Tariff%20Public%20Variation%20Notice%202024.pdf
+SCC17,Wicker Lane,Sheffield City Council,53.3870714,-1.4635669,,,3.45,,"Wicker Lane, Sheffield, S3 8HJ",https://www.sheffield.gov.uk/sites/default/files/2024-02/Parking%20Tariff%20Public%20Variation%20Notice%202024.pdf

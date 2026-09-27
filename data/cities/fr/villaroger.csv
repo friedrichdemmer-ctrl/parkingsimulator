@@ -1,0 +1,2 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Villaroger - Télécabine,Q-Park,45.5951224,6.8641457,109,,,False,"Parking Télécabine, 73640 Villaroger (Q-Park's own page embeds null 0,0 geo; coordinates geocoded via Nominatim to the Le Pré Derrière télécabine/gondola station area, no live tariff data returned by GetTariffsForFacility API - empty array, consistent with other seasonal Alps facilities in this project)",https://www.q-park.fr/fr-fr/villes/villaroger/villaroger---t%c3%a9l%c3%a9cabine/

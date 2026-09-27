@@ -1,0 +1,7 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Aire Camping-Car,Q-Park,44.87104,0.5035,22,,,False,"43 Rue du Coulobre, 24100 Bergerac",https://www.q-park.fr/fr-fr/villes/bergerac/aire-camping-car/
+QP02,Parking Bellegarde,Q-Park,44.85278,0.48145,339,1.40,16.40,False,"3 Place Bellegarde, 24100 Bergerac",https://www.q-park.fr/fr-fr/villes/bergerac/bellegarde/
+QP03,Parking Gambetta,Q-Park,44.85503,0.4825,107,1.40,1.40,False,"34 Place Gambetta, 24100 Bergerac",https://www.q-park.fr/fr-fr/villes/bergerac/bergerac---gambetta/
+QP04,Parking République,Q-Park,44.85317,0.48658,320,1.50,,False,"2 Rue des Carmes, 24100 Bergerac",https://www.q-park.fr/fr-fr/villes/bergerac/bergerac---r%C3%A9publique/
+QP05,Parking Carmes,Q-Park,44.853341,0.486718,285,1.40,16.40,False,"4 Rue des Carmes, 24100 Bergerac",https://www.q-park.fr/fr-fr/villes/bergerac/carmes/
+QP06,Parking Saint Jacques,Q-Park,44.85147,0.48268,73,,,False,"1 Rue Fonbalquine, 24100 Bergerac",https://www.q-park.fr/fr-fr/villes/bergerac/saint-jacques/

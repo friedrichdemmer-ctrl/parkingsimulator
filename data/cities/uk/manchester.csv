@@ -1,0 +1,50 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Deansgate North,Q-Park,53.485926,-2.245835,455,,27.50,True,"2 Chapel Street, Manchester M3 7WJ",https://www.q-park.co.uk/en-gb/cities/manchester/deansgate-north/
+QP02,First Street,Q-Park,53.472964,-2.245759,700,,23.00,True,"First Street, Manchester M15 4FN",https://www.q-park.co.uk/en-gb/cities/manchester/first-street/
+QP03,Manchester Hospitals,Q-Park,53.4599053,-2.2222644,380,2.90,22.00,True,"Hathersage Road, Manchester M13 0JQ",https://www.q-park.co.uk/en-gb/cities/manchester/manchester-hospitals/
+QP04,Palace,Q-Park,53.475555,-2.2396931,404,4.50,27.00,,"Atwood Street, Manchester M1 6NE",https://www.q-park.co.uk/en-gb/cities/manchester/palace/
+QP05,Piazza,Q-Park,53.4777536,-2.2413839,225,,39.50,True,"St James Street, Manchester M1 4LX",https://www.q-park.co.uk/en-gb/cities/manchester/piazza/
+QP06,Piccadilly Gardens,Q-Park,53.4799493,-2.2340545,712,3.20,27.50,,"Chatham Street, Manchester M1 3AY",https://www.q-park.co.uk/en-gb/cities/manchester/piccadilly-gardens/
+QP07,Piccadilly Place,Q-Park,53.477149,-2.232814,583,,30.00,True,"Whitworth Street, Manchester M1 3BS",https://www.q-park.co.uk/en-gb/cities/manchester/piccadilly-place/
+QP08,Sackville Street,Q-Park,53.4771964,-2.2382685,118,4.50,28.00,,"Sackville Street, Manchester M1 3LY",https://www.q-park.co.uk/en-gb/cities/manchester/sackville-street/
+QP09,Waterside,Q-Park,53.4247928,-2.3172979,440,2.40,14.00,True,"5 Broad Road, Sale M33 2AE",https://www.q-park.co.uk/en-gb/cities/manchester/waterside/
+QP10,Wilmslow Park,Q-Park,53.4591844,-2.2265065,49,2.90,22.00,True,"Hathersage Road, Manchester M13 0JQ",https://www.q-park.co.uk/en-gb/cities/manchester/wilmslow-park/
+AP01,Ancoats Mobility Hub,APCOA,53.48624502,-2.22533986,,3.00,17.50,,"21 Poland Street, Manchester M4 6NE",https://www.apcoa.co.uk/find-parking/locations/manchester/ancoats-mobility-hub-manchester
+AP02,Aquatics Centre,APCOA,53.46884,-2.23247,,,14.50,,"Booth Street East, Manchester M13 9SS",https://www.apcoa.co.uk/find-parking/locations/manchester/aquatics-centre-manchester
+AP03,Arndale,APCOA,53.484133,-2.238739,,3.90,21.50,,"High Street/Nicholas Croft, Manchester M4 1AZ",https://www.apcoa.co.uk/find-parking/locations/manchester/arndale-manchester
+AP04,Bloom Street,APCOA,53.4778082,-2.2369927,,4.70,15.80,,"Bloom Street (Fmr National Express Bus Station), Manchester M1 3LY",https://www.apcoa.co.uk/find-parking/locations/manchester/bloom-street-manchester
+AP05,Bridge Street,APCOA,53.4817808,-2.2518015,,4.70,,,"4 Bridge Street, Manchester M60 1WJ",https://www.apcoa.co.uk/find-parking/locations/manchester/bridge-street-manchester
+AP06,Bridgewater Hall,APCOA,53.47362,-2.24902,,3.40,19.50,,"Little Pepper Street, Manchester M15 4PS",https://www.apcoa.co.uk/find-parking/locations/manchester/bridgewater-hall-manchester
+AP07,Chepstow Street,APCOA,53.475278,-2.2436,,,,,"5 Chepstow Street S, Manchester M1 5JN",https://www.apcoa.co.uk/find-parking/locations/manchester/chepstow-street-manchester
+AP08,China Town,APCOA,53.478662,-2.239556,,3.90,26.50,,"41 Faulkner Street, Manchester M1 4EE",https://www.apcoa.co.uk/find-parking/locations/manchester/china-town-manchester
+AP09,Hulme Street,APCOA,53.471976,-2.243847,,,11.10,,"19 Hulme Street, Manchester M1 5GL",https://www.apcoa.co.uk/find-parking/locations/manchester/hulme-street-manchester
+AP10,King Street West,APCOA,53.482125,-2.249039,,6.10,34.50,,"Back South Parade, Manchester M2 6EG",https://www.apcoa.co.uk/find-parking/locations/manchester/king-street-west-manchester
+AP11,Manchester Piccadilly Station (Long Stay),APCOA,53.478117,-2.228837,,,22.00,,"Boad Street, Manchester M1 2RP",https://www.apcoa.co.uk/find-parking/locations/manchester/manchester-piccadilly-station-long-stay
+AP12,Manchester Piccadilly Station (Short Stay),APCOA,53.478117,-2.228837,,5.50,,,"Fairfield Street, Manchester M1 2QF",https://www.apcoa.co.uk/find-parking/locations/manchester/manchester-piccadilly-station-short-stay
+AP13,Manchester Printworks,APCOA,53.485869,-2.238198,,4.00,26.00,,"77 Shudehill, Manchester M4 4BB",https://www.apcoa.co.uk/find-parking/locations/manchester/manchester-printworks-manchester
+AP14,Northern Quarter,APCOA,53.483203,-2.235735,,3.40,21.50,,"Church Street, Manchester M4 1LX",https://www.apcoa.co.uk/find-parking/locations/manchester/northern-quarter-manchester
+AP15,School Lane North,APCOA,53.417485,-2.230688,,,,,"4 School Lane, Didsbury, Manchester M20 6SA",https://www.apcoa.co.uk/find-parking/locations/manchester/school-lane-north-manchester
+AP16,School Lane South,APCOA,53.417581,-2.230579,,,,,"3 School Lane, Didsbury, Manchester M20 6SA",https://www.apcoa.co.uk/find-parking/locations/manchester/school-lane-south-manchester
+AP17,Sheffield Street,APCOA,53.477362,-2.22683,,,9.60,,"9 Sheffield Street, Manchester M1 2ND",https://www.apcoa.co.uk/find-parking/locations/manchester/sheffield-street-manchester
+AP18,Stone Street,APCOA,53.4759,-2.25385,,4.20,14.30,,"Stone Street, Manchester M3 4NE",https://www.apcoa.co.uk/find-parking/locations/manchester/stone-street-manchester
+AP19,Thurloe Street,APCOA,53.4545469,-2.2261052,,,11.80,,"5 Thurloe Street, Manchester M14 5AW",https://www.apcoa.co.uk/find-parking/locations/manchester/thurloe-street-manchester
+NC01,Didsbury Wilmslow Road,NCP,53.4198244,-2.2319523,34,1.45,6.45,,"Wilmslow Road, Didsbury, Manchester M20 6QZ",https://www.ncp.co.uk/find-a-car-park/car-parks/didsbury-wilmslow-road/
+NC02,Manchester Albion Street,NCP,53.4747555,-2.2476911,8,,18.95,,"19 Albion Street, Manchester M1 5LN",https://www.ncp.co.uk/find-a-car-park/car-parks/manchester-albion-street/
+NC03,Manchester Central,NCP,53.4762107,-2.2456159,643,4.95,34.95,,"Lower Mosley Street, Manchester M2 3GX",https://www.ncp.co.uk/find-a-car-park/car-parks/manchester-central/
+NC04,Manchester Chester Street,NCP,53.4717633,-2.241822,220,3.95,14.95,,"Chester Street, Manchester M1 5GE",https://www.ncp.co.uk/find-a-car-park/car-parks/manchester-chester-street/
+NC05,Manchester Chorlton Street,NCP,53.4779795,-2.2367716,558,4.00,24.00,,"Chorlton Street, Manchester M1 3FY",https://www.ncp.co.uk/find-a-car-park/car-parks/manchester-chorlton-street/
+NC06,Manchester Circle Square,NCP,53.47257,-2.239108,1018,3.95,17.95,,"Oxford Road, Circle Square, Manchester M1 7ED",https://www.ncp.co.uk/find-a-car-park/car-parks/manchester-circle-square/
+NC07,Manchester Crown Industrial Estate,NCP,53.4869631,-2.2253944,22,,5.95,,"Crown Industrial Estate, Ancoats, Manchester M4 6BQ",https://www.ncp.co.uk/find-a-car-park/car-parks/manchester-crown-industrial-estate/
+NC08,Manchester Great Northern Warehouse 2,NCP,53.4774577,-2.2483785,721,4.95,34.95,,"Watson Street, Gt Northern Warehouse 2, Manchester M3 4EE",https://www.ncp.co.uk/find-a-car-park/car-parks/manchester-gt-northern-warehouse-2-/
+NC09,Manchester Jersey Street,NCP,53.4867276,-2.2224429,130,,3.45,,"Jersey Street, Manchester M4 6HB",https://www.ncp.co.uk/find-a-car-park/car-parks/manchester-jersey-street-ukt/
+NC10,Manchester Trumpet Street,NCP,53.4746955,-2.247274,4,,15.95,,"8 Trumpet Street, Manchester M1 5LW",https://www.ncp.co.uk/find-a-car-park/car-parks/manchester-trumpet-street/
+NC11,Salford New Bailey,NCP,53.4818759,-2.2562161,631,5.00,35.00,,"Irwell Street, New Bailey, Salford M3 5EN",https://www.ncp.co.uk/find-a-car-park/car-parks/salford-new-bailey/
+NC12,Salford Stanley Street,NCP,53.4808075,-2.2568168,635,4.95,24.95,,"Stanley Street, Salford M3 5EX",https://www.ncp.co.uk/find-a-car-park/car-parks/salford-stanley-street-car-park/
+NC13,Wilmslow Grove Way,NCP,53.3265531,-2.2318284,3,,4.95,,"1 Grove Avenue, Wilmslow SK9 1HB",https://www.ncp.co.uk/find-a-car-park/car-parks/wilmslow-grove-way/
+NC14,Manchester Great Northern Warehouse 1,NCP,53.4774577,-2.2483785,527,5.50,33.00,,"Watson Street, Gt Northern Warehouse 1, Manchester M3 4EE",https://www.ncp.co.uk/find-a-car-park/car-parks/manchester-gt-northern-warehouse-1-/
+NC15,Manchester Oxford Street,NCP,53.4751701,-2.2416546,443,4.95,24.95,,"Oxford Street, Manchester M1 5EJ",https://www.ncp.co.uk/find-a-car-park/car-parks/manchester-oxford-street/
+NC16,Manchester Piccadilly Plaza,NCP,53.4801786,-2.2398933,160,4.95,25.95,,"New York Street, Piccadilly Plaza, Manchester M1 4AJ",https://www.ncp.co.uk/find-a-car-park/car-parks/manchester-piccadilly-plaza/
+NC17,Manchester Richmond Street,NCP,53.4764757,-2.2365213,2,,19.95,,"37 Richmond Street, Manchester M1 3WB",https://www.ncp.co.uk/find-a-car-park/car-parks/manchester-richmond-street/
+NC18,Manchester Spinningfields,NCP,53.4796314,-2.2543622,680,4.95,34.95,,"New Quay Street, Spinningfields, Manchester M3 3BE",https://www.ncp.co.uk/find-a-car-park/car-parks/manchester-spinningfields/
+NC19,Manchester Store Street,NCP,53.4790803,-2.2286131,406,2.95,8.95,,"Store Street, Manchester M1 2WD",https://www.ncp.co.uk/find-a-car-park/car-parks/manchester-store-street/
+NC20,Manchester Imperial War Museum,NCP,53.4697061,-2.299058,180,2.50,16.00,,"Trafford Wharf Road, Imperial War Museum North, Stretford M17 1TZ",https://www.ncp.co.uk/find-a-car-park/car-parks/manchester-imperial-war-museum/

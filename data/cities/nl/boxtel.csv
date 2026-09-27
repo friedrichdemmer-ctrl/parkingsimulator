@@ -1,0 +1,2 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+boxtel_01,Q-Park P+R Van Salmstraat,Q-Park,51.583123,5.319014,193,2.85,11.50,no,"Salmstraat, 5281 RS Boxtel",https://www.q-park.nl/nl-nl/parkeren/boxtel/p-r-van-salmstraat/

@@ -1,0 +1,9 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,P+R Wijnhornsterstraat,Q-Park,53.194979,5.788207,253,1.49,8.50,,"Wijnhornsterstraat, 8932 GJ Leeuwarden",https://www.q-park.nl/nl-nl/parkeren/leeuwarden/p-r-wijnhornsterstraat/
+GL01,Zaailand,Gemeente Leeuwarden,53.199745,5.794809,720,2.30,11.50,True,"Zaailand 5, 8911 BL Leeuwarden",https://www.parkeergaragesleeuwarden.nl/parkeergarages/zaailand
+GL02,Oldehove,Gemeente Leeuwarden,53.202706,5.790377,515,2.30,11.50,True,"Oldehoofsterkerkhof 3, 8911 DM Leeuwarden",https://www.parkeergaragesleeuwarden.nl/parkeergarages/oldehove
+GL03,Klanderij,Gemeente Leeuwarden,53.197808,5.797766,625,2.00,8.00,True,"Posthoornsteeg 40, 8911 AT Leeuwarden",https://www.parkeergaragesleeuwarden.nl/parkeergarages/de-klanderij
+GL04,Hoeksterend,Gemeente Leeuwarden,53.205783,5.802237,390,2.00,5.00,True,"Hoeksterpad 3, 8911 JV Leeuwarden",https://www.parkeergaragesleeuwarden.nl/parkeergarages/hoeksterend
+GL05,Oosterstraat,Gemeente Leeuwarden,53.201873,5.801613,250,2.00,8.00,True,"Ritsumastraat 2, 8911 KM Leeuwarden",https://www.parkeergaragesleeuwarden.nl/parkeergarages/nieuwe-oosterstraat
+GL06,Revius,Gemeente Leeuwarden,53.198894,5.778020,60,2.00,8.00,True,"Reviusstraat 6, 8913 HT Leeuwarden",https://www.parkeergaragesleeuwarden.nl/parkeergarages/p-revius
+PB01,Tesselschadestraat,ParkBee,53.198561,5.784368,,,,,"Tesselschadestraat 7, 8913 HA Leeuwarden",https://parkbee.com/en/city/leeuwarden

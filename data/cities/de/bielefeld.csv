@@ -1,0 +1,26 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Centrum,Q-Park,52.02454,8.53414,328,2.2,16.0,,"Herforder Straße 9, 33602 Bielefeld",https://www.q-park.de/de-de/staedte/bielefeld/centrum/
+QP02,Karstadt,Q-Park,52.0239542,8.5292745,650,2.2,8.0,,"Elsa-Brändström-Straße 6, 33602 Bielefeld",https://www.q-park.de/de-de/staedte/bielefeld/karstadt/
+AP01,Am Jahnplatz - Renteistraße,APCOA,52.021863,8.533372,98,2.59,20.99,,"Renteistraße, 33602 Bielefeld",https://www.apcoa.de/einmal-parken/standorte/bielefeld/am-jahnplatz-renteistrasse
+AP02,Neues Bahnhofsviertel,APCOA,52.030313,8.532892,802,2.5,25.0,True,"Joseph-Massolle-Straße, 33613 Bielefeld",https://www.apcoa.de/einmal-parken/standorte/bielefeld/neues-bahnhofsviertel
+CP01,Parkhaus Ankergärten,Contipark,52.01752,8.53556,804,1.0,5.0,,"Ravensberger Str. 10, 33602 Bielefeld",https://www.contipark.de/de/parken/bielefeld/parkhaus-ankergaerten/
+CP02,Parkhaus Ritterstraße,Contipark,52.021865,8.529097,425,2.2,12.5,True,"Ritterstraße 5, 33602 Bielefeld",https://www.contipark.de/de/parken/bielefeld/parkhaus-ritterstrasse/
+CP03,Parkplatz Ritterstraße,Contipark,52.021679,8.529205,8,2.5,20.0,,"Ritterstraße 4-8, 33602 Bielefeld",https://www.contipark.de/de/parken/bielefeld/parkplatz-ritterstrasse/
+CP04,Tiefgarage Altstadt-Carré,Contipark,52.018985,8.529682,415,2.2,12.5,,"Waldhof 19, 33602 Bielefeld",https://www.contipark.de/de/parken/bielefeld/tiefgarage-altstadt-carre/
+CP05,Tiefgarage Marktpassage,Contipark,52.026292,8.529884,155,3.0,20.0,,"Friedenstraße 16, 33602 Bielefeld",https://www.contipark.de/de/parken/bielefeld/tiefgarage-marktpassage/
+OWL01,Tiefgarage Kesselbrink,ProEinzelhandel OWL,52.0245463,8.5363455,383,1.5,12.0,,"Kesselbrink 1, 33602 Bielefeld",https://www.proeinzelhandel-owl.de/parkhaeuser/tiefgarage-kesselbrink/
+OWL02,Tiefgarage Am Theater,ProEinzelhandel OWL,52.0204469,8.5355542,169,1.5,12.0,,"Brunnenstraße 4, 33602 Bielefeld",https://www.proeinzelhandel-owl.de/parkhaeuser/tiefgarage-am-theater/
+OWL03,Tiefgarage Willy-Brandt-Platz,ProEinzelhandel OWL,52.026139,8.5377358,411,1.5,12.0,,"Kavalleriestraße 17 / Herforder Str. 22, 33602 Bielefeld",https://www.proeinzelhandel-owl.de/parkhaeuser/tiefgarage-willy-brandt-platz/
+OWL04,Tiefgarage Welle,ProEinzelhandel OWL,52.018892,8.5309279,289,2.0,15.0,,"Am Bach 20, 33602 Bielefeld",https://www.proeinzelhandel-owl.de/parkhaeuser/tiefgarage-welle/
+OR01,Parkhaus Stadthalle,ORBE Parkgaragen,52.0286263,8.5354773,444,2.0,12.0,True,"Willy-Brandt-Platz 1, 33602 Bielefeld",https://www.orbe-parkgaragen.de/portfolio-items/stadthalle-bielefeld/
+OR02,Parkplatz Zentrum,ORBE Parkgaragen,52.0241777,8.528839,80,2.0,15.0,,"Elsa-Brändström-Str. 15-21, 33602 Bielefeld",https://www.orbe-parkgaragen.de/portfolio-items/parkplatz-zentrum/
+OR03,Parkplatz Große-Kurfürsten-Straße,ORBE Parkgaragen,52.0266368,8.5284659,165,1.5,10.0,,"Große-Kurfürsten-Straße, 33602 Bielefeld",https://www.orbe-parkgaragen.de/portfolio-items/kurfuerstenstrasse/
+OR04,Seidenstickerhalle,ORBE Parkgaragen,52.0249395,8.5490691,260,,3.0,,"Werner-Bock-Straße 36, 33602 Bielefeld",https://www.orbe-parkgaragen.de/portfolio-items/seidenstickerhalle-2/
+OR05,Thalia Buchhandlung,ORBE Parkgaragen,52.0230902,8.5315462,30,2.5,24.0,,"Oberntorwall 23, 33602 Bielefeld",https://www.orbe-parkgaragen.de/portfolio-items/thalia-buchhandlung/
+OR06,EvKB Kantensiek,ORBE Parkgaragen,52.0131342,8.5249277,390,1.5,10.0,,"Im Kantensiek, 33617 Bielefeld",https://www.orbe-parkgaragen.de/portfolio-items/evkb-kantensiek/
+OR07,EvKB Bethel,ORBE Parkgaragen,52.012081,8.5235345,105,1.5,10.0,,"Sareptaweg 4, 33617 Bielefeld",https://www.orbe-parkgaragen.de/portfolio-items/evkb-bethel/
+OR08,Tiefgarage und Parkpalette CineStar,ORBE Parkgaragen,52.0268894,8.5335149,400,1.5,10.0,,"Feilenstraße 5, 33602 Bielefeld",https://www.bielefeld.de/parken
+BG01,Parkhaus Am Zwinger,Borchard Group,52.0233183,8.5277036,412,2.0,12.0,,"Am Zwinger 14, 33602 Bielefeld",https://www.borchard-group.com/parkhaus-am-zwinger/
+BG02,Parkplatz Hbf,Borchard Group,52.0298608,8.5349029,136,2.0,12.0,,"Nahariyastraße 3, 33602 Bielefeld",https://www.borchard-group.com/parkplatz-hbf/
+PB01,Parkhaus Am Hauptbahnhof,Parkhaus Bielefeld,52.0285561,8.5287412,850,,7.0,,"Jöllenbecker Straße 21, 33613 Bielefeld",http://parkhaus-bielefeld.de/tarife/
+LM01,Parkhaus LOOM,ECE (LOOM Einkaufszentrum),52.0262228,8.5336415,529,2.0,20.0,True,"Zimmerstraße 10, 33602 Bielefeld",https://www.loom-bielefeld.de/center/anfahrt-parken/parken/

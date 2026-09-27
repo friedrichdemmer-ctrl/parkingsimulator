@@ -1,0 +1,5 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Achterdoelen,Q-Park,52.043324,5.671262,490,2.61,8.00,True,"Achterdoelen 45, 6711 AV Ede",https://www.q-park.nl/nl-nl/parkeren/ede/achterdoelen/
+QP02,Markt,Q-Park,52.047369,5.671685,440,2.61,8.00,True,"Brouwerstraat 21 A, 6711 AS Ede",https://www.q-park.nl/nl-nl/parkeren/ede/markt/
+P101,P+R Ede-Wageningen,P1,52.026222,5.673460,539,2.40,9.00,True,"Polar Bearsplein 1, 6717 XN Ede",https://www.p1.nl/parkeerplaats/pr-ede-wageningen/
+PY01,ParkingYou Pathé Ede,ParkingYou,52.015712,5.648144,425,2.55,17.50,,"Laan der Verenigde Naties 150, 6716 JE Ede",https://parkingyou.nl/nl/locaties/regio-gelderland/parkingyou-pathe-ede-/id=61

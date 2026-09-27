@@ -1,0 +1,20 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Musgrove Park Hospital,Q-Park,51.0101006,-3.1202863,1225,1.80,25.00,,"Musgrove Park Hospital, TA1 5DA Taunton",https://www.q-park.co.uk/en-gb/cities/taunton/musgrove-park-hospital/
+AP01,Taunton Station Main,APCOA,51.0229,-3.10112,404,,,,"Station Approach, TA1 1QP Taunton",https://www.apcoa.co.uk/parking-in/taunton/taunton-station-main/
+SC01,Wood Street Car Park,Somerset Council,51.018616,-3.106902,165,1.30,10.80,True,"Wood Street, TA1 1UW Taunton",https://www.somerset.gov.uk/locations/wood-street-car-park-taunton/
+SC02,Whirligig Lane Car Park,Somerset Council,51.015184,-3.101788,37,1.40,,,"Whirligig Lane, TA1 1RZ Taunton",https://www.somerset.gov.uk/locations/whirligig-lane-car-park-taunton/
+SC03,Victoria Gate Car Park,Somerset Council,51.015717,-3.092933,71,1.30,10.80,,"Victoria Gate, TA1 3ES Taunton",https://www.somerset.gov.uk/locations/victoria-gate-car-park-taunton/
+SC04,The Crescent Car Park,Somerset Council,51.013263,-3.105235,168,1.60,,True,"The Crescent, TA1 4ED Taunton",https://www.somerset.gov.uk/locations/the-crescent-car-park-taunton/
+SC05,Tangier Car Park,Somerset Council,51.015027,-3.107929,209,1.30,10.80,,"Castle Street, TA1 4AY Taunton",https://www.somerset.gov.uk/locations/tangier-car-park-taunton/
+SC06,High Street Car Park,Somerset Council,51.013005,-3.103076,269,1.30,10.80,,"Old Pig Market, TA1 3PJ Taunton",https://www.somerset.gov.uk/locations/high-street-car-park-taunton/
+SC07,Kilkenny Car Park,Somerset Council,51.025046,-3.10312,224,1.30,10.80,,"Clifton Terrace, TA2 7BL Taunton",https://www.somerset.gov.uk/locations/kilkenny-car-park-taunton/
+SC08,Enfield Car Park,Somerset Council,51.0150954,-3.1085757,141,1.30,10.80,,"Enfield, TA1 4AS Taunton",https://www.somerset.gov.uk/locations/enfield-car-park-taunton/
+SC09,Elms Parade Car Park,Somerset Council,51.019927,-3.107133,28,1.40,,,"Staplegrove Road, TA1 1DQ Taunton",https://www.somerset.gov.uk/locations/elms-parade-car-park-taunton/
+SC10,Duke Street Car Park,Somerset Council,51.01629,-3.096154,58,1.40,,,"Duke Street, TA1 1SS Taunton",https://www.somerset.gov.uk/locations/duke-street-car-park-taunton/
+SC11,Coal Orchard Car Park,Somerset Council,51.0178803,-3.1024403,32,1.40,,True,"Coal Orchard, TA1 1JJ Taunton",https://www.somerset.gov.uk/locations/coal-orchard-car-park-taunton/
+SC12,Castle Street Car Park,Somerset Council,51.0152154,-3.1075181,47,1.30,10.80,True,"Castle Street, TA1 4AS Taunton",https://www.somerset.gov.uk/locations/castle-street-car-park-taunton/
+SC13,Canon Street Car Park,Somerset Council,51.017099,-3.098968,306,1.30,10.80,,"Canon Street, TA1 1SW Taunton",https://www.somerset.gov.uk/locations/canon-street-car-park-taunton/
+SC14,Belvedere Road Car Park,Somerset Council,51.021263,-3.106552,107,1.30,10.80,,"Belvedere Road, TA1 1HE Taunton",https://www.somerset.gov.uk/locations/belvedere-road-car-park-taunton/
+SC15,Ash Meadows Car Park,Somerset Council,51.011092,-3.100921,39,1.40,,,"Ash Meadows, TA1 3QB Taunton",https://www.somerset.gov.uk/locations/ash-meadows-car-park-taunton/
+SC16,Fons George Car Park,Somerset Council,51.00968,-3.10572,79,1.20,,,"Fons George, TA1 3JX Taunton",https://www.somerset.gov.uk/locations/fons-george-car-park-taunton/
+SC17,Orchard Multi Storey Car Park,Somerset Council,51.01344,-3.100848,590,1.30,10.80,,"Paul Street, TA1 3PF Taunton",https://www.somerset.gov.uk/locations/orchard-multi-storey-car-park-taunton/

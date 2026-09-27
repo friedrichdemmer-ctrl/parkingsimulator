@@ -1,0 +1,15 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Nottingham Central,Q-Park,52.9571295,-1.1548664,152,3.00,24.50,,"Chaucer Street, Nottingham, NG1 5LP",https://www.q-park.co.uk/en-gb/cities/nottingham/nottingham-central/
+QP02,Stoney Street,Q-Park,52.952575,-1.143396,289,5.00,21.00,,"Stoney Street, Nottingham, NG1 1LS",https://www.q-park.co.uk/en-gb/cities/nottingham/stoney-street/
+QP03,Talbot Street,Q-Park,52.9562212,-1.1548044,440,3.00,24.50,True,"Stanley Place, Nottingham, NG1 5GS",https://www.q-park.co.uk/en-gb/cities/nottingham/talbot-street/
+NCP01,St James Street,NCP,52.9519492,-1.1536319,338,4.00,16.00,,"5 St James Street, Nottingham, NG1 6EY",https://www.ncp.co.uk/find-a-car-park/car-parks/nottingham-st-james-street/
+NCP02,Mount Street,NCP,52.9531166,-1.1542057,455,4.95,19.95,,"Mount Street, Nottingham, NG1 6HG",https://www.ncp.co.uk/find-a-car-park/car-parks/nottingham-mount-street/
+NCP03,Maid Marian Way,NCP,52.9496325,-1.1503766,412,2.95,9.95,,"Arndale Centre, Maid Marian Way, Nottingham, NG1 6AE",https://www.ncp.co.uk/find-a-car-park/car-parks/nottingham-arndale-centre/
+AP01,Nottingham Station Car Park,APCOA,52.94658474,-1.14414156,880,,10.50,,"Queen's Road, Nottingham, NG2 3AQ",https://www.apcoa.co.uk/find-parking/locations/nottingham/nottingham-station-car-park-nottingham
+NCC01,Broad Marsh,Nottingham City Council,52.9480233,-1.1476268,1304,,18.00,True,"Carrington Street, Nottingham, NG1 7EL",https://parking.nottinghamcity.gov.uk/uploads/generic/NCC-Parking-Leaflet-Update-August-2025_WEB.pdf
+NCC02,Trinity Square,Nottingham City Council,52.9568810,-1.1497693,440,,20.00,,"North Church Street, Nottingham, NG1 4BT",https://parking.nottinghamcity.gov.uk/uploads/generic/NCC-Parking-Leaflet-Update-August-2025_WEB.pdf
+NCC03,Lace Market,Nottingham City Council,52.9523464,-1.1452303,524,,19.50,True,"Pilcher Gate, Nottingham, NG1 1QE",https://parking.nottinghamcity.gov.uk/uploads/generic/NCC-Parking-Leaflet-Update-August-2025_WEB.pdf
+NCC04,Curzon Street,Nottingham City Council,52.9578638,-1.1429906,100,,18.50,,"Curzon Street, Nottingham, NG3 1DG",https://parking.nottinghamcity.gov.uk/uploads/generic/NCC-Parking-Leaflet-Update-August-2025_WEB.pdf
+NCC05,Nottingham Castle,Nottingham City Council,52.9486480,-1.1495564,55,,15.00,,"Canal Street, Nottingham, NG1 7EH",https://parking.nottinghamcity.gov.uk/uploads/generic/NCC-Parking-Leaflet-Update-August-2025_WEB.pdf
+NCC06,Sneinton Market Square,Nottingham City Council,52.9549967,-1.1366395,49,2.00,12.00,True,"Aberdeen Street, Nottingham, NG3 1JB",https://parking.nottinghamcity.gov.uk/uploads/generic/NCC-Parking-Leaflet-Update-August-2025_WEB.pdf
+NCC07,Manvers Street,Nottingham City Council,52.9526948,-1.1362897,45,,,,"Manvers Street, Nottingham, NG2 4BP",https://parking.nottinghamcity.gov.uk/uploads/generic/NCC-Parking-Leaflet-Update-August-2025_WEB.pdf

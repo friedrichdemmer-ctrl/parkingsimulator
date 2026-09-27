@@ -1,0 +1,9 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Aristide Briand,Q-Park,48.172848,6.450339,45,,,False,"6 Rue Aristide Briand, 88000 Épinal",https://www.q-park.fr/fr-fr/villes/epinal/aristide-briand/
+QP02,De Lattre De Tassigny,Q-Park,48.1770805,6.4439222,57,1.80,9.80,False,"9 Avenue du Maréchal de Lattre de Tassigny, 88000 Épinal",https://www.q-park.fr/fr-fr/villes/epinal/de-lattre-de-tassigny/
+QP03,Marché Couvert,Q-Park,48.174097,6.449614,38,2.00,13.60,False,"9 Rue de la Comédie, 88000 Épinal",https://www.q-park.fr/fr-fr/villes/epinal/epinal-march%C3%A9-couvert/
+QP04,Gare,Q-Park,48.17715,6.442461,205,1.50,11.40,True,"8 Avenue du Général de Gaulle, 88000 Épinal",https://www.q-park.fr/fr-fr/villes/epinal/gare/
+QP05,Georges Clémenceau,Q-Park,48.179211,6.446873,57,1.80,9.80,False,"46 Pont Léopold, 88000 Épinal",https://www.q-park.fr/fr-fr/villes/epinal/georges-cl%C3%A9menceau/
+QP06,Saint Michel,Q-Park,48.175998,6.452917,228,1.50,11.10,True,"1 Rue Saint-Michel, 88000 Épinal",https://www.q-park.fr/fr-fr/villes/epinal/saint-michel/
+QP07,Saint Nicolas,Q-Park,48.177043,6.448402,410,1.50,11.40,True,"25 Rue de la Chipotte, 88000 Épinal",https://www.q-park.fr/fr-fr/villes/epinal/saint-nicolas/
+EF01,Gare d'Épinal,Effia,48.178418,6.440414,,1.20,8.10,,"Rue Jean Jaurès, 88000 Épinal",https://www.effia.com/parking/parking-gare-depinal-effia

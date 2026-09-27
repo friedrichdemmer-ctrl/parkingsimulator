@@ -1,0 +1,13 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Jernbanepladsen 1,Q-Park,55.767875,12.50581,122,12,,,"Jernbanepladsen 1, 2800 Kgs. Lyngby",https://www.q-park.dk/da/parkering/lyngby/jernbanepladsen-1/
+QP02,Kulturhustorvet,Q-Park,55.771024,12.508613,116,22,,,"Kulturhustorvet, 2800 Kgs. Lyngby",https://www.q-park.dk/da/parkering/lyngby/kulturhustorvet/
+QP03,Lyngby City,Q-Park,55.771614,12.507247,353,22,180,True,"Klampenborgvej 211, 2800 Kgs. Lyngby",https://www.q-park.dk/da/parkering/lyngby/lyngby-city/
+QP04,Lyngby Hovedgade 63,Q-Park,55.767353,12.50806,123,24,200,True,"Lyngby Hovedgade 63, 2800 Kgs. Lyngby",https://www.q-park.dk/da/parkering/lyngby/lyngby-hovedgade-63/
+QP05,Magasin P-Hus,Q-Park,55.769748,12.505701,264,22,,True,"Nørgaardsvej 1, 2800 Kgs. Lyngby",https://www.q-park.dk/da/parkering/lyngby/magasin-p-hus/
+AP01,Hollandsvej 10,APCOA,55.76573365,12.50666094,205,15,,,"Hollandsvej 10, 2800 Kgs. Lyngby",https://www.apcoa.dk/find-en-p-plads/lokationer/kongens-lyngby/hollandsvej-10
+AP02,Gl. Lundtoftevej 1-9,APCOA,55.774673,12.500635,165,,,,"Gl. Lundtoftevej 3B, 2800 Kgs. Lyngby",https://www.apcoa.dk/find-en-p-plads/lokationer/kgs-lyngby/gl-lundtoftevej-1-9
+AP03,Lyngby Hovedgade 11-25,APCOA,55.77198,12.501748,140,30,,,"Lyngby Hovedgade 11-25, 2800 Kgs. Lyngby",https://www.apcoa.dk/find-en-p-plads/lokationer/kgs-lyngby/lyngby-hovedgade-11-25
+AP04,Jernbanepladsen 10,APCOA,55.768901,12.503934,32,10,,,"Jernbanepladsen 10, 2800 Kgs. Lyngby",https://www.apcoa.dk/find-en-p-plads/lokationer/kgs-lyngby/jernbanepladsen-10
+AP05,Lundtoftegårdsvej 93A,APCOA,55.79301724,12.52757222,106,10,,,"Lundtoftegårdsvej 93, 2800 Kgs. Lyngby",https://www.apcoa.dk/find-en-p-plads/lokationer/kgs-lyngby/lundtoftegaardsvej-93a
+AP06,Kanalvej 1-7,APCOA,55.77311595,12.5078239,800,10,,,"Kanalvej 1-7, 2800 Kgs. Lyngby",https://www.apcoa.dk/find-en-p-plads/lokationer/kgs-lyngby/kanalvej-1-7
+AP07,Nørgaardsvej 1B,APCOA,55.76998272,12.50643201,40,20,,,"Nørgaardsvej 1B, 2800 Kgs. Lyngby",https://www.apcoa.dk/find-en-p-plads/lokationer/kgs-lyngby/noergaardsvej-1b

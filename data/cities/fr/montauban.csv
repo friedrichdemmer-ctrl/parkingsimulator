@@ -1,0 +1,6 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Consul Dupuy,Q-Park,44.014,1.354949,250,1.8,18.2,False,"Rue du Consul Dupuy, 82000 Montauban",https://www.q-park.fr/fr-fr/villes/montauban/consul-dupuy/
+QP02,Griffoul,Q-Park,44.018685,1.356161,313,2.3,20.5,True,"49 Place Prax-Paris, 82000 Montauban",https://www.q-park.fr/fr-fr/villes/montauban/griffoul/
+QP03,Occitan Aérien,Q-Park,44.018126,1.357832,113,,,False,"12 Place Prax-Paris, 82000 Montauban",https://www.q-park.fr/fr-fr/villes/montauban/occitan-a%c3%a9rien/
+QP04,Occitan Souterrain,Q-Park,44.018126,1.357832,165,2.3,21.0,False,"12 Place Prax-Paris, 82000 Montauban",https://www.q-park.fr/fr-fr/villes/montauban/occitan-souterrain/
+QP05,Saint Jean,Q-Park,44.0217,1.354074,42,,,False,"2 Rue Pierre Bayle, 82000 Montauban",https://www.q-park.fr/fr-fr/villes/montauban/saint-jean/

@@ -1,0 +1,10 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Aubertin,Q-Park,49.105191,6.169908,154,,,False,"Rue Clotilde Aubertin, 57000 Metz",https://www.q-park.fr/fr-fr/villes/metz/aubertin/
+QP02,Boulevard de Trèves P1,Q-Park,49.1225556,6.1878889,150,,10.00,False,"18 Boulevard de Trèves, 57000 Metz",https://www.q-park.fr/fr-fr/villes/metz/boulevard-de-tr%C3%A8ves-p1/
+QP03,Boulevard de Trèves P2,Q-Park,49.1217222,6.1880833,100,,10.00,False,"2 Boulevard de Trèves, 57000 Metz",https://www.q-park.fr/fr-fr/villes/metz/boulevard-de-tr%C3%A8ves-p2/
+QP04,Boulevard de Trèves P3,Q-Park,49.1230833,6.1878333,372,,10.00,False,"20 Boulevard de Trèves, 57000 Metz",https://www.q-park.fr/fr-fr/villes/metz/boulevard-de-tr%C3%A8ves-p3/
+QP05,Boulevard de Trèves P4,Q-Park,49.1237222,6.1879166,95,,,False,"5 Boulevard de Trèves, 57000 Metz",https://www.q-park.fr/fr-fr/villes/metz/boulevard-de-tr%C3%A8ves-p4/
+QP06,Mazelle,Q-Park,49.1136061,6.1844132,270,1.70,14.00,True,"48 Place Mazelle, 57000 Metz",https://www.q-park.fr/fr-fr/villes/metz/mazelle/
+QP07,Paixhans,Q-Park,49.121018,6.1844902,387,1.70,14.00,False,"Rue du General Fournier, 57000 Metz",https://www.q-park.fr/fr-fr/villes/metz/paixhans/
+EF01,Gare de Metz Château d'Eau,Effia,49.110951,6.17923,,1.80,17.10,False,"2 passage de l'amphithéâtre, 57000 Metz",https://www.effia.com/parking/parking-gare-de-metz-chateau-deau-effia
+EF02,Gare de Metz,Effia,49.108956,6.175098,,1.80,16.60,True,"Rue Lafayette, 57000 Metz",https://www.effia.com/parking/parking-gare-de-metz-effia

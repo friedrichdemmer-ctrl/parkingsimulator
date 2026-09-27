@@ -1,0 +1,9 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Am Hauptbahnhof,Q-Park,47.6145044,7.6633132,678,2.70,18.00,true,"Bahnhofstraße 1, 79539 Lörrach",https://www.q-park.de/de-de/staedte/l%c3%b6rrach/am-hauptbahnhof/
+QP02,Wallbrunn,Q-Park,47.6107836,7.6604613,540,2.70,18.00,,"Bahnhofstraße 5, 79539 Lörrach",https://www.q-park.de/de-de/staedte/l%c3%b6rrach/wallbrunn/
+AP01,Galerie Am Alten Markt,APCOA,47.610173,7.662452,247,2.10,18.00,true,"Bahnhofstraße 7, 79539 Lörrach",https://www.apcoa.de/einmal-parken/standorte/loerrach/galerie-am-alten-markt
+BB01,Parkhaus Burghof,B+B Parkhaus,47.6093645,7.658816,305,1.00,12.00,,"Weinbrennerstraße 12, 79539 Lörrach",https://www.bb-parkhaus.de/staedte/loerrach/parkhaus-burghof
+BB02,Tiefgarage Markt,B+B Parkhaus,47.6118981,7.6582226,100,2.50,15.00,,"Gugelmeierstraße 2, 79539 Lörrach",https://www.bb-parkhaus.de/staedte/loerrach/tiefgarage-markt
+GA01,Parkhaus Galeria (Karstadt),GALERIA S.à r.l. & Co. KG,47.6125,7.659726,155,2.00,20.00,,"Spitalstraße 4, 79539 Lörrach",https://www.loerrach.de/4393?view=publish&item=parkingLocation&id=3
+HB01,Parkhaus Meeraner Markt,Hieber's Frische Center KG,47.607785,7.658181,400,2.40,16.00,,"Marie-Curie-Straße 12, 79539 Lörrach",https://www.loerrach.de/4393?view=publish&item=parkingLocation&id=9
+LR01,Landratsamt-Tiefgarage,Landkreis Lörrach,47.6147329,7.6625687,79,1.00,5.00,,"Palmstraße 3, 79539 Lörrach",https://www.loerrach.de/4393?view=publish&item=parkingLocation&id=4

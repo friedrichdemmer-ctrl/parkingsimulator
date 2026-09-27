@@ -1,0 +1,15 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Anger 1,Q-Park,50.97793,11.03724,716,1.90,13.00,True,"Fleischgasse 2, 99084 Erfurt",https://www.q-park.de/de-de/staedte/erfurt/anger-1/
+SWE01,Parkhaus Domplatz,SWE Parken,50.9781627,11.0223989,320,2.50,15.00,True,"Bechtheimer Straße 1, 99084 Erfurt",https://www.stadtwerke-erfurt.de/pb/swe/produkte+_+leistungen/parken/parkhaus+domplatz
+SWE02,Parkhaus Hauptbahnhof,SWE Parken,50.9729803,11.0377538,286,2.50,15.00,True,"Willy-Brandt-Platz 2, 99084 Erfurt",https://www.stadtwerke-erfurt.de/pb/swe/produkte+_+leistungen/parken/parkhaus+hauptbahnhof
+SWE03,Parkhaus Forum 1,SWE Parken,50.9739719,11.0332275,250,2.50,15.00,,"Hirschlachufer 7, 99084 Erfurt",https://www.stadtwerke-erfurt.de/pb/swe/produkte+_+leistungen/parken/parkhaus+forum+1
+SWE04,Parkhaus Forum 2/3,SWE Parken,50.9739719,11.0332275,467,2.00,12.00,,"Hirschlachufer 7, 99084 Erfurt",https://www.stadtwerke-erfurt.de/pb/swe/produkte+_+leistungen/parken/parkhaus+forum+2_3
+SWE05,Parkhaus Thomaseck,SWE Parken,50.9728763,11.0345435,314,,12.00,,"Thomasstraße 83, 99084 Erfurt",https://www.stadtwerke-erfurt.de/pb/swe/produkte+_+leistungen/parken/parkhaus+thomaseck
+SWE06,Parkhaus Stadtwerke,SWE Parken,50.9900348,11.0298419,400,2.00,7.00,True,"Rosa-Luxemburg-Straße 47, 99086 Erfurt",https://www.stadtwerke-erfurt.de/pb/swe/produkte+_+leistungen/parken/parkhaus+stadtwerke
+SWE07,Parkhaus Am Stadion,SWE Parken,50.9632667,11.0370832,427,2.00,10.00,True,"Johann-Sebastian-Bach-Straße 2a, 99096 Erfurt",https://www.stadtwerke-erfurt.de/pb/swe/produkte+_+leistungen/parken/parkhaus+am+stadion
+SWE08,Parkhaus Am Hirschgarten,SWE Parken,50.9722433,11.0293015,548,2.50,15.00,True,"Juri-Gagarin-Ring 11, 99094 Erfurt",https://www.stadtwerke-erfurt.de/pb/swe/produkte+_+leistungen/parken/parkhaus_hirschgarten
+SWE09,Parkplatz Forum 2,SWE Parken,50.9739719,11.0332275,58,2.50,15.00,,"Hirschlachufer 7, 99084 Erfurt",https://www.stadtwerke-erfurt.de/pb/swe/produkte+_+leistungen/parken/parkplatz+forum+2
+SWE10,Parkplatz Forum 4,SWE Parken,50.9739719,11.0332275,99,2.50,15.00,,"Hirschlachufer 7, 99084 Erfurt",https://www.stadtwerke-erfurt.de/pb/swe/produkte+_+leistungen/parken/parkplatz+forum+4
+GB01,Parkhaus Reglermauer,GOLDBECK Parking Services,50.97547,11.03648,328,2.00,20.00,True,"Reglermauer 2, 99084 Erfurt",https://www.goldbeck-parking.de/news/erfurt
+CP01,Tiefgarage Theater Erfurt,city-parking,50.974530,11.018180,106,2.00,12.00,,"Theaterplatz 1, 99084 Erfurt",https://city-parking.de/standorte/erfurt-tiefgarage-theater-erfurt/
+DBP01,Parkplatz Hbf Zum Güterbahnhof P1,DB BahnPark,50.974424,11.043671,110,1.50,10.00,,"Am Güterbahnhof, 99085 Erfurt",https://www.contipark.de/de/parken/erfurt/parkplatz-hbf-zum-gueterbahnhof-p1/

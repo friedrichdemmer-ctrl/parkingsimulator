@@ -1,0 +1,13 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Centre des Congrès,Q-Park,45.44804,6.97517,116,,,,"Rue de la Face, 73150 Val d'Isère",https://www.q-park.fr/fr-fr/villes/val-d-is%c3%a8re/centre-des-congres/
+QP02,P0 Centre,Q-Park,45.4492,6.97718,340,3.20,29.10,True,"Rue Noel Machet, 73150 Val d'Isère",https://www.q-park.fr/fr-fr/villes/val-d-is%c3%a8re/p0-centre/
+QP03,P1 Face de Bellevarde,Q-Park,45.44654,6.97581,448,3.20,29.10,True,"387 Rue de la Face, 73150 Val d'Isère",https://www.q-park.fr/fr-fr/villes/val-d-is%c3%a8re/p1-face-de-bellevarde/
+QP04,P2 Daille,Q-Park,45.462366,6.96453,327,3.20,29.10,,"332 Rue de la Daille, 73150 Val d'Isère",https://www.q-park.fr/fr-fr/villes/val-d-is%c3%a8re/p2-daille/
+QP05,P3 Crêt,Q-Park,45.45576,6.96947,190,3.20,29.10,True,"Route de la Plaine, 73150 Val d'Isère",https://www.q-park.fr/fr-fr/villes/val-d-is%c3%a8re/p3-cret/
+QP06,P4 Bus,Q-Park,45.45873,6.96688,5,0.00,58.00,,"Route de la Plaine, 73150 Val d'Isère",https://www.q-park.fr/fr-fr/villes/val-d-is%c3%a8re/p4-bus/
+QP07,P5 Plaine de la Daille,Q-Park,45.45987,6.96592,120,2.60,20.10,True,"D902, Route de la Plaine, 73150 Val d'Isère",https://www.q-park.fr/fr-fr/villes/val-d-is%c3%a8re/p5-plaine-de-la-daille/
+QP08,P6 Laisinant,Q-Park,45.44725,6.99398,90,2.60,20.10,,"Route du Laisinant, 73150 Val d'Isère",https://www.q-park.fr/fr-fr/villes/val-d-is%c3%a8re/p6-laisinant/
+QP09,P7 Manchet,Q-Park,45.43824,6.97468,90,0.00,20.10,,"Route de l'Eau Rousse, 73150 Val d'Isère",https://www.q-park.fr/fr-fr/villes/val-d-is%c3%a8re/p7-manchet/
+QP10,Les Richardes,Q-Park,45.4463,6.98803,59,,,,"Allée des Richardes, 73150 Val d'Isère",https://www.q-park.fr/fr-fr/villes/val-d-is%c3%a8re/richardes/
+QP11,Rond-Point des Pistes,Q-Park,45.44578,6.97772,77,,,,"Place du Rond Point des Pistes, 73150 Val d'Isère",https://www.q-park.fr/fr-fr/villes/val-d-is%c3%a8re/rond-point-des-pistes/
+QP12,Val Village,Q-Park,45.44845,6.97972,254,,,,"Rue des Téléphériques, 73150 Val d'Isère",https://www.q-park.fr/fr-fr/villes/val-d-is%c3%a8re/val-village/

@@ -1,0 +1,29 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Am Schloss,Q-Park,49.2282076,6.9941394,490,2.70,16.00,true,"Talstraße 38, 66119 Saarbrücken",https://www.q-park.de/de-de/staedte/saarbr%c3%bccken/am-schloss/
+QP02,Beethovenplatz,Q-Park,49.2377311,6.9955091,217,2.70,16.00,,"Sulzbachstraße 20, 66111 Saarbrücken",https://www.q-park.de/de-de/staedte/saarbr%c3%bccken/beethovenplatz/
+QP03,Cine-Star,Q-Park,49.2386700,6.9806100,76,2.20,10.00,,"St. Johanner Str. 83, 66111 Saarbrücken",https://www.q-park.de/de-de/staedte/saarbr%c3%bccken/cine-star/
+QP04,Lampertshof,Q-Park,49.2370572,6.9937614,464,2.70,16.00,,"Sulzbachstraße 4, 66111 Saarbrücken",https://www.q-park.de/de-de/staedte/saarbr%c3%bccken/lampertshof/
+QP05,Neue Mitte,Q-Park,49.2395598,6.9932734,80,3.00,16.00,,"Ursulinenstraße 1, 66111 Saarbrücken",https://www.q-park.de/de-de/staedte/saarbr%c3%bccken/neue-mitte/
+QP06,Staatstheater,Q-Park,49.2301633,6.9970142,450,2.70,16.00,true,"Schillerplatz, 66111 Saarbrücken",https://www.q-park.de/de-de/staedte/saarbr%c3%bccken/staatstheater/
+QP07,Westspange,Q-Park,49.2396087,6.9831052,576,2.00,10.00,,"Unter der Westspange, 66111 Saarbrücken",https://www.q-park.de/de-de/staedte/saarbr%c3%bccken/westspange/
+AP01,Europa Galerie,APCOA,49.2403080,6.9868800,1050,2.40,15.00,true,"Trierer Str. 1, 66111 Saarbrücken",https://www.apcoa.de/einmal-parken/standorte/saarbruecken/europa-galerie
+AP02,Grülingstraße 10,APCOA,49.2447935,6.9940954,44,,,,"Grülingstraße 10, 66113 Saarbrücken",https://www.apcoa.de/einmal-parken/standorte/saarbruecken/gruelingsstrasse-10
+DB01,Parkhaus Hauptbahnhof City P9,DB BahnPark,49.2398700,6.9944400,398,2.00,8.00,true,"Ursulinenstraße 31, 66111 Saarbrücken",https://www.contipark.de/de/parken/saarbruecken/parkhaus-hauptbahnhof-city-p9/
+DB02,Parkhaus Hauptbahnhof Bahnhofstraße P7,DB BahnPark,49.2383250,6.9913230,450,2.00,6.00,,"Victoriastraße 19, 66111 Saarbrücken",https://www.contipark.de/de/parken/saarbruecken/parkhaus-hauptbahnhof-bahnhofstrasse-p7/
+DB03,Parkplatz Hauptbahnhof Viktoriastraße P5,DB BahnPark,49.2401290,6.9932380,6,2.50,12.00,,"Viktoriastraße, 66111 Saarbrücken",https://www.contipark.de/de/parken/saarbruecken/parkplatz-hauptbahnhof-viktoriastrasse-p5/
+DB04,Parkplatz Hauptbahnhof Viktoriastraße P2,DB BahnPark,49.2397650,6.9924710,44,2.50,12.00,,"Viktoriastraße, 66111 Saarbrücken",https://www.contipark.de/de/parken/saarbruecken/parkplatz-hauptbahnhof-viktoriastrasse-p2/
+DB05,Parkplatz Hauptbahnhof Vorfahrt P1,DB BahnPark,49.2405640,6.9901640,37,3.00,20.00,,"Am Hauptbahnhof 4, 66111 Saarbrücken",https://www.contipark.de/de/parken/saarbruecken/parkplatz-hauptbahnhof-vorfahrt-p1-saarbruecken/
+DB06,Parkplatz Hauptbahnhof am Gleis P4,DB BahnPark,49.2407300,6.9932250,78,3.00,8.00,,"Viktoriastraße, 66111 Saarbrücken",https://www.contipark.de/de/parken/saarbruecken/parkplatz-hauptbahnhof-am-gleis-p4/
+KBS01,Parkhaus Rathaus,KBS,49.2338348,6.9966984,563,2.70,16.00,,"Kaltenbachstraße 16, 66111 Saarbrücken",https://kbs-sb.de/immobilie/parkhaus-rathaus/
+KBS02,Parkhaus Hauptbahnhof,KBS,49.2404378,6.9945227,574,1.90,10.00,,"Bormannspfad 38, 66111 Saarbrücken",https://kbs-sb.de/immobilie/parkhaus-hauptbahnhof/
+KBS03,Parkhaus Congresshalle,KBS,49.2393425,6.9842803,370,2.70,16.00,,"Hafenstraße 20, 66111 Saarbrücken",https://kbs-sb.de/immobilie/parkhaus-congresshalle/
+KBS04,Parkplatz Roonstraße,KBS,49.2327968,6.9826806,290,2.70,16.00,,"Am Tummelplatz, 66117 Saarbrücken",https://kbs-sb.de/immobilie/parkplatz-roonstrasse/
+KBS05,Parkplatz Brauerstraße (P27),KBS,49.2410366,7.0036323,187,1.20,5.00,,"Brauerstraße, 66111 Saarbrücken",https://kbs-sb.de/immobilie/parkplatz-brauerstrasse/
+KBS06,Parkplatz Schützenstraße (P26),KBS,49.2407795,7.0021244,130,1.20,5.00,,"Schützenstraße, 66111 Saarbrücken",https://kbs-sb.de/immobilie/parkplatz-schuetzenstrasse/
+KBS07,Parkplatz Lebacher Straße,KBS,49.2468716,6.9674199,62,1.00,4.00,,"Lebacher Straße, 66113 Saarbrücken",https://kbs-sb.de/immobilie/parkplatz-lebacher-strasse/
+KBS08,Parkplatz Stromstraße (P24),KBS,49.2375876,6.9719070,110,1.00,4.00,,"Stromstraße, 66115 Saarbrücken",https://kbs-sb.de/immobilie/parkplatz-stromstrasse/
+KBS09,Parkplatz Dudoplatz,KBS,49.2754354,7.0328827,177,,3.00,,"An der Mühlenschule, 66125 Saarbrücken",https://kbs-sb.de/immobilie/parkplatz-dudoplatz/
+KBS10,Tiefgarage Dudweiler,KBS,49.2754514,7.0373845,437,1.00,5.00,,"Am Markt 3, 66125 Saarbrücken",https://kbs-sb.de/immobilie/tiefgarage-dudweiler/
+KBS11,Parkplatz Willi-Graf-Ufer,KBS,49.2354755,6.9922485,47,,,,"Willi-Graf-Ufer, 66111 Saarbrücken",https://kbs-sb.de/immobilie/parkplatz-willi-graf-ufer/
+GB01,City Parkhaus P10,GOLDBECK Parking Services,49.238716,6.9876782,171,2.50,25.00,,"Hafenstraße 25a, 66111 Saarbrücken",https://www.goldbeck-parking.de/parkplatzsuche#/p/7117/City%20Parkhaus%20P10
+GI01,Parkhaus Europaallee P16,GIU,49.2421839,6.9895433,455,,10.00,true,"Europaallee 16, 66113 Saarbrücken",https://www.giu.de/giu/parkhaus-europaallee/

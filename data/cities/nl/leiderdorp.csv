@@ -1,0 +1,5 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Rijnland Vierzicht P1,Q-Park,52.154283,4.538795,325,2.07,9.00,True,"Simon Smitweg 1, 2353 GA Leiderdorp",https://www.q-park.nl/nl-nl/parkeren/leiderdorp/rijnland-vierzicht-p1/
+QP02,Rijnland Vierzicht P2,Q-Park,52.154283,4.538795,200,2.07,9.00,,"Simon Smitweg 1, 2353 GA Leiderdorp",https://www.q-park.nl/nl-nl/parkeren/leiderdorp/rijnland-vierzicht-p2/
+QP03,Rijnland Vierzicht P3,Q-Park,52.154283,4.538795,550,2.07,9.00,True,"Simon Smitweg 6, 2353 GA Leiderdorp",https://www.q-park.nl/nl-nl/parkeren/leiderdorp/rijnland-vierzicht-p3/
+WH01,Winkelhof Leiderdorp,Urban Interest Vastgoed,52.163046,4.533272,825,0.00,0.00,True,"Winkelhof 55, 2353 TV Leiderdorp",https://winkelhof-leiderdorp.nl/services/parkeren/

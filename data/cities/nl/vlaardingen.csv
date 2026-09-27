@@ -1,0 +1,5 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Hoogstraat,Q-Park,51.9116208,4.3432249,423,2.4,12.5,,"Kornelis Speelmanstraat 4, 3131 BG Vlaardingen",https://www.q-park.nl/nl-nl/parkeren/vlaardingen/hoogstraat/
+QP02,Liesveld,Q-Park,51.9103574,4.3390511,398,3.0,12.5,,"Van Riebeeckstraat 30, 3131 VV Vlaardingen",https://www.q-park.nl/nl-nl/parkeren/vlaardingen/liesveld/
+QP03,Stadhuis,Q-Park,51.907679,4.3398706,148,3.0,12.5,True,"Dr. Sacharovplaats 3, 3131 MH Vlaardingen",https://www.q-park.nl/nl-nl/parkeren/vlaardingen/stadhuis/
+PB01,Parq Point Shuttle,ParkBee,51.90053859,4.317614671,,,,False,"Trawlerweg 20, 3133 KV Vlaardingen",https://www.parkbee.com/nl-nl

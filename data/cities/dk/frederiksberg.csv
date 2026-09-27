@@ -1,0 +1,30 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Codanhus,Q-Park,55.674141,12.555064,286,37,280,True,"Vodroffsvej 1, 1900 Frederiksberg C",https://www.q-park.dk/da/parkering/frederiksberg/codanhus/
+QP02,Zoologisk Have København,Q-Park,55.671654,12.520451,69,25,,,"Roskildevej 25-27, 2000 Frederiksberg",https://www.q-park.dk/da/parkering/frederiksberg/zoologisk-have-k%c3%b8benhavn/
+QP03,Bülowsvej,Q-Park,55.6845998,12.5466581,104,30,230,True,"Bülowsvej 35-47, 1870 Frederiksberg C",https://www.q-park.dk/da/parkering/frederiksberg/b%c3%bclowsvej/
+QP04,Dalgas Have 15,Q-Park,55.6835797,12.5136843,177,15,,,"Dalgas Have 15, 2000 Frederiksberg",https://www.q-park.dk/da/parkering/frederiksberg/dalgas-have-15/
+QP05,Diakonissestiftelsen,Q-Park,55.678983,12.5172644,149,5,,True,"Diakonissestiftelsen, 2000 Frederiksberg",https://www.q-park.dk/da/parkering/frederiksberg/diakonissestiftelsen/
+QP06,"Falkoner Alle 90 (P-kælder, dæk-2)",Q-Park,55.6857046,12.5396673,60,10,,,"Falkoner Alle 90, 2000 Frederiksberg","https://www.q-park.dk/da/parkering/frederiksberg/falkoner-alle-90-(p-k%c3%a6lder,-d%c3%a6k-2)/"
+QP07,Gammel Kongevej 60 (Codanhus forplads),Q-Park,55.674119,12.554775,43,37,,,"Gammel Kongevej 60, 1850 Frederiksberg C",https://www.q-park.dk/da/parkering/frederiksberg/gammel-kongevej-60-(codanhus-forplads)/
+QP08,Kilevej 14,Q-Park,55.6812304,12.5232607,70,15,,,"Kilevej 14, 2000 Frederiksberg",https://www.q-park.dk/da/parkering/frederiksberg/kilevej-14/
+QP09,Mariendalsvej 55,Q-Park,55.690498,12.533006,53,18,,,"Mariendalsvej 55, 2000 Frederiksberg C",https://www.q-park.dk/da/parkering/frederiksberg/mariendalsvej-55/
+QP10,Porcelænshaven 2-28,Q-Park,55.6781631,12.5233854,78,26,,,"Porcelænshaven 2-28, 2000 Frederiksberg","https://www.q-park.dk/da/parkering/frederiksberg/porcel%c3%a6nshaven-2-28,-2000-frederiksberg/"
+QP11,"Porcelænshaven 2A, 5A og 16-26",Q-Park,55.679186,12.5235994,447,,,,"Porcelænshaven 2A, 5A og 16-26, 2000 Frederiksberg",https://www.q-park.dk/da/parkering/frederiksberg/porcel%c3%a6nshaven-16-26/
+QP12,Rathsacksvej 4,Q-Park,55.678284,12.535544,10,16,,,"Rathsacksvej 4, 2000 Frederiksberg",https://www.q-park.dk/da/parkering/frederiksberg/rathsacksvej-4/
+QP13,Roskildevej 37-41,Q-Park,55.67169,12.515127,94,16,,True,"Roskildevej 37-41, 2000 Frederiksberg",https://www.q-park.dk/da/parkering/frederiksberg/roskildevej-37-41/
+QP14,Solbjerg Plads (Trekantsområdet),Q-Park,55.6822546,12.5314116,16,15,,,"Solbjerg Plads (Trekantsområdet), 2000 Frederiksberg",https://www.q-park.dk/da/parkering/frederiksberg/solbjerg-plads-(trekantsomr%c3%a5det)/
+QP15,Solbjerg Plads 3,Q-Park,55.6820772,12.5298527,258,15,,,"Solbjerg Plads 3, 2000 Frederiksberg",https://www.q-park.dk/da/parkering/frederiksberg/solbjerg-plads-3/
+QP16,Sønderjyllands Allé 2,Q-Park,55.680067,12.498723,57,20,,,"Sønderjyllands Allé 2, 2000 Frederiksberg",https://www.q-park.dk/da/parkering/frederiksberg/s%c3%b8nderjyllands-all%c3%a9-2/
+AP01,KB Hallen,APCOA,55.678207,12.494492,200,22,,,"Peter Bangs Vej 147, 2000 Frederiksberg",https://www.apcoa.dk/find-en-p-plads/lokationer/frederiksberg/kb-hallen
+AP02,Pile Allé 14,APCOA,55.671726,12.530521,80,22,,,"Pile Allé 14, 2000 Frederiksberg",https://www.apcoa.dk/find-en-p-plads/lokationer/frederiksberg/pile-alle-14
+AP03,Nimbusparken,APCOA,55.679504,12.513483,450,24,240,,"Nimbusparken, 2000 Frederiksberg",https://www.apcoa.dk/find-en-p-plads/lokationer/frederiksberg/nimbusparken
+AP04,Langelands Plads 1,APCOA,55.684856,12.529952,,,,,"Langelands Plads 1, 2000 Frederiksberg",https://www.apcoa.dk/find-en-p-plads/lokationer/frederiksberg/langelands-plads-1
+AP05,Nordens Plads,APCOA,55.671596,12.502282,400,17,,,"Nordens Plads 10, 2000 Frederiksberg",https://www.apcoa.dk/find-en-p-plads/lokationer/frederiksberg/nordens-plads
+AP06,H. V. Nyholms Vej 3-7,APCOA,55.67936879,12.5132599,20,,,,"H. V. Nyholms Vej 3-7, 2000 Frederiksberg",https://www.apcoa.dk/find-en-p-plads/lokationer/frederiksberg/h-v-nyholms-vej-3-7
+AP07,Nordre Fasanvej 27,APCOA,55.68236133,12.5216371,50,25,600,,"Nordre Fasanvej 27, 2000 Frederiksberg",https://www.apcoa.dk/find-en-p-plads/lokationer/frederiksberg/nordre-fasanvej-27
+AP08,Pile Alle 9,APCOA,55.672569,12.53191,,,,,"Pile Alle 9, 2000 Frederiksberg",https://www.apcoa.dk/find-en-p-plads/lokationer/frederiksberg/pile-alle-9
+AP09,Finsensvej 15,APCOA,55.6812001,12.51856001,32,,,,"Finsensvej 15, 2000 Frederiksberg",https://www.apcoa.dk/find-en-p-plads/lokationer/frederikberg/finsensvej-15
+FK01,Parkeringskælder Falkoner Plads / Sylows Allé,Frederiksberg Kommune,55.6802282,12.5319152,,10,130,,"Sylows Allé, 2000 Frederiksberg",https://www.frederiksberg.dk/by-bolig-og-miljoe/trafik/parkering/spoergsmaal-om-parkeringsregler-og-kontrol
+FK02,Parkeringskælder Henrik Steffens Vej / Grundtvigsvej,Frederiksberg Kommune,55.6783556,12.5385062,,10,130,,"Henrik Steffens Vej, 2000 Frederiksberg",https://www.frederiksberg.dk/by-bolig-og-miljoe/trafik/parkering/spoergsmaal-om-parkeringsregler-og-kontrol
+FK03,Parkeringskælder John Winthers Plads,Frederiksberg Kommune,55.6786237,12.5287325,,10,130,,"John Winthers Plads, 2000 Frederiksberg",https://www.frederiksberg.dk/by-bolig-og-miljoe/trafik/parkering/spoergsmaal-om-parkeringsregler-og-kontrol
+FK04,Parkeringskælder Livas Have / Dirch Passers Allé,Frederiksberg Kommune,55.6838701,12.5040373,,10,130,,"Dirch Passers Allé, 2000 Frederiksberg",https://www.frederiksberg.dk/by-bolig-og-miljoe/trafik/parkering/spoergsmaal-om-parkeringsregler-og-kontrol

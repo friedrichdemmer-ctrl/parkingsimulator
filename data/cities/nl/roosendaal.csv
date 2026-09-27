@@ -1,0 +1,8 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,P+R Stationsplein,Q-Park,51.540623,4.461662,101,2.59,15.00,,"Stationsplein, 4702 VK Roosendaal",https://www.q-park.nl/nl-nl/parkeren/roosendaal/p-r-stationsplein/
+QP02,P+R Stationsstraat,Q-Park,51.5394444,4.4583333,144,2.59,15.00,,"Stationsstraat, 4701 NC Roosendaal",https://www.q-park.nl/nl-nl/parkeren/roosendaal/p-r-stationsstraat/
+PBR01,Nieuwe Markt,Parkeer Beheer Roosendaal,51.5313299,4.4583475,520,2.25,10.00,True,"Nieuwe Markt 81, 4701 AE Roosendaal",https://www.parkerenroosendaal.nl/parkeren-in-parkeergarages/
+PBR02,Biggelaar,Parkeer Beheer Roosendaal,51.5329391,4.4584472,375,2.25,10.00,True,"Biggelaar 29, 4701 RA Roosendaal",https://www.parkerenroosendaal.nl/parkeren-in-parkeergarages/
+PBR03,Roselaar,Parkeer Beheer Roosendaal,51.5313603,4.4533499,416,2.25,10.00,True,"Laan van Brabant 5, 4701 BM Roosendaal",https://www.parkerenroosendaal.nl/parkeren-in-parkeergarages/
+PBR04,Mill Hill,Parkeer Beheer Roosendaal,51.5287213,4.4543257,100,2.25,10.00,True,"Vrouwemadestraat 76, 4701 CG Roosendaal",https://www.parkerenroosendaal.nl/parkeren-in-parkeergarages/
+PBR05,Liga,Parkeer Beheer Roosendaal,51.5312068,4.4530813,150,2.25,10.00,,"Laan van Brabant 48-50, 4701 BK Roosendaal",https://www.parkerenroosendaal.nl/parkeren-in-parkeergarages/

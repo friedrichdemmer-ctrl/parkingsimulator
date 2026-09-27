@@ -1,0 +1,7 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Corridor,Q-Park,52.024211,5.555896,302,2.50,8.00,True,"J.G. Sandbrinkstraat 31, 3901 AC Veenendaal",https://www.q-park.nl/nl-nl/parkeren/veenendaal/corridor/
+QP02,Passage,Q-Park,52.025127,5.557059,550,2.50,8.00,True,"Passage 54, 3901 AZ Veenendaal",https://www.q-park.nl/nl-nl/parkeren/veenendaal/passage/
+GV01,Gemeentehuis,Gemeente Veenendaal,52.023644,5.557087,210,2.50,8.00,True,"J.G. Sandbrinkstraat 53, 3901 EX Veenendaal",https://www.veenendaal.nl/info-over-de-gemeente/parkeergarages-en-terreinen
+GV02,Tricotage,Gemeente Veenendaal,52.026792,5.559251,305,2.50,8.00,True,"Wolweg 195, 3901 TD Veenendaal",https://www.veenendaal.nl/info-over-de-gemeente/parkeergarages-en-terreinen
+GV03,Arie van Hensbergen,Gemeente Veenendaal,52.027929,5.560067,275,2.50,8.00,True,"Verlaat 12a, 3901 RD Veenendaal",https://www.veenendaal.nl/info-over-de-gemeente/parkeergarages-en-terreinen
+SC01,Scheepjeshof,De Scheepjeshof,52.029402,5.555771,400,1.76,6.00,True,"Scheepjeshof 50, 3901 CV Veenendaal",https://www.descheepjeshof.nl/service-info/overdekt-parkeren/

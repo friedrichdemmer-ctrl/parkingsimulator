@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+GS01,Boschplein (P-Zuid Waterpoort),Gemeente Súdwest-Fryslân,53.027646,5.657969,470,0.00,,,"Louw Doniastraat 16, 8607 CD Sneek",https://www.centrumparkeren.nl/sneek/parkeergarages/boschplein
+GS02,Normandiaplein (P-Oost),Gemeente Súdwest-Fryslân,53.035160,5.666371,160,0.00,,,"Normandiaplein 7, 8603 CS Sneek",https://www.centrumparkeren.nl/sneek/parkeergarages/normandiaplein
+QP01,P+R Station Sneek,Q-Park,53.031142,5.649202,126,0.99,4.00,,"Kanaalstraat, 8601 GA Sneek",https://www.q-park.nl/nl-nl/parkeren/sneek/p-r-station-sneek/

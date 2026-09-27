@@ -1,0 +1,8 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Parkhaus Stadtquartier Schlossstraße,Q-Park,51.4272851,6.8783465,300,1.5,17.0,,"Ruhrstrasse 14, 45468 Mülheim an der Ruhr",https://www.q-park.de/de-de/staedte/m%C3%BClheim-an-der-ruhr/stadtquartier-schlossstra%C3%9Fe/
+QP02,Tiefgarage Stadtquartier Schlossstraße,Q-Park,51.4272851,6.8783465,200,1.5,17.0,,"Ruhrstrasse 14, 45468 Mülheim an der Ruhr",https://www.q-park.de/de-de/staedte/m%C3%BClheim-an-der-ruhr/tiefgarage-stadtquartier-schlossstra%C3%9Fe/
+AP01,Forum P1/TG,APCOA,51.42962683,6.8855648,746,1.3,17.0,,"Eppinghofer Straße, 45468 Mülheim an der Ruhr",https://www.apcoa.de/einmal-parken/standorte/muelheim-an-der-ruhr/forum-p1/tg
+MH01,Tiefgarage Schlossstraße,Betriebe der Stadt Mülheim an der Ruhr,51.4280603,6.8833874,194,2.0,15.0,,"Viktoriastraße, 45468 Mülheim an der Ruhr",https://www1.muelheim-ruhr.de/betriebe-der-stadt/tiefgaragen/110754
+MH02,Tiefgarage Synagogenplatz (Viktoriaplatz),Betriebe der Stadt Mülheim an der Ruhr,51.4290135,6.8828748,142,2.0,15.0,,"Synagogenplatz, 45468 Mülheim an der Ruhr",https://www1.muelheim-ruhr.de/betriebe-der-stadt/tiefgaragen/110754
+MH03,Tiefgarage Rathausmarkt,Betriebe der Stadt Mülheim an der Ruhr,51.4266894,6.8807036,90,2.0,20.0,,"Friedrich-Ebert-Straße, 45468 Mülheim an der Ruhr",https://www1.muelheim-ruhr.de/betriebe-der-stadt/tiefgaragen/110754
+MH04,Tiefgarage Stadthalle,Betriebe der Stadt Mülheim an der Ruhr,51.4280835,6.8716613,157,2.0,15.0,,"Bergstraße 1, 45479 Mülheim an der Ruhr",https://www1.muelheim-ruhr.de/betriebe-der-stadt/tiefgaragen/110754

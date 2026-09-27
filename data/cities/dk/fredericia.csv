@@ -1,0 +1,9 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,"Q-Park Gefionsvej 29 & Nymarksvej 26-30",Q-Park,55.574567,9.762201,18,,,,"Gefionsvej & Nymarksvej 29 & 26-30, 7000 Fredericia","https://www.q-park.dk/da/parkering/fredericia/gefionsvej-29-,-a-,-nymarksvej-26-30/"
+QP02,Q-Park Hydra,Q-Park,55.560995,9.754588,309,15,120,True,"Sønder Voldgade, 7000 Fredericia",https://www.q-park.dk/da/parkering/fredericia/hydra/
+QP03,Q-Park Nørrebrogade 30,Q-Park,55.571595,9.750098,7,,,,"Nørrebrogade 30, 7000 Fredericia","https://www.q-park.dk/da/parkering/fredericia/n%c3%b8rrebrogade-30/"
+AP01,Vendersgade 40-42,APCOA,55.563407,9.754442,,,,,"Vendersgade 40-42, 7000 Fredericia",https://www.apcoa.dk/find-en-p-plads/lokationer/fredericia/vendersgade-40-42
+AP02,Oldenborggade 29,APCOA,55.56184682,9.76060178,125,8,,,"Oldenborggade 29, 7000 Fredericia",https://www.apcoa.dk/find-en-p-plads/lokationer/fredericia/oldenborggade-29
+AP03,"Delmenhorstgade, Carolinelunden",APCOA,55.55802092,9.75984902,130,14,,,"Delmenhorstgade, 7000 Fredericia",https://www.apcoa.dk/find-en-p-plads/lokationer/fredericia/delmenhorstgade-carolinelunden
+AP04,Vejlevej 6,APCOA,55.569691,9.735581,200,15,26,,"Vejlevej 6, 7000 Fredericia",https://www.apcoa.dk/find-en-p-plads/lokationer/fredericia/vejlevej
+FRK01,Parkeringshus Domus Axel,Fredericia Kommune,55.564916,9.758985,200,,,,"Købmagergade 60, 7000 Fredericia",https://www.fredericia.dk/parkering

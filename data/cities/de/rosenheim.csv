@@ -1,0 +1,21 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,MedicalCube,Q-Park,47.851204,12.1170866,198,2.0,16.0,True,"Eduard-Rüber-Straße 1, 83022 Rosenheim",https://www.q-park.de/de-de/staedte/rosenheim/medicalcube/
+VKR01,P1 Zentrum,VKR (Stadt Rosenheim),47.852389,12.127195,264,,12.0,,"Hammerweg 1, 83022 Rosenheim",https://www.rosenheim.de/buergerservice/mobilitaet/parken/p1-zentrum/
+VKR02,P2 KU'KO,VKR (Stadt Rosenheim),47.853065,12.125822,138,,12.0,,"Kufsteiner Straße 4, 83022 Rosenheim",https://www.rosenheim.de/buergerservice/mobilitaet/parken/p2-kuko/
+VKR03,P4 Mitte,VKR (Stadt Rosenheim),47.856453,12.124722,245,,12.0,,"Frühlingstraße, 83022 Rosenheim",https://www.rosenheim.de/buergerservice/mobilitaet/parken/p4-mitte/
+VKR04,P5 Loretowiese,VKR (Stadt Rosenheim),47.859583,12.125289,700,,3.0,,"Kapuzinerweg 1, 83022 Rosenheim",https://www.rosenheim.de/buergerservice/mobilitaet/parken/p5-loretowiese/
+VKR05,P6 Salinplatz,VKR (Stadt Rosenheim),47.852644,12.12278,222,,8.0,,"Salinstraße, 83022 Rosenheim",https://www.rosenheim.de/buergerservice/mobilitaet/parken/p6-salinplatz/
+VKR06,P7 Altstadt-Ost,VKR (Stadt Rosenheim),47.857475,12.131288,82,,12.0,,"In der Schmucken, 83022 Rosenheim",https://www.rosenheim.de/buergerservice/mobilitaet/parken/p7-altstadt-ost/
+VKR07,P8 Beilhack-Kinopolis,VKR (Stadt Rosenheim),47.850594,12.12616,180,2.0,10.0,,"Kufsteiner Straße, 83022 Rosenheim",https://www.rosenheim.de/buergerservice/mobilitaet/parken/p8-beilhack-kinopolis/
+VKR08,P9 Am Klinikum,VKR (Stadt Rosenheim),47.858313,12.13279,396,,12.0,,"In der Schmucken, 83022 Rosenheim",https://www.rosenheim.de/buergerservice/mobilitaet/parken/p9-am-klinikum/
+VKR09,P10 Stadtcenter,VKR (Stadt Rosenheim),47.853346,12.127699,55,,19.0,,"Brixstraße 1, 83022 Rosenheim",https://www.rosenheim.de/buergerservice/mobilitaet/parken/p10-stadtcenter/
+VKR10,P11 Beilhack-Gießereistraße,VKR (Stadt Rosenheim),47.849744,12.126676,170,2.0,10.0,,"Gießereistraße 6, 83022 Rosenheim",https://www.rosenheim.de/buergerservice/mobilitaet/parken/p11-beilhack-giessereistrasse/
+VKR11,P12 Bahnhof-Nord,VKR (Stadt Rosenheim),47.852342,12.114008,241,,12.0,,"Eduard-Rüber-Straße 5, 83022 Rosenheim",https://www.rosenheim.de/buergerservice/mobilitaet/parken/p12-bahnhof-nord/
+VKR12,P14 Posthöfe,VKR (Stadt Rosenheim),47.850933,12.121413,40,1.0,,,"Anton-Kathrein-Straße 4, 83022 Rosenheim",https://www.rosenheim.de/buergerservice/mobilitaet/parken/p14-posthoefe/
+VKR13,P18 Eisstadion,VKR (Stadt Rosenheim),47.850842,12.13138,17,0.0,0.0,,"Brianconstraße 12A, 83022 Rosenheim",https://www.rosenheim.de/buergerservice/mobilitaet/parken/p18-eisstadion/
+VKR14,P20 In der Schmucken,VKR (Stadt Rosenheim),47.858744,12.131835,57,,12.0,,"In der Schmucken 12, 83022 Rosenheim",https://www.rosenheim.de/buergerservice/mobilitaet/parken/p20-in-der-schmucken/
+VKR15,P21 Luitpoldhalle,VKR (Stadt Rosenheim),47.857758,12.119421,60,0.0,0.0,,"Stemplingerstraße, 83022 Rosenheim",https://www.rosenheim.de/buergerservice/mobilitaet/parken/p21-luitpoldhalle/
+VKR16,P22 Prinzregentenstraße,VKR (Stadt Rosenheim),47.856073,12.124614,30,2.0,,,"Prinzregentenstraße 14, 83022 Rosenheim",https://www.rosenheim.de/buergerservice/mobilitaet/parken/p22-prinzregentenstrasse/
+VKR17,P+R Klepperstraße,VKR (Stadt Rosenheim),47.84782,12.119682,395,,1.0,,"Klepperstraße 17, 83026 Rosenheim",https://www.rosenheim.de/buergerservice/mobilitaet/parken/p-r-klepperstrasse/
+DBB01,P13 Papinstraße (C&A Parkplatz),DB BahnPark,47.852556,12.120291,50,,12.0,,"Papinstraße 11, 83022 Rosenheim",https://www.rosenheim.de/buergerservice/mobilitaet/parken/p13-papinstrasse/
+CPK01,P15 Luitpoldhaus,city-parking,47.851211,12.119647,35,1.0,12.0,,"Luitpoldstraße 5, 83022 Rosenheim",https://www.rosenheim.de/buergerservice/mobilitaet/parken/p15-luitpoldhaus/

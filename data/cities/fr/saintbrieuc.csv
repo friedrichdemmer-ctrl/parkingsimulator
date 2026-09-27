@@ -1,0 +1,2 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Les Champs,Q-Park,48.511025,-2.759305,643,1.9,27.3,True,"9 Rue Saint-François, 22000 Saint Brieuc",https://www.q-park.fr/fr-fr/villes/saint-brieuc/les-champs/

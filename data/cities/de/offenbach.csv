@@ -1,0 +1,13 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,City Parkhaus,Q-Park,50.1033369,8.7622656,543,2.2,16.0,True,"Geleitstraße 27, 63065 Offenbach am Main",https://www.q-park.de/de-de/staedte/offenbach/city-parkhaus/
+QP02,Marktplatz,Q-Park,50.1037551,8.7647907,190,2.5,16.0,True,"Waldstraße 4, 63065 Offenbach am Main",https://www.q-park.de/de-de/staedte/offenbach/marktplatz/
+AP01,City Tower,APCOA,50.1058205,8.7630234,197,2.0,18.0,True,"Berliner Straße 74-76, 63065 Offenbach am Main",https://www.apcoa.de/parken/offenbach/city-tower/
+CP01,Parkgarage Französisches Gäßchen,city-parking Deutschland,50.1065420,8.7639020,200,2.0,14.0,,"Französisches Gäßchen 6, 63065 Offenbach am Main",https://city-parking.de/standorte/offenbach-parkgarage-franzoesisches-gaesschen/
+CP02,Parkgarage Haus der Wirtschaft,city-parking Deutschland,50.1048122,8.7684128,85,2.0,16.0,,"Berliner Straße 112-114, 63065 Offenbach am Main",https://city-parking.de/standorte/offenbach-parkgarage-haus-der-wirtschaft/
+CP03,Parkgarage & Parkplatz OFF City-Center,city-parking Deutschland,50.1066549,8.7597055,345,1.0,24.0,,"Berliner Straße 206-216, 63065 Offenbach am Main",https://city-parking.de/standorte/offenbach-parkgarage-off-city-center/
+CP04,Parkhaus Messe Offenbach,city-parking Deutschland,50.1125048,8.7436772,,3.0,18.0,,"Hafenallee 69, 63065 Offenbach am Main",https://city-parking.de/standorte/offenbach-am-main-parkhaus-messe-offenbach/
+SW01,Parkhaus Innenstadt,Stadtwerke Offenbach (ESO),50.1056367,8.7683539,317,1.8,14.0,True,"Ziegelstraße 27, 63065 Offenbach am Main",https://www.offenbach.de/stadtwerke/microsite/stadtservice-dienstleistungen/parkhaus-innenstadt/index.php
+SW02,Parkgarage Hafenzentrum,Stadtwerke Offenbach (OPG/Wemolo),50.1124358,8.7543390,144,,,,"Am Hafendeck 3, 63067 Offenbach am Main",https://www.offenbach.de/verzeichnisse/yellowpages/common/parkgarage-hafenzentrum.php
+SK01,Parkhaus Klinikum (Sana),Sana Klinikum Offenbach,50.0840445,8.7453643,350,,,,"Sprendlinger Landstraße 36, 63069 Offenbach am Main",https://www.offenbach.de/verzeichnisse/yellowpages/common/wegweiser_80997.php
+MU01,Parkdeck Händelplatz,Stadt Offenbach (kostenlos),50.0833628,8.7528764,280,0.0,0.0,,"Händelplatz, 63069 Offenbach am Main",https://www.offenbach.de/verzeichnisse/yellowpages/common/wegweiser_81022.php
+IN01,Parkhaus PAM (Geleitsstraße),Independent,50.1026688,8.7597615,,,,,"Geleitsstraße 8-10, 63065 Offenbach am Main",https://www.bahnhof.de/en/offenbach-main-marktplatz/parking-spaces

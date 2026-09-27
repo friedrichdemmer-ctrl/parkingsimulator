@@ -1,0 +1,2 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Enø Kystvej 55,Q-Park,55.1751002,11.6552951,60,10,,,"Enø Kystvej 55, 4736 Karrebæksminde",https://www.q-park.dk/da/parkering/karreb%c3%a6ksminde/en%c3%b8-kystvej-55/

@@ -1,0 +1,14 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,"Q-Park Fanølinjen, Esbjerg Havn",Q-Park,55.4610802,8.4395075,350,14.0,140.0,True,"Fanølinjen, Esbjerg Havn, 6700 Esbjerg","https://www.q-park.dk/da/parkering/esbjerg/fanølinjen,-esbjerg-havn/"
+APC01,APCOA Kongensgade 44-48,APCOA,55.465761,8.45116,46,12.0,,,"Kongensgade 44-48, 6700 Esbjerg",https://www.apcoa.dk/find-en-p-plads/lokationer/esbjerg/kongensgade-44-48
+APC02,APCOA Borgergade 38,APCOA,55.465155,8.452109,35,14.0,336.0,,"Borgergade 38, 6700 Esbjerg",https://www.apcoa.dk/find-en-p-plads/lokationer/esbjerg/borgergade-38
+APC03,APCOA Havnegade 37,APCOA,55.465058,8.450271,62,8.0,192.0,,"Havnegade 37E, 6700 Esbjerg",https://www.apcoa.dk/find-en-p-plads/lokationer/esbjerg/havnegade-37
+APC04,APCOA Borgergade 12,APCOA,55.464976,8.455193,35,12.0,,True,"Borgergade 12, 6700 Esbjerg",https://www.apcoa.dk/find-en-p-plads/lokationer/esbjerg/borgergade-12
+APC05,APCOA Kongensgade 70,APCOA,55.46565557,8.44806128,60,12.0,288.0,,"Kongensgade 70, 6700 Esbjerg",https://www.apcoa.dk/find-en-p-plads/lokationer/esbjerg/kongensgade-70
+APC06,APCOA Kongensgade 61,APCOA,55.46693546,8.44740559,17,14.0,,,"Kongensgade 61, 6700 Esbjerg",https://www.apcoa.dk/find-en-p-plads/lokationer/esbjerg/kongensgade-61
+APC07,APCOA Kronprinsensgade 12-16,APCOA,55.466366,8.445376,4,10.0,240.0,,"Kronprinsensgade 12-16, 6700 Esbjerg",https://www.apcoa.dk/find-en-p-plads/lokationer/esbjerg/kronprinsensgade-12-16
+APC08,APCOA BROEN SHOPPING,APCOA,55.467987,8.460024,,,,,"BROEN SHOPPING, 6700 Esbjerg",https://www.apcoa.dk/find-en-p-plads/lokationer/esbjerg/broen-shopping
+APC09,APCOA Stormgade 39,APCOA,55.46972591,8.44455045,20,12.0,288.0,,"Stormgade 39, 6700 Esbjerg",https://www.apcoa.dk/find-en-p-plads/lokationer/esbjerg/stormgade-39
+APC10,APCOA Willemoesgade 2,APCOA,55.467277,8.440416,90,8.0,192.0,,"Willemoesgade 2, 6700 Esbjerg",https://www.apcoa.dk/find-en-p-plads/lokationer/esbjerg/willemoesgade-2
+EK01,P-huset Danmarksgade,Esbjerg Kommune,55.4679370,8.4505630,369,12.0,,,"Danmarksgade 53, 6700 Esbjerg",https://www.esbjergcity.dk/info/parkering/
+EK02,P-huset Borgergade,Esbjerg Kommune,55.4653720,8.4493330,93,12.0,,,"Borgergade 60, 6700 Esbjerg",https://www.esbjergcity.dk/info/parkering/

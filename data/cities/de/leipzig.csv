@@ -1,0 +1,18 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Tiefgarage Am Museumswinkel,Q-Park,51.3430125,12.3759163,77,1.50,18.00,,"Reichsstraße 19, 04109 Leipzig",https://www.q-park.de/de-de/staedte/leipzig/am-museumswinkel/
+QP02,Tiefgarage Augustusplatz,Q-Park,51.3391235,12.3800921,1244,2.50,20.00,,"Goethestraße, 04109 Leipzig",https://www.q-park.de/de-de/staedte/leipzig/augustusplatz/
+QP03,Parkhaus Forum am Brühl,Q-Park,51.3432438,12.3799451,52,3.00,50.00,,"Richard-Wagner-Straße 3, 04109 Leipzig",https://www.q-park.de/de-de/staedte/leipzig/forum-am-br%C3%BChl/
+QP04,Tiefgarage Marktgalerie,Q-Park,51.33963,12.3721224,480,2.50,20.00,,"Thomaskirchhof, 04109 Leipzig",https://www.q-park.de/de-de/staedte/leipzig/marktgalerie/
+QP05,Tiefgarage The Post,Q-Park,51.3389884,12.383254,179,2.20,18.00,,"Grimmaischer Steinweg 5, 04103 Leipzig",https://www.q-park.de/de-de/staedte/leipzig/the-post/
+AP01,Burgplatz Tiefgarage,APCOA,51.336665,12.372178,74,3.50,25.00,,"Petersstraße 36-44, 04109 Leipzig",https://www.apcoa.de/einmal-parken/standorte/leipzig/burgplatz
+AP02,Petersbogen Tiefgarage,APCOA,51.336699,12.372291,554,2.60,20.00,True,"Lotterstraße 1, 04109 Leipzig",https://www.apcoa.de/einmal-parken/standorte/leipzig/petersbogen
+AP03,Petersbogen / NH Hotel,APCOA,51.3367691,12.37255382,43,2.90,23.00,True,"Lotterstraße 1, 04109 Leipzig",https://www.apcoa.de/einmal-parken/standorte/leipzig/petersbogen-/-nh-hotel
+AP04,Neumarkt Tiefgarage,APCOA,51.33732,12.375833,412,2.60,20.00,True,"Peterskirchhof 7, 04109 Leipzig",https://www.apcoa.de/einmal-parken/standorte/leipzig/neumarkt
+AP05,Radisson Tiefgarage,APCOA,51.349793,12.380005,85,2.50,24.00,True,"Berliner Straße 22-30, 04105 Leipzig",https://www.apcoa.de/einmal-parken/standorte/leipzig/radisson
+CP01,Parkhaus Martin-Luther-Ring,Contipark,51.33776,12.36994,400,2.00,15.00,,"Otto-Schill-Straße 3-5, 04109 Leipzig",https://www.contipark.de/de/parken/leipzig/parkhaus-martin-luther-ring/
+BB01,Parkhaus Höfe am Brühl,B+B Parkhaus,51.3438139,12.3767088,820,2.50,18.00,True,"Am Hallischen Tor 2, 04109 Leipzig",https://www.bb-parkhaus.de/staedte/leipzig/parkhaus-hoefe-am-bruehl
+BB02,Parkplatz Deutrichshof,B+B Parkhaus,51.340466,12.377022,85,,18.50,,"Reichsstraße 10, 04109 Leipzig",https://www.bb-parkhaus.de/staedte/leipzig/parkplatz-deutrichshof
+BB03,Tiefgarage Bundesverwaltungsgericht,B+B Parkhaus,51.3323805,12.3696731,311,2.00,12.00,True,"Beethovenstraße 11, 04107 Leipzig",https://www.bb-parkhaus.de/staedte/leipzig/tiefgarage-bundesverwaltungsgericht
+PH01,Parkhaus Promenaden Hauptbahnhof West,ECE Marketplaces (Promenaden Hauptbahnhof),51.346670773501,12.379982471466,686,2.00,8.00,,"Willy-Brandt-Platz 7 (Zufahrt Kurt-Schumacher-Straße), 04109 Leipzig",https://www.promenaden-hauptbahnhof-leipzig.de/service/anfahrt-parken/parken/
+PH02,Parkhaus Promenaden Hauptbahnhof Ost,ECE Marketplaces (Promenaden Hauptbahnhof),51.345427,12.384541,574,2.00,16.00,True,"Willy-Brandt-Platz 7 (Zufahrt Brandenburger Straße), 04103 Leipzig",https://www.promenaden-hauptbahnhof-leipzig.de/service/anfahrt-parken/parken/
+GB01,Fernbus-Terminal Hbf,Goldbeck Parking Services,51.3452107,12.3844579,550,1.50,15.00,,"Sachsenseite 3, 04103 Leipzig",https://www.bahnhof.de/en/leipzig-hbf/parking-spaces

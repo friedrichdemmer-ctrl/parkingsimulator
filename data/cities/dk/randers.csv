@@ -1,0 +1,20 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Bryggertårnet,Q-Park,56.4622468,10.0373891,56,14.00,140.00,,"Bryghusgade 5, 8900 Randers C",https://www.q-park.dk/da/parkering/randers/bryggertårnet/
+QP02,"Gudenåcenteret, Gl. Stationsvej 11",Q-Park,56.453835,10.040106,250,14.00,100.00,,"Gudenåcenteret, Gl. Stationsvej 11, 8940 Randers SV","https://www.q-park.dk/da/parkering/randers/gudenåcenteret,-gl,-d-,-stationsvej-11/"
+QP03,Hospitalsgade,Q-Park,56.458489,10.032239,20,10.00,,,"Hospitalsgade 8-10, 8900 Randers NØ",https://www.q-park.dk/da/parkering/randers/hospitalsgade/
+QP04,Jens Otto Krags Plads 3,Q-Park,56.4614437,10.0420908,70,14.00,,,"Jens Otto Krags Plads 3, 8900 Randers C",https://www.q-park.dk/da/parkering/randers/jens-otto-krags-plads-3/
+QP05,Lille Voldgade 9,Q-Park,56.461548,10.033792,9,14.00,,,"Lille Voldgade 9, 8900 Randers C",https://www.q-park.dk/da/parkering/randers/lille-voldgade-9/
+QP06,Odinsgården,Q-Park,56.458162,10.0348771,50,14.00,140.00,,"Odinsgade 4, 8900 Randers NØ",https://www.q-park.dk/da/parkering/randers/odinsgården/
+QP07,Randers City,Q-Park,56.4598484,10.0416743,500,21.00,,True,"Fischersgade 26, 8900 Randers C",https://www.q-park.dk/da/parkering/randers/randers-city/
+QP08,Randers Handskefabrik,Q-Park,56.458669,10.034435,50,10.00,,,"Vestergrave 18, 8900 Randers C",https://www.q-park.dk/da/parkering/randers/randers-handskefabrik/
+QP09,Regionshospitalet Randers,Q-Park,56.471515,10.0522505,900,13.00,60.00,,"Skovlyvej 15, 8930 Randers NØ",https://www.q-park.dk/da/parkering/randers/regionshospitalet-randers/
+QP10,Sandgade,Q-Park,56.4627023,10.0395271,30,10.00,,,"Sandgade, 8900 Randers C",https://www.q-park.dk/da/parkering/randers/sandgade/
+QP11,St. Voldgade 4,Q-Park,56.4609739,10.0342265,25,19.00,,,"St. Voldgade 4, 8900 Randers C","https://www.q-park.dk/da/parkering/randers/st,-d-,-voldgade-4/"
+QP12,Staldgårdsgade 11,Q-Park,56.461103,10.0294709,25,14.00,,,"Staldgårdsgade 11, 8900 Randers C",https://www.q-park.dk/da/parkering/randers/staldgårdsgade-11/
+QP13,Thors Bakke,Q-Park,56.462279,10.038607,200,17.00,,True,"Nordregrave 3, 8900 Randers C",https://www.q-park.dk/da/parkering/randers/thors-bakke/
+QP14,Thorsgade,Q-Park,56.4621665,10.0394645,90,12.00,,,"Thorsgade, 8900 Randers C",https://www.q-park.dk/da/parkering/randers/thorsgade/
+QP15,Vestergade 10,Q-Park,56.4607724,10.0317324,3,14.00,,,"Vestergade 10, 8900 Randers C",https://www.q-park.dk/da/parkering/randers/vestergade-10/
+QP16,Vestergrave 2/ Hospitalsgade 9-13,Q-Park,56.458373,10.033579,25,14.00,,,"Vestergrave/Hospitalsgade 2/9-13, 8900 Randers C",https://www.q-park.dk/da/parkering/randers/vestergrave-2/-hospitalsgade-9-13/
+AP01,Kulholmsvej 1,APCOA,56.457542,10.042093,95,,,,"Kulholmsvej 1, 8930 Randers",https://www.apcoa.dk/find-en-p-plads/lokationer/randers
+RK01,Parkeringspladsen ved Randers Regnskov,Randers Kommune,56.457179,10.032601,,14.00,,,"Tørvebryggen 11, 8900 Randers C",https://www.randers.dk/borger/vej-trafik-og-parkering/parkering/parkering-i-randers-midtby/
+RK02,Parkeringskælderen ved Randers Sundhedscenter,Randers Kommune,56.463268,10.03799,192,,,True,"Biografgade 3, 8900 Randers C",https://www.randers.dk/borger/vej-trafik-og-parkering/parkering/parkering-i-randers-midtby/

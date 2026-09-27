@@ -1,0 +1,10 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Enclos Evêché,Q-Park,50.72659,1.614016,105,1.30,17.60,False,"Enclos de l'Evêché, 62200 Boulogne sur Mer",https://www.q-park.fr/fr-fr/villes/boulogne-sur-mer/enclos-ev%c3%aach%c3%a9/
+QP02,Enclos Herry,Q-Park,50.7271158,1.6060732,184,1.00,12.20,False,"Place Adolphe Herry, 62200 Boulogne sur Mer",https://www.q-park.fr/fr-fr/villes/boulogne-sur-mer/enclos-herry/
+QP03,Enclos La Plage,Q-Park,50.731597,1.594944,230,1.30,17.60,False,"Boulevard Sainte-Beuve, 62200 Boulogne sur Mer",https://www.q-park.fr/fr-fr/villes/boulogne-sur-mer/enclos-la-plage/
+QP04,Enclos Mariette,Q-Park,50.727072,1.612975,290,1.70,19.80,False,"Place Mariette, 62200 Boulogne sur Mer",https://www.q-park.fr/fr-fr/villes/boulogne-sur-mer/enclos-mariette/
+QP05,Enclos Quai de la Poste,Q-Park,50.7231871,1.6015886,114,1.00,12.20,False,"Quai de la Poste, 62200 Boulogne sur Mer",https://www.q-park.fr/fr-fr/villes/boulogne-sur-mer/enclos-quai-de-la-poste/
+QP06,Enclos Quai des Paquebots,Q-Park,50.728738,1.596814,100,,,False,"Quai des Paquebots, 62200 Boulogne sur Mer",https://www.q-park.fr/fr-fr/villes/boulogne-sur-mer/enclos-quai-des-paquebots/
+QP07,Lumière,Q-Park,50.72191,1.607243,450,1.00,12.20,True,"9 Rue du Docteur Douglas Aigre, 62200 Boulogne sur Mer",https://www.q-park.fr/fr-fr/villes/boulogne-sur-mer/lumi%c3%a8re/
+QP08,Nausicaa,Q-Park,50.728834,1.598658,800,1.20,16.00,True,"86 Rue de Folkestone, 62200 Boulogne sur Mer",https://www.q-park.fr/fr-fr/villes/boulogne-sur-mer/nausicaa/
+QP09,Saint Louis,Q-Park,50.725603,1.604539,408,1.00,12.20,False,"19 Rue Saint-Louis, 62200 Boulogne sur Mer",https://www.q-park.fr/fr-fr/villes/boulogne-sur-mer/saint-louis/

@@ -1,0 +1,7 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,De Oranjerie,Q-Park,51.191046,5.990299,585,2.61,21.00,True,"Achter de Oranjerie 1, 6041 JX Roermond",https://www.q-park.nl/nl-nl/parkeren/roermond/de-oranjerie/
+QP02,Roercenter,Q-Park,51.193626,5.98374,415,3.00,14.00,True,"Roersingel 13, 6041 KX Roermond",https://www.q-park.nl/nl-nl/parkeren/roermond/roercenter/
+QP03,P+R Godsweerdersingel,Q-Park,51.194729,5.993793,95,2.19,13.00,,"Godsweerdersingel, 6041 GJ Roermond",https://www.q-park.nl/nl-nl/parkeren/roermond/p-r-godsweerdersingel/
+QP04,P+R Veeladingstraat,Q-Park,51.189585,5.992162,151,2.19,13.00,,"Veeladingstraat, 6041 HW Roermond",https://www.q-park.nl/nl-nl/parkeren/roermond/p-r-veeladingstraat/
+P101,Kazerneplein,P1,51.198509,5.984995,400,1.80,6.50,True,"Maashaven 144, 6041 TB Roermond",https://www.p1.nl/parkeerplaats/parkeergarage-kazerneplein/
+P102,Stationspark,P1,51.192278,5.995532,350,1.80,6.50,True,"Maria Theresialaan 12, 6042 AL Roermond",https://www.p1.nl/parkeerplaats/parkeergarage-stationspark/

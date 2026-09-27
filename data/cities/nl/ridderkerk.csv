@@ -1,0 +1,4 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Ridderhof,Q-Park,51.868348,4.601469,224,2.22,5.00,,"Ridderhof 105, 2981 ET Ridderkerk",https://www.q-park.nl/nl-nl/parkeren/ridderkerk/ridderhof/
+QP02,Jorishof,Q-Park,51.870199,4.601328,141,2.22,7.50,,"Jorishof 92, 2981 GG Ridderkerk",https://www.q-park.nl/nl-nl/parkeren/ridderkerk/jorishof/
+IP01,Koningsplein,Interparking,51.872216,4.599101,228,1.20,5.00,True,"Klaas Katerstraat 60, 2982 XG Ridderkerk",https://www.interparking.nl/en/parkings/ridderkerk/koningsplein/

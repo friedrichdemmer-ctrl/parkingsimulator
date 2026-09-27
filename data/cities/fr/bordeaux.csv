@@ -1,0 +1,37 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Bord'eau Village,Q-Park,44.855443,-0.563571,540,3.40,32.30,False,"Hangar 15, Quai des Chartrons, 33300 Bordeaux",https://www.q-park.fr/fr-fr/villes/bordeaux/bord-eau-village/
+QP02,Auditorium Clémenceau,Q-Park,44.842231,-0.579943,379,3.60,38.20,True,"13 bis Cours Georges Clémenceau, 33000 Bordeaux",https://www.q-park.fr/fr-fr/villes/bordeaux/cl%c3%a9menceau-auditorium/
+IN01,Ars Belcier,Indigo,44.821711,-0.546865,,2.80,21.60,True,"16 Rue des Maraîchers, 33000 Bordeaux",https://www.indigoneo.fr/fr/parkings/11303/parking-ars-belcier
+IN02,Bourse Jean-Jaurès,Indigo,44.840678,-0.570529,,2.80,30.80,True,"2 Place de la Bourse, 33000 Bordeaux",https://www.indigoneo.fr/fr/parkings/23763/parking-bourse-jean-jaures
+IN03,Brienne,Indigo,44.825272,-0.548325,,2.40,26.00,True,"Rue Elvira Guerra, 33800 Bordeaux",https://www.indigoneo.fr/fr/parkings/23708/parking-brienne
+IN04,Les Bassins,Indigo,44.867918,-0.56372,,2.80,28.00,True,"Rue Lucien Faure, 33300 Bordeaux",https://www.indigoneo.fr/fr/parkings/20316/parking-les-bassins
+IN05,Meunier,Indigo,44.82887,-0.561501,,2.40,21.10,True,"Place André Meunier dit Mureine, 33800 Bordeaux",https://www.indigoneo.fr/fr/parkings/23764/parking-meunier
+IN06,P3 - Dépose Minute - Zone Premium,Indigo,44.822114,-0.555146,,8.00,46.20,False,"Pont du Guit, 33800 Bordeaux",https://www.indigoneo.fr/fr/parkings/4562/parking-p3-depose-minute-zone-premium
+IN07,P3 - Gare Saint Jean Belcier,Indigo,44.822286,-0.555133,,9.20,36.20,True,"Pont du Guit, 33800 Bordeaux",https://www.indigoneo.fr/fr/parkings/4561/parking-p3-gare-saint-jean-belcier
+IN08,P4 Gare Saint Jean Belcier,Indigo,44.822114,-0.555146,,9.20,35.00,True,"141 Rue des Terres de Borde, 33800 Bordeaux",https://www.indigoneo.fr/fr/parkings/11304/parking-p4-gare-saint-jean-belcier
+IN09,Salinières,Indigo,44.835505,-0.564995,,2.40,21.10,True,"12 Quai des Salinières, 33000 Bordeaux",https://www.indigoneo.fr/fr/parkings/23815/parking-salinieres
+IN10,Tourny,Indigo,44.843941,-0.576282,,2.80,30.30,True,"Allée de Tourny, 33000 Bordeaux",https://www.indigoneo.fr/fr/parkings/23816/parking-tourny
+MP01,8 Mai 1945,METPARK,44.8366221,-0.5843295,419,,24.00,False,"25 rue Jean Fleuret, 33000 Bordeaux",https://www.mtpk.fr/parking/parking-8-mai-1945/
+MP02,Allées de Chartres,METPARK,44.8463674,-0.5731078,467,,24.00,True,"Allées de Bristol, 33000 Bordeaux",https://www.mtpk.fr/parking/parking-allees-de-chartres/
+MP03,Alsace Lorraine,METPARK,44.8379805,-0.5691398,122,,,False,"21 Cours d'Alsace-Lorraine, 33000 Bordeaux",https://www.mtpk.fr/parking/parking-alsace-lorraine/
+MP04,Amédée Saint-Germain,METPARK,44.8193986,-0.5607375,639,,22.00,True,"3 rue des Échoppes, 33800 Bordeaux",https://www.mtpk.fr/parking/parking-amedee-saint-germain/
+MP05,Beaujon,METPARK,44.8538031,-0.592598,92,,22.00,True,"8 Rue Nicolas Beaujon, 33000 Bordeaux",https://www.mtpk.fr/parking/parking-beaujon/
+MP06,Bergonié,METPARK,44.8238959,-0.5792516,66,,22.00,False,"220 cours de l'Argonne, 33000 Bordeaux",https://www.mtpk.fr/parking/parking-bergonie/
+MP07,Bonnac,METPARK,44.8394963,-0.5830289,163,,,False,"42 Rue du Château d'Eau, 33000 Bordeaux",https://www.mtpk.fr/parking/parking-bonnac/
+MP08,Camille Jullian,METPARK,44.8391004,-0.5721681,338,3.20,29.90,False,"2 Place Camille Jullian, 33000 Bordeaux",https://www.mtpk.fr/parking/parking-camille-jullian/
+MP09,Centre Commercial Mériadeck,METPARK,44.8386611,-0.5849444,1323,,24.00,False,"Rue Révérend Père Dieuzaide, 33000 Bordeaux",https://www.mtpk.fr/parking/parking-centre-commercial-meriadeck/
+MP10,Cité Mondiale,METPARK,44.8498081,-0.5703409,823,,24.00,False,"20 Quai des Chartrons, 33000 Bordeaux",https://www.mtpk.fr/parking/parking-cite-mondiale/
+MP11,Croix de Seguey,METPARK,44.8514543,-0.5892539,47,,,False,"83 rue de la Croix de Seguey, 33000 Bordeaux",https://www.mtpk.fr/parking/parking-croix-de-seguey/
+MP12,Gambetta,METPARK,44.8400538,-0.5821143,438,,24.00,True,"Rue Edmond Michelet, 33000 Bordeaux",https://www.mtpk.fr/parking/parking-gambetta/
+MP13,Grand Parc,METPARK,44.863271,-0.5785006,341,,22.00,True,"36 Rue François Lévêque, 33300 Bordeaux",https://www.mtpk.fr/parking/parking-grand-parc/
+MP14,Grands Hommes,METPARK,44.842916,-0.5765355,410,,24.00,False,"3 Place des Grands Hommes, 33000 Bordeaux",https://www.mtpk.fr/parking/parking-grands-hommes/
+MP15,Lhôte,METPARK,44.8451955,-0.5786592,107,,,False,"5-7 Rue Lhôte, 33000 Bordeaux",https://www.mtpk.fr/parking/parking-lhote/
+MP16,Mégarama Bordeaux Bastide,METPARK,44.8433444,-0.5585239,526,,,False,"Allée Serr, 33100 Bordeaux",https://www.mtpk.fr/parking/parking-megarama-bordeaux-bastide/
+MP17,Pey Berland,METPARK,44.8377331,-0.5785458,638,,24.00,False,"Place Pey Berland, 33000 Bordeaux",https://www.mtpk.fr/parking/parking-pey-berland/
+MP18,Porte de Bordeaux,METPARK,44.8332602,-0.5966999,707,,22.00,False,"48 rue Général de Larminat, 33000 Bordeaux",https://www.mtpk.fr/parking/parking-porte-de-bordeaux/
+MP19,République,METPARK,44.8348879,-0.5798761,361,,24.00,True,"Place de la République, 33000 Bordeaux",https://www.mtpk.fr/parking/parking-republique/
+MP20,Rue de Bègles,METPARK,44.8247016,-0.5663041,61,,,False,"120 rue de Bègles, 33000 Bordeaux",https://www.mtpk.fr/parking/parking-rue-de-begles/
+MP21,Saint-Jean Paludate,METPARK,44.8296481,-0.5553032,585,,22.00,True,"Quai de Paludate, 33800 Bordeaux",https://www.mtpk.fr/parking/parking-saint-jean-paludate/
+MP22,Gare Saint Jean,METPARK,44.8250867,-0.5574036,561,,32.00,False,"36 Rue Charles Domercq, 33800 Bordeaux",https://www.mtpk.fr/parking/parking-saint-jean/
+MP23,Victoire,METPARK,44.831947,-0.5720991,470,,24.00,True,"30 Rue de Candale, 33000 Bordeaux",https://www.mtpk.fr/parking/parking-victoire/
+MP24,Victor Hugo,METPARK,44.8354257,-0.5724775,642,,24.00,False,"Place de la Ferme Richemont, 33000 Bordeaux",https://www.mtpk.fr/parking/parking-victor-hugo/

@@ -1,0 +1,16 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Eden Walk,Q-Park,51.409358,-0.305095,700,2.20,22.00,False,"Union Street, Kingston upon Thames, KT1 1BL",https://www.q-park.co.uk/en-gb/cities/kingston-upon-thames/eden-walk/
+NCP01,Kingston Fairfield,NCP,51.409478,-0.301447,316,2.50,15.00,False,"Fairfield, Lady Booth Road, Kingston, Surrey, KT1 2PR",https://www.ncp.co.uk/find-a-car-park/car-parks/kingston-fairfield/
+NCP02,Kingston Lady Booth Road,NCP,51.4093,-0.302292,10,,11.95,False,"5 Lady Booth Road, Kingston Upon Thames, KT1 1EL",https://www.ncp.co.uk/find-a-car-park/car-parks/kingston-lady-booth-road/
+KC01,Ashdown,Kingston Council,51.4088657,-0.3026478,168,3.30,,False,"Ashdown Road, Kingston upon Thames, KT1 2NH",https://kingston.gov.uk/parking/car-parks/ashdown
+KC02,Bittoms,Kingston Council,51.4068911,-0.3069990,875,2.70,16.00,True,"The Bittoms, Kingston upon Thames, KT1 2AG",https://kingston.gov.uk/parking/car-parks/bittoms
+KC03,Blagdon Road,Kingston Council,51.4004751,-0.2538277,108,1.00,,True,"Blagdon Road, New Malden, KT3 4AE",https://kingston.gov.uk/parking/car-parks/blagdon-road
+KC04,Canbury Place,Kingston Council,51.4141610,-0.3013051,106,2.70,16.00,False,"Walter Street, Kingston upon Thames, KT2 5AA",https://kingston.gov.uk/parking/car-parks/canbury-place
+KC05,Cattle Market - surface,Kingston Council,51.4104863,-0.2996608,109,3.30,,False,"Fairfield North, Kingston upon Thames, KT1 2QY",https://kingston.gov.uk/parking/car-parks/cattle-market-surface
+KC06,Guildhall - Saturdays only,Kingston Council,51.4087096,-0.3064922,61,2.70,,False,"Guildhall, High Street, Kingston upon Thames, KT1 1EU",https://kingston.gov.uk/parking/car-parks/guildhall-saturdays-only
+KC07,Hook Community Centre,Kingston Council,51.3568338,-0.2747400,18,1.40,,True,"Hook Road, Chessington, KT9 1AA",https://kingston.gov.uk/parking/car-parks/hook-community-centre
+KC08,Malden Centre,Kingston Council,51.4001682,-0.2535002,83,2.10,,False,"Cocks Crescent, New Malden, KT3 4AF",https://kingston.gov.uk/parking/car-parks/malden-centre
+KC09,Neville House,Kingston Council,51.4100721,-0.3027531,32,3.30,,False,"55 Eden Street, Kingston upon Thames, KT1 1BW",https://kingston.gov.uk/parking/car-parks/neville-house
+KC10,Rose,Kingston Council,51.4071427,-0.3065152,417,2.70,16.00,True,"Kent Road, Kingston upon Thames, KT1 2NB",https://kingston.gov.uk/parking/car-parks/rose
+KC11,St Philips Road,Kingston Council,51.393639,-0.306724,64,1.60,,False,"St Philips Road, Surbiton, KT6 4QL",https://kingston.gov.uk/parking/car-parks/st-philips-road
+KC12,Thameside,Kingston Council,51.4096275,-0.3062621,32,2.70,,False,"Kingston upon Thames, KT1 1PL",https://kingston.gov.uk/parking/car-parks/thameside

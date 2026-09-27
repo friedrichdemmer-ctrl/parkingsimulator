@@ -1,0 +1,5 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+GN01,Cityplaza,Gemeente Nieuwegein,52.029319,5.082718,770,3.30,18.80,,"Bankstede, 3431 HN Nieuwegein",https://nieuwegein.parkeerservice.nl/parkeren-in-garages/parkeergarages/cityplaza/
+GN02,Stadshuis,Gemeente Nieuwegein,52.026912,5.085356,530,3.30,18.80,True,"Tinnegieterstede 1, 3431 HW Nieuwegein",https://nieuwegein.parkeerservice.nl/parkeren-in-garages/parkeergarages/stadshuis/
+GN03,Theater,Gemeente Nieuwegein,52.026940,5.084043,592,3.30,18.80,True,"Nachtwachtstede, 3431 HL Nieuwegein",https://nieuwegein.parkeerservice.nl/parkeren-in-garages/parkeergarages/theater/
+QP01,St. Antonius Ziekenhuis,Q-Park,52.024834,5.081567,1450,2.81,10.00,True,"Koekoekslaan 1, 3435 CM Nieuwegein",https://www.q-park.nl/nl-nl/parkeren/nieuwegein/st-antonius-ziekenhuis/

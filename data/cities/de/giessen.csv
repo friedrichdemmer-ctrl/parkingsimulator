@@ -1,0 +1,16 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Westanlage,Q-Park,50.58568,8.6683,565,2.0,6.0,true,"Westanlage 44, 35390 Gießen",https://www.q-park.de/de-de/staedte/gie%C3%9Fen/westanlage/
+CP01,Parkhaus Selters Tor,Contipark,50.581864,8.67192,153,2.5,15.0,true,"Südanlage 26, 35390 Gießen",https://www.contipark.de/de/parken/giessen/parkhaus-selters-tor/
+DBP01,Parkhaus Am Bahnhof P4,DB BahnPark,50.580024,8.66525,247,2.0,7.5,true,"An der Alten Post 6, 35390 Gießen",https://www.contipark.de/de/parken/giessen/parkhaus-am-bahnhof-p4/
+DBP02,Parkhaus Bahnhof Lahnstraße P2,DB BahnPark,50.581377,8.662235,420,2.0,5.5,true,"Lahnstraße, 35398 Gießen",https://www.contipark.de/de/parken/giessen/parkhaus-bahnhof-lahnstrasse-p2/
+DBP03,Parkhaus Lahnstr. P1 Arbeitsamt,DB BahnPark,50.581462,8.663437,451,2.0,5.5,true,"Lahnstraße, 35390 Gießen",https://www.contipark.de/de/parken/giessen/parkhaus-bahnhof-lahnstrasse-p1/
+DBP04,Parkplatz Bahnhof Lahnstraße P3,DB BahnPark,50.580662,8.661355,65,2.0,7.0,,"Lahnstraße, 35398 Gießen",https://www.contipark.de/de/parken/giessen/parkplatz-bahnhof-lahnstrasse-p3/
+APC01,Parkhaus Neustädter,APCOA,50.588063,8.67054312,1030,1.7,17.0,,"Neustadt 28, 35390 Gießen",https://www.apcoa.de/einmal-parken/standorte/giessen/neustaedter
+WEI01,Parkhaus Am Kino,WEIMER Facility Management,50.5850837,8.6815559,387,1.0,5.0,,"Am Alten Gaswerk 5, 35390 Gießen",https://www.weimer-fm.de/parkhaus-am-kino/
+DP01,Parkhaus Dern Passage,Projektgesellschaft Am Kiesacker mbH,50.5827859,8.6687301,199,1.5,6.0,,"Westanlage 21, 35390 Gießen",https://www.giessen.de/Kurzmen%C3%BC/Adressausgabe/Parkhaus-Dern-Passage.php?ModID=9&FID=1894.25.1&La=1&mNavID=1894.57&object=tx%7C2874.1.1&sNavID=1894.57&redir=1
+GAL01,Parkhaus Karstadt (GALERIA),GALERIA Karstadt Kaufhof,50.5836661,8.6706406,860,1.5,,,"Reichensand 10, 35390 Gießen",https://www.giessen.de/Leben/Verkehr-und-Mobilit%C3%A4t/Parken/index.php?object=tx%2C2874.1&ModID=9&FID=1894.35.1&NavID=1894.57&La=1
+LC01,Parkhaus Liebig-Center,Parkhaus Liebig-Center GmbH,50.583575,8.6672196,380,1.3,,,"Flutgraben 4, 35390 Gießen",https://www.giessen.de/Kurzmen%C3%BC/Adressausgabe/Parkhaus-Liebig-Center.php?ModID=9&FID=1894.34.1&mNavID=1894.10&object=tx%7C2874.1.1&sNavID=1894.57&redir=1
+RH01,Tiefgarage Rathaus,Stadt Gießen,50.5835047,8.6795099,250,1.0,5.0,true,"Berliner Platz 1, 35390 Gießen",https://www.giessen.de/Rathaus/Tiefgarage-und-Ladestationen.php?object=tx%2C684.14789.1
+THM01,Parkhaus Ringallee/THM,THM Campus,50.5888055,8.6833461,36,,,,"Ringallee 6, 35396 Gießen",https://www.giessen.de/Leben/Verkehr-und-Mobilit%C3%A4t/Parken/index.php?object=tx%2C2874.1&ModID=9&FID=684.10502.1&NavID=1894.57&La=1
+SPK01,Tiefgarage Sparkasse (closed for construction),Sparkasse Gießen,50.5843744,8.6765868,200,,,,"Johannesstraße 5, 35390 Gießen",https://www.giessen.de/Leben/Verkehr-und-Mobilit%C3%A4t/Parken/index.php?object=tx%2C2874.1&ModID=9&FID=2874.375.1&NavID=1894.57&La=1
+FUHR01,J.H. Fuhr Parkhaus,J.H. Fuhr GmbH & Co. KG,50.5851322,8.6759212,,,,,"Weidengasse 15, 35390 Gießen",https://www.fuhr.info/parken/

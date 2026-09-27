@@ -1,0 +1,6 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Christian Petersens Gård,Q-Park,55.443386,11.793142,136,5.00,50.00,,"Dagmarsgade/Sct. Hans Gade, 4100 Ringsted",https://www.q-park.dk/da/parkering/ringsted/christian-petersens-g%c3%a5rd/
+QP02,Torvet 6,Q-Park,55.445033,11.790062,35,8.00,,,"Torvet 6, 4100 Ringsted",https://www.q-park.dk/da/parkering/ringsted/torvet-6/
+QP03,Vestervej 2,Q-Park,55.439315,11.786331,10,10.00,,,"Vestervej 2, 4100 Ringsted",https://www.q-park.dk/da/parkering/ringsted/vestervej-2/
+AP01,Ringsted Centret,APCOA,55.446888,11.788826,250,10.00,240.00,,"Nørregade 13, 4100 Ringsted",https://www.apcoa.dk/find-en-p-plads/lokationer/ringsted/ringsted-centret
+AP02,Nørregade 27,APCOA,55.44767798,11.78771964,23,10.00,240.00,,"Nørregade 27, 4100 Ringsted",https://www.apcoa.dk/find-en-p-plads/lokationer/ringsted/noerregade-27

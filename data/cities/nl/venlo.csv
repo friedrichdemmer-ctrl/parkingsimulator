@@ -1,0 +1,8 @@
+id,name,operator,lat,lon,capacity,hourly_rate,daily_cap,has_ev,address,source_url
+QP01,Arsenaal,Q-Park,51.36927,6.17215,260,3.04,15.45,True,"Nassaustraat 87, 5911BT Venlo",https://www.q-park.nl/nl-nl/parkeren/venlo/arsenaal/
+QP02,Centrum Maasboulevard,Q-Park,51.36902,6.164649,535,,18.00,True,"Prinsessesingel 5, 5911 HS Venlo",https://www.q-park.nl/nl-nl/parkeren/venlo/centrum-maasboulevard/
+QP03,Roermondsepoort,Q-Park,51.368422,6.165186,528,3.04,15.45,True,"Prinsessesingel 28, 5911 HT Venlo",https://www.q-park.nl/nl-nl/parkeren/venlo/roermondsepoort/
+QP04,Maaswaard,Q-Park,51.367995,6.162443,394,3.04,15.45,True,"Prinsessesingel 4, 5912 AZ Venlo",https://www.q-park.nl/nl-nl/parkeren/venlo/maaswaard/
+QP05,Nolensplein,Q-Park,51.372832,6.1711,745,3.04,15.45,True,"Mgr. Nolensplein 50, 5911 GG Venlo",https://www.q-park.nl/nl-nl/parkeren/venlo/nolensplein/
+QP06,Blok van Gendt,Q-Park,51.373596,6.171565,200,3.04,15.45,True,"Valuasstraat 26 a, 5911EN Venlo",https://www.q-park.nl/nl-nl/parkeren/venlo/blok-van-gendt/
+QP07,P+R Stationsplein,Q-Park,51.364439,6.173319,110,2.39,11.50,,"Kaldenkerkerweg, 5913 AA Venlo",https://www.q-park.nl/nl-nl/parkeren/venlo/p-r-stationsplein/
