@@ -532,7 +532,7 @@ if color_mode == "By operator":
 
     background = garages_df[~garages_df["operator"].isin(selected_operators)]
     if len(background):
-        fig_map.add_trace(go.Scattermapbox(
+        fig_map.add_trace(go.Scattermap(
             lat=background["lat"], lon=background["lon"],
             mode="markers",
             marker=dict(size=background["_size"], color=UNSELECTED_COLOR, opacity=0.8),
@@ -547,7 +547,7 @@ if color_mode == "By operator":
 
     for op in selected_operators:
         sub = garages_df[garages_df["operator"] == op]
-        fig_map.add_trace(go.Scattermapbox(
+        fig_map.add_trace(go.Scattermap(
             lat=sub["lat"], lon=sub["lon"],
             mode="markers",
             marker=dict(size=sub["_size"], color=operator_colors.get(op, "#888888"), opacity=0.9),
@@ -610,7 +610,7 @@ else:
     target["_neighbor_count"] = neighbor_counts
 
     background = work_df[work_df["operator"] != single_operator]
-    fig_map.add_trace(go.Scattermapbox(
+    fig_map.add_trace(go.Scattermap(
         lat=background["lat"], lon=background["lon"],
         mode="markers",
         marker=dict(size=background["_size"], color=UNSELECTED_COLOR, opacity=0.8),
@@ -626,7 +626,7 @@ else:
     has_data = target[target["_delta"].notna()]
 
     if len(no_data):
-        fig_map.add_trace(go.Scattermapbox(
+        fig_map.add_trace(go.Scattermap(
             lat=no_data["lat"], lon=no_data["lon"],
             mode="markers",
             marker=dict(size=no_data["_size"], color="#F5A623", opacity=0.9),
@@ -647,7 +647,7 @@ else:
         # unevenly-spaced custom colorscales, so colours are precomputed per-point
         # above (value_to_hex) and passed as literal hex strings here. This dummy,
         # invisible trace exists purely to draw a matching colorbar legend.
-        fig_map.add_trace(go.Scattermapbox(
+        fig_map.add_trace(go.Scattermap(
             lat=[has_data["lat"].iloc[0]], lon=[has_data["lon"].iloc[0]],
             mode="markers",
             marker=dict(
@@ -667,7 +667,7 @@ else:
             showlegend=False,
         ))
 
-        fig_map.add_trace(go.Scattermapbox(
+        fig_map.add_trace(go.Scattermap(
             lat=has_data["lat"], lon=has_data["lon"],
             mode="markers",
             marker=dict(size=has_data["_size"], color=marker_colors, opacity=0.95),
@@ -697,8 +697,8 @@ else:
     )
 
 fig_map.update_layout(
-    mapbox_style="open-street-map",
-    mapbox=dict(center=dict(lat=garages_df["lat"].mean(), lon=garages_df["lon"].mean()), zoom=11.5),
+    map_style="open-street-map",
+    map=dict(center=dict(lat=garages_df["lat"].mean(), lon=garages_df["lon"].mean()), zoom=11.5),
     height=560,
     margin={"r": 0, "t": 0, "l": 0, "b": 0},
     legend=dict(orientation="h", yanchor="bottom", y=1.01, x=0),
